@@ -88,6 +88,9 @@ A package includes:
 - `workspace/skills/`
 - `config/`
 
+Clawin packages are intentionally **self-contained**.
+If an agent depends on skills to do its job well, those required skills stay bundled with the package even when similar capabilities appear in other agents. That overlap is treated as part of the agent's role-specific identity, not as a catalog mistake.
+
 Formal contract:
 - [docs/shareable-folder-package.md](./docs/shareable-folder-package.md)
 

@@ -38,6 +38,7 @@ categories/<industry-id>/agents/<role-family-key>/<agentId>/
 - Treat `~/.openclaw/agents/<agentId>/` as the target install path.
 - Bundle each required skill under `workspace/skills/` so the package remains self-contained.
 - Do not require a separate global skill copy step for bundled skills.
+- Accept repeated skill families across packages when they reflect role-specific behavior, depth, or workflow differences.
 - Keep secrets out of the package.
 
 ## Config Rules

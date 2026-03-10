@@ -65,3 +65,4 @@ Open a chat with the installed agent and give it a task that matches its role.
 - Do not commit your local secrets back into this repository.
 - These packages are meant to be install-ready folders, not standalone apps.
 - Bundled agent-specific skills live under `workspace/skills/` when included.
+- Clawin packages intentionally keep required skills inside each agent package so a single copied folder remains usable on its own.
