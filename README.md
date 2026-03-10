@@ -110,6 +110,17 @@ Clawin uses a **private-source / public-output** split:
 
 That keeps the public catalog clean while allowing the private production system to continue evolving.
 
+## License
+
+Repository-level Clawin-authored catalog materials are released under **Apache License 2.0**.
+
+Because some published packages include bundled skills and embedded upstream components, also read:
+- [LICENSE](./LICENSE)
+- [NOTICE](./NOTICE)
+- [THIRD_PARTY.md](./THIRD_PARTY.md)
+
+If a bundled component ships with its own license file or origin metadata, treat that component according to its own terms.
+
 ## Notes
 
 - Secrets are intentionally excluded.

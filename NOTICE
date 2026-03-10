@@ -1,0 +1,11 @@
+Clawin Agents
+Copyright 2026 Clawin contributors
+
+This repository contains Clawin-authored public catalog materials released under the Apache License 2.0.
+
+This repository may also include bundled third-party or upstream-derived components inside published agent packages, especially under `categories/.../workspace/skills/`.
+Those components may carry their own license files, notices, or origin metadata and should be evaluated according to their own terms.
+
+See also:
+- LICENSE
+- THIRD_PARTY.md
