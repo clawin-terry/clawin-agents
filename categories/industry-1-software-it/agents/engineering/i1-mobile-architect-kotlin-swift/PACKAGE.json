@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i1-mobile-architect-kotlin-swift",
+    "roleTitle":  "Mobile Architect (Kotlin/Swift)",
+    "personaSummary":  "Defines mobile architecture standards, platform foundations, and long-term maintainability across Kotlin and Swift client systems.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i1-mobile-architect-kotlin-swift",
+                    "workspace":  "~/.openclaw/agents/i1-mobile-architect-kotlin-swift/workspace",
+                    "agentDir":  "~/.openclaw/agents/i1-mobile-architect-kotlin-swift/agent",
+                    "configEntry":  "config/openclaw.agent.i1-mobile-architect-kotlin-swift.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i1-mobile-architect-kotlin-swift.snippet.json"
+                }
+}

@@ -1,0 +1,13 @@
+{
+    "id":  "i1-audio-video-engineer-c-cpp",
+    "default":  false,
+    "name":  "Audio and Video Engineer (C/C++)",
+    "workspace":  "~/.openclaw/agents/i1-audio-video-engineer-c-cpp/workspace",
+    "agentDir":  "~/.openclaw/agents/i1-audio-video-engineer-c-cpp/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

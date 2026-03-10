@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i1-ios-engineer-swift-objc",
+    "roleTitle":  "iOS Engineer (Swift/Objective-C)",
+    "personaSummary":  "Builds iOS applications with Swift and Objective-C, with attention to maintainability, UX quality, and release reliability.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i1-ios-engineer-swift-objc",
+                    "workspace":  "~/.openclaw/agents/i1-ios-engineer-swift-objc/workspace",
+                    "agentDir":  "~/.openclaw/agents/i1-ios-engineer-swift-objc/agent",
+                    "configEntry":  "config/openclaw.agent.i1-ios-engineer-swift-objc.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i1-ios-engineer-swift-objc.snippet.json"
+                }
+}

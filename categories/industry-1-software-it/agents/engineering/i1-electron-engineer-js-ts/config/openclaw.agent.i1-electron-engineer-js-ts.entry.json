@@ -1,0 +1,13 @@
+{
+    "id":  "i1-electron-engineer-js-ts",
+    "default":  false,
+    "name":  "Electron Engineer (JS/TS)",
+    "workspace":  "~/.openclaw/agents/i1-electron-engineer-js-ts/workspace",
+    "agentDir":  "~/.openclaw/agents/i1-electron-engineer-js-ts/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

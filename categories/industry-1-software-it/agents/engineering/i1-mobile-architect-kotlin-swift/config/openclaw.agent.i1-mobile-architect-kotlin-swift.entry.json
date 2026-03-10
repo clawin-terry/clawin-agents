@@ -1,0 +1,13 @@
+{
+    "id":  "i1-mobile-architect-kotlin-swift",
+    "default":  false,
+    "name":  "Mobile Architect (Kotlin/Swift)",
+    "workspace":  "~/.openclaw/agents/i1-mobile-architect-kotlin-swift/workspace",
+    "agentDir":  "~/.openclaw/agents/i1-mobile-architect-kotlin-swift/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}
