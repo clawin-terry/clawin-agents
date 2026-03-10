@@ -1,29 +1,72 @@
 # clawin-agents
 
-A public catalog of **install-ready OpenClaw agents** organized by industry and role.
+**Install-ready OpenClaw agents, organized by industry and role.**
 
-## What this repository contains
+This repository is the **public output catalog** for Clawin.
+It publishes curated agent packages that can be copied into an OpenClaw installation and used directly after local configuration.
 
-This repository is for **published outputs only**.
-It contains release-ready agent folder packages that can be copied into an OpenClaw installation and used directly after local configuration.
+## What this repo is for
 
-## What this repository does not contain
+Use this repository if you want to:
+- browse ready-to-install OpenClaw agents by role
+- pick a specialist agent instead of starting from a blank workspace
+- copy one package into your own OpenClaw setup and start using it quickly
 
-This repository does **not** include the private production pipeline used to generate these agents.
+## What this repo is not
+
+This repository does **not** include the private production pipeline.
 It does not contain:
-- raw source role documents
-- normalization scripts
-- review queues
-- internal run logs
-- private production specs
+- raw role-source documents
+- normalization or generation scripts
+- internal review queues
+- private run logs or private specs
+- production environment details
 
-## Repository layout
+## Current public release
 
-```text
-categories/<industry-id>/agents/<role-family-key>/<agentId>/
-```
+Current published slice:
+- **1 industry**: `industry-1-software-it`
+- **2 role families**:
+  - `engineering` (**19** agents)
+  - `platform-engineering` (**8** agents)
+- **27 total install-ready agent packages**
 
-Each agent package includes:
+## Good starting points
+
+If you want a quick place to start, these are strong entry points:
+
+- **Frontend Engineer (JS/TS)**
+  - Path: `categories/industry-1-software-it/agents/engineering/i1-frontend-engineer-js-ts/`
+  - Good for: web UI implementation, component work, frontend delivery
+
+- **Backend Engineer (Java)**
+  - Path: `categories/industry-1-software-it/agents/engineering/i1-backend-engineer-java/`
+  - Good for: backend services, APIs, Java-centric delivery
+
+- **Kubernetes Platform Engineer (Go)**
+  - Path: `categories/industry-1-software-it/agents/platform-engineering/i1-kubernetes-platform-engineer-go/`
+  - Good for: platform operations, Kubernetes-heavy engineering environments
+
+See the full catalog in:
+- `CATALOG.md`
+
+## Install in a few minutes
+
+1. Pick one agent folder under `categories/<industry>/agents/<family>/<agentId>/`
+2. Copy that folder into:
+   - `~/.openclaw/agents/<agentId>/`
+3. Merge the included config entry or config snippet into your OpenClaw config
+4. Fill your local provider secrets and environment-specific settings
+5. Reload OpenClaw
+6. Start chatting with the installed agent
+
+Detailed instructions:
+- `INSTALL.md`
+
+## Package contract
+
+Each published package is expected to be a directly shareable agent folder.
+A package includes:
 - `README.md`
 - `INSTALL.md`
 - `PACKAGE.json`
@@ -31,39 +74,31 @@ Each agent package includes:
 - `workspace/skills/`
 - `config/`
 
-## Install model
-
-Install an agent by:
-1. choosing an agent folder from `categories/...`
-2. copying that folder into `~/.openclaw/agents/<agentId>/`
-3. merging the provided config entry or snippet into your OpenClaw config
-4. filling local provider secrets and routing choices
-5. reloading OpenClaw
-6. starting a chat with that agent
-
-See:
-- `INSTALL.md`
+Formal contract:
 - `docs/shareable-folder-package.md`
-- `CATALOG.md`
 
-## Current public slice
+## Repository layout
 
-Current published slice:
-- `industry-1-software-it`
-- role families:
-  - `engineering`
-  - `platform-engineering`
+```text
+categories/<industry-id>/agents/<role-family-key>/<agentId>/
+```
+
+This repository intentionally stays simple:
+- `categories/` — public install-ready agent packages
+- `docs/` — public packaging contract
+- top-level docs — install and catalog navigation
 
 ## Publishing model
 
-This repository should grow by publishing curated agent outputs from the private Clawin production repo.
-Changes here should stay focused on:
-- install-ready agent packages
-- public-facing docs
-- public catalog organization
+Clawin uses a **private-source / public-output** split:
+- private repo: production pipeline, specs, review artifacts, generation workflow
+- this public repo: curated, install-ready agent packages only
+
+That keeps the public catalog clean while allowing the private production system to continue evolving.
 
 ## Notes
 
 - Secrets are intentionally excluded.
 - Users must provide their own local provider configuration.
-- This repository is designed for direct OpenClaw use, not as a standalone application.
+- These packages are designed for direct OpenClaw use, not as standalone apps.
+- Future releases should continue expanding this catalog with curated agent outputs from the private source repository.
