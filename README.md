@@ -5,6 +5,14 @@
 This repository is the **public output catalog** for Clawin.
 It publishes curated agent packages that can be copied into an OpenClaw installation and used directly after local configuration.
 
+## Quick links
+
+- [Install guide](./INSTALL.md)
+- [Full catalog](./CATALOG.md)
+- [Package contract](./docs/shareable-folder-package.md)
+- [Engineering family index](./categories/industry-1-software-it/agents/engineering/README.md)
+- [Platform engineering family index](./categories/industry-1-software-it/agents/platform-engineering/README.md)
+
 ## What this repo is for
 
 Use this repository if you want to:
@@ -31,24 +39,30 @@ Current published slice:
   - `platform-engineering` (**8** agents)
 - **27 total install-ready agent packages**
 
-## Good starting points
+## Featured starting points
 
 If you want a quick place to start, these are strong entry points:
 
-- **Frontend Engineer (JS/TS)**
-  - Path: `categories/industry-1-software-it/agents/engineering/i1-frontend-engineer-js-ts/`
-  - Good for: web UI implementation, component work, frontend delivery
+### Frontend Engineer (JS/TS)
+- Path: `categories/industry-1-software-it/agents/engineering/i1-frontend-engineer-js-ts/`
+- Direct link: [open package](./categories/industry-1-software-it/agents/engineering/i1-frontend-engineer-js-ts/)
+- Good for: web UI implementation, component work, frontend delivery
+- Bundled skills: `coding-agent`, `ui-ux-pro-max`, `frontend-design`
 
-- **Backend Engineer (Java)**
-  - Path: `categories/industry-1-software-it/agents/engineering/i1-backend-engineer-java/`
-  - Good for: backend services, APIs, Java-centric delivery
+### Backend Engineer (Java)
+- Path: `categories/industry-1-software-it/agents/engineering/i1-backend-engineer-java/`
+- Direct link: [open package](./categories/industry-1-software-it/agents/engineering/i1-backend-engineer-java/)
+- Good for: backend services, APIs, Java-centric delivery
+- Bundled skills: `coding-agent`
 
-- **Kubernetes Platform Engineer (Go)**
-  - Path: `categories/industry-1-software-it/agents/platform-engineering/i1-kubernetes-platform-engineer-go/`
-  - Good for: platform operations, Kubernetes-heavy engineering environments
+### Kubernetes Platform Engineer (Go)
+- Path: `categories/industry-1-software-it/agents/platform-engineering/i1-kubernetes-platform-engineer-go/`
+- Direct link: [open package](./categories/industry-1-software-it/agents/platform-engineering/i1-kubernetes-platform-engineer-go/)
+- Good for: platform operations, Kubernetes-heavy engineering environments
+- Bundled skills: `coding-agent`, `healthcheck`
 
 See the full catalog in:
-- `CATALOG.md`
+- [CATALOG.md](./CATALOG.md)
 
 ## Install in a few minutes
 
@@ -61,7 +75,7 @@ See the full catalog in:
 6. Start chatting with the installed agent
 
 Detailed instructions:
-- `INSTALL.md`
+- [INSTALL.md](./INSTALL.md)
 
 ## Package contract
 
@@ -75,7 +89,7 @@ A package includes:
 - `config/`
 
 Formal contract:
-- `docs/shareable-folder-package.md`
+- [docs/shareable-folder-package.md](./docs/shareable-folder-package.md)
 
 ## Repository layout
 
