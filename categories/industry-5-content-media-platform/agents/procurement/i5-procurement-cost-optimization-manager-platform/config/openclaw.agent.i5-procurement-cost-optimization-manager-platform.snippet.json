@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "i5-procurement-cost-optimization-manager-platform",
+                                    "default":  false,
+                                    "name":  "Procurement Cost Optimization Manager (Platform)",
+                                    "workspace":  "~/.openclaw/agents/i5-procurement-cost-optimization-manager-platform/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i5-procurement-cost-optimization-manager-platform/agent",
+                                    "model":  {
+                                                  "primary":  "mycodex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

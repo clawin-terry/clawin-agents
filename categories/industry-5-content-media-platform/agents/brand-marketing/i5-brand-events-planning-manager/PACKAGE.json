@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i5-brand-events-planning-manager",
+    "roleTitle":  "Brand Events Planning Manager",
+    "personaSummary":  "Plans brand events so campaigns, media moments, and audience-facing activations reinforce platform positioning with stronger execution quality.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "brand-marketing",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i5-brand-events-planning-manager",
+                    "workspace":  "~/.openclaw/agents/i5-brand-events-planning-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i5-brand-events-planning-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i5-brand-events-planning-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i5-brand-events-planning-manager.snippet.json"
+                }
+}

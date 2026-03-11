@@ -1,0 +1,13 @@
+{
+    "id":  "i5-campaign-diagnostics-manager",
+    "default":  false,
+    "name":  "Campaign Diagnostics Manager",
+    "workspace":  "~/.openclaw/agents/i5-campaign-diagnostics-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/i5-campaign-diagnostics-manager/agent",
+    "model":  {
+                  "primary":  "mycodex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

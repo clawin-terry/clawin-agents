@@ -1,0 +1,14 @@
+# membership-operations
+
+Install-ready membership-operations-focused OpenClaw agents for `industry-5-content-media-platform`.
+
+## Included agents
+
+- [i5-benefits-and-customer-service-coordination-manager](./i5-benefits-and-customer-service-coordination-manager/) — Benefits and Customer Service Coordination Manager
+- [i5-renewal-and-churn-governance-manager](./i5-renewal-and-churn-governance-manager/) — Renewal and Churn Governance Manager
+
+## Notes
+
+- These packages are public outputs only.
+- Each folder is intended to be directly installable into an OpenClaw setup.
+- See the repository-level install guide in the repo root.

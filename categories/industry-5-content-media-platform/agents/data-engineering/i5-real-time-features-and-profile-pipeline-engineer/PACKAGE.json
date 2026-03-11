@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i5-real-time-features-and-profile-pipeline-engineer",
+    "roleTitle":  "Real-Time Features and Profile Pipeline Engineer",
+    "personaSummary":  "Builds real-time feature and profile pipelines so recommendation, growth, and safety systems receive fresher behavioral signals with dependable latency.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "data-engineering",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i5-real-time-features-and-profile-pipeline-engineer",
+                    "workspace":  "~/.openclaw/agents/i5-real-time-features-and-profile-pipeline-engineer/workspace",
+                    "agentDir":  "~/.openclaw/agents/i5-real-time-features-and-profile-pipeline-engineer/agent",
+                    "configEntry":  "config/openclaw.agent.i5-real-time-features-and-profile-pipeline-engineer.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i5-real-time-features-and-profile-pipeline-engineer.snippet.json"
+                }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i5-performance-manager-platform",
+    "roleTitle":  "Performance Manager (Platform)",
+    "personaSummary":  "Runs performance management so goal setting, evaluation cycles, and talent review decisions stay aligned with platform strategy and organizational standards.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "compensation-benefits-performance",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i5-performance-manager-platform",
+                    "workspace":  "~/.openclaw/agents/i5-performance-manager-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/i5-performance-manager-platform/agent",
+                    "configEntry":  "config/openclaw.agent.i5-performance-manager-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i5-performance-manager-platform.snippet.json"
+                }
+}

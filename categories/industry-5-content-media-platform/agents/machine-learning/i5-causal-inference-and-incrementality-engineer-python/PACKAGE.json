@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i5-causal-inference-and-incrementality-engineer-python",
+    "roleTitle":  "Causal Inference and Incrementality Engineer (Python)",
+    "personaSummary":  "Builds causal inference and incrementality methods in Python so experimentation, attribution, and strategy decisions can rely on stronger evidence of impact.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "machine-learning",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i5-causal-inference-and-incrementality-engineer-python",
+                    "workspace":  "~/.openclaw/agents/i5-causal-inference-and-incrementality-engineer-python/workspace",
+                    "agentDir":  "~/.openclaw/agents/i5-causal-inference-and-incrementality-engineer-python/agent",
+                    "configEntry":  "config/openclaw.agent.i5-causal-inference-and-incrementality-engineer-python.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i5-causal-inference-and-incrementality-engineer-python.snippet.json"
+                }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i5-promotions-and-major-campaign-operations-manager",
+    "roleTitle":  "Promotions and Major Campaign Operations Manager",
+    "personaSummary":  "Leads promotions and major campaign operations so tentpole commerce events launch on time, coordinate cross-functional execution, and hit conversion targets.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "ecommerce-operations",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i5-promotions-and-major-campaign-operations-manager",
+                    "workspace":  "~/.openclaw/agents/i5-promotions-and-major-campaign-operations-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i5-promotions-and-major-campaign-operations-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i5-promotions-and-major-campaign-operations-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i5-promotions-and-major-campaign-operations-manager.snippet.json"
+                }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i5-brand-strategy-manager",
+    "roleTitle":  "Brand Strategy Manager",
+    "personaSummary":  "Owns brand strategy so the platform\u0027s positioning, audience narrative, and commercial reputation stay coherent across major campaigns and market moments.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "brand-marketing",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i5-brand-strategy-manager",
+                    "workspace":  "~/.openclaw/agents/i5-brand-strategy-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i5-brand-strategy-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i5-brand-strategy-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i5-brand-strategy-manager.snippet.json"
+                }
+}

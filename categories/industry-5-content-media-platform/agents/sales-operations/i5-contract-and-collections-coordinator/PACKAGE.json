@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i5-contract-and-collections-coordinator",
+    "roleTitle":  "Contract and Collections Coordinator",
+    "personaSummary":  "Coordinates contracts and collections so advertiser deals move through signature, billing, and payment follow-up with fewer operational gaps.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "sales-operations",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i5-contract-and-collections-coordinator",
+                    "workspace":  "~/.openclaw/agents/i5-contract-and-collections-coordinator/workspace",
+                    "agentDir":  "~/.openclaw/agents/i5-contract-and-collections-coordinator/agent",
+                    "configEntry":  "config/openclaw.agent.i5-contract-and-collections-coordinator.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i5-contract-and-collections-coordinator.snippet.json"
+                }
+}

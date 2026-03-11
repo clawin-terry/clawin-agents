@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "i5-publishing-workflow-product-manager",
+                                    "default":  false,
+                                    "name":  "Publishing Workflow Product Manager",
+                                    "workspace":  "~/.openclaw/agents/i5-publishing-workflow-product-manager/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i5-publishing-workflow-product-manager/agent",
+                                    "model":  {
+                                                  "primary":  "mycodex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

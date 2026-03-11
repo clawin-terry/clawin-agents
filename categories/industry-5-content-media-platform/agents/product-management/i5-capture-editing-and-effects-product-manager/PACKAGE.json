@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i5-capture-editing-and-effects-product-manager",
+    "roleTitle":  "Capture, Editing, and Effects Product Manager",
+    "personaSummary":  "Owns capture, editing, and effects workflows so creation tools feel faster, more expressive, and easier for creators to use from first draft to polished output.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "product-management",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i5-capture-editing-and-effects-product-manager",
+                    "workspace":  "~/.openclaw/agents/i5-capture-editing-and-effects-product-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i5-capture-editing-and-effects-product-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i5-capture-editing-and-effects-product-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i5-capture-editing-and-effects-product-manager.snippet.json"
+                }
+}

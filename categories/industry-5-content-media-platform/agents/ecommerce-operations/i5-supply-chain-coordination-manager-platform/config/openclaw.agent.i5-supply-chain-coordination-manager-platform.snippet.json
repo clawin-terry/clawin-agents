@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "i5-supply-chain-coordination-manager-platform",
+                                    "default":  false,
+                                    "name":  "Supply Chain Coordination Manager (Platform)",
+                                    "workspace":  "~/.openclaw/agents/i5-supply-chain-coordination-manager-platform/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i5-supply-chain-coordination-manager-platform/agent",
+                                    "model":  {
+                                                  "primary":  "mycodex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

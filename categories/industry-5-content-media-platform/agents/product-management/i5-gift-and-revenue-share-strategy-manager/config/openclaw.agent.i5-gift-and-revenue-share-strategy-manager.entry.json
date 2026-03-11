@@ -1,0 +1,13 @@
+{
+    "id":  "i5-gift-and-revenue-share-strategy-manager",
+    "default":  false,
+    "name":  "Gift and Revenue Share Strategy Manager",
+    "workspace":  "~/.openclaw/agents/i5-gift-and-revenue-share-strategy-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/i5-gift-and-revenue-share-strategy-manager/agent",
+    "model":  {
+                  "primary":  "mycodex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

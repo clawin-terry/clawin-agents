@@ -1,0 +1,13 @@
+{
+    "id":  "i5-cross-platform-framework-engineer-dart",
+    "default":  false,
+    "name":  "Cross-Platform Framework Engineer (Dart)",
+    "workspace":  "~/.openclaw/agents/i5-cross-platform-framework-engineer-dart/workspace",
+    "agentDir":  "~/.openclaw/agents/i5-cross-platform-framework-engineer-dart/agent",
+    "model":  {
+                  "primary":  "mycodex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

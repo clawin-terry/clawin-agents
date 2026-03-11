@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i5-site-reliability-engineer-go",
+    "roleTitle":  "Site Reliability Engineer (Go)",
+    "personaSummary":  "Builds and operates Go-based reliability tooling and production safeguards so large-scale content platform services stay stable, observable, and easier to recover during incidents.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "site-reliability-engineering",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "healthcheck"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i5-site-reliability-engineer-go",
+                    "workspace":  "~/.openclaw/agents/i5-site-reliability-engineer-go/workspace",
+                    "agentDir":  "~/.openclaw/agents/i5-site-reliability-engineer-go/agent",
+                    "configEntry":  "config/openclaw.agent.i5-site-reliability-engineer-go.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i5-site-reliability-engineer-go.snippet.json"
+                }
+}

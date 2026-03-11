@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "i5-data-protection-officer-platform",
+                                    "default":  false,
+                                    "name":  "Data Protection Officer (DPO) (Platform)",
+                                    "workspace":  "~/.openclaw/agents/i5-data-protection-officer-platform/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i5-data-protection-officer-platform/agent",
+                                    "model":  {
+                                                  "primary":  "mycodex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

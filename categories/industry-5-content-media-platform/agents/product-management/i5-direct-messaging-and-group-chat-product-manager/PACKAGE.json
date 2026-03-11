@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i5-direct-messaging-and-group-chat-product-manager",
+    "roleTitle":  "Direct Messaging and Group Chat Product Manager",
+    "personaSummary":  "Owns direct messaging and group chat experiences so private communication stays useful, safer, and better integrated with the broader creator and community journey.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "product-management",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i5-direct-messaging-and-group-chat-product-manager",
+                    "workspace":  "~/.openclaw/agents/i5-direct-messaging-and-group-chat-product-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i5-direct-messaging-and-group-chat-product-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i5-direct-messaging-and-group-chat-product-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i5-direct-messaging-and-group-chat-product-manager.snippet.json"
+                }
+}

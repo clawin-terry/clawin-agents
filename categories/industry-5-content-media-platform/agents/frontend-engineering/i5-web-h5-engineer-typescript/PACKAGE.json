@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i5-web-h5-engineer-typescript",
+    "roleTitle":  "Web and H5 Engineer (TypeScript)",
+    "personaSummary":  "Builds web and H5 product surfaces in TypeScript so browser-based experiences, campaign pages, and lightweight client journeys stay fast and easier to iterate.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "frontend-engineering",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "ui-ux-pro-max"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i5-web-h5-engineer-typescript",
+                    "workspace":  "~/.openclaw/agents/i5-web-h5-engineer-typescript/workspace",
+                    "agentDir":  "~/.openclaw/agents/i5-web-h5-engineer-typescript/agent",
+                    "configEntry":  "config/openclaw.agent.i5-web-h5-engineer-typescript.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i5-web-h5-engineer-typescript.snippet.json"
+                }
+}

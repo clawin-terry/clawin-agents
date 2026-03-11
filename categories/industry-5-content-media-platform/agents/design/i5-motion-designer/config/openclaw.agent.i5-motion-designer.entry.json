@@ -1,0 +1,13 @@
+{
+    "id":  "i5-motion-designer",
+    "default":  false,
+    "name":  "Motion Designer",
+    "workspace":  "~/.openclaw/agents/i5-motion-designer/workspace",
+    "agentDir":  "~/.openclaw/agents/i5-motion-designer/agent",
+    "model":  {
+                  "primary":  "mycodex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "i5-pricing-and-inventory-strategy-manager",
+                                    "default":  false,
+                                    "name":  "Pricing and Inventory Strategy Manager",
+                                    "workspace":  "~/.openclaw/agents/i5-pricing-and-inventory-strategy-manager/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i5-pricing-and-inventory-strategy-manager/agent",
+                                    "model":  {
+                                                  "primary":  "mycodex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

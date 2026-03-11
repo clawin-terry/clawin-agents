@@ -1,0 +1,13 @@
+{
+    "id":  "i5-employment-legal-support-specialist-platform",
+    "default":  false,
+    "name":  "Employment Legal Support Specialist (Platform)",
+    "workspace":  "~/.openclaw/agents/i5-employment-legal-support-specialist-platform/workspace",
+    "agentDir":  "~/.openclaw/agents/i5-employment-legal-support-specialist-platform/agent",
+    "model":  {
+                  "primary":  "mycodex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

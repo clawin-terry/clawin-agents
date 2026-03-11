@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i5-creative-review-coordination-manager",
+    "roleTitle":  "Creative Review Coordination Manager",
+    "personaSummary":  "Coordinates creative and asset review workflows so ads can launch faster while still meeting policy, quality, and operational readiness requirements.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "ad-operations-support",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i5-creative-review-coordination-manager",
+                    "workspace":  "~/.openclaw/agents/i5-creative-review-coordination-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i5-creative-review-coordination-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i5-creative-review-coordination-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i5-creative-review-coordination-manager.snippet.json"
+                }
+}

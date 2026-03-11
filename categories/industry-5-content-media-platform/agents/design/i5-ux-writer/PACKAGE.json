@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i5-ux-writer",
+    "roleTitle":  "UX Writer",
+    "personaSummary":  "Owns interface writing so product copy, guidance, and microcopy make user actions clearer, safer, and more understandable across the platform.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "design",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "ui-ux-pro-max"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i5-ux-writer",
+                    "workspace":  "~/.openclaw/agents/i5-ux-writer/workspace",
+                    "agentDir":  "~/.openclaw/agents/i5-ux-writer/agent",
+                    "configEntry":  "config/openclaw.agent.i5-ux-writer.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i5-ux-writer.snippet.json"
+                }
+}

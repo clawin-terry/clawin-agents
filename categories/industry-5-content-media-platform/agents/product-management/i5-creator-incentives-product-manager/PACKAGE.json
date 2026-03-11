@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i5-creator-incentives-product-manager",
+    "roleTitle":  "Creator Incentives Product Manager",
+    "personaSummary":  "Owns creator-incentive products so participation, contribution quality, and creator motivation can be improved with clearer reward mechanics and healthier ecosystem outcomes.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "product-management",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i5-creator-incentives-product-manager",
+                    "workspace":  "~/.openclaw/agents/i5-creator-incentives-product-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i5-creator-incentives-product-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i5-creator-incentives-product-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i5-creator-incentives-product-manager.snippet.json"
+                }
+}

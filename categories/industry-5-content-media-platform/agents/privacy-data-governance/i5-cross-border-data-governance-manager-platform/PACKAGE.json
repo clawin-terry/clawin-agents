@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i5-cross-border-data-governance-manager-platform",
+    "roleTitle":  "Cross-Border Data Governance Manager (Platform)",
+    "personaSummary":  "Oversees cross-border data transfers and third-party data governance so vendor, partner, and international data flows meet platform compliance requirements.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "privacy-data-governance",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i5-cross-border-data-governance-manager-platform",
+                    "workspace":  "~/.openclaw/agents/i5-cross-border-data-governance-manager-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/i5-cross-border-data-governance-manager-platform/agent",
+                    "configEntry":  "config/openclaw.agent.i5-cross-border-data-governance-manager-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i5-cross-border-data-governance-manager-platform.snippet.json"
+                }
+}

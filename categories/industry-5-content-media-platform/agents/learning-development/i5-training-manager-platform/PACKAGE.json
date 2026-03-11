@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i5-training-manager-platform",
+    "roleTitle":  "Training Manager (Platform)",
+    "personaSummary":  "Leads training and development programs so managers, creators support teams, and platform operators can ramp capability faster and more consistently.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "learning-development",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i5-training-manager-platform",
+                    "workspace":  "~/.openclaw/agents/i5-training-manager-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/i5-training-manager-platform/agent",
+                    "configEntry":  "config/openclaw.agent.i5-training-manager-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i5-training-manager-platform.snippet.json"
+                }
+}

@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "i5-data-warehouse-modeling-engineer-scala",
+                                    "default":  false,
+                                    "name":  "Data Warehouse Modeling Engineer (Scala)",
+                                    "workspace":  "~/.openclaw/agents/i5-data-warehouse-modeling-engineer-scala/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i5-data-warehouse-modeling-engineer-scala/agent",
+                                    "model":  {
+                                                  "primary":  "mycodex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

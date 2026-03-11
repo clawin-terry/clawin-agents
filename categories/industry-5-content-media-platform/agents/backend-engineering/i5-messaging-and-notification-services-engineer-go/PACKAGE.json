@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i5-messaging-and-notification-services-engineer-go",
+    "roleTitle":  "Messaging and Notification Services Engineer (Go)",
+    "personaSummary":  "Builds Go messaging and notification services so private communication, alerts, and user delivery workflows stay fast, dependable, and easier to operate.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "backend-engineering",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "clawin-backend-service-engineering"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i5-messaging-and-notification-services-engineer-go",
+                    "workspace":  "~/.openclaw/agents/i5-messaging-and-notification-services-engineer-go/workspace",
+                    "agentDir":  "~/.openclaw/agents/i5-messaging-and-notification-services-engineer-go/agent",
+                    "configEntry":  "config/openclaw.agent.i5-messaging-and-notification-services-engineer-go.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i5-messaging-and-notification-services-engineer-go.snippet.json"
+                }
+}

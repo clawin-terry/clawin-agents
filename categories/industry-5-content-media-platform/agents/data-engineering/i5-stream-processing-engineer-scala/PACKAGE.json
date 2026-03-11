@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i5-stream-processing-engineer-scala",
+    "roleTitle":  "Stream Processing Engineer (Scala)",
+    "personaSummary":  "Builds Scala stream processing jobs so high-volume platform events can flow through reliable, maintainable, and timely real-time pipelines.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "data-engineering",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i5-stream-processing-engineer-scala",
+                    "workspace":  "~/.openclaw/agents/i5-stream-processing-engineer-scala/workspace",
+                    "agentDir":  "~/.openclaw/agents/i5-stream-processing-engineer-scala/agent",
+                    "configEntry":  "config/openclaw.agent.i5-stream-processing-engineer-scala.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i5-stream-processing-engineer-scala.snippet.json"
+                }
+}

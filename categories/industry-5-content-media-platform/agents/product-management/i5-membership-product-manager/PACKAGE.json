@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i5-membership-product-manager",
+    "roleTitle":  "Membership Product Manager",
+    "personaSummary":  "Owns membership products so subscription value, premium user journeys, and monetization retention mechanics improve with clearer product positioning.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "product-management",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i5-membership-product-manager",
+                    "workspace":  "~/.openclaw/agents/i5-membership-product-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i5-membership-product-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i5-membership-product-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i5-membership-product-manager.snippet.json"
+                }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i5-industry-key-account-manager",
+    "roleTitle":  "Industry Key Account Manager",
+    "personaSummary":  "Owns industry key account management so advertiser programs reflect vertical needs, market dynamics, and category-specific growth opportunities.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "sales",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i5-industry-key-account-manager",
+                    "workspace":  "~/.openclaw/agents/i5-industry-key-account-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i5-industry-key-account-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i5-industry-key-account-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i5-industry-key-account-manager.snippet.json"
+                }
+}

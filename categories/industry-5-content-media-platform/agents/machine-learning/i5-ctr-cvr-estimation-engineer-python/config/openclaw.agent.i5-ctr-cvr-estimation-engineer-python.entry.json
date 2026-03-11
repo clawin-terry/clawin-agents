@@ -1,0 +1,13 @@
+{
+    "id":  "i5-ctr-cvr-estimation-engineer-python",
+    "default":  false,
+    "name":  "CTR/CVR Estimation Engineer (Python)",
+    "workspace":  "~/.openclaw/agents/i5-ctr-cvr-estimation-engineer-python/workspace",
+    "agentDir":  "~/.openclaw/agents/i5-ctr-cvr-estimation-engineer-python/agent",
+    "model":  {
+                  "primary":  "mycodex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

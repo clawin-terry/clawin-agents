@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i5-embedding-and-vector-retrieval-engineer-python",
+    "roleTitle":  "Embedding and Vector Retrieval Engineer (Python)",
+    "personaSummary":  "Builds embedding and vector retrieval systems in Python so content understanding, retrieval quality, and semantic matching become stronger across discovery flows.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "machine-learning",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i5-embedding-and-vector-retrieval-engineer-python",
+                    "workspace":  "~/.openclaw/agents/i5-embedding-and-vector-retrieval-engineer-python/workspace",
+                    "agentDir":  "~/.openclaw/agents/i5-embedding-and-vector-retrieval-engineer-python/agent",
+                    "configEntry":  "config/openclaw.agent.i5-embedding-and-vector-retrieval-engineer-python.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i5-embedding-and-vector-retrieval-engineer-python.snippet.json"
+                }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i5-org-development-manager-platform",
+    "roleTitle":  "Organization Development Manager (Platform)",
+    "personaSummary":  "Drives organization development so structure, leadership capability, and change programs can keep pace with platform growth and complexity.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "hrbp-organization-development",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i5-org-development-manager-platform",
+                    "workspace":  "~/.openclaw/agents/i5-org-development-manager-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/i5-org-development-manager-platform/agent",
+                    "configEntry":  "config/openclaw.agent.i5-org-development-manager-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i5-org-development-manager-platform.snippet.json"
+                }
+}

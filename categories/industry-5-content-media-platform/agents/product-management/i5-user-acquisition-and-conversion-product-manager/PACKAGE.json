@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i5-user-acquisition-and-conversion-product-manager",
+    "roleTitle":  "User Acquisition and Conversion Product Manager",
+    "personaSummary":  "Owns user-acquisition and conversion products so growth entry points, onboarding flows, and new-user activation patterns convert more effectively.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "product-management",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i5-user-acquisition-and-conversion-product-manager",
+                    "workspace":  "~/.openclaw/agents/i5-user-acquisition-and-conversion-product-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i5-user-acquisition-and-conversion-product-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i5-user-acquisition-and-conversion-product-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i5-user-acquisition-and-conversion-product-manager.snippet.json"
+                }
+}

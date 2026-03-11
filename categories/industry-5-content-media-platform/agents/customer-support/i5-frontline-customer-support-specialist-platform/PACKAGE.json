@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i5-frontline-customer-support-specialist-platform",
+    "roleTitle":  "Frontline Customer Support Specialist (Platform)",
+    "personaSummary":  "Handles frontline customer support so platform users receive timely answers, issue triage, and clear service communication.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "customer-support",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i5-frontline-customer-support-specialist-platform",
+                    "workspace":  "~/.openclaw/agents/i5-frontline-customer-support-specialist-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/i5-frontline-customer-support-specialist-platform/agent",
+                    "configEntry":  "config/openclaw.agent.i5-frontline-customer-support-specialist-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i5-frontline-customer-support-specialist-platform.snippet.json"
+                }
+}

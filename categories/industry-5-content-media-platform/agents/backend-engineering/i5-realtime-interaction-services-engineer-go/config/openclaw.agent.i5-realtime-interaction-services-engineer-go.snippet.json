@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "i5-realtime-interaction-services-engineer-go",
+                                    "default":  false,
+                                    "name":  "Real-Time Interaction Services Engineer (Go)",
+                                    "workspace":  "~/.openclaw/agents/i5-realtime-interaction-services-engineer-go/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i5-realtime-interaction-services-engineer-go/agent",
+                                    "model":  {
+                                                  "primary":  "mycodex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

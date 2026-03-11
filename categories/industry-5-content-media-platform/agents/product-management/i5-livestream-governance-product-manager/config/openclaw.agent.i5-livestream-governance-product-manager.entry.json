@@ -1,0 +1,13 @@
+{
+    "id":  "i5-livestream-governance-product-manager",
+    "default":  false,
+    "name":  "Livestream Governance Product Manager",
+    "workspace":  "~/.openclaw/agents/i5-livestream-governance-product-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/i5-livestream-governance-product-manager/agent",
+    "model":  {
+                  "primary":  "mycodex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

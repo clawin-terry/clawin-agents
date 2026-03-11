@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i5-creator-payout-settlement-manager-platform",
+    "roleTitle":  "Creator Payout Settlement Manager (Platform)",
+    "personaSummary":  "Runs creator, MCN, and livestreamer revenue share settlement so payouts, reconciliations, and partner trust remain reliable at platform scale.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "settlement-fund-operations",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i5-creator-payout-settlement-manager-platform",
+                    "workspace":  "~/.openclaw/agents/i5-creator-payout-settlement-manager-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/i5-creator-payout-settlement-manager-platform/agent",
+                    "configEntry":  "config/openclaw.agent.i5-creator-payout-settlement-manager-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i5-creator-payout-settlement-manager-platform.snippet.json"
+                }
+}

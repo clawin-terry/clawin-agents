@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i5-retention-and-reactivation-product-manager",
+    "roleTitle":  "Retention and Reactivation Product Manager",
+    "personaSummary":  "Owns retention and reactivation products so returning-user behavior, habit formation, and churn-recovery flows stay more effective across the content platform lifecycle.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "product-management",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i5-retention-and-reactivation-product-manager",
+                    "workspace":  "~/.openclaw/agents/i5-retention-and-reactivation-product-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i5-retention-and-reactivation-product-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i5-retention-and-reactivation-product-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i5-retention-and-reactivation-product-manager.snippet.json"
+                }
+}

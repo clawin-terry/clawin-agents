@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i5-referrals-and-invitations-product-manager",
+    "roleTitle":  "Referrals and Invitations Product Manager",
+    "personaSummary":  "Owns referral and invitation products so sharing loops, user-led growth channels, and invite mechanics produce stronger and healthier acquisition outcomes.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "product-management",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i5-referrals-and-invitations-product-manager",
+                    "workspace":  "~/.openclaw/agents/i5-referrals-and-invitations-product-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i5-referrals-and-invitations-product-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i5-referrals-and-invitations-product-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i5-referrals-and-invitations-product-manager.snippet.json"
+                }
+}

@@ -1,0 +1,23 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i5-audio-video-services-engineer-cpp",
+    "roleTitle":  "Audio and Video Services Engineer (C++)",
+    "personaSummary":  "Builds C++ audio and video services so media processing, streaming quality, and playback infrastructure stay performant under large-scale content workloads.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "backend-engineering",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "clawin-backend-service-engineering",
+                          "clawin-media-performance-systems"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i5-audio-video-services-engineer-cpp",
+                    "workspace":  "~/.openclaw/agents/i5-audio-video-services-engineer-cpp/workspace",
+                    "agentDir":  "~/.openclaw/agents/i5-audio-video-services-engineer-cpp/agent",
+                    "configEntry":  "config/openclaw.agent.i5-audio-video-services-engineer-cpp.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i5-audio-video-services-engineer-cpp.snippet.json"
+                }
+}

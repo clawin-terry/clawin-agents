@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i5-agency-performance-manager",
+    "roleTitle":  "Agency Performance Manager",
+    "personaSummary":  "Leads agency performance management so partner quality, target attainment, and operating discipline improve across the channel network.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "channel-sales",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i5-agency-performance-manager",
+                    "workspace":  "~/.openclaw/agents/i5-agency-performance-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i5-agency-performance-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i5-agency-performance-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i5-agency-performance-manager.snippet.json"
+                }
+}

@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "i5-creative-production-and-testing-manager",
+                                    "default":  false,
+                                    "name":  "Creative Production and Testing Manager",
+                                    "workspace":  "~/.openclaw/agents/i5-creative-production-and-testing-manager/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i5-creative-production-and-testing-manager/agent",
+                                    "model":  {
+                                                  "primary":  "mycodex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

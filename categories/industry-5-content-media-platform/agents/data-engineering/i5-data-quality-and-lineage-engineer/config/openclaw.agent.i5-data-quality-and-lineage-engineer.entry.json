@@ -1,0 +1,13 @@
+{
+    "id":  "i5-data-quality-and-lineage-engineer",
+    "default":  false,
+    "name":  "Data Quality and Lineage Engineer",
+    "workspace":  "~/.openclaw/agents/i5-data-quality-and-lineage-engineer/workspace",
+    "agentDir":  "~/.openclaw/agents/i5-data-quality-and-lineage-engineer/agent",
+    "model":  {
+                  "primary":  "mycodex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

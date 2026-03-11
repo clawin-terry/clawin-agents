@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "i5-paid-acquisition-manager",
+                                    "default":  false,
+                                    "name":  "Paid Acquisition Manager",
+                                    "workspace":  "~/.openclaw/agents/i5-paid-acquisition-manager/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i5-paid-acquisition-manager/agent",
+                                    "model":  {
+                                                  "primary":  "mycodex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

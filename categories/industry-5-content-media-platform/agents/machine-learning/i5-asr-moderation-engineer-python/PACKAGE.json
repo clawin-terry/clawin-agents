@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i5-asr-moderation-engineer-python",
+    "roleTitle":  "ASR Moderation Engineer (Python)",
+    "personaSummary":  "Builds Python speech-recognition moderation models so spoken content in videos and live experiences can be transcribed, screened, and escalated with stronger trust-and-safety accuracy.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "machine-learning",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i5-asr-moderation-engineer-python",
+                    "workspace":  "~/.openclaw/agents/i5-asr-moderation-engineer-python/workspace",
+                    "agentDir":  "~/.openclaw/agents/i5-asr-moderation-engineer-python/agent",
+                    "configEntry":  "config/openclaw.agent.i5-asr-moderation-engineer-python.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i5-asr-moderation-engineer-python.snippet.json"
+                }
+}

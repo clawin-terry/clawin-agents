@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i5-recall-and-false-positive-metrics-analyst-platform",
+    "roleTitle":  "Recall and False Positive Metrics Analyst (Platform)",
+    "personaSummary":  "Owns recall and false-positive metrics so policy controls can be tuned with clearer tradeoff analysis between risk capture, user impact, and review efficiency.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "review-analytics-and-evaluation",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i5-recall-and-false-positive-metrics-analyst-platform",
+                    "workspace":  "~/.openclaw/agents/i5-recall-and-false-positive-metrics-analyst-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/i5-recall-and-false-positive-metrics-analyst-platform/agent",
+                    "configEntry":  "config/openclaw.agent.i5-recall-and-false-positive-metrics-analyst-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i5-recall-and-false-positive-metrics-analyst-platform.snippet.json"
+                }
+}

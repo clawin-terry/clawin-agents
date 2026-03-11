@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "i5-general-ledger-accountant-platform",
+                                    "default":  false,
+                                    "name":  "General Ledger Accountant (Platform)",
+                                    "workspace":  "~/.openclaw/agents/i5-general-ledger-accountant-platform/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i5-general-ledger-accountant-platform/agent",
+                                    "model":  {
+                                                  "primary":  "mycodex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

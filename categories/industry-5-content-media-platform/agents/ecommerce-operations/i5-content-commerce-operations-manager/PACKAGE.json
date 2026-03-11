@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i5-content-commerce-operations-manager",
+    "roleTitle":  "Content Commerce Operations Manager",
+    "personaSummary":  "Runs content-led commerce operations so creator content, product conversion flows, and campaign execution connect more effectively to merchandising outcomes.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "ecommerce-operations",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i5-content-commerce-operations-manager",
+                    "workspace":  "~/.openclaw/agents/i5-content-commerce-operations-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i5-content-commerce-operations-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i5-content-commerce-operations-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i5-content-commerce-operations-manager.snippet.json"
+                }
+}

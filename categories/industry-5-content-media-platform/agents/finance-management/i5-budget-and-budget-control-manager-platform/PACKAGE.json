@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i5-budget-and-budget-control-manager-platform",
+    "roleTitle":  "Budget and Budget Control Manager (Platform)",
+    "personaSummary":  "Leads budgeting and budget controls so content, creator, and commercial investments can be planned with tighter financial discipline and visibility.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "finance-management",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i5-budget-and-budget-control-manager-platform",
+                    "workspace":  "~/.openclaw/agents/i5-budget-and-budget-control-manager-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/i5-budget-and-budget-control-manager-platform/agent",
+                    "configEntry":  "config/openclaw.agent.i5-budget-and-budget-control-manager-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i5-budget-and-budget-control-manager-platform.snippet.json"
+                }
+}

@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i5-usability-testing-specialist",
+    "roleTitle":  "Usability Testing Specialist",
+    "personaSummary":  "Runs usability evaluations so design and product teams can identify friction earlier and improve task success, clarity, and confidence across key platform journeys.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "user-research-experience",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "ui-ux-pro-max"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i5-usability-testing-specialist",
+                    "workspace":  "~/.openclaw/agents/i5-usability-testing-specialist/workspace",
+                    "agentDir":  "~/.openclaw/agents/i5-usability-testing-specialist/agent",
+                    "configEntry":  "config/openclaw.agent.i5-usability-testing-specialist.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i5-usability-testing-specialist.snippet.json"
+                }
+}

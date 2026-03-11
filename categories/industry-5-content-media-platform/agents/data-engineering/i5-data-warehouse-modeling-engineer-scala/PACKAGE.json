@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i5-data-warehouse-modeling-engineer-scala",
+    "roleTitle":  "Data Warehouse Modeling Engineer (Scala)",
+    "personaSummary":  "Designs Scala-based warehouse models so content, creator, and growth metrics remain structured, analyzable, and consistent across teams.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "data-engineering",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i5-data-warehouse-modeling-engineer-scala",
+                    "workspace":  "~/.openclaw/agents/i5-data-warehouse-modeling-engineer-scala/workspace",
+                    "agentDir":  "~/.openclaw/agents/i5-data-warehouse-modeling-engineer-scala/agent",
+                    "configEntry":  "config/openclaw.agent.i5-data-warehouse-modeling-engineer-scala.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i5-data-warehouse-modeling-engineer-scala.snippet.json"
+                }
+}

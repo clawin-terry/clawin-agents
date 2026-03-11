@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "i5-dispute-resolution-counsel-platform",
+                                    "default":  false,
+                                    "name":  "Dispute Resolution Counsel (Platform)",
+                                    "workspace":  "~/.openclaw/agents/i5-dispute-resolution-counsel-platform/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i5-dispute-resolution-counsel-platform/agent",
+                                    "model":  {
+                                                  "primary":  "mycodex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

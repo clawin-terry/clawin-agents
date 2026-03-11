@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i5-realtime-interaction-services-engineer-go",
+    "roleTitle":  "Real-Time Interaction Services Engineer (Go)",
+    "personaSummary":  "Builds Go real-time interaction services so live collaboration, co-presence, and fast interactive features stay responsive and resilient.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "backend-engineering",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "clawin-backend-service-engineering"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i5-realtime-interaction-services-engineer-go",
+                    "workspace":  "~/.openclaw/agents/i5-realtime-interaction-services-engineer-go/workspace",
+                    "agentDir":  "~/.openclaw/agents/i5-realtime-interaction-services-engineer-go/agent",
+                    "configEntry":  "config/openclaw.agent.i5-realtime-interaction-services-engineer-go.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i5-realtime-interaction-services-engineer-go.snippet.json"
+                }
+}

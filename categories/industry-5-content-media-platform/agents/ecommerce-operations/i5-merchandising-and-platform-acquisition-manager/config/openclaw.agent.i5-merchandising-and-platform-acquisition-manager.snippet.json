@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "i5-merchandising-and-platform-acquisition-manager",
+                                    "default":  false,
+                                    "name":  "Merchandising and Platform Acquisition Manager",
+                                    "workspace":  "~/.openclaw/agents/i5-merchandising-and-platform-acquisition-manager/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i5-merchandising-and-platform-acquisition-manager/agent",
+                                    "model":  {
+                                                  "primary":  "mycodex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

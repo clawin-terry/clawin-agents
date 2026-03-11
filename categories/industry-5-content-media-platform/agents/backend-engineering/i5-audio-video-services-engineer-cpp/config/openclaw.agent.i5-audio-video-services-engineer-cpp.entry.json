@@ -1,0 +1,13 @@
+{
+    "id":  "i5-audio-video-services-engineer-cpp",
+    "default":  false,
+    "name":  "Audio and Video Services Engineer (C++)",
+    "workspace":  "~/.openclaw/agents/i5-audio-video-services-engineer-cpp/workspace",
+    "agentDir":  "~/.openclaw/agents/i5-audio-video-services-engineer-cpp/agent",
+    "model":  {
+                  "primary":  "mycodex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

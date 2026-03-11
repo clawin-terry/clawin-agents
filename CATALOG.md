@@ -1889,39 +1889,135 @@ Published role families:
 ## industry-5-content-media-platform
 
 Published role families:
-- `backend-engineering` — 3 agents
+- `accounting` — 1 agents
+- `administration` — 4 agents
+- `ad-operations-support` — 1 agents
+- `advertising-operations` — 3 agents
+- `backend-engineering` — 18 agents
+- `brand-marketing` — 2 agents
+- `business-intelligence` — 6 agents
 - `campaign-event-operations` — 5 agents
+- `channel-sales` — 4 agents
+- `commercial-growth` — 1 agents
+- `commercial-operations` — 1 agents
 - `community-governance-risk` — 5 agents
 - `community-operations` — 5 agents
+- `compensation-benefits-performance` — 2 agents
+- `compliance-risk` — 1 agents
 - `content-ecosystem-strategy` — 5 agents
+- `content-operations` — 2 agents
 - `content-review-operations` — 4 agents
-- `content-rights-and-partnerships` — 7 agents
+- `content-rights-and-partnerships` — 13 agents
 - `creator-education-enablement` — 5 agents
 - `creator-growth-operations` — 4 agents
 - `creator-incentives-rights` — 5 agents
-- `creator-operations` — 4 agents
+- `creator-operations` — 5 agents
 - `creator-partner-operations` — 5 agents
+- `customer-success` — 4 agents
+- `customer-support` — 6 agents
+- `data-engineering` — 7 agents
+- `data-governance` — 1 agents
+- `design` — 5 agents
+- `digital-marketing` — 1 agents
+- `ecommerce-operations` — 5 agents
 - `editorial-content-operations` — 5 agents
-- `frontend-engineering` — 2 agents
+- `finance-management` — 1 agents
+- `frontend-engineering` — 4 agents
+- `growth-marketing` — 4 agents
+- `hrbp-organization-development` — 2 agents
+- `internal-audit` — 1 agents
+- `it-internal-control` — 2 agents
+- `learning-development` — 1 agents
+- `legal` — 6 agents
 - `livestream-operations` — 5 agents
 - `livestream-review-operations` — 4 agents
 - `localization-and-regional-operations` — 4 agents
 - `long-form-content-operations` — 4 agents
 - `long-tail-creator-operations` — 4 agents
+- `machine-learning` — 17 agents
+- `membership-operations` — 2 agents
+- `mobile-engineering` — 4 agents
+- `platform-engineering` — 4 agents
 - `platform-product-management` — 5 agents
 - `policy-and-safety-standards` — 5 agents
+- `pre-sales` — 1 agents
+- `privacy-data-governance` — 6 agents
+- `process-internal-control` — 1 agents
+- `procurement` — 3 agents
+- `product-management` — 30 agents
+- `public-relations` — 2 agents
+- `quality-engineering` — 4 agents
 - `reports-and-appeals-operations` — 5 agents
+- `review-analytics-and-evaluation` — 4 agents
 - `risk-and-incident-operations` — 5 agents
 - `risk-strategy` — 5 agents
+- `sales` — 2 agents
+- `sales-operations` — 1 agents
+- `settlement-fund-operations` — 1 agents
 - `short-video-content-operations` — 5 agents
+- `site-reliability-engineering` — 5 agents
+- `supplier-management` — 2 agents
+- `talent-acquisition` — 1 agents
+- `tax-treasury` — 2 agents
 - `text-community-content-operations` — 4 agents
+- `user-research-experience` — 2 agents
 - `video-review-operations` — 4 agents
+
+## accounting
+
+- `i5-general-ledger-accountant-platform` — General Ledger Accountant (Platform)
+
+## administration
+
+- `i5-administration-manager-platform` — Administration Manager (Platform)
+- `i5-culture-and-employee-events-coordinator-platform` — Culture and Employee Events Coordinator (Platform)
+- `i5-office-assets-administrator-platform` — Office Assets Administrator (Platform)
+- `i5-travel-and-expense-operations-specialist-platform` — Travel and Expense Operations Specialist (Platform)
+
+## ad-operations-support
+
+- `i5-creative-review-coordination-manager` — Creative Review Coordination Manager
+
+## advertising-operations
+
+- `i5-advertising-product-operations-manager` — Advertising Product Operations Manager
+- `i5-campaign-strategy-operations-manager` — Campaign Strategy Operations Manager
+- `i5-industry-operations-manager` — Industry Operations Manager
 
 ## backend-engineering
 
+- `i5-account-graph-services-engineer-go` — Account Graph Services Engineer (Go)
+- `i5-ad-delivery-backend-engineer-go` — Ad Delivery Backend Engineer (Go)
+- `i5-ad-retrieval-and-matching-engineer-go` — Ad Retrieval and Matching Engineer (Go)
+- `i5-audio-video-services-engineer-cpp` — Audio and Video Services Engineer (C++)
+- `i5-billing-and-settlement-engineer-java` — Billing and Settlement Engineer (Java)
+- `i5-community-services-engineer-java` — Community Services Engineer (Java)
+- `i5-content-services-engineer-go` — Content Services Engineer (Go)
+- `i5-growth-backend-engineer-go` — Growth Backend Engineer (Go)
+- `i5-livestream-pipeline-services-engineer-go` — Livestream Pipeline Services Engineer (Go)
+- `i5-messaging-and-notification-services-engineer-go` — Messaging and Notification Services Engineer (Go)
+- `i5-order-and-fulfillment-engineer-go` — Order and Fulfillment Engineer (Go)
+- `i5-payment-reconciliation-risk-collab-engineer-java` — Payment Reconciliation and Risk Collaboration Engineer (Java)
+- `i5-realtime-interaction-services-engineer-go` — Real-Time Interaction Services Engineer (Go)
 - `i5-review-platform-backend-engineer-go` — Review Platform Backend Engineer (Go)
 - `i5-risk-backend-engineer-go` — Risk Backend Engineer (Go)
 - `i5-rules-engine-engineer-java` — Rules Engine Engineer (Java)
+- `i5-search-services-indexing-engineer-java` — Search Services and Indexing Engineer (Java)
+- `i5-transaction-services-engineer-java` — Transaction Services Engineer (Java)
+
+## brand-marketing
+
+- `i5-brand-events-planning-manager` — Brand Events Planning Manager
+- `i5-brand-strategy-manager` — Brand Strategy Manager
+
+## business-intelligence
+
+- `i5-ab-experimentation-platform-manager` — A/B Experimentation Platform Manager
+- `i5-attribution-and-anti-fraud-analytics-manager` — Attribution and Anti-Fraud Analytics Manager
+- `i5-commercial-business-analyst` — Commercial Business Analyst
+- `i5-experiment-design-and-guardrail-metrics-manager` — Experiment Design and Guardrail Metrics Manager
+- `i5-revenue-forecasting-manager` — Revenue Forecasting Manager
+- `i5-roi-analytics-manager` — ROI Analytics Manager
 
 ## campaign-event-operations
 
@@ -1930,6 +2026,21 @@ Published role families:
 - `i5-ip-collaboration-project-manager-platform` — IP Collaboration Project Manager (Platform)
 - `i5-offline-carnival-program-manager-platform` — Offline Carnival Program Manager (Platform)
 - `i5-online-event-planning-manager-platform` — Online Event Planning Manager (Platform)
+
+## channel-sales
+
+- `i5-agency-partner-manager` — Agency Partner Manager
+- `i5-agency-performance-manager` — Agency Performance Manager
+- `i5-channel-policy-manager` — Channel Policy Manager
+- `i5-partner-enablement-manager` — Partner Enablement Manager
+
+## commercial-growth
+
+- `i5-commercialization-strategy-manager` — Commercialization Strategy Manager
+
+## commercial-operations
+
+- `i5-pricing-and-inventory-strategy-manager` — Pricing and Inventory Strategy Manager
 
 ## community-governance-risk
 
@@ -1947,6 +2058,15 @@ Published role families:
 - `i5-topic-operations-manager-platform` — Topic Operations Manager (Platform)
 - `i5-user-reactivation-operations-manager-platform` — User Reactivation Operations Manager (Platform)
 
+## compensation-benefits-performance
+
+- `i5-compensation-manager-platform` — Compensation Manager (Platform)
+- `i5-performance-manager-platform` — Performance Manager (Platform)
+
+## compliance-risk
+
+- `i5-anti-fraud-program-manager-platform` — Anti-Fraud Program Manager (Platform)
+
 ## content-ecosystem-strategy
 
 - `i5-category-planning-manager-platform` — Category Planning Manager (Platform)
@@ -1954,6 +2074,11 @@ Published role families:
 - `i5-content-supply-strategy-manager-platform` — Content Supply Strategy Manager (Platform)
 - `i5-content-trends-insights-manager-platform` — Content Trends and Insights Manager (Platform)
 - `i5-ecosystem-metrics-framework-lead-platform` — Ecosystem Metrics Framework Lead (Platform)
+
+## content-operations
+
+- `i5-host-monetization-operations-manager` — Host Monetization Operations Manager
+- `i5-paid-content-operations-manager` — Paid Content Operations Manager
 
 ## content-review-operations
 
@@ -1965,12 +2090,18 @@ Published role families:
 ## content-rights-and-partnerships
 
 - `i5-content-acquisition-manager-platform` — Content Acquisition Manager (Platform)
+- `i5-content-licensing-manager-platform` — Content Licensing Manager (Platform)
 - `i5-coproduction-coordination-manager-platform` — Co-Production Coordination Manager (Platform)
 - `i5-copyright-asset-management-coordinator-platform` — Copyright Asset Management Coordinator (Platform)
 - `i5-copyright-asset-ops-coordinator-platform` — Copyright Asset Operations Coordinator (Platform)
 - `i5-copyright-partnership-bd-manager-platform` — Copyright Partnership BD Manager (Platform)
 - `i5-copyright-partnership-business-development-manager-platform` — Copyright Partnership Business Development Manager (Platform)
+- `i5-copyright-whitelist-label-coordinator-platform` — Copyright Whitelist and Authorization Label Coordinator (Platform)
+- `i5-duplicate-upload-governance-manager-platform` — Duplicate Upload Governance Manager (Platform)
+- `i5-infringement-process-manager-platform` — Infringement Process Manager (Platform)
 - `i5-infringement-response-coordinator-platform` — Infringement Response Coordinator (Platform)
+- `i5-ip-complaint-process-manager-platform` — IP Complaint Process Manager (Platform)
+- `i5-pirated-reupload-governance-manager-platform` — Pirated Reupload Governance Manager (Platform)
 
 ## creator-education-enablement
 
@@ -1999,6 +2130,7 @@ Published role families:
 
 - `i5-creator-commercial-collaboration-operations-manager-platform` — Creator Commercial Collaboration Operations Manager (Platform)
 - `i5-creator-signing-and-relationship-manager-platform` — Creator Signing and Relationship Manager (Platform)
+- `i5-guild-incentives-and-settlement-coordination-manager` — Guild Incentives and Settlement Coordination Manager
 - `i5-priority-program-operations-manager-platform` — Priority Program Operations Manager (Platform)
 - `i5-top-creator-operations-manager-platform` — Top Creator Operations Manager (Platform)
 
@@ -2010,6 +2142,56 @@ Published role families:
 - `i5-mcn-partnership-development-manager-platform` — MCN Partnership Development Manager (Platform)
 - `i5-partner-settlement-reconciliation-coordinator-platform` — Partner Settlement and Reconciliation Coordinator (Platform)
 
+## customer-success
+
+- `i5-advertiser-operations-manager` — Advertiser Operations Manager
+- `i5-campaign-diagnostics-manager` — Campaign Diagnostics Manager
+- `i5-merchant-growth-advisor` — Merchant Growth Advisor
+- `i5-performance-review-manager` — Performance Review Manager
+
+## customer-support
+
+- `i5-creator-support-specialist-platform` — Creator Support Specialist (Platform)
+- `i5-frontline-customer-support-specialist-platform` — Frontline Customer Support Specialist (Platform)
+- `i5-knowledge-base-operations-specialist-platform` — Knowledge Base Operations Specialist (Platform)
+- `i5-merchant-support-specialist-platform` — Merchant Support Specialist (Platform)
+- `i5-service-quality-and-training-manager-platform` — Service Quality and Training Manager (Platform)
+- `i5-ticket-operations-manager-platform` — Ticket Operations Manager (Platform)
+
+## data-engineering
+
+- `i5-data-quality-and-lineage-engineer` — Data Quality and Lineage Engineer
+- `i5-data-warehouse-modeling-engineer-scala` — Data Warehouse Modeling Engineer (Scala)
+- `i5-etl-engineer-python` — ETL Engineer (Python)
+- `i5-event-instrumentation-governance-engineer` — Event Instrumentation Governance Engineer
+- `i5-real-time-computing-engineer-java` — Real-Time Computing Engineer (Java)
+- `i5-real-time-features-and-profile-pipeline-engineer` — Real-Time Features and Profile Pipeline Engineer
+- `i5-stream-processing-engineer-scala` — Stream Processing Engineer (Scala)
+
+## data-governance
+
+- `i5-metrics-and-data-assets-governance-manager` — Metrics and Data Assets Governance Manager
+
+## design
+
+- `i5-content-visual-standards-designer` — Content Visual Standards Designer
+- `i5-interaction-designer` — Interaction Designer
+- `i5-motion-designer` — Motion Designer
+- `i5-ux-writer` — UX Writer
+- `i5-visual-designer` — Visual Designer
+
+## digital-marketing
+
+- `i5-aso-seo-coordination-manager` — ASO and SEO Coordination Manager
+
+## ecommerce-operations
+
+- `i5-content-commerce-operations-manager` — Content Commerce Operations Manager
+- `i5-merchandising-and-platform-acquisition-manager` — Merchandising and Platform Acquisition Manager
+- `i5-merchant-operations-manager-platform` — Merchant Operations Manager (Platform)
+- `i5-promotions-and-major-campaign-operations-manager` — Promotions and Major Campaign Operations Manager
+- `i5-supply-chain-coordination-manager-platform` — Supply Chain Coordination Manager (Platform)
+
 ## editorial-content-operations
 
 - `i5-channel-editor-platform` — Channel Editor (Platform)
@@ -2018,10 +2200,50 @@ Published role families:
 - `i5-special-project-curation-manager-platform` — Special Project Curation Manager (Platform)
 - `i5-story-planning-manager-platform` — Story Planning Manager (Platform)
 
+## finance-management
+
+- `i5-budget-and-budget-control-manager-platform` — Budget and Budget Control Manager (Platform)
+
 ## frontend-engineering
 
+- `i5-growth-tools-engineer-typescript` — Growth Tools Engineer (TypeScript)
 - `i5-internal-tools-engineer-typescript` — Internal Tools Engineer (TypeScript)
 - `i5-review-operations-workbench-frontend-engineer-typescript` — Review and Operations Workbench Frontend Engineer (TypeScript)
+- `i5-web-h5-engineer-typescript` — Web and H5 Engineer (TypeScript)
+
+## growth-marketing
+
+- `i5-channel-operations-manager` — Channel Operations Manager
+- `i5-creative-production-and-testing-manager` — Creative Production and Testing Manager
+- `i5-livestream-paid-conversion-manager` — Livestream Paid Conversion Manager
+- `i5-paid-acquisition-manager` — Paid Acquisition Manager
+
+## hrbp-organization-development
+
+- `i5-business-unit-hrbp-platform` — Business Unit HRBP (Platform)
+- `i5-org-development-manager-platform` — Organization Development Manager (Platform)
+
+## internal-audit
+
+- `i5-audit-coordination-manager-platform` — Audit Coordination Manager (Platform)
+
+## it-internal-control
+
+- `i5-access-and-asset-management-specialist-platform` — Access and Asset Management Specialist (Platform)
+- `i5-enterprise-it-support-manager-platform` — Enterprise IT Support Manager (Platform)
+
+## learning-development
+
+- `i5-training-manager-platform` — Training Manager (Platform)
+
+## legal
+
+- `i5-contract-counsel-platform` — Contract Counsel (Platform)
+- `i5-copyright-compliance-specialist-platform` — Copyright Compliance Specialist (Platform)
+- `i5-dispute-resolution-counsel-platform` — Dispute Resolution Counsel (Platform)
+- `i5-employment-legal-support-specialist-platform` — Employment Legal Support Specialist (Platform)
+- `i5-investment-and-financing-counsel-platform` — Investment and Financing Counsel (Platform)
+- `i5-minor-content-compliance-specialist-platform` — Minor Content Compliance Specialist (Platform)
 
 ## livestream-operations
 
@@ -2059,6 +2281,45 @@ Published role families:
 - `i5-creator-messaging-and-push-operations-manager-platform` — Creator Messaging and Push Operations Manager (Platform)
 - `i5-long-tail-creator-reach-manager-platform` — Long-Tail Creator Reach Manager (Platform)
 
+## machine-learning
+
+- `i5-ad-fraud-and-invalid-traffic-detection-engineer-python` — Ad Fraud and Invalid Traffic Detection Engineer (Python)
+- `i5-asr-moderation-engineer-python` — ASR Moderation Engineer (Python)
+- `i5-bid-and-budget-optimization-engineer-python` — Bid and Budget Optimization Engineer (Python)
+- `i5-causal-inference-and-incrementality-engineer-python` — Causal Inference and Incrementality Engineer (Python)
+- `i5-content-quality-and-low-quality-detection-engineer-python` — Content Quality and Low-Quality Detection Engineer (Python)
+- `i5-content-understanding-interest-modeling-engineer-python` — Content Understanding and Interest Modeling Engineer (Python)
+- `i5-conversion-attribution-modeling-engineer-python` — Conversion Attribution Modeling Engineer (Python)
+- `i5-ctr-cvr-estimation-engineer-python` — CTR/CVR Estimation Engineer (Python)
+- `i5-embedding-and-vector-retrieval-engineer-python` — Embedding and Vector Retrieval Engineer (Python)
+- `i5-exploration-exploitation-algorithm-engineer-python` — Exploration and Exploitation Algorithm Engineer (Python)
+- `i5-image-and-video-understanding-engineer-python` — Image and Video Understanding Engineer (Python)
+- `i5-multi-objective-optimization-engineer-python` — Multi-Objective Optimization Engineer (Python)
+- `i5-ocr-moderation-engineer-python` — OCR Moderation Engineer (Python)
+- `i5-query-understanding-correction-engineer-python` — Query Understanding and Correction Engineer (Python)
+- `i5-recommendation-and-ranking-algorithm-engineer-python` — Recommendation and Ranking Algorithm Engineer (Python)
+- `i5-text-relevance-ranking-engineer-python` — Text Relevance and Ranking Engineer (Python)
+- `i5-violative-content-recognition-model-engineer-python` — Violative Content Recognition Model Engineer (Python)
+
+## membership-operations
+
+- `i5-benefits-and-customer-service-coordination-manager` — Benefits and Customer Service Coordination Manager
+- `i5-renewal-and-churn-governance-manager` — Renewal and Churn Governance Manager
+
+## mobile-engineering
+
+- `i5-android-client-engineer-kotlin` — Android Client Engineer (Kotlin)
+- `i5-cross-platform-framework-engineer-dart` — Cross-Platform Framework Engineer (Dart)
+- `i5-ios-client-engineer-swift` — iOS Client Engineer (Swift)
+- `i5-mobile-performance-optimization-engineer-dart` — Mobile Performance Optimization Engineer (Dart)
+
+## platform-engineering
+
+- `i5-performance-cost-optimization-manager-finops` — Performance and Cost Optimization Manager (FinOps)
+- `i5-platform-architect` — Platform Architect
+- `i5-technical-debt-governance-manager` — Technical Debt Governance Manager
+- `i5-technical-standards-and-code-quality-manager` — Technical Standards and Code Quality Manager
+
 ## platform-product-management
 
 - `i5-evidence-retention-audit-product-manager` — Evidence Retention and Audit Product Manager
@@ -2075,6 +2336,74 @@ Published role families:
 - `i5-minor-protection-policy-manager-platform` — Minor Protection Policy Manager (Platform)
 - `i5-privacy-sensitive-info-policy-manager-platform` — Privacy and Sensitive Information Policy Manager (Platform)
 
+## pre-sales
+
+- `i5-advertising-solutions-sales-manager` — Advertising Solutions Sales Manager
+
+## privacy-data-governance
+
+- `i5-compliance-audit-specialist-platform` — Compliance Audit Specialist (Platform)
+- `i5-cross-border-data-governance-manager-platform` — Cross-Border Data Governance Manager (Platform)
+- `i5-cross-border-data-transfer-and-third-party-governance-manager-platform` — Cross-Border Data Transfer and Third-Party Governance Manager (Platform)
+- `i5-data-protection-officer-platform` — Data Protection Officer (DPO) (Platform)
+- `i5-personal-data-protection-manager-platform` — Personal Data Protection Manager (Platform)
+- `i5-personal-information-protection-manager-platform` — Personal Information Protection Manager (Platform)
+
+## process-internal-control
+
+- `i5-internal-control-process-manager-platform` — Internal Control Process Manager (Platform)
+
+## procurement
+
+- `i5-bidding-and-tendering-specialist-platform` — Bidding and Tendering Specialist (Platform)
+- `i5-procurement-cost-optimization-manager-platform` — Procurement Cost Optimization Manager (Platform)
+- `i5-sourcing-manager-platform` — Sourcing Manager (Platform)
+
+## product-management
+
+- `i5-advertising-product-manager` — Advertising Product Manager
+- `i5-capture-editing-and-effects-product-manager` — Capture, Editing, and Effects Product Manager
+- `i5-cold-start-strategy-product-manager` — Cold Start Strategy Product Manager
+- `i5-community-governance-product-manager` — Community Governance Product Manager
+- `i5-creator-incentives-product-manager` — Creator Incentives Product Manager
+- `i5-creator-tools-and-insights-product-manager` — Creator Tools and Insights Product Manager
+- `i5-direct-messaging-and-group-chat-product-manager` — Direct Messaging and Group Chat Product Manager
+- `i5-ecommerce-product-manager` — Ecommerce Product Manager
+- `i5-engagement-interactions-product-manager` — Engagement Interactions Product Manager
+- `i5-feed-and-immersive-playback-product-manager` — Feed and Immersive Playback Product Manager
+- `i5-follow-and-fan-graph-product-manager` — Follow and Fan Graph Product Manager
+- `i5-gift-and-revenue-share-strategy-manager` — Gift and Revenue Share Strategy Manager
+- `i5-gifting-and-cohost-rules-product-manager` — Gifting and Co-Host Rules Product Manager
+- `i5-growth-experimentation-product-manager` — Growth Experimentation Product Manager
+- `i5-live-interaction-mechanics-product-manager` — Live Interaction Mechanics Product Manager
+- `i5-livestream-governance-product-manager` — Livestream Governance Product Manager
+- `i5-livestream-room-product-manager` — Livestream Room Product Manager
+- `i5-membership-product-manager` — Membership Product Manager
+- `i5-membership-subscription-product-manager` — Membership Subscription Product Manager
+- `i5-multi-objective-and-constraints-strategy-product-manager` — Multi-Objective and Constraints Strategy Product Manager
+- `i5-publishing-workflow-product-manager` — Publishing Workflow Product Manager
+- `i5-recommendation-strategy-product-manager` — Recommendation Strategy Product Manager
+- `i5-referrals-and-invitations-product-manager` — Referrals and Invitations Product Manager
+- `i5-retention-and-reactivation-product-manager` — Retention and Reactivation Product Manager
+- `i5-retrieval-and-ranking-objectives-product-manager` — Retrieval and Ranking Objectives Product Manager
+- `i5-revenue-sharing-product-manager` — Revenue Sharing Product Manager
+- `i5-search-product-manager` — Search Product Manager
+- `i5-topics-and-communities-product-manager` — Topics and Communities Product Manager
+- `i5-user-acquisition-and-conversion-product-manager` — User Acquisition and Conversion Product Manager
+- `i5-viewing-experience-and-quality-strategy-product-manager` — Viewing Experience and Quality Strategy Product Manager
+
+## public-relations
+
+- `i5-crisis-communications-coordination-manager` — Crisis Communications Coordination Manager
+- `i5-media-relations-manager` — Media Relations Manager
+
+## quality-engineering
+
+- `i5-functional-test-engineer` — Functional Test Engineer
+- `i5-online-quality-and-stability-manager` — Online Quality and Stability Manager
+- `i5-performance-test-engineer` — Performance Test Engineer
+- `i5-test-automation-engineer-python` — Test Automation Engineer (Python)
+
 ## reports-and-appeals-operations
 
 - `i5-appeals-resolution-specialist-platform` — Appeals Resolution Specialist (Platform)
@@ -2082,6 +2411,13 @@ Published role families:
 - `i5-correction-rollback-process-manager-platform` — Correction and Rollback Process Manager (Platform)
 - `i5-penalty-communication-template-manager-platform` — Penalty Communication Template Manager (Platform)
 - `i5-report-operations-specialist-platform` — Report Operations Specialist (Platform)
+
+## review-analytics-and-evaluation
+
+- `i5-model-and-strategy-effectiveness-analyst-platform` — Model and Strategy Effectiveness Analyst (Platform)
+- `i5-recall-and-false-positive-metrics-analyst-platform` — Recall and False Positive Metrics Analyst (Platform)
+- `i5-review-consistency-analyst-platform` — Review Consistency Analyst (Platform)
+- `i5-sampling-and-statistical-evaluation-analyst-platform` — Sampling and Statistical Evaluation Analyst (Platform)
 
 ## risk-and-incident-operations
 
@@ -2099,6 +2435,19 @@ Published role families:
 - `i5-fake-engagement-traffic-abuse-strategist` — Fake Engagement and Traffic Abuse Strategist
 - `i5-fraud-ring-profiling-strategist` — Fraud Ring Profiling Strategist
 
+## sales
+
+- `i5-industry-key-account-manager` — Industry Key Account Manager
+- `i5-key-account-sales-manager` — Key Account Sales Manager
+
+## sales-operations
+
+- `i5-contract-and-collections-coordinator` — Contract and Collections Coordinator
+
+## settlement-fund-operations
+
+- `i5-creator-payout-settlement-manager-platform` — Creator Payout Settlement Manager (Platform)
+
 ## short-video-content-operations
 
 - `i5-channel-operations-manager-platform` — Channel Operations Manager (Platform)
@@ -2107,12 +2456,39 @@ Published role families:
 - `i5-topic-planning-manager-platform` — Topic Planning Manager (Platform)
 - `i5-trending-content-operations-manager-platform` — Trending Content Operations Manager (Platform)
 
+## site-reliability-engineering
+
+- `i5-incident-response-and-game-day-manager` — Incident Response and Game Day Manager
+- `i5-monitoring-alerting-and-capacity-planning-engineer` — Monitoring, Alerting, and Capacity Planning Engineer
+- `i5-release-and-change-management-manager` — Release and Change Management Manager
+- `i5-site-reliability-engineer-go` — Site Reliability Engineer (Go)
+- `i5-streaming-latency-and-stability-engineer` — Streaming Latency and Stability Engineer
+
+## supplier-management
+
+- `i5-contract-and-acceptance-specialist-platform` — Contract and Acceptance Specialist (Platform)
+- `i5-supplier-management-manager-platform` — Supplier Management Manager (Platform)
+
+## talent-acquisition
+
+- `i5-recruiting-manager-platform` — Recruiting Manager (Platform)
+
+## tax-treasury
+
+- `i5-tax-manager-platform` — Tax Manager (Platform)
+- `i5-treasury-manager-platform` — Treasury Manager (Platform)
+
 ## text-community-content-operations
 
 - `i5-content-structure-governance-manager-platform` — Content Structure Governance Manager (Platform)
 - `i5-qa-post-operations-manager-platform` — Q&A and Post Operations Manager (Platform)
 - `i5-text-content-operations-manager-platform` — Text Content Operations Manager (Platform)
 - `i5-vertical-content-operations-manager-platform` — Vertical Content Operations Manager (Platform)
+
+## user-research-experience
+
+- `i5-usability-testing-specialist` — Usability Testing Specialist
+- `i5-user-researcher` — User Researcher
 
 ## video-review-operations
 

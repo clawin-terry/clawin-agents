@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i5-merchant-operations-manager-platform",
+    "roleTitle":  "Merchant Operations Manager (Platform)",
+    "personaSummary":  "Runs merchant operations so seller onboarding, store performance, and daily commerce execution remain stable across the platform marketplace.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "ecommerce-operations",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i5-merchant-operations-manager-platform",
+                    "workspace":  "~/.openclaw/agents/i5-merchant-operations-manager-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/i5-merchant-operations-manager-platform/agent",
+                    "configEntry":  "config/openclaw.agent.i5-merchant-operations-manager-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i5-merchant-operations-manager-platform.snippet.json"
+                }
+}
