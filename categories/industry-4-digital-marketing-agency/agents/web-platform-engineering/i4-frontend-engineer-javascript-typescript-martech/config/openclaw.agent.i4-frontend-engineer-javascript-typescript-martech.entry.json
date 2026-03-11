@@ -1,0 +1,13 @@
+{
+    "id":  "i4-frontend-engineer-javascript-typescript-martech",
+    "default":  false,
+    "name":  "Frontend Engineer (JavaScript/TypeScript)",
+    "workspace":  "~/.openclaw/agents/i4-frontend-engineer-javascript-typescript-martech/workspace",
+    "agentDir":  "~/.openclaw/agents/i4-frontend-engineer-javascript-typescript-martech/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

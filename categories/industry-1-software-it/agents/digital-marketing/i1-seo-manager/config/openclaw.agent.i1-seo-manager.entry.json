@@ -1,0 +1,13 @@
+{
+    "id":  "i1-seo-manager",
+    "default":  false,
+    "name":  "SEO Manager",
+    "workspace":  "~/.openclaw/agents/i1-seo-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/i1-seo-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

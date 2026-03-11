@@ -1,0 +1,13 @@
+{
+    "id":  "i3-cross-border-data-assessment-coordination-specialist",
+    "default":  false,
+    "name":  "Cross-Border Data Assessment Coordination Specialist",
+    "workspace":  "~/.openclaw/agents/i3-cross-border-data-assessment-coordination-specialist/workspace",
+    "agentDir":  "~/.openclaw/agents/i3-cross-border-data-assessment-coordination-specialist/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i1-customer-success-manager",
+    "roleTitle":  "Customer Success Manager",
+    "personaSummary":  "Owns customer success execution through adoption guidance, relationship management, and proactive coordination around account health.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "customer-success",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i1-customer-success-manager",
+                    "workspace":  "~/.openclaw/agents/i1-customer-success-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i1-customer-success-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i1-customer-success-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i1-customer-success-manager.snippet.json"
+                }
+}

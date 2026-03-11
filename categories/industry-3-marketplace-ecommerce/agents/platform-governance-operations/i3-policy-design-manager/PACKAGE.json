@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-policy-design-manager",
+    "roleTitle":  "Policy Design Manager",
+    "personaSummary":  "Designs marketplace policies so platform rules stay clear, enforceable, and aligned with trust and compliance objectives.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "platform-governance-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-policy-design-manager",
+                    "workspace":  "~/.openclaw/agents/i3-policy-design-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-policy-design-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i3-policy-design-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-policy-design-manager.snippet.json"
+                }
+}

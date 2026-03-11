@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-transaction-and-payments-counsel-marketplace",
+    "roleTitle":  "Transaction and Payments Counsel (Marketplace)",
+    "personaSummary":  "Supports transaction and payments legal work so marketplace payment flows, terms, and operational decisions remain compliant and commercially workable.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "legal",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-transaction-and-payments-counsel-marketplace",
+                    "workspace":  "~/.openclaw/agents/i3-transaction-and-payments-counsel-marketplace/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-transaction-and-payments-counsel-marketplace/agent",
+                    "configEntry":  "config/openclaw.agent.i3-transaction-and-payments-counsel-marketplace.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-transaction-and-payments-counsel-marketplace.snippet.json"
+                }
+}

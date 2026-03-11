@@ -1,0 +1,13 @@
+{
+    "id":  "i3-low-quality-and-counterfeit-governance-manager",
+    "default":  false,
+    "name":  "Low-Quality and Counterfeit Governance Manager",
+    "workspace":  "~/.openclaw/agents/i3-low-quality-and-counterfeit-governance-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/i3-low-quality-and-counterfeit-governance-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

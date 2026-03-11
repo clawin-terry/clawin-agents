@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-creator-operations-manager",
+    "roleTitle":  "Creator Operations Manager",
+    "personaSummary":  "Runs creator operations so marketplace authors and influencers receive structured support, guidance, and operating rhythms that improve content output.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "content-creator-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-creator-operations-manager",
+                    "workspace":  "~/.openclaw/agents/i3-creator-operations-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-creator-operations-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i3-creator-operations-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-creator-operations-manager.snippet.json"
+                }
+}

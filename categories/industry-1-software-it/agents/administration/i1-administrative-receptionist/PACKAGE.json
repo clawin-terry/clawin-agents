@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i1-administrative-receptionist",
+    "roleTitle":  "Administrative Receptionist",
+    "personaSummary":  "Handles front-desk and administrative support so visitors, communications, and routine office workflows are managed professionally and efficiently.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "administration",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i1-administrative-receptionist",
+                    "workspace":  "~/.openclaw/agents/i1-administrative-receptionist/workspace",
+                    "agentDir":  "~/.openclaw/agents/i1-administrative-receptionist/agent",
+                    "configEntry":  "config/openclaw.agent.i1-administrative-receptionist.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i1-administrative-receptionist.snippet.json"
+                }
+}

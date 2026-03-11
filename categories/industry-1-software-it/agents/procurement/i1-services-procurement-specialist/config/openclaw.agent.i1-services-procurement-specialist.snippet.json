@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "i1-services-procurement-specialist",
+                                    "default":  false,
+                                    "name":  "Services Procurement Specialist",
+                                    "workspace":  "~/.openclaw/agents/i1-services-procurement-specialist/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i1-services-procurement-specialist/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

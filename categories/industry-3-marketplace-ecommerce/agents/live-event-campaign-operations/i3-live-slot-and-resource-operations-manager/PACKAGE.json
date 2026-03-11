@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-live-slot-and-resource-operations-manager",
+    "roleTitle":  "Live Slot and Resource Operations Manager",
+    "personaSummary":  "Operates live slots and resource placements so marketplace livestream campaigns allocate exposure, inventory, and support with discipline.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "live-event-campaign-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-live-slot-and-resource-operations-manager",
+                    "workspace":  "~/.openclaw/agents/i3-live-slot-and-resource-operations-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-live-slot-and-resource-operations-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i3-live-slot-and-resource-operations-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-live-slot-and-resource-operations-manager.snippet.json"
+                }
+}

@@ -1,0 +1,13 @@
+{
+    "id":  "i4-landing-page-copywriter-agency",
+    "default":  false,
+    "name":  "Landing Page Copywriter (Agency)",
+    "workspace":  "~/.openclaw/agents/i4-landing-page-copywriter-agency/workspace",
+    "agentDir":  "~/.openclaw/agents/i4-landing-page-copywriter-agency/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

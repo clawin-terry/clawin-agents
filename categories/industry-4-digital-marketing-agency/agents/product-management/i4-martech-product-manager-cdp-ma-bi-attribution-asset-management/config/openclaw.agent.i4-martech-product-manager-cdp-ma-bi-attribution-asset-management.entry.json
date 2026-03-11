@@ -1,0 +1,13 @@
+{
+    "id":  "i4-martech-product-manager-cdp-ma-bi-attribution-asset-management",
+    "default":  false,
+    "name":  "MarTech Product Manager (CDP, Marketing Automation, BI, Attribution, and Asset Management)",
+    "workspace":  "~/.openclaw/agents/i4-martech-product-manager-cdp-ma-bi-attribution-asset-management/workspace",
+    "agentDir":  "~/.openclaw/agents/i4-martech-product-manager-cdp-ma-bi-attribution-asset-management/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

@@ -1,0 +1,13 @@
+{
+    "id":  "i1-technical-program-manager",
+    "default":  false,
+    "name":  "Technical Program Manager",
+    "workspace":  "~/.openclaw/agents/i1-technical-program-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/i1-technical-program-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i5-repeat-offender-control-specialist-platform",
+    "roleTitle":  "Repeat Offender Control Specialist (Platform)",
+    "personaSummary":  "Controls repeat-offender patterns so recurring policy violators are tracked, constrained, and handled with better enforcement continuity.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "content-review-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i5-repeat-offender-control-specialist-platform",
+                    "workspace":  "~/.openclaw/agents/i5-repeat-offender-control-specialist-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/i5-repeat-offender-control-specialist-platform/agent",
+                    "configEntry":  "config/openclaw.agent.i5-repeat-offender-control-specialist-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i5-repeat-offender-control-specialist-platform.snippet.json"
+                }
+}

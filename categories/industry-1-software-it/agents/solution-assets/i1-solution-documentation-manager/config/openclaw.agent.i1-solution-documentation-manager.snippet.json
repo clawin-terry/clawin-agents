@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "i1-solution-documentation-manager",
+                                    "default":  false,
+                                    "name":  "Solution Documentation Manager",
+                                    "workspace":  "~/.openclaw/agents/i1-solution-documentation-manager/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i1-solution-documentation-manager/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

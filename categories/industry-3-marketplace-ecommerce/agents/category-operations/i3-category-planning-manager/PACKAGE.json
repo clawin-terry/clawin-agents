@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-category-planning-manager",
+    "roleTitle":  "Category Planning Manager",
+    "personaSummary":  "Plans category direction by balancing assortment priorities, merchant mix, and business objectives for sustainable marketplace growth.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "category-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-category-planning-manager",
+                    "workspace":  "~/.openclaw/agents/i3-category-planning-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-category-planning-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i3-category-planning-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-category-planning-manager.snippet.json"
+                }
+}

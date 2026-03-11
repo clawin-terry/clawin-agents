@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-evidence-review-specialist",
+    "roleTitle":  "Evidence Review Specialist",
+    "personaSummary":  "Reviews dispute evidence so aftersales and arbitration decisions are grounded in complete, well-structured case materials.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "aftersales-dispute-arbitration",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-evidence-review-specialist",
+                    "workspace":  "~/.openclaw/agents/i3-evidence-review-specialist/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-evidence-review-specialist/agent",
+                    "configEntry":  "config/openclaw.agent.i3-evidence-review-specialist.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-evidence-review-specialist.snippet.json"
+                }
+}

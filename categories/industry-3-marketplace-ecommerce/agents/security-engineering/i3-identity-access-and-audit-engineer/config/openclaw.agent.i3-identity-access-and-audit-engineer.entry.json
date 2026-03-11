@@ -1,0 +1,13 @@
+{
+    "id":  "i3-identity-access-and-audit-engineer",
+    "default":  false,
+    "name":  "Identity, Access, and Audit Engineer",
+    "workspace":  "~/.openclaw/agents/i3-identity-access-and-audit-engineer/workspace",
+    "agentDir":  "~/.openclaw/agents/i3-identity-access-and-audit-engineer/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

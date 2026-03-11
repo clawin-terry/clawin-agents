@@ -1,0 +1,13 @@
+{
+    "id":  "i4-annual-campaign-planner-agency",
+    "default":  false,
+    "name":  "Annual Campaign Planner (Agency)",
+    "workspace":  "~/.openclaw/agents/i4-annual-campaign-planner-agency/workspace",
+    "agentDir":  "~/.openclaw/agents/i4-annual-campaign-planner-agency/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

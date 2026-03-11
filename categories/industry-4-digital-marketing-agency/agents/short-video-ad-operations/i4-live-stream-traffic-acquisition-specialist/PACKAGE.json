@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-live-stream-traffic-acquisition-specialist",
+    "roleTitle":  "Live Stream Traffic Acquisition Specialist (Agency)",
+    "personaSummary":  "Drives live-stream traffic acquisition so agency teams can connect advertising spend with stronger audience inflow to live commerce or event sessions.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "short-video-ad-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-live-stream-traffic-acquisition-specialist",
+                    "workspace":  "~/.openclaw/agents/i4-live-stream-traffic-acquisition-specialist/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-live-stream-traffic-acquisition-specialist/agent",
+                    "configEntry":  "config/openclaw.agent.i4-live-stream-traffic-acquisition-specialist.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-live-stream-traffic-acquisition-specialist.snippet.json"
+                }
+}

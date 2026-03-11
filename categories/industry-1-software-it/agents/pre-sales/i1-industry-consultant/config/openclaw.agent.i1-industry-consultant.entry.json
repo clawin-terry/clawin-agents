@@ -1,0 +1,13 @@
+{
+    "id":  "i1-industry-consultant",
+    "default":  false,
+    "name":  "Industry Consultant",
+    "workspace":  "~/.openclaw/agents/i1-industry-consultant/workspace",
+    "agentDir":  "~/.openclaw/agents/i1-industry-consultant/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

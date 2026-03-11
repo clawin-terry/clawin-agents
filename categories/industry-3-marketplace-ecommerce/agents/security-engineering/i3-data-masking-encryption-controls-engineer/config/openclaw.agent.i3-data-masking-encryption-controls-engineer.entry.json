@@ -1,0 +1,13 @@
+{
+    "id":  "i3-data-masking-encryption-controls-engineer",
+    "default":  false,
+    "name":  "Data Masking and Encryption Controls Engineer",
+    "workspace":  "~/.openclaw/agents/i3-data-masking-encryption-controls-engineer/workspace",
+    "agentDir":  "~/.openclaw/agents/i3-data-masking-encryption-controls-engineer/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

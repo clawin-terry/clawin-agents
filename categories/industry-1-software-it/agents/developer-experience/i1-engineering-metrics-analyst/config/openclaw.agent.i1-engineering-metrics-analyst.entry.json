@@ -1,0 +1,13 @@
+{
+    "id":  "i1-engineering-metrics-analyst",
+    "default":  false,
+    "name":  "Engineering Metrics Analyst",
+    "workspace":  "~/.openclaw/agents/i1-engineering-metrics-analyst/workspace",
+    "agentDir":  "~/.openclaw/agents/i1-engineering-metrics-analyst/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

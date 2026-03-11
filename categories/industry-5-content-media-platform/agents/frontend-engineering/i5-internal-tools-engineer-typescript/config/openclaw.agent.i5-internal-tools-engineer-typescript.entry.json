@@ -1,0 +1,13 @@
+{
+    "id":  "i5-internal-tools-engineer-typescript",
+    "default":  false,
+    "name":  "Internal Tools Engineer (TypeScript)",
+    "workspace":  "~/.openclaw/agents/i5-internal-tools-engineer-typescript/workspace",
+    "agentDir":  "~/.openclaw/agents/i5-internal-tools-engineer-typescript/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

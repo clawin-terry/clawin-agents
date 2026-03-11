@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "i3-inventory-and-fulfillment-forecasting-engineer",
+                                    "default":  false,
+                                    "name":  "Inventory and Fulfillment Forecasting Engineer",
+                                    "workspace":  "~/.openclaw/agents/i3-inventory-and-fulfillment-forecasting-engineer/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i3-inventory-and-fulfillment-forecasting-engineer/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

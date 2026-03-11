@@ -1,0 +1,13 @@
+{
+    "id":  "i5-text-and-image-review-specialist-platform",
+    "default":  false,
+    "name":  "Text and Image Review Specialist (Platform)",
+    "workspace":  "~/.openclaw/agents/i5-text-and-image-review-specialist-platform/workspace",
+    "agentDir":  "~/.openclaw/agents/i5-text-and-image-review-specialist-platform/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

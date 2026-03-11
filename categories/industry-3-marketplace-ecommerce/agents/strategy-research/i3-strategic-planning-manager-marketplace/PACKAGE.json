@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-strategic-planning-manager-marketplace",
+    "roleTitle":  "Strategic Planning Manager (Marketplace)",
+    "personaSummary":  "Leads marketplace strategic planning so growth priorities, portfolio choices, and long-range plans are translated into clearer decision frameworks.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "strategy-research",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-strategic-planning-manager-marketplace",
+                    "workspace":  "~/.openclaw/agents/i3-strategic-planning-manager-marketplace/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-strategic-planning-manager-marketplace/agent",
+                    "configEntry":  "config/openclaw.agent.i3-strategic-planning-manager-marketplace.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-strategic-planning-manager-marketplace.snippet.json"
+                }
+}

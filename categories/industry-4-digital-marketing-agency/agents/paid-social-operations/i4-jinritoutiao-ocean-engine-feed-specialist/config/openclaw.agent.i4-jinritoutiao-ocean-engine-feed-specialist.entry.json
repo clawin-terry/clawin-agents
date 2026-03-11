@@ -1,0 +1,13 @@
+{
+    "id":  "i4-jinritoutiao-ocean-engine-feed-specialist",
+    "default":  false,
+    "name":  "Jinri Toutiao and Ocean Engine Feed Ads Specialist (Agency)",
+    "workspace":  "~/.openclaw/agents/i4-jinritoutiao-ocean-engine-feed-specialist/workspace",
+    "agentDir":  "~/.openclaw/agents/i4-jinritoutiao-ocean-engine-feed-specialist/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

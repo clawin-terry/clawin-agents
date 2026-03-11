@@ -1,0 +1,13 @@
+{
+    "id":  "i1-configuration-implementation-engineer-java-sql",
+    "default":  false,
+    "name":  "Configuration Implementation Engineer (Java/SQL)",
+    "workspace":  "~/.openclaw/agents/i1-configuration-implementation-engineer-java-sql/workspace",
+    "agentDir":  "~/.openclaw/agents/i1-configuration-implementation-engineer-java-sql/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

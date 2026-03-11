@@ -1,0 +1,13 @@
+{
+    "id":  "i1-forecast-pipeline-manager",
+    "default":  false,
+    "name":  "Forecast and Pipeline Manager",
+    "workspace":  "~/.openclaw/agents/i1-forecast-pipeline-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/i1-forecast-pipeline-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

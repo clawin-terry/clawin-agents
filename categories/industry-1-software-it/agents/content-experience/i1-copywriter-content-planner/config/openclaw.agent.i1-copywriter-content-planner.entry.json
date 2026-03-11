@@ -1,0 +1,13 @@
+{
+    "id":  "i1-copywriter-content-planner",
+    "default":  false,
+    "name":  "Copywriter and Content Planner",
+    "workspace":  "~/.openclaw/agents/i1-copywriter-content-planner/workspace",
+    "agentDir":  "~/.openclaw/agents/i1-copywriter-content-planner/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

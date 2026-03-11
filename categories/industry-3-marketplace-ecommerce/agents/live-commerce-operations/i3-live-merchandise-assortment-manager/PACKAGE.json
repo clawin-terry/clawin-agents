@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-live-merchandise-assortment-manager",
+    "roleTitle":  "Live Merchandise Assortment Manager",
+    "personaSummary":  "Curates live merchandise assortments so marketplace livestreams feature the right products, sequencing, and commercial balance.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "live-commerce-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-live-merchandise-assortment-manager",
+                    "workspace":  "~/.openclaw/agents/i3-live-merchandise-assortment-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-live-merchandise-assortment-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i3-live-merchandise-assortment-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-live-merchandise-assortment-manager.snippet.json"
+                }
+}

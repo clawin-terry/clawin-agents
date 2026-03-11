@@ -1,0 +1,13 @@
+{
+    "id":  "i3-ios-engineer-swift",
+    "default":  false,
+    "name":  "iOS Engineer (Swift)",
+    "workspace":  "~/.openclaw/agents/i3-ios-engineer-swift/workspace",
+    "agentDir":  "~/.openclaw/agents/i3-ios-engineer-swift/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

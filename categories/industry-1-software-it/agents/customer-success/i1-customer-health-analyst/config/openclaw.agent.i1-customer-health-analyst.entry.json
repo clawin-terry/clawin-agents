@@ -1,0 +1,13 @@
+{
+    "id":  "i1-customer-health-analyst",
+    "default":  false,
+    "name":  "Customer Health Analyst",
+    "workspace":  "~/.openclaw/agents/i1-customer-health-analyst/workspace",
+    "agentDir":  "~/.openclaw/agents/i1-customer-health-analyst/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

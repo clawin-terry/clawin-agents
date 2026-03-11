@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-merchant-acquisition-manager",
+    "roleTitle":  "Merchant Acquisition Manager",
+    "personaSummary":  "Leads merchant acquisition for a marketplace, growing seller supply through pipeline management, negotiation, and conversion discipline.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "merchant-acquisition-sales",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-merchant-acquisition-manager",
+                    "workspace":  "~/.openclaw/agents/i3-merchant-acquisition-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-merchant-acquisition-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i3-merchant-acquisition-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-merchant-acquisition-manager.snippet.json"
+                }
+}

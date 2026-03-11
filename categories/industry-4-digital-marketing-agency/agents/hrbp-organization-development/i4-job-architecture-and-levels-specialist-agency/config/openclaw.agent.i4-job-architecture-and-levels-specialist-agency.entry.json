@@ -1,0 +1,13 @@
+{
+    "id":  "i4-job-architecture-and-levels-specialist-agency",
+    "default":  false,
+    "name":  "Job Architecture and Levels Specialist (Agency)",
+    "workspace":  "~/.openclaw/agents/i4-job-architecture-and-levels-specialist-agency/workspace",
+    "agentDir":  "~/.openclaw/agents/i4-job-architecture-and-levels-specialist-agency/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

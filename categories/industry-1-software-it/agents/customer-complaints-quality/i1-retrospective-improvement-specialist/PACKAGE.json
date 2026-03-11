@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i1-retrospective-improvement-specialist",
+    "roleTitle":  "Retrospective and Improvement Specialist",
+    "personaSummary":  "Runs retrospectives and improvement follow-through so service failures produce concrete lessons, ownership, and durable operational change.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "customer-complaints-quality",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i1-retrospective-improvement-specialist",
+                    "workspace":  "~/.openclaw/agents/i1-retrospective-improvement-specialist/workspace",
+                    "agentDir":  "~/.openclaw/agents/i1-retrospective-improvement-specialist/agent",
+                    "configEntry":  "config/openclaw.agent.i1-retrospective-improvement-specialist.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i1-retrospective-improvement-specialist.snippet.json"
+                }
+}

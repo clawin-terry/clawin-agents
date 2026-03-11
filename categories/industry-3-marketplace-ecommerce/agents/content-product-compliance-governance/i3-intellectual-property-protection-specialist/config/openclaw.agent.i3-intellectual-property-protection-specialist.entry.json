@@ -1,0 +1,13 @@
+{
+    "id":  "i3-intellectual-property-protection-specialist",
+    "default":  false,
+    "name":  "Intellectual Property Protection Specialist",
+    "workspace":  "~/.openclaw/agents/i3-intellectual-property-protection-specialist/workspace",
+    "agentDir":  "~/.openclaw/agents/i3-intellectual-property-protection-specialist/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

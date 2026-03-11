@@ -1,0 +1,13 @@
+{
+    "id":  "i3-design-systems-lead",
+    "default":  false,
+    "name":  "Design Systems Lead",
+    "workspace":  "~/.openclaw/agents/i3-design-systems-lead/workspace",
+    "agentDir":  "~/.openclaw/agents/i3-design-systems-lead/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

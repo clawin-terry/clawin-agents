@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i5-mcn-partnership-development-manager-platform",
+    "roleTitle":  "MCN Partnership Development Manager (Platform)",
+    "personaSummary":  "Develops MCN partnerships so the platform can expand creator supply through agencies, strengthen institutional relationships, and align partner growth plans.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "creator-partner-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i5-mcn-partnership-development-manager-platform",
+                    "workspace":  "~/.openclaw/agents/i5-mcn-partnership-development-manager-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/i5-mcn-partnership-development-manager-platform/agent",
+                    "configEntry":  "config/openclaw.agent.i5-mcn-partnership-development-manager-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i5-mcn-partnership-development-manager-platform.snippet.json"
+                }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-hr-shared-services-specialist-marketplace",
+    "roleTitle":  "HR Shared Services Specialist (Marketplace)",
+    "personaSummary":  "Runs HR shared-services workflows so marketplace employee requests, records, and standard people operations are handled consistently and efficiently.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "hrbp-organization-development",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-hr-shared-services-specialist-marketplace",
+                    "workspace":  "~/.openclaw/agents/i3-hr-shared-services-specialist-marketplace/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-hr-shared-services-specialist-marketplace/agent",
+                    "configEntry":  "config/openclaw.agent.i3-hr-shared-services-specialist-marketplace.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-hr-shared-services-specialist-marketplace.snippet.json"
+                }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i1-public-opinion-crisis-communications-manager",
+    "roleTitle":  "Public Opinion and Crisis Communications Manager",
+    "personaSummary":  "Monitors public sentiment and leads crisis communications response so reputational risk is contained with speed, clarity, and discipline.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "public-relations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i1-public-opinion-crisis-communications-manager",
+                    "workspace":  "~/.openclaw/agents/i1-public-opinion-crisis-communications-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i1-public-opinion-crisis-communications-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i1-public-opinion-crisis-communications-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i1-public-opinion-crisis-communications-manager.snippet.json"
+                }
+}

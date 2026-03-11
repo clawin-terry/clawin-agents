@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-schedule-and-resource-planner-agency",
+    "roleTitle":  "Schedule and Resource Planner (Agency)",
+    "personaSummary":  "Plans schedules and staffing so agency teams can balance timelines, workload, and campaign delivery capacity with fewer bottlenecks.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "delivery-management",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-schedule-and-resource-planner-agency",
+                    "workspace":  "~/.openclaw/agents/i4-schedule-and-resource-planner-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-schedule-and-resource-planner-agency/agent",
+                    "configEntry":  "config/openclaw.agent.i4-schedule-and-resource-planner-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-schedule-and-resource-planner-agency.snippet.json"
+                }
+}

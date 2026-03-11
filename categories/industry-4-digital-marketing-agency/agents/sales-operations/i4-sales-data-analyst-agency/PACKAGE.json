@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-sales-data-analyst-agency",
+    "roleTitle":  "Sales Data Analyst (Agency)",
+    "personaSummary":  "Analyzes sales data so agency leaders can track pipeline performance, conversion patterns, and revenue signals more clearly.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "sales-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-sales-data-analyst-agency",
+                    "workspace":  "~/.openclaw/agents/i4-sales-data-analyst-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-sales-data-analyst-agency/agent",
+                    "configEntry":  "config/openclaw.agent.i4-sales-data-analyst-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-sales-data-analyst-agency.snippet.json"
+                }
+}

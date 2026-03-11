@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "i4-account-executive-agency",
+                                    "default":  false,
+                                    "name":  "Account Executive (Agency)",
+                                    "workspace":  "~/.openclaw/agents/i4-account-executive-agency/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i4-account-executive-agency/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

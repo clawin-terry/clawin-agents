@@ -1,0 +1,13 @@
+{
+    "id":  "i4-tmall-taobao-wanxiangtai-specialist",
+    "default":  false,
+    "name":  "Tmall and Taobao Wanxiangtai Specialist (Agency)",
+    "workspace":  "~/.openclaw/agents/i4-tmall-taobao-wanxiangtai-specialist/workspace",
+    "agentDir":  "~/.openclaw/agents/i4-tmall-taobao-wanxiangtai-specialist/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

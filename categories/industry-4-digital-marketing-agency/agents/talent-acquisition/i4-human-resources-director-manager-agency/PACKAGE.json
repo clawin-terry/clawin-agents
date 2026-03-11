@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-human-resources-director-manager-agency",
+    "roleTitle":  "Human Resources Director / Manager (Agency)",
+    "personaSummary":  "Leads agency people operations and recruiting direction so workforce plans, team policies, and hiring execution stay aligned with business growth.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "talent-acquisition",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-human-resources-director-manager-agency",
+                    "workspace":  "~/.openclaw/agents/i4-human-resources-director-manager-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-human-resources-director-manager-agency/agent",
+                    "configEntry":  "config/openclaw.agent.i4-human-resources-director-manager-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-human-resources-director-manager-agency.snippet.json"
+                }
+}

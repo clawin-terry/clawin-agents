@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-shopping-guide-and-service-coordination-specialist-agency",
+    "roleTitle":  "Shopping Guide and Service Coordination Specialist (Agency)",
+    "personaSummary":  "Coordinates shopping-guide and service touchpoints so agency private-domain programs can connect conversion support with frontline service execution.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "private-domain-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-shopping-guide-and-service-coordination-specialist-agency",
+                    "workspace":  "~/.openclaw/agents/i4-shopping-guide-and-service-coordination-specialist-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-shopping-guide-and-service-coordination-specialist-agency/agent",
+                    "configEntry":  "config/openclaw.agent.i4-shopping-guide-and-service-coordination-specialist-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-shopping-guide-and-service-coordination-specialist-agency.snippet.json"
+                }
+}

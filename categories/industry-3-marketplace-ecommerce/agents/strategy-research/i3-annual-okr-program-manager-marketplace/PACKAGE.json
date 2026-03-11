@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-annual-okr-program-manager-marketplace",
+    "roleTitle":  "Annual OKR Program Manager (Marketplace)",
+    "personaSummary":  "Runs annual OKR planning so marketplace goals, ownership alignment, and follow-through rhythms remain structured across functions.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "strategy-research",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-annual-okr-program-manager-marketplace",
+                    "workspace":  "~/.openclaw/agents/i3-annual-okr-program-manager-marketplace/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-annual-okr-program-manager-marketplace/agent",
+                    "configEntry":  "config/openclaw.agent.i3-annual-okr-program-manager-marketplace.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-annual-okr-program-manager-marketplace.snippet.json"
+                }
+}

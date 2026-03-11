@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-office-assets-specialist-agency",
+    "roleTitle":  "Office Assets Specialist (Agency)",
+    "personaSummary":  "Manages office assets so agency equipment, inventories, and workspace supplies remain available, tracked, and well controlled.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "administration",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-office-assets-specialist-agency",
+                    "workspace":  "~/.openclaw/agents/i4-office-assets-specialist-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-office-assets-specialist-agency/agent",
+                    "configEntry":  "config/openclaw.agent.i4-office-assets-specialist-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-office-assets-specialist-agency.snippet.json"
+                }
+}

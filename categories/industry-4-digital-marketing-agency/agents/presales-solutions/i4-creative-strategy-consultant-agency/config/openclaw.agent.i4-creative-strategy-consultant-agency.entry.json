@@ -1,0 +1,13 @@
+{
+    "id":  "i4-creative-strategy-consultant-agency",
+    "default":  false,
+    "name":  "Creative Strategy Consultant (Agency)",
+    "workspace":  "~/.openclaw/agents/i4-creative-strategy-consultant-agency/workspace",
+    "agentDir":  "~/.openclaw/agents/i4-creative-strategy-consultant-agency/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

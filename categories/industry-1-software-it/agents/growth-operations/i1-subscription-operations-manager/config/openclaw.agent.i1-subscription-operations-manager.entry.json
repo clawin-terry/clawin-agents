@@ -1,0 +1,13 @@
+{
+    "id":  "i1-subscription-operations-manager",
+    "default":  false,
+    "name":  "Subscription Operations Manager",
+    "workspace":  "~/.openclaw/agents/i1-subscription-operations-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/i1-subscription-operations-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

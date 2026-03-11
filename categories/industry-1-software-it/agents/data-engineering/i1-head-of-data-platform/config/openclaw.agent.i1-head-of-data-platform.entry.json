@@ -1,0 +1,13 @@
+{
+    "id":  "i1-head-of-data-platform",
+    "default":  false,
+    "name":  "Head of Data Platform",
+    "workspace":  "~/.openclaw/agents/i1-head-of-data-platform/workspace",
+    "agentDir":  "~/.openclaw/agents/i1-head-of-data-platform/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

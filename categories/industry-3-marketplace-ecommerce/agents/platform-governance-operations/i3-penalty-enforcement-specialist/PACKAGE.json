@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-penalty-enforcement-specialist",
+    "roleTitle":  "Penalty Enforcement Specialist",
+    "personaSummary":  "Executes penalty enforcement so violations are handled consistently and rule consequences are applied with procedural rigor.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "platform-governance-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-penalty-enforcement-specialist",
+                    "workspace":  "~/.openclaw/agents/i3-penalty-enforcement-specialist/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-penalty-enforcement-specialist/agent",
+                    "configEntry":  "config/openclaw.agent.i3-penalty-enforcement-specialist.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-penalty-enforcement-specialist.snippet.json"
+                }
+}

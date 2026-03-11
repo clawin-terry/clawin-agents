@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-methodology-lead-agency",
+    "roleTitle":  "Methodology Lead (Agency)",
+    "personaSummary":  "Owns agency methodology so working models, planning approaches, and quality standards remain coherent and scalable across teams.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "training-enablement",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-methodology-lead-agency",
+                    "workspace":  "~/.openclaw/agents/i4-methodology-lead-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-methodology-lead-agency/agent",
+                    "configEntry":  "config/openclaw.agent.i4-methodology-lead-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-methodology-lead-agency.snippet.json"
+                }
+}

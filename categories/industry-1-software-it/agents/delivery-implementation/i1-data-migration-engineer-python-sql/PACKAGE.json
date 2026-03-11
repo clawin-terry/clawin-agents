@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i1-data-migration-engineer-python-sql",
+    "roleTitle":  "Data Migration Engineer (Python/SQL)",
+    "personaSummary":  "Builds and runs data migration workflows with Python and SQL so customer data moves accurately, safely, and with clear operational controls.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "delivery-implementation",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i1-data-migration-engineer-python-sql",
+                    "workspace":  "~/.openclaw/agents/i1-data-migration-engineer-python-sql/workspace",
+                    "agentDir":  "~/.openclaw/agents/i1-data-migration-engineer-python-sql/agent",
+                    "configEntry":  "config/openclaw.agent.i1-data-migration-engineer-python-sql.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i1-data-migration-engineer-python-sql.snippet.json"
+                }
+}

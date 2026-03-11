@@ -1,0 +1,13 @@
+{
+    "id":  "i1-foreign-exchange-cross-border-settlement-specialist",
+    "default":  false,
+    "name":  "Foreign Exchange and Cross-Border Settlement Specialist",
+    "workspace":  "~/.openclaw/agents/i1-foreign-exchange-cross-border-settlement-specialist/workspace",
+    "agentDir":  "~/.openclaw/agents/i1-foreign-exchange-cross-border-settlement-specialist/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

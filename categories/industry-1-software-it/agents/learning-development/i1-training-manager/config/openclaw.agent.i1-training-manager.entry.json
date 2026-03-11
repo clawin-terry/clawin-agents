@@ -1,0 +1,13 @@
+{
+    "id":  "i1-training-manager",
+    "default":  false,
+    "name":  "Training Manager",
+    "workspace":  "~/.openclaw/agents/i1-training-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/i1-training-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "i5-reporting-funnel-operations-coordinator-platform",
+                                    "default":  false,
+                                    "name":  "Reporting Funnel Operations Coordinator (Platform)",
+                                    "workspace":  "~/.openclaw/agents/i5-reporting-funnel-operations-coordinator-platform/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i5-reporting-funnel-operations-coordinator-platform/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

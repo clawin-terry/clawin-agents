@@ -1,0 +1,13 @@
+{
+    "id":  "i4-customer-service-and-aftersales-coordinator-agency",
+    "default":  false,
+    "name":  "Customer Service and Aftersales Coordinator (Agency)",
+    "workspace":  "~/.openclaw/agents/i4-customer-service-and-aftersales-coordinator-agency/workspace",
+    "agentDir":  "~/.openclaw/agents/i4-customer-service-and-aftersales-coordinator-agency/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

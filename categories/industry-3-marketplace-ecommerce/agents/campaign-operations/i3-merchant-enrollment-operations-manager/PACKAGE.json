@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-merchant-enrollment-operations-manager",
+    "roleTitle":  "Merchant Enrollment Operations Manager",
+    "personaSummary":  "Runs merchant enrollment operations so campaign participation pipelines, seller readiness, and signup follow-through stay on schedule.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "campaign-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-merchant-enrollment-operations-manager",
+                    "workspace":  "~/.openclaw/agents/i3-merchant-enrollment-operations-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-merchant-enrollment-operations-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i3-merchant-enrollment-operations-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-merchant-enrollment-operations-manager.snippet.json"
+                }
+}

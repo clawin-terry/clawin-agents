@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-live-content-compliance-coordination-manager",
+    "roleTitle":  "Live Content Compliance Coordination Manager",
+    "personaSummary":  "Coordinates live content compliance so marketplace streams align with policy standards, review workflows, and escalation paths.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "live-risk-and-compliance-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-live-content-compliance-coordination-manager",
+                    "workspace":  "~/.openclaw/agents/i3-live-content-compliance-coordination-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-live-content-compliance-coordination-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i3-live-content-compliance-coordination-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-live-content-compliance-coordination-manager.snippet.json"
+                }
+}

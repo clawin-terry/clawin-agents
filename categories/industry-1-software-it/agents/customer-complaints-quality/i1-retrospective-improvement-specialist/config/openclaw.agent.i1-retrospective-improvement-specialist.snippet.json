@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "i1-retrospective-improvement-specialist",
+                                    "default":  false,
+                                    "name":  "Retrospective and Improvement Specialist",
+                                    "workspace":  "~/.openclaw/agents/i1-retrospective-improvement-specialist/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i1-retrospective-improvement-specialist/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

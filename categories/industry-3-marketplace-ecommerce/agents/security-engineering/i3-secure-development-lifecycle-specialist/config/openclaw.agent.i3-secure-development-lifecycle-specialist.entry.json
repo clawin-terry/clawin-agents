@@ -1,0 +1,13 @@
+{
+    "id":  "i3-secure-development-lifecycle-specialist",
+    "default":  false,
+    "name":  "Secure Development Lifecycle Specialist",
+    "workspace":  "~/.openclaw/agents/i3-secure-development-lifecycle-specialist/workspace",
+    "agentDir":  "~/.openclaw/agents/i3-secure-development-lifecycle-specialist/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

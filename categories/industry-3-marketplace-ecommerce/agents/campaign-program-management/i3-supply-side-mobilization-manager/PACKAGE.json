@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-supply-side-mobilization-manager",
+    "roleTitle":  "Supply-Side Mobilization Manager",
+    "personaSummary":  "Mobilizes supply-side participation so sellers, assortments, and promotional inventory are ready for major marketplace campaigns.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "campaign-program-management",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-supply-side-mobilization-manager",
+                    "workspace":  "~/.openclaw/agents/i3-supply-side-mobilization-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-supply-side-mobilization-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i3-supply-side-mobilization-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-supply-side-mobilization-manager.snippet.json"
+                }
+}

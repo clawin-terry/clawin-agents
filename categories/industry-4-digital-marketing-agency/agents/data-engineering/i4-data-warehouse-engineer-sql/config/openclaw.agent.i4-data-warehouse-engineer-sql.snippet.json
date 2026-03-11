@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "i4-data-warehouse-engineer-sql",
+                                    "default":  false,
+                                    "name":  "Data Warehouse Engineer (SQL)",
+                                    "workspace":  "~/.openclaw/agents/i4-data-warehouse-engineer-sql/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i4-data-warehouse-engineer-sql/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

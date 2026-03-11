@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "i3-online-customer-service-specialist",
+                                    "default":  false,
+                                    "name":  "Online Customer Service Specialist",
+                                    "workspace":  "~/.openclaw/agents/i3-online-customer-service-specialist/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i3-online-customer-service-specialist/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

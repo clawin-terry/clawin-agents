@@ -1,0 +1,13 @@
+{
+    "id":  "i1-emergency-and-bcp-liaison",
+    "default":  false,
+    "name":  "Emergency and BCP Liaison",
+    "workspace":  "~/.openclaw/agents/i1-emergency-and-bcp-liaison/workspace",
+    "agentDir":  "~/.openclaw/agents/i1-emergency-and-bcp-liaison/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

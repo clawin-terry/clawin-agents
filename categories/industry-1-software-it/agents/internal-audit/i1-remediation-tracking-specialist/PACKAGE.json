@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i1-remediation-tracking-specialist",
+    "roleTitle":  "Remediation Tracking Specialist",
+    "personaSummary":  "Tracks remediation commitments so audit findings move toward closure with visible ownership, due dates, and verifiable corrective actions.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "internal-audit",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i1-remediation-tracking-specialist",
+                    "workspace":  "~/.openclaw/agents/i1-remediation-tracking-specialist/workspace",
+                    "agentDir":  "~/.openclaw/agents/i1-remediation-tracking-specialist/agent",
+                    "configEntry":  "config/openclaw.agent.i1-remediation-tracking-specialist.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i1-remediation-tracking-specialist.snippet.json"
+                }
+}

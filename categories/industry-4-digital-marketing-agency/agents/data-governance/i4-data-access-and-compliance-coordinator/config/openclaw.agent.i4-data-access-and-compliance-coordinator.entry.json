@@ -1,0 +1,13 @@
+{
+    "id":  "i4-data-access-and-compliance-coordinator",
+    "default":  false,
+    "name":  "Data Access and Compliance Coordinator",
+    "workspace":  "~/.openclaw/agents/i4-data-access-and-compliance-coordinator/workspace",
+    "agentDir":  "~/.openclaw/agents/i4-data-access-and-compliance-coordinator/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

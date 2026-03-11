@@ -1,0 +1,13 @@
+{
+    "id":  "i4-illustrator-agency",
+    "default":  false,
+    "name":  "Illustrator (Agency)",
+    "workspace":  "~/.openclaw/agents/i4-illustrator-agency/workspace",
+    "agentDir":  "~/.openclaw/agents/i4-illustrator-agency/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

@@ -1,0 +1,13 @@
+{
+    "id":  "i3-leadership-development-manager-marketplace",
+    "default":  false,
+    "name":  "Leadership Development Manager (Marketplace)",
+    "workspace":  "~/.openclaw/agents/i3-leadership-development-manager-marketplace/workspace",
+    "agentDir":  "~/.openclaw/agents/i3-leadership-development-manager-marketplace/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

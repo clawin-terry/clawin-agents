@@ -1,0 +1,13 @@
+{
+    "id":  "i3-merchant-risk-operations-coordinator",
+    "default":  false,
+    "name":  "Merchant Risk Operations Coordinator",
+    "workspace":  "~/.openclaw/agents/i3-merchant-risk-operations-coordinator/workspace",
+    "agentDir":  "~/.openclaw/agents/i3-merchant-risk-operations-coordinator/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

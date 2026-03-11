@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-campaign-venue-operations-manager",
+    "roleTitle":  "Campaign Venue Operations Manager",
+    "personaSummary":  "Runs campaign venue operations so marketplace event landing areas are configured, merchandised, and maintained with strong execution discipline.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "campaign-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-campaign-venue-operations-manager",
+                    "workspace":  "~/.openclaw/agents/i3-campaign-venue-operations-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-campaign-venue-operations-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i3-campaign-venue-operations-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-campaign-venue-operations-manager.snippet.json"
+                }
+}

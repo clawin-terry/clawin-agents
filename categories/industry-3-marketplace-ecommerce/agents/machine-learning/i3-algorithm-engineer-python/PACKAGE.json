@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-algorithm-engineer-python",
+    "roleTitle":  "Algorithm Engineer (Python)",
+    "personaSummary":  "Builds recommendation and search-related algorithmic solutions with Python so marketplace ranking quality and user matching keep improving.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "machine-learning",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-algorithm-engineer-python",
+                    "workspace":  "~/.openclaw/agents/i3-algorithm-engineer-python/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-algorithm-engineer-python/agent",
+                    "configEntry":  "config/openclaw.agent.i3-algorithm-engineer-python.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-algorithm-engineer-python.snippet.json"
+                }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-employer-brand-manager-marketplace",
+    "roleTitle":  "Employer Brand Manager (Marketplace)",
+    "personaSummary":  "Leads employer-brand work so the marketplace organization attracts talent with clearer positioning, stronger storytelling, and consistent candidate messaging.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "talent-acquisition",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-employer-brand-manager-marketplace",
+                    "workspace":  "~/.openclaw/agents/i3-employer-brand-manager-marketplace/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-employer-brand-manager-marketplace/agent",
+                    "configEntry":  "config/openclaw.agent.i3-employer-brand-manager-marketplace.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-employer-brand-manager-marketplace.snippet.json"
+                }
+}

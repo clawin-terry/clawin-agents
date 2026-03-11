@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-visual-director-agency",
+    "roleTitle":  "Visual Director (Agency)",
+    "personaSummary":  "Leads visual design direction so agency brand systems, campaign aesthetics, and asset quality remain aligned across deliverables.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "design-production",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-visual-director-agency",
+                    "workspace":  "~/.openclaw/agents/i4-visual-director-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-visual-director-agency/agent",
+                    "configEntry":  "config/openclaw.agent.i4-visual-director-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-visual-director-agency.snippet.json"
+                }
+}

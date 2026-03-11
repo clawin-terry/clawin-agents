@@ -1,0 +1,13 @@
+{
+    "id":  "i3-chargeback-coordination-manager",
+    "default":  false,
+    "name":  "Chargeback Coordination Manager",
+    "workspace":  "~/.openclaw/agents/i3-chargeback-coordination-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/i3-chargeback-coordination-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

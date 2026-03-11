@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-capacity-planning-manager",
+    "roleTitle":  "Capacity Planning Manager",
+    "personaSummary":  "Plans fulfillment capacity so warehousing and logistics resources stay aligned with marketplace volume and service commitments.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "fulfillment-network-planning",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-capacity-planning-manager",
+                    "workspace":  "~/.openclaw/agents/i3-capacity-planning-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-capacity-planning-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i3-capacity-planning-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-capacity-planning-manager.snippet.json"
+                }
+}

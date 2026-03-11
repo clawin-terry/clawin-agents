@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-creative-and-copyright-ip-manager-agency",
+    "roleTitle":  "Creative and Copyright IP Manager",
+    "personaSummary":  "Manages creative and copyright intellectual property matters so campaign assets, usage rights, and infringement risks are governed more consistently.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "legal",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-creative-and-copyright-ip-manager-agency",
+                    "workspace":  "~/.openclaw/agents/i4-creative-and-copyright-ip-manager-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-creative-and-copyright-ip-manager-agency/agent",
+                    "configEntry":  "config/openclaw.agent.i4-creative-and-copyright-ip-manager-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-creative-and-copyright-ip-manager-agency.snippet.json"
+                }
+}

@@ -1,0 +1,13 @@
+{
+    "id":  "i3-security-engineer-python",
+    "default":  false,
+    "name":  "Security Engineer (Python)",
+    "workspace":  "~/.openclaw/agents/i3-security-engineer-python/workspace",
+    "agentDir":  "~/.openclaw/agents/i3-security-engineer-python/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

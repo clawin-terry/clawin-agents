@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-strategy-director-agency",
+    "roleTitle":  "Strategy Director (Agency)",
+    "personaSummary":  "Leads agency strategy planning so client briefs, market signals, and campaign goals are translated into coherent decision frameworks and direction.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "strategy-planning",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-strategy-director-agency",
+                    "workspace":  "~/.openclaw/agents/i4-strategy-director-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-strategy-director-agency/agent",
+                    "configEntry":  "config/openclaw.agent.i4-strategy-director-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-strategy-director-agency.snippet.json"
+                }
+}

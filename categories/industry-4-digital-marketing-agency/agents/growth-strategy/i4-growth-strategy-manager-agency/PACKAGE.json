@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-growth-strategy-manager-agency",
+    "roleTitle":  "Growth Strategy Manager (Agency)",
+    "personaSummary":  "Runs growth strategy work so agency teams can prioritize opportunities, design scalable acquisition plans, and coordinate execution around conversion goals.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "growth-strategy",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-growth-strategy-manager-agency",
+                    "workspace":  "~/.openclaw/agents/i4-growth-strategy-manager-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-growth-strategy-manager-agency/agent",
+                    "configEntry":  "config/openclaw.agent.i4-growth-strategy-manager-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-growth-strategy-manager-agency.snippet.json"
+                }
+}

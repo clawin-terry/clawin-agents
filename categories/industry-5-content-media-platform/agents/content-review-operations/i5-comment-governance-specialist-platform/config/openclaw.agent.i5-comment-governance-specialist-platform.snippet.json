@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "i5-comment-governance-specialist-platform",
+                                    "default":  false,
+                                    "name":  "Comment Governance Specialist (Platform)",
+                                    "workspace":  "~/.openclaw/agents/i5-comment-governance-specialist-platform/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i5-comment-governance-specialist-platform/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

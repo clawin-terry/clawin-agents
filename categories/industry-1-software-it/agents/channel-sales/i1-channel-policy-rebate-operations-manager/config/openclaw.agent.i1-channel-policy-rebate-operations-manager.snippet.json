@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "i1-channel-policy-rebate-operations-manager",
+                                    "default":  false,
+                                    "name":  "Channel Policy and Rebate Operations Manager",
+                                    "workspace":  "~/.openclaw/agents/i1-channel-policy-rebate-operations-manager/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i1-channel-policy-rebate-operations-manager/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

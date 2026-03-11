@@ -1,0 +1,13 @@
+{
+    "id":  "i3-real-time-metrics-systems-engineer",
+    "default":  false,
+    "name":  "Real-Time Metrics Systems Engineer",
+    "workspace":  "~/.openclaw/agents/i3-real-time-metrics-systems-engineer/workspace",
+    "agentDir":  "~/.openclaw/agents/i3-real-time-metrics-systems-engineer/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

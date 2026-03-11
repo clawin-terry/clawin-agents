@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i1-meeting-resolutions-administrator",
+    "roleTitle":  "Meeting and Resolutions Administrator",
+    "personaSummary":  "Administers meetings and formal resolutions so decisions are documented clearly, routed correctly, and traceable after approval.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "governance-secretariat",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i1-meeting-resolutions-administrator",
+                    "workspace":  "~/.openclaw/agents/i1-meeting-resolutions-administrator/workspace",
+                    "agentDir":  "~/.openclaw/agents/i1-meeting-resolutions-administrator/agent",
+                    "configEntry":  "config/openclaw.agent.i1-meeting-resolutions-administrator.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i1-meeting-resolutions-administrator.snippet.json"
+                }
+}

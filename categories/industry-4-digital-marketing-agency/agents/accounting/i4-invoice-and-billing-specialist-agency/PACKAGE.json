@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-invoice-and-billing-specialist-agency",
+    "roleTitle":  "Invoice and Billing Specialist",
+    "personaSummary":  "Manages invoicing and billing operations so client invoices, tax documentation, and issue follow-up stay accurate and on schedule.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "accounting",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-invoice-and-billing-specialist-agency",
+                    "workspace":  "~/.openclaw/agents/i4-invoice-and-billing-specialist-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-invoice-and-billing-specialist-agency/agent",
+                    "configEntry":  "config/openclaw.agent.i4-invoice-and-billing-specialist-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-invoice-and-billing-specialist-agency.snippet.json"
+                }
+}

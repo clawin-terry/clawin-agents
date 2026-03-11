@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-backend-engineer-java-go-web-platform",
+    "roleTitle":  "Backend Engineer (Java/Go)",
+    "personaSummary":  "Builds site and CMS backend services so campaign pages, content workflows, and marketing integrations remain stable and maintainable.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "web-platform-engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-backend-engineer-java-go-web-platform",
+                    "workspace":  "~/.openclaw/agents/i4-backend-engineer-java-go-web-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-backend-engineer-java-go-web-platform/agent",
+                    "configEntry":  "config/openclaw.agent.i4-backend-engineer-java-go-web-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-backend-engineer-java-go-web-platform.snippet.json"
+                }
+}

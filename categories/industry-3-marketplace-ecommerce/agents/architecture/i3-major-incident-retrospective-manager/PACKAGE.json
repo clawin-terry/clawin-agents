@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-major-incident-retrospective-manager",
+    "roleTitle":  "Major Incident Retrospective Manager",
+    "personaSummary":  "Leads major incident retrospective mechanisms so critical failures produce actionable learning, ownership clarity, and system-level resilience improvements.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "architecture",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-major-incident-retrospective-manager",
+                    "workspace":  "~/.openclaw/agents/i3-major-incident-retrospective-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-major-incident-retrospective-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i3-major-incident-retrospective-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-major-incident-retrospective-manager.snippet.json"
+                }
+}

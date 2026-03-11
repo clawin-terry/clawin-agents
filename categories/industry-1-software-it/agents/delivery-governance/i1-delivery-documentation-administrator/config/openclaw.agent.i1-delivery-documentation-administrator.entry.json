@@ -1,0 +1,13 @@
+{
+    "id":  "i1-delivery-documentation-administrator",
+    "default":  false,
+    "name":  "Delivery Documentation Administrator",
+    "workspace":  "~/.openclaw/agents/i1-delivery-documentation-administrator/workspace",
+    "agentDir":  "~/.openclaw/agents/i1-delivery-documentation-administrator/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "i4-martech-product-director",
+                                    "default":  false,
+                                    "name":  "MarTech Product Director",
+                                    "workspace":  "~/.openclaw/agents/i4-martech-product-director/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i4-martech-product-director/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

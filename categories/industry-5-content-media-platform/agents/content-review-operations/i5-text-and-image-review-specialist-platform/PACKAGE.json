@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i5-text-and-image-review-specialist-platform",
+    "roleTitle":  "Text and Image Review Specialist (Platform)",
+    "personaSummary":  "Reviews text and image content so non-video surfaces stay aligned with platform policy standards and moderation expectations.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "content-review-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i5-text-and-image-review-specialist-platform",
+                    "workspace":  "~/.openclaw/agents/i5-text-and-image-review-specialist-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/i5-text-and-image-review-specialist-platform/agent",
+                    "configEntry":  "config/openclaw.agent.i5-text-and-image-review-specialist-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i5-text-and-image-review-specialist-platform.snippet.json"
+                }
+}

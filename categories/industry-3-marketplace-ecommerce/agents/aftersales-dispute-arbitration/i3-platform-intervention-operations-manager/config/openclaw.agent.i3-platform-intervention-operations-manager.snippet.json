@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "i3-platform-intervention-operations-manager",
+                                    "default":  false,
+                                    "name":  "Platform Intervention Operations Manager",
+                                    "workspace":  "~/.openclaw/agents/i3-platform-intervention-operations-manager/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i3-platform-intervention-operations-manager/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

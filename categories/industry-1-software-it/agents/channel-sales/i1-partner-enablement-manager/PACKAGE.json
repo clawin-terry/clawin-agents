@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i1-partner-enablement-manager",
+    "roleTitle":  "Partner Enablement Manager",
+    "personaSummary":  "Enables partners with training, tools, and operating guidance so partner-led selling becomes repeatable and effective.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "channel-sales",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i1-partner-enablement-manager",
+                    "workspace":  "~/.openclaw/agents/i1-partner-enablement-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i1-partner-enablement-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i1-partner-enablement-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i1-partner-enablement-manager.snippet.json"
+                }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-short-video-ads-lead-agency",
+    "roleTitle":  "Short Video Ads Lead (Agency)",
+    "personaSummary":  "Leads short-video advertising operations so agency teams can coordinate platform execution, scale decisions, and campaign performance across video channels.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "short-video-ad-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-short-video-ads-lead-agency",
+                    "workspace":  "~/.openclaw/agents/i4-short-video-ads-lead-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-short-video-ads-lead-agency/agent",
+                    "configEntry":  "config/openclaw.agent.i4-short-video-ads-lead-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-short-video-ads-lead-agency.snippet.json"
+                }
+}

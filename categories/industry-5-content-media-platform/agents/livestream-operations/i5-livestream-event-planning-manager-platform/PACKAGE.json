@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i5-livestream-event-planning-manager-platform",
+    "roleTitle":  "Livestream Event Planning Manager (Platform)",
+    "personaSummary":  "Plans livestream events so campaign beats, room-level programming, and creator participation are coordinated into stronger live audience moments.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "livestream-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i5-livestream-event-planning-manager-platform",
+                    "workspace":  "~/.openclaw/agents/i5-livestream-event-planning-manager-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/i5-livestream-event-planning-manager-platform/agent",
+                    "configEntry":  "config/openclaw.agent.i5-livestream-event-planning-manager-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i5-livestream-event-planning-manager-platform.snippet.json"
+                }
+}

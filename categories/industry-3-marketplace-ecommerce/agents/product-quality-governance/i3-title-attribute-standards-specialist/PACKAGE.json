@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-title-attribute-standards-specialist",
+    "roleTitle":  "Title and Attribute Standards Specialist",
+    "personaSummary":  "Defines and enforces title and attribute standards so product listings remain structured, searchable, and policy-aligned.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "product-quality-governance",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-title-attribute-standards-specialist",
+                    "workspace":  "~/.openclaw/agents/i3-title-attribute-standards-specialist/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-title-attribute-standards-specialist/agent",
+                    "configEntry":  "config/openclaw.agent.i3-title-attribute-standards-specialist.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-title-attribute-standards-specialist.snippet.json"
+                }
+}

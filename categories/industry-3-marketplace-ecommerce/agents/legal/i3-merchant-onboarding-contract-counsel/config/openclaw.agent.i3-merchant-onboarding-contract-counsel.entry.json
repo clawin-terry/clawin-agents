@@ -1,0 +1,13 @@
+{
+    "id":  "i3-merchant-onboarding-contract-counsel",
+    "default":  false,
+    "name":  "Merchant Onboarding Contract Counsel",
+    "workspace":  "~/.openclaw/agents/i3-merchant-onboarding-contract-counsel/workspace",
+    "agentDir":  "~/.openclaw/agents/i3-merchant-onboarding-contract-counsel/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

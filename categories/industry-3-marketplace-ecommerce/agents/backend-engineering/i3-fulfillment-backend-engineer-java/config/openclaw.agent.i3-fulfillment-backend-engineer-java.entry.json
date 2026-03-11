@@ -1,0 +1,13 @@
+{
+    "id":  "i3-fulfillment-backend-engineer-java",
+    "default":  false,
+    "name":  "Fulfillment Backend Engineer (Java)",
+    "workspace":  "~/.openclaw/agents/i3-fulfillment-backend-engineer-java/workspace",
+    "agentDir":  "~/.openclaw/agents/i3-fulfillment-backend-engineer-java/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

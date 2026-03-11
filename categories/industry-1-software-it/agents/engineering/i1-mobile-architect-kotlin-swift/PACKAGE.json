@@ -9,7 +9,8 @@
     "roleFamilyKey":  "engineering",
     "recommendedModel":  "openai-codex/gpt-5.4",
     "bundledSkills":  [
-                          "coding-agent"
+                          "coding-agent",
+                          "clawin-mobile-engineering"
                       ],
     "install":  {
                     "targetRoot":  "~/.openclaw/agents/i1-mobile-architect-kotlin-swift",

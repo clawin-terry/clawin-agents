@@ -1,0 +1,13 @@
+{
+    "id":  "i3-interaction-designer",
+    "default":  false,
+    "name":  "Interaction Designer",
+    "workspace":  "~/.openclaw/agents/i3-interaction-designer/workspace",
+    "agentDir":  "~/.openclaw/agents/i3-interaction-designer/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

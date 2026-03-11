@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "i5-review-platform-backend-engineer-go",
+                                    "default":  false,
+                                    "name":  "Review Platform Backend Engineer (Go)",
+                                    "workspace":  "~/.openclaw/agents/i5-review-platform-backend-engineer-go/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i5-review-platform-backend-engineer-go/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

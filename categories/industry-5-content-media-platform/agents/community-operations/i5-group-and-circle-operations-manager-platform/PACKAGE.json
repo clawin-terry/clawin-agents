@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i5-group-and-circle-operations-manager-platform",
+    "roleTitle":  "Group and Circle Operations Manager (Platform)",
+    "personaSummary":  "Operates groups and circles so smaller communities maintain stronger activity, structure, and operating support across interest-based user spaces.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "community-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i5-group-and-circle-operations-manager-platform",
+                    "workspace":  "~/.openclaw/agents/i5-group-and-circle-operations-manager-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/i5-group-and-circle-operations-manager-platform/agent",
+                    "configEntry":  "config/openclaw.agent.i5-group-and-circle-operations-manager-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i5-group-and-circle-operations-manager-platform.snippet.json"
+                }
+}

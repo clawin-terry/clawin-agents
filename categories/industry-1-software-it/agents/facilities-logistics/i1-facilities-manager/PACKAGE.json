@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i1-facilities-manager",
+    "roleTitle":  "Facilities Manager",
+    "personaSummary":  "Leads facilities operations so sites, maintenance coordination, and workplace service standards remain safe, functional, and well-managed.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "facilities-logistics",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i1-facilities-manager",
+                    "workspace":  "~/.openclaw/agents/i1-facilities-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i1-facilities-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i1-facilities-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i1-facilities-manager.snippet.json"
+                }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i1-b2c-product-manager",
+    "roleTitle":  "B2C Product Manager",
+    "personaSummary":  "Owns consumer product strategy and execution so user needs, market signals, and product delivery stay aligned across the lifecycle.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "product-management",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i1-b2c-product-manager",
+                    "workspace":  "~/.openclaw/agents/i1-b2c-product-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i1-b2c-product-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i1-b2c-product-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i1-b2c-product-manager.snippet.json"
+                }
+}

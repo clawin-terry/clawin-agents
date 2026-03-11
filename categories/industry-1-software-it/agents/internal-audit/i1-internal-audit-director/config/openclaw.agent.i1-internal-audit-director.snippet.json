@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "i1-internal-audit-director",
+                                    "default":  false,
+                                    "name":  "Internal Audit Director",
+                                    "workspace":  "~/.openclaw/agents/i1-internal-audit-director/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i1-internal-audit-director/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

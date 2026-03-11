@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "i4-integrated-marketing-planner-agency",
+                                    "default":  false,
+                                    "name":  "Integrated Marketing Planner (Agency)",
+                                    "workspace":  "~/.openclaw/agents/i4-integrated-marketing-planner-agency/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i4-integrated-marketing-planner-agency/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

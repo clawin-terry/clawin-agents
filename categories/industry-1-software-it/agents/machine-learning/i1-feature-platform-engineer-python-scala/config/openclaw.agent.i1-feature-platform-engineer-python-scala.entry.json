@@ -1,0 +1,13 @@
+{
+    "id":  "i1-feature-platform-engineer-python-scala",
+    "default":  false,
+    "name":  "Feature Platform Engineer (Python/Scala)",
+    "workspace":  "~/.openclaw/agents/i1-feature-platform-engineer-python-scala/workspace",
+    "agentDir":  "~/.openclaw/agents/i1-feature-platform-engineer-python-scala/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

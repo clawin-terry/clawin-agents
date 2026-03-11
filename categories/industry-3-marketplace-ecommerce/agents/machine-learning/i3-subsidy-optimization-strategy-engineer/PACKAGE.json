@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-subsidy-optimization-strategy-engineer",
+    "roleTitle":  "Subsidy Optimization Strategy Engineer",
+    "personaSummary":  "Builds subsidy optimization strategies so marketplace incentives can balance acquisition, conversion, and unit economics with stronger analytical control.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "machine-learning",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-subsidy-optimization-strategy-engineer",
+                    "workspace":  "~/.openclaw/agents/i3-subsidy-optimization-strategy-engineer/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-subsidy-optimization-strategy-engineer/agent",
+                    "configEntry":  "config/openclaw.agent.i3-subsidy-optimization-strategy-engineer.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-subsidy-optimization-strategy-engineer.snippet.json"
+                }
+}

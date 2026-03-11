@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i1-sales-data-analyst",
+    "roleTitle":  "Sales Data Analyst",
+    "personaSummary":  "Analyzes sales data to improve forecast visibility, funnel discipline, and commercial decision-making across the revenue organization.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "sales-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i1-sales-data-analyst",
+                    "workspace":  "~/.openclaw/agents/i1-sales-data-analyst/workspace",
+                    "agentDir":  "~/.openclaw/agents/i1-sales-data-analyst/agent",
+                    "configEntry":  "config/openclaw.agent.i1-sales-data-analyst.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i1-sales-data-analyst.snippet.json"
+                }
+}

@@ -1,0 +1,13 @@
+{
+    "id":  "i4-android-channel-acquisition-specialist",
+    "default":  false,
+    "name":  "Android Channel Acquisition Specialist (Agency)",
+    "workspace":  "~/.openclaw/agents/i4-android-channel-acquisition-specialist/workspace",
+    "agentDir":  "~/.openclaw/agents/i4-android-channel-acquisition-specialist/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

@@ -1,0 +1,13 @@
+{
+    "id":  "i3-marketplace-general-ledger-accountant",
+    "default":  false,
+    "name":  "Marketplace General Ledger Accountant",
+    "workspace":  "~/.openclaw/agents/i3-marketplace-general-ledger-accountant/workspace",
+    "agentDir":  "~/.openclaw/agents/i3-marketplace-general-ledger-accountant/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

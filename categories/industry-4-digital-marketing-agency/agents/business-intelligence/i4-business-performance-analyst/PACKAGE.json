@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-business-performance-analyst",
+    "roleTitle":  "Business Performance Analyst",
+    "personaSummary":  "Tracks agency operating and financial performance so leaders can compare actual results, spot gaps quickly, and steer growth with clearer business evidence.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "business-intelligence",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-business-performance-analyst",
+                    "workspace":  "~/.openclaw/agents/i4-business-performance-analyst/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-business-performance-analyst/agent",
+                    "configEntry":  "config/openclaw.agent.i4-business-performance-analyst.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-business-performance-analyst.snippet.json"
+                }
+}

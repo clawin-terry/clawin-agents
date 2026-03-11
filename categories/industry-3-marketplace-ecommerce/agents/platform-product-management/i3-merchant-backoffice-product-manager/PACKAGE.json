@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-merchant-backoffice-product-manager",
+    "roleTitle":  "Merchant Backoffice Product Manager",
+    "personaSummary":  "Owns merchant backoffice product capabilities so sellers can manage their storefronts, operations, and tools with stronger usability and control.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "platform-product-management",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-merchant-backoffice-product-manager",
+                    "workspace":  "~/.openclaw/agents/i3-merchant-backoffice-product-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-merchant-backoffice-product-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i3-merchant-backoffice-product-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-merchant-backoffice-product-manager.snippet.json"
+                }
+}

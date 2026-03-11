@@ -1,0 +1,23 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i1-design-operations-manager",
+    "roleTitle":  "Design Operations Manager",
+    "personaSummary":  "Builds design operations and design system workflows so teams can scale quality, reuse, and execution consistency across product work.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "design",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "ui-ux-pro-max",
+                          "frontend-design"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i1-design-operations-manager",
+                    "workspace":  "~/.openclaw/agents/i1-design-operations-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i1-design-operations-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i1-design-operations-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i1-design-operations-manager.snippet.json"
+                }
+}

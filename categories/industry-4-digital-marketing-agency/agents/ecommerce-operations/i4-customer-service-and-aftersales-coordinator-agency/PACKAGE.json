@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-customer-service-and-aftersales-coordinator-agency",
+    "roleTitle":  "Customer Service and Aftersales Coordinator (Agency)",
+    "personaSummary":  "Coordinates customer service and aftersales workflows so agency ecommerce programs can connect storefront operations with issue resolution and service follow-through.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "ecommerce-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-customer-service-and-aftersales-coordinator-agency",
+                    "workspace":  "~/.openclaw/agents/i4-customer-service-and-aftersales-coordinator-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-customer-service-and-aftersales-coordinator-agency/agent",
+                    "configEntry":  "config/openclaw.agent.i4-customer-service-and-aftersales-coordinator-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-customer-service-and-aftersales-coordinator-agency.snippet.json"
+                }
+}

@@ -1,0 +1,13 @@
+{
+    "id":  "i1-project-management-training-instructor",
+    "default":  false,
+    "name":  "Project Management Training Instructor",
+    "workspace":  "~/.openclaw/agents/i1-project-management-training-instructor/workspace",
+    "agentDir":  "~/.openclaw/agents/i1-project-management-training-instructor/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

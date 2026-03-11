@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i1-middleware-integration-engineer-java",
+    "roleTitle":  "Middleware Integration Engineer (Java)",
+    "personaSummary":  "Builds middleware integration components with Java so enterprise connectivity, message flow, and environment compatibility remain dependable.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "integration",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "clawin-middleware-distributed-systems"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i1-middleware-integration-engineer-java",
+                    "workspace":  "~/.openclaw/agents/i1-middleware-integration-engineer-java/workspace",
+                    "agentDir":  "~/.openclaw/agents/i1-middleware-integration-engineer-java/agent",
+                    "configEntry":  "config/openclaw.agent.i1-middleware-integration-engineer-java.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i1-middleware-integration-engineer-java.snippet.json"
+                }
+}

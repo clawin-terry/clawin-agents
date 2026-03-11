@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-merchant-risk-operations-coordinator",
+    "roleTitle":  "Merchant Risk Operations Coordinator",
+    "personaSummary":  "Coordinates merchant risk workflows across onboarding and operations, helping teams surface issues early and manage follow-up actions consistently.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "merchant-onboarding-compliance",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-merchant-risk-operations-coordinator",
+                    "workspace":  "~/.openclaw/agents/i3-merchant-risk-operations-coordinator/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-merchant-risk-operations-coordinator/agent",
+                    "configEntry":  "config/openclaw.agent.i3-merchant-risk-operations-coordinator.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-merchant-risk-operations-coordinator.snippet.json"
+                }
+}

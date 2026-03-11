@@ -1,0 +1,13 @@
+{
+    "id":  "i1-build-release-engineer-python-shell",
+    "default":  false,
+    "name":  "Build and Release Engineer (Python/Shell)",
+    "workspace":  "~/.openclaw/agents/i1-build-release-engineer-python-shell/workspace",
+    "agentDir":  "~/.openclaw/agents/i1-build-release-engineer-python-shell/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i1-code-quality-platform-engineer-java-go",
+    "roleTitle":  "Code Quality Platform Engineer (Java/Go)",
+    "personaSummary":  "Builds code quality platform capabilities with Java and Go so teams get better feedback, stronger standards, and more reliable engineering quality signals.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "developer-experience",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i1-code-quality-platform-engineer-java-go",
+                    "workspace":  "~/.openclaw/agents/i1-code-quality-platform-engineer-java-go/workspace",
+                    "agentDir":  "~/.openclaw/agents/i1-code-quality-platform-engineer-java-go/agent",
+                    "configEntry":  "config/openclaw.agent.i1-code-quality-platform-engineer-java-go.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i1-code-quality-platform-engineer-java-go.snippet.json"
+                }
+}

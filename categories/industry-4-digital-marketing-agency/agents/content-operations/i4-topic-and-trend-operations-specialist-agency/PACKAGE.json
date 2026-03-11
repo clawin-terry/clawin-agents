@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-topic-and-trend-operations-specialist-agency",
+    "roleTitle":  "Topic and Trend Operations Specialist (Agency)",
+    "personaSummary":  "Tracks topics and trends so agency content calendars can respond faster to cultural moments, platform dynamics, and campaign timing opportunities.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "content-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-topic-and-trend-operations-specialist-agency",
+                    "workspace":  "~/.openclaw/agents/i4-topic-and-trend-operations-specialist-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-topic-and-trend-operations-specialist-agency/agent",
+                    "configEntry":  "config/openclaw.agent.i4-topic-and-trend-operations-specialist-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-topic-and-trend-operations-specialist-agency.snippet.json"
+                }
+}

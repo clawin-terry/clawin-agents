@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "i4-paid-traffic-coordination-specialist-agency",
+                                    "default":  false,
+                                    "name":  "Paid Traffic Coordination Specialist (Agency)",
+                                    "workspace":  "~/.openclaw/agents/i4-paid-traffic-coordination-specialist-agency/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i4-paid-traffic-coordination-specialist-agency/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

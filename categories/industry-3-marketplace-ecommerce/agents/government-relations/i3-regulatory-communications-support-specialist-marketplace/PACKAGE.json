@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-regulatory-communications-support-specialist-marketplace",
+    "roleTitle":  "Regulatory Communications Support Specialist (Marketplace)",
+    "personaSummary":  "Supports regulatory communications so marketplace submissions, meeting preparation, and external follow-up stay timely, accurate, and traceable.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "government-relations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-regulatory-communications-support-specialist-marketplace",
+                    "workspace":  "~/.openclaw/agents/i3-regulatory-communications-support-specialist-marketplace/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-regulatory-communications-support-specialist-marketplace/agent",
+                    "configEntry":  "config/openclaw.agent.i3-regulatory-communications-support-specialist-marketplace.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-regulatory-communications-support-specialist-marketplace.snippet.json"
+                }
+}

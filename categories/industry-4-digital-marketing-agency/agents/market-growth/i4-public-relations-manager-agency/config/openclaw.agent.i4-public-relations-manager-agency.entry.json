@@ -1,0 +1,13 @@
+{
+    "id":  "i4-public-relations-manager-agency",
+    "default":  false,
+    "name":  "Public Relations Manager (Agency)",
+    "workspace":  "~/.openclaw/agents/i4-public-relations-manager-agency/workspace",
+    "agentDir":  "~/.openclaw/agents/i4-public-relations-manager-agency/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

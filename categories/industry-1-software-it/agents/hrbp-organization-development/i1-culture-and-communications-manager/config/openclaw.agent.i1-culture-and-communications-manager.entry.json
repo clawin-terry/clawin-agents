@@ -1,0 +1,13 @@
+{
+    "id":  "i1-culture-and-communications-manager",
+    "default":  false,
+    "name":  "Culture and Communications Manager",
+    "workspace":  "~/.openclaw/agents/i1-culture-and-communications-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/i1-culture-and-communications-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

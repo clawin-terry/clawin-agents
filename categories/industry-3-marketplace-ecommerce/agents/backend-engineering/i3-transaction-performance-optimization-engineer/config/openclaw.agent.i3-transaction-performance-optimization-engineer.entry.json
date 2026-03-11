@@ -1,0 +1,13 @@
+{
+    "id":  "i3-transaction-performance-optimization-engineer",
+    "default":  false,
+    "name":  "Transaction Performance Optimization Engineer",
+    "workspace":  "~/.openclaw/agents/i3-transaction-performance-optimization-engineer/workspace",
+    "agentDir":  "~/.openclaw/agents/i3-transaction-performance-optimization-engineer/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

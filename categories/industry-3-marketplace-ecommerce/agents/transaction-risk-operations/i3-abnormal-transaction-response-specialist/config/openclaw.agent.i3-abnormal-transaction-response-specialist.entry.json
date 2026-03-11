@@ -1,0 +1,13 @@
+{
+    "id":  "i3-abnormal-transaction-response-specialist",
+    "default":  false,
+    "name":  "Abnormal Transaction Response Specialist",
+    "workspace":  "~/.openclaw/agents/i3-abnormal-transaction-response-specialist/workspace",
+    "agentDir":  "~/.openclaw/agents/i3-abnormal-transaction-response-specialist/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

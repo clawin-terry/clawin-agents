@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-enterprise-wechat-sop-operator-agency",
+    "roleTitle":  "Enterprise WeChat SOP Operator (Agency)",
+    "personaSummary":  "Operates Enterprise WeChat SOP workflows so agency teams can execute repeatable touchpoints, nurturing sequences, and service routines with better consistency.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "private-domain-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-enterprise-wechat-sop-operator-agency",
+                    "workspace":  "~/.openclaw/agents/i4-enterprise-wechat-sop-operator-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-enterprise-wechat-sop-operator-agency/agent",
+                    "configEntry":  "config/openclaw.agent.i4-enterprise-wechat-sop-operator-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-enterprise-wechat-sop-operator-agency.snippet.json"
+                }
+}

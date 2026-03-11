@@ -1,0 +1,13 @@
+{
+    "id":  "i4-landing-page-and-funnel-planner-agency",
+    "default":  false,
+    "name":  "Landing Page and Funnel Planner (Agency)",
+    "workspace":  "~/.openclaw/agents/i4-landing-page-and-funnel-planner-agency/workspace",
+    "agentDir":  "~/.openclaw/agents/i4-landing-page-and-funnel-planner-agency/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i1-incident-manager",
+    "roleTitle":  "Incident Manager",
+    "personaSummary":  "Leads incident management so service-impacting events are coordinated quickly, communicated clearly, and resolved with structured control.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "service-management",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i1-incident-manager",
+                    "workspace":  "~/.openclaw/agents/i1-incident-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i1-incident-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i1-incident-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i1-incident-manager.snippet.json"
+                }
+}

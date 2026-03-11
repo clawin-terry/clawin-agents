@@ -1,0 +1,13 @@
+{
+    "id":  "i3-streaming-computing-engineer",
+    "default":  false,
+    "name":  "Streaming Computing Engineer",
+    "workspace":  "~/.openclaw/agents/i3-streaming-computing-engineer/workspace",
+    "agentDir":  "~/.openclaw/agents/i3-streaming-computing-engineer/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

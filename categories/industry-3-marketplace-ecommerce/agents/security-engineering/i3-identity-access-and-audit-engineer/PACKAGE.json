@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-identity-access-and-audit-engineer",
+    "roleTitle":  "Identity, Access, and Audit Engineer",
+    "personaSummary":  "Builds identity, access, and audit capabilities so marketplace security teams can govern privileges with stronger traceability and policy enforcement.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "security-engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "healthcheck"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-identity-access-and-audit-engineer",
+                    "workspace":  "~/.openclaw/agents/i3-identity-access-and-audit-engineer/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-identity-access-and-audit-engineer/agent",
+                    "configEntry":  "config/openclaw.agent.i3-identity-access-and-audit-engineer.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-identity-access-and-audit-engineer.snippet.json"
+                }
+}

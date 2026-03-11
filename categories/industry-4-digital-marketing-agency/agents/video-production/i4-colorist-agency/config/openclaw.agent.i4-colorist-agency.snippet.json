@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "i4-colorist-agency",
+                                    "default":  false,
+                                    "name":  "Colorist (Agency)",
+                                    "workspace":  "~/.openclaw/agents/i4-colorist-agency/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i4-colorist-agency/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

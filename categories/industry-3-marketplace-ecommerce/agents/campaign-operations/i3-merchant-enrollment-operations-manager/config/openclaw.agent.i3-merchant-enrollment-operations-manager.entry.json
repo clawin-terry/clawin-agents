@@ -1,0 +1,13 @@
+{
+    "id":  "i3-merchant-enrollment-operations-manager",
+    "default":  false,
+    "name":  "Merchant Enrollment Operations Manager",
+    "workspace":  "~/.openclaw/agents/i3-merchant-enrollment-operations-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/i3-merchant-enrollment-operations-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

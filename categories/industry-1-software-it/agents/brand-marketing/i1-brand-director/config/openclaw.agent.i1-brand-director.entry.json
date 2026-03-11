@@ -1,0 +1,13 @@
+{
+    "id":  "i1-brand-director",
+    "default":  false,
+    "name":  "Brand Director",
+    "workspace":  "~/.openclaw/agents/i1-brand-director/workspace",
+    "agentDir":  "~/.openclaw/agents/i1-brand-director/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

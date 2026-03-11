@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i1-data-assets-and-catalog-administrator",
+    "roleTitle":  "Data Assets and Catalog Administrator",
+    "personaSummary":  "Administers data asset and catalog records so governed datasets remain discoverable, documented, and easier for approved stakeholders to use responsibly.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "privacy-data-governance",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "healthcheck"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i1-data-assets-and-catalog-administrator",
+                    "workspace":  "~/.openclaw/agents/i1-data-assets-and-catalog-administrator/workspace",
+                    "agentDir":  "~/.openclaw/agents/i1-data-assets-and-catalog-administrator/agent",
+                    "configEntry":  "config/openclaw.agent.i1-data-assets-and-catalog-administrator.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i1-data-assets-and-catalog-administrator.snippet.json"
+                }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-test-engineer-python",
+    "roleTitle":  "Test Engineer (Python)",
+    "personaSummary":  "Designs and executes marketplace test coverage with Python-based tooling so releases remain reliable, traceable, and production-ready.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "quality-engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-test-engineer-python",
+                    "workspace":  "~/.openclaw/agents/i3-test-engineer-python/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-test-engineer-python/agent",
+                    "configEntry":  "config/openclaw.agent.i3-test-engineer-python.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-test-engineer-python.snippet.json"
+                }
+}

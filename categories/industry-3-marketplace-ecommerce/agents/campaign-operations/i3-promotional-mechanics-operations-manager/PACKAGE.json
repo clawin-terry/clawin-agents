@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-promotional-mechanics-operations-manager",
+    "roleTitle":  "Promotional Mechanics Operations Manager",
+    "personaSummary":  "Operates promotional mechanics so coupons, flash sales, group buying, and similar campaign plays launch cleanly and perform as intended.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "campaign-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-promotional-mechanics-operations-manager",
+                    "workspace":  "~/.openclaw/agents/i3-promotional-mechanics-operations-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-promotional-mechanics-operations-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i3-promotional-mechanics-operations-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-promotional-mechanics-operations-manager.snippet.json"
+                }
+}

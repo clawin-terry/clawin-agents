@@ -1,0 +1,13 @@
+{
+    "id":  "i3-brand-growth-manager",
+    "default":  false,
+    "name":  "Brand Growth Manager",
+    "workspace":  "~/.openclaw/agents/i3-brand-growth-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/i3-brand-growth-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

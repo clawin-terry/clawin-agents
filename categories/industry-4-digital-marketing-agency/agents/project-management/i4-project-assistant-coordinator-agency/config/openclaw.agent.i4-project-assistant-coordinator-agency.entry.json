@@ -1,0 +1,13 @@
+{
+    "id":  "i4-project-assistant-coordinator-agency",
+    "default":  false,
+    "name":  "Project Assistant / Coordinator (Agency)",
+    "workspace":  "~/.openclaw/agents/i4-project-assistant-coordinator-agency/workspace",
+    "agentDir":  "~/.openclaw/agents/i4-project-assistant-coordinator-agency/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

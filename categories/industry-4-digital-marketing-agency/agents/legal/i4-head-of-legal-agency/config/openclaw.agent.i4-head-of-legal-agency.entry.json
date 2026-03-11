@@ -1,0 +1,13 @@
+{
+    "id":  "i4-head-of-legal-agency",
+    "default":  false,
+    "name":  "Head of Legal",
+    "workspace":  "~/.openclaw/agents/i4-head-of-legal-agency/workspace",
+    "agentDir":  "~/.openclaw/agents/i4-head-of-legal-agency/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

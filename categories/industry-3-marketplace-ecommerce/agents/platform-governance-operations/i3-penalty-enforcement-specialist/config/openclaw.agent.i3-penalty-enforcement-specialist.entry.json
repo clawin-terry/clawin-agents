@@ -1,0 +1,13 @@
+{
+    "id":  "i3-penalty-enforcement-specialist",
+    "default":  false,
+    "name":  "Penalty Enforcement Specialist",
+    "workspace":  "~/.openclaw/agents/i3-penalty-enforcement-specialist/workspace",
+    "agentDir":  "~/.openclaw/agents/i3-penalty-enforcement-specialist/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

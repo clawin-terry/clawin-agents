@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "i1-sales-data-analyst",
+                                    "default":  false,
+                                    "name":  "Sales Data Analyst",
+                                    "workspace":  "~/.openclaw/agents/i1-sales-data-analyst/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i1-sales-data-analyst/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-industry-qualification-review-specialist-agency",
+    "roleTitle":  "Industry Qualification Review Specialist",
+    "personaSummary":  "Reviews industry qualifications so regulated-category campaigns, client documentation, and approval readiness meet platform and legal requirements.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "compliance-risk",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-industry-qualification-review-specialist-agency",
+                    "workspace":  "~/.openclaw/agents/i4-industry-qualification-review-specialist-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-industry-qualification-review-specialist-agency/agent",
+                    "configEntry":  "config/openclaw.agent.i4-industry-qualification-review-specialist-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-industry-qualification-review-specialist-agency.snippet.json"
+                }
+}

@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-tracking-and-delivery-timeliness-services-engineer",
+    "roleTitle":  "Tracking and Delivery Timeliness Services Engineer",
+    "personaSummary":  "Builds tracking and delivery timeliness services so marketplace shipment visibility and service-level performance remain transparent and actionable.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "backend-engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "clawin-backend-service-engineering"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-tracking-and-delivery-timeliness-services-engineer",
+                    "workspace":  "~/.openclaw/agents/i3-tracking-and-delivery-timeliness-services-engineer/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-tracking-and-delivery-timeliness-services-engineer/agent",
+                    "configEntry":  "config/openclaw.agent.i3-tracking-and-delivery-timeliness-services-engineer.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-tracking-and-delivery-timeliness-services-engineer.snippet.json"
+                }
+}

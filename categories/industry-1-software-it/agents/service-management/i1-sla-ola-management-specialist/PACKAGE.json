@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i1-sla-ola-management-specialist",
+    "roleTitle":  "SLA and OLA Management Specialist",
+    "personaSummary":  "Runs SLA and OLA management so service commitments, measurement, and accountability remain visible and enforceable across support operations.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "service-management",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i1-sla-ola-management-specialist",
+                    "workspace":  "~/.openclaw/agents/i1-sla-ola-management-specialist/workspace",
+                    "agentDir":  "~/.openclaw/agents/i1-sla-ola-management-specialist/agent",
+                    "configEntry":  "config/openclaw.agent.i1-sla-ola-management-specialist.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i1-sla-ola-management-specialist.snippet.json"
+                }
+}

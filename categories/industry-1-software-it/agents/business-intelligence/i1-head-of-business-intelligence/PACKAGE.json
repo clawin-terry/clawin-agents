@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i1-head-of-business-intelligence",
+    "roleTitle":  "Head of Business Intelligence",
+    "personaSummary":  "Leads business intelligence strategy, delivery standards, and stakeholder alignment so decision-makers receive reliable analytical insight at the right cadence.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "business-intelligence",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i1-head-of-business-intelligence",
+                    "workspace":  "~/.openclaw/agents/i1-head-of-business-intelligence/workspace",
+                    "agentDir":  "~/.openclaw/agents/i1-head-of-business-intelligence/agent",
+                    "configEntry":  "config/openclaw.agent.i1-head-of-business-intelligence.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i1-head-of-business-intelligence.snippet.json"
+                }
+}

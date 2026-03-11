@@ -1,0 +1,13 @@
+{
+    "id":  "i4-delivery-director-agency",
+    "default":  false,
+    "name":  "Delivery Director (Agency)",
+    "workspace":  "~/.openclaw/agents/i4-delivery-director-agency/workspace",
+    "agentDir":  "~/.openclaw/agents/i4-delivery-director-agency/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

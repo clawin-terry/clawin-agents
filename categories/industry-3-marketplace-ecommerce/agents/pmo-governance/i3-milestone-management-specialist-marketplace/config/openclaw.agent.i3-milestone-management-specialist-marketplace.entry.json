@@ -1,0 +1,13 @@
+{
+    "id":  "i3-milestone-management-specialist-marketplace",
+    "default":  false,
+    "name":  "Milestone Management Specialist (Marketplace)",
+    "workspace":  "~/.openclaw/agents/i3-milestone-management-specialist-marketplace/workspace",
+    "agentDir":  "~/.openclaw/agents/i3-milestone-management-specialist-marketplace/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

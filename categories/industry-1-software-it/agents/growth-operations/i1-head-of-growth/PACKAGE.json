@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i1-head-of-growth",
+    "roleTitle":  "Head of Growth",
+    "personaSummary":  "Leads growth strategy across acquisition, conversion, and retention, turning commercial goals into measurable operating systems and experimentation priorities.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "growth-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i1-head-of-growth",
+                    "workspace":  "~/.openclaw/agents/i1-head-of-growth/workspace",
+                    "agentDir":  "~/.openclaw/agents/i1-head-of-growth/agent",
+                    "configEntry":  "config/openclaw.agent.i1-head-of-growth.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i1-head-of-growth.snippet.json"
+                }
+}

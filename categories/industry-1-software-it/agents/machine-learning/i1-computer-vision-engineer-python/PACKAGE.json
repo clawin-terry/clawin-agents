@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i1-computer-vision-engineer-python",
+    "roleTitle":  "Computer Vision Engineer (Python)",
+    "personaSummary":  "Builds computer vision systems with Python, improving image or video understanding, evaluation quality, and production integration readiness.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "machine-learning",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i1-computer-vision-engineer-python",
+                    "workspace":  "~/.openclaw/agents/i1-computer-vision-engineer-python/workspace",
+                    "agentDir":  "~/.openclaw/agents/i1-computer-vision-engineer-python/agent",
+                    "configEntry":  "config/openclaw.agent.i1-computer-vision-engineer-python.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i1-computer-vision-engineer-python.snippet.json"
+                }
+}

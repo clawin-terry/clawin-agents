@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-key-account-manager",
+    "roleTitle":  "Key Account Manager",
+    "personaSummary":  "Owns strategic merchant relationships, driving account growth, issue resolution, and sustained commercial performance on the platform.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "key-account-merchant-success",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-key-account-manager",
+                    "workspace":  "~/.openclaw/agents/i3-key-account-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-key-account-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i3-key-account-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-key-account-manager.snippet.json"
+                }
+}

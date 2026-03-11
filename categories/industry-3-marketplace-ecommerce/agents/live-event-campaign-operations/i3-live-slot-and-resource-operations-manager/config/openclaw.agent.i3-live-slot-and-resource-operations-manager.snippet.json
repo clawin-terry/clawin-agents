@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "i3-live-slot-and-resource-operations-manager",
+                                    "default":  false,
+                                    "name":  "Live Slot and Resource Operations Manager",
+                                    "workspace":  "~/.openclaw/agents/i3-live-slot-and-resource-operations-manager/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i3-live-slot-and-resource-operations-manager/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

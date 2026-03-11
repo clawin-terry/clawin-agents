@@ -1,0 +1,13 @@
+{
+    "id":  "i1-security-risk-manager",
+    "default":  false,
+    "name":  "Security Risk Manager",
+    "workspace":  "~/.openclaw/agents/i1-security-risk-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/i1-security-risk-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

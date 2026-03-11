@@ -1,0 +1,13 @@
+{
+    "id":  "i4-devops-engineer-python-shell",
+    "default":  false,
+    "name":  "DevOps Engineer (Python/Shell)",
+    "workspace":  "~/.openclaw/agents/i4-devops-engineer-python-shell/workspace",
+    "agentDir":  "~/.openclaw/agents/i4-devops-engineer-python-shell/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

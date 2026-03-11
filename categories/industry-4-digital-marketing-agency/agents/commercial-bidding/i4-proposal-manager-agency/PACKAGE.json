@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-proposal-manager-agency",
+    "roleTitle":  "Proposal Manager (Agency)",
+    "personaSummary":  "Runs proposal management so agency bid responses, compliance details, and submission timelines stay organized and complete.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "commercial-bidding",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-proposal-manager-agency",
+                    "workspace":  "~/.openclaw/agents/i4-proposal-manager-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-proposal-manager-agency/agent",
+                    "configEntry":  "config/openclaw.agent.i4-proposal-manager-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-proposal-manager-agency.snippet.json"
+                }
+}

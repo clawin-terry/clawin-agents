@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-post-production-packaging-specialist-agency",
+    "roleTitle":  "Post-Production Packaging Specialist (Agency)",
+    "personaSummary":  "Packages post-production outputs so agency videos ship with cleaner finishing elements, delivery versions, and polished end-to-end presentation.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "video-production",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-post-production-packaging-specialist-agency",
+                    "workspace":  "~/.openclaw/agents/i4-post-production-packaging-specialist-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-post-production-packaging-specialist-agency/agent",
+                    "configEntry":  "config/openclaw.agent.i4-post-production-packaging-specialist-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-post-production-packaging-specialist-agency.snippet.json"
+                }
+}

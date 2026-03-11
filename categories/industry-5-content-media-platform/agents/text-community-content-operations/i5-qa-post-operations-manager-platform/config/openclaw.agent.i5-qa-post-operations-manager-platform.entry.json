@@ -1,0 +1,13 @@
+{
+    "id":  "i5-qa-post-operations-manager-platform",
+    "default":  false,
+    "name":  "Q&A and Post Operations Manager (Platform)",
+    "workspace":  "~/.openclaw/agents/i5-qa-post-operations-manager-platform/workspace",
+    "agentDir":  "~/.openclaw/agents/i5-qa-post-operations-manager-platform/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

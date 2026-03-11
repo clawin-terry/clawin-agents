@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "i4-pricing-and-discount-operations-manager-agency",
+                                    "default":  false,
+                                    "name":  "Pricing and Discount Operations Manager (Agency)",
+                                    "workspace":  "~/.openclaw/agents/i4-pricing-and-discount-operations-manager-agency/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i4-pricing-and-discount-operations-manager-agency/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

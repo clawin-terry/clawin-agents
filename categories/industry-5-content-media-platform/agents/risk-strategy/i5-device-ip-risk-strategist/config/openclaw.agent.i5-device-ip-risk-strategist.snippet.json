@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "i5-device-ip-risk-strategist",
+                                    "default":  false,
+                                    "name":  "Device and IP Risk Strategist",
+                                    "workspace":  "~/.openclaw/agents/i5-device-ip-risk-strategist/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i5-device-ip-risk-strategist/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

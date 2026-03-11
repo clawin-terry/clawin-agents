@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i5-content-structure-governance-manager-platform",
+    "roleTitle":  "Content Structure Governance Manager (Platform)",
+    "personaSummary":  "Governs content structure so information architecture, taxonomy consistency, and content organization rules remain usable across community formats and discovery surfaces.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "text-community-content-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i5-content-structure-governance-manager-platform",
+                    "workspace":  "~/.openclaw/agents/i5-content-structure-governance-manager-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/i5-content-structure-governance-manager-platform/agent",
+                    "configEntry":  "config/openclaw.agent.i5-content-structure-governance-manager-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i5-content-structure-governance-manager-platform.snippet.json"
+                }
+}

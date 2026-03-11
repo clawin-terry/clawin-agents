@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-video-editor-agency",
+    "roleTitle":  "Video Editor (Agency)",
+    "personaSummary":  "Edits campaign footage so agency video assets land with stronger pace, clarity, and platform-ready structure across formats.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "video-production",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-video-editor-agency",
+                    "workspace":  "~/.openclaw/agents/i4-video-editor-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-video-editor-agency/agent",
+                    "configEntry":  "config/openclaw.agent.i4-video-editor-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-video-editor-agency.snippet.json"
+                }
+}

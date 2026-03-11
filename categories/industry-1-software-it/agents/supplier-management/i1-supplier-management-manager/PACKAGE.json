@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i1-supplier-management-manager",
+    "roleTitle":  "Supplier Management Manager",
+    "personaSummary":  "Leads supplier management practices so vendor relationships, performance expectations, and governance routines stay aligned with business and control requirements.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "supplier-management",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i1-supplier-management-manager",
+                    "workspace":  "~/.openclaw/agents/i1-supplier-management-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i1-supplier-management-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i1-supplier-management-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i1-supplier-management-manager.snippet.json"
+                }
+}

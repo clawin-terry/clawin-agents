@@ -1,0 +1,13 @@
+{
+    "id":  "i3-risk-strategy-platform-support-engineer",
+    "default":  false,
+    "name":  "Risk Strategy Platform Support Engineer",
+    "workspace":  "~/.openclaw/agents/i3-risk-strategy-platform-support-engineer/workspace",
+    "agentDir":  "~/.openclaw/agents/i3-risk-strategy-platform-support-engineer/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

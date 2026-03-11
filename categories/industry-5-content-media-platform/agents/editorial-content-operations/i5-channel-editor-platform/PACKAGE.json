@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i5-channel-editor-platform",
+    "roleTitle":  "Channel Editor (Platform)",
+    "personaSummary":  "Edits and curates one or more channels so operated content surfaces maintain stronger quality, clearer voice, and more consistent publishing focus.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "editorial-content-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i5-channel-editor-platform",
+                    "workspace":  "~/.openclaw/agents/i5-channel-editor-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/i5-channel-editor-platform/agent",
+                    "configEntry":  "config/openclaw.agent.i5-channel-editor-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i5-channel-editor-platform.snippet.json"
+                }
+}

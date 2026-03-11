@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i5-appeals-resolution-specialist-platform",
+    "roleTitle":  "Appeals Resolution Specialist (Platform)",
+    "personaSummary":  "Resolves appeals so contested moderation outcomes are reassessed with clearer evidence handling, fairness checks, and response quality.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "reports-and-appeals-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i5-appeals-resolution-specialist-platform",
+                    "workspace":  "~/.openclaw/agents/i5-appeals-resolution-specialist-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/i5-appeals-resolution-specialist-platform/agent",
+                    "configEntry":  "config/openclaw.agent.i5-appeals-resolution-specialist-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i5-appeals-resolution-specialist-platform.snippet.json"
+                }
+}

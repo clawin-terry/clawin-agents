@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-data-engineer-scala",
+    "roleTitle":  "Data Engineer (Scala)",
+    "personaSummary":  "Builds offline data platform pipelines with Scala so marketplace analytics datasets remain reliable, scalable, and usable across downstream teams.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "data-engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-data-engineer-scala",
+                    "workspace":  "~/.openclaw/agents/i3-data-engineer-scala/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-data-engineer-scala/agent",
+                    "configEntry":  "config/openclaw.agent.i3-data-engineer-scala.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-data-engineer-scala.snippet.json"
+                }
+}

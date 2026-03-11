@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i1-security-compliance-manager-mlps-iso27001",
+    "roleTitle":  "Security Compliance Manager (MLPS / ISO 27001)",
+    "personaSummary":  "Leads security compliance programs so MLPS and ISO 27001 requirements are interpreted clearly, implemented pragmatically, and evidenced for audits and reviews.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "security-governance",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "healthcheck"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i1-security-compliance-manager-mlps-iso27001",
+                    "workspace":  "~/.openclaw/agents/i1-security-compliance-manager-mlps-iso27001/workspace",
+                    "agentDir":  "~/.openclaw/agents/i1-security-compliance-manager-mlps-iso27001/agent",
+                    "configEntry":  "config/openclaw.agent.i1-security-compliance-manager-mlps-iso27001.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i1-security-compliance-manager-mlps-iso27001.snippet.json"
+                }
+}

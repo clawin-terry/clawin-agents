@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "i3-secure-development-lifecycle-engineer",
+                                    "default":  false,
+                                    "name":  "Secure Development Lifecycle Engineer",
+                                    "workspace":  "~/.openclaw/agents/i3-secure-development-lifecycle-engineer/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i3-secure-development-lifecycle-engineer/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

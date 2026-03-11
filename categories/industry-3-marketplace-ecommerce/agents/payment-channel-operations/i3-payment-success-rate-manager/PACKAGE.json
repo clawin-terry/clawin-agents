@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-payment-success-rate-manager",
+    "roleTitle":  "Payment Success Rate Manager",
+    "personaSummary":  "Improves payment success rates so valid transactions complete more reliably across payment channels and buyer contexts.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "payment-channel-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-payment-success-rate-manager",
+                    "workspace":  "~/.openclaw/agents/i3-payment-success-rate-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-payment-success-rate-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i3-payment-success-rate-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-payment-success-rate-manager.snippet.json"
+                }
+}

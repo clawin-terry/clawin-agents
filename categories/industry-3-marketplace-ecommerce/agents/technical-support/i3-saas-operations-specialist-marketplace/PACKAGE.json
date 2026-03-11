@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-saas-operations-specialist-marketplace",
+    "roleTitle":  "SaaS Operations Specialist (Marketplace)",
+    "personaSummary":  "Operates workplace SaaS applications so marketplace tooling access, renewals, configurations, and day-to-day administration remain controlled and reliable.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "technical-support",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-saas-operations-specialist-marketplace",
+                    "workspace":  "~/.openclaw/agents/i3-saas-operations-specialist-marketplace/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-saas-operations-specialist-marketplace/agent",
+                    "configEntry":  "config/openclaw.agent.i3-saas-operations-specialist-marketplace.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-saas-operations-specialist-marketplace.snippet.json"
+                }
+}

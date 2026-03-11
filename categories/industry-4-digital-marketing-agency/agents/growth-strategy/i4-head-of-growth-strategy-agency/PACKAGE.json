@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-head-of-growth-strategy-agency",
+    "roleTitle":  "Head of Growth Strategy (Agency)",
+    "personaSummary":  "Leads agency growth strategy so acquisition priorities, funnel goals, and experimentation agendas stay aligned with measurable growth outcomes.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "growth-strategy",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-head-of-growth-strategy-agency",
+                    "workspace":  "~/.openclaw/agents/i4-head-of-growth-strategy-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-head-of-growth-strategy-agency/agent",
+                    "configEntry":  "config/openclaw.agent.i4-head-of-growth-strategy-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-head-of-growth-strategy-agency.snippet.json"
+                }
+}

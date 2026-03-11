@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i1-executive-spokesperson-support-manager",
+    "roleTitle":  "Executive Spokesperson Support Manager",
+    "personaSummary":  "Prepares executives for external speaking and media moments with briefing materials, message discipline, and response readiness.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "public-relations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "clawin-media-performance-systems"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i1-executive-spokesperson-support-manager",
+                    "workspace":  "~/.openclaw/agents/i1-executive-spokesperson-support-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i1-executive-spokesperson-support-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i1-executive-spokesperson-support-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i1-executive-spokesperson-support-manager.snippet.json"
+                }
+}

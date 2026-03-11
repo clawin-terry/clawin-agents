@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-audit-liaison-manager",
+    "roleTitle":  "Audit Liaison Manager",
+    "personaSummary":  "Acts as the business-side audit liaison so reviews, evidence requests, and remediation follow-up are coordinated with clear accountability.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "risk-compliance-regulatory-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-audit-liaison-manager",
+                    "workspace":  "~/.openclaw/agents/i3-audit-liaison-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-audit-liaison-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i3-audit-liaison-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-audit-liaison-manager.snippet.json"
+                }
+}

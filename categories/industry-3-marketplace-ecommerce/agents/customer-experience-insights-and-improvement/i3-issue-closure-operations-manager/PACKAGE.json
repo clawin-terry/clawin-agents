@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-issue-closure-operations-manager",
+    "roleTitle":  "Issue Closure Operations Manager",
+    "personaSummary":  "Drives issue closure operations so experience problems are tracked to resolution and corrective actions are completed.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "customer-experience-insights-and-improvement",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-issue-closure-operations-manager",
+                    "workspace":  "~/.openclaw/agents/i3-issue-closure-operations-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-issue-closure-operations-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i3-issue-closure-operations-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-issue-closure-operations-manager.snippet.json"
+                }
+}

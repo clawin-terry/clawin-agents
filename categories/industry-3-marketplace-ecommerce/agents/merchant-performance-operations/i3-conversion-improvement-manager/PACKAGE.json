@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-conversion-improvement-manager",
+    "roleTitle":  "Conversion Improvement Manager",
+    "personaSummary":  "Leads conversion improvement work so merchant traffic turns into more orders through clearer offers, stronger pages, and better operating discipline.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "merchant-performance-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-conversion-improvement-manager",
+                    "workspace":  "~/.openclaw/agents/i3-conversion-improvement-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-conversion-improvement-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i3-conversion-improvement-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-conversion-improvement-manager.snippet.json"
+                }
+}

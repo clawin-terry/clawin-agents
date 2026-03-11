@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i1-demo-engineer-js-ts",
+    "roleTitle":  "Demo Engineer (JS/TS)",
+    "personaSummary":  "Builds demo environments and showcase experiences with JavaScript and TypeScript so solution narratives are credible, polished, and technically convincing.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "solution-assets",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i1-demo-engineer-js-ts",
+                    "workspace":  "~/.openclaw/agents/i1-demo-engineer-js-ts/workspace",
+                    "agentDir":  "~/.openclaw/agents/i1-demo-engineer-js-ts/agent",
+                    "configEntry":  "config/openclaw.agent.i1-demo-engineer-js-ts.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i1-demo-engineer-js-ts.snippet.json"
+                }
+}

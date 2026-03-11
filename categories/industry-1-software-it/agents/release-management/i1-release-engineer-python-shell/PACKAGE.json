@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i1-release-engineer-python-shell",
+    "roleTitle":  "Release Engineer (Python/Shell)",
+    "personaSummary":  "Builds and operates release workflows with Python and shell automation, improving deployment repeatability, rollback readiness, and operational confidence.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "release-management",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "healthcheck"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i1-release-engineer-python-shell",
+                    "workspace":  "~/.openclaw/agents/i1-release-engineer-python-shell/workspace",
+                    "agentDir":  "~/.openclaw/agents/i1-release-engineer-python-shell/agent",
+                    "configEntry":  "config/openclaw.agent.i1-release-engineer-python-shell.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i1-release-engineer-python-shell.snippet.json"
+                }
+}

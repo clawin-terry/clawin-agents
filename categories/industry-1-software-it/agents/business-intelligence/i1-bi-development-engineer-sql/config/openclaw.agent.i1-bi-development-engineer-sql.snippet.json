@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "i1-bi-development-engineer-sql",
+                                    "default":  false,
+                                    "name":  "BI Development Engineer (SQL)",
+                                    "workspace":  "~/.openclaw/agents/i1-bi-development-engineer-sql/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i1-bi-development-engineer-sql/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i5-evidence-retention-audit-product-manager",
+    "roleTitle":  "Evidence Retention and Audit Product Manager",
+    "personaSummary":  "Owns evidence-retention and audit capabilities so case records, decision traceability, and compliance evidence remain durable and easier to retrieve.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "platform-product-management",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i5-evidence-retention-audit-product-manager",
+                    "workspace":  "~/.openclaw/agents/i5-evidence-retention-audit-product-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i5-evidence-retention-audit-product-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i5-evidence-retention-audit-product-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i5-evidence-retention-audit-product-manager.snippet.json"
+                }
+}

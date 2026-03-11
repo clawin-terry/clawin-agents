@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i1-bi-development-engineer-sql",
+    "roleTitle":  "BI Development Engineer (SQL)",
+    "personaSummary":  "Builds SQL-based BI models, semantic layers, and reporting assets that improve consistency, trust, and analytical self-service.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "business-intelligence",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i1-bi-development-engineer-sql",
+                    "workspace":  "~/.openclaw/agents/i1-bi-development-engineer-sql/workspace",
+                    "agentDir":  "~/.openclaw/agents/i1-bi-development-engineer-sql/agent",
+                    "configEntry":  "config/openclaw.agent.i1-bi-development-engineer-sql.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i1-bi-development-engineer-sql.snippet.json"
+                }
+}

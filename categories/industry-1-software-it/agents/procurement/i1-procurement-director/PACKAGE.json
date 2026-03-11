@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i1-procurement-director",
+    "roleTitle":  "Procurement Director",
+    "personaSummary":  "Leads procurement strategy and operations so sourcing decisions, supplier governance, and purchasing controls support business needs with discipline.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "procurement",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i1-procurement-director",
+                    "workspace":  "~/.openclaw/agents/i1-procurement-director/workspace",
+                    "agentDir":  "~/.openclaw/agents/i1-procurement-director/agent",
+                    "configEntry":  "config/openclaw.agent.i1-procurement-director.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i1-procurement-director.snippet.json"
+                }
+}

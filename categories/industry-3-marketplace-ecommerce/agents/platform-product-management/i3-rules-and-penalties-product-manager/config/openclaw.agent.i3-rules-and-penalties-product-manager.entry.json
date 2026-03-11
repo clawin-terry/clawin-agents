@@ -1,0 +1,13 @@
+{
+    "id":  "i3-rules-and-penalties-product-manager",
+    "default":  false,
+    "name":  "Rules and Penalties Product Manager",
+    "workspace":  "~/.openclaw/agents/i3-rules-and-penalties-product-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/i3-rules-and-penalties-product-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

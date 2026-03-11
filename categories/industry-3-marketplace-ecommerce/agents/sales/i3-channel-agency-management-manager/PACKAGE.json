@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-channel-agency-management-manager",
+    "roleTitle":  "Channel Agency Management Manager",
+    "personaSummary":  "Manages channel agencies so partner-sourced advertising demand, execution standards, and growth targets stay aligned with marketplace commercial goals.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "sales",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-channel-agency-management-manager",
+                    "workspace":  "~/.openclaw/agents/i3-channel-agency-management-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-channel-agency-management-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i3-channel-agency-management-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-channel-agency-management-manager.snippet.json"
+                }
+}

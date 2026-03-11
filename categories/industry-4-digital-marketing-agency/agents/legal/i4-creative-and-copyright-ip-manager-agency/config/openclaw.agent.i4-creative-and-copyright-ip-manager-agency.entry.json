@@ -1,0 +1,13 @@
+{
+    "id":  "i4-creative-and-copyright-ip-manager-agency",
+    "default":  false,
+    "name":  "Creative and Copyright IP Manager",
+    "workspace":  "~/.openclaw/agents/i4-creative-and-copyright-ip-manager-agency/workspace",
+    "agentDir":  "~/.openclaw/agents/i4-creative-and-copyright-ip-manager-agency/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

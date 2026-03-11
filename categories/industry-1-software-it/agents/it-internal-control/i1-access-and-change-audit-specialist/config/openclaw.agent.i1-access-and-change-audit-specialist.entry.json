@@ -1,0 +1,13 @@
+{
+    "id":  "i1-access-and-change-audit-specialist",
+    "default":  false,
+    "name":  "Access and Change Audit Specialist",
+    "workspace":  "~/.openclaw/agents/i1-access-and-change-audit-specialist/workspace",
+    "agentDir":  "~/.openclaw/agents/i1-access-and-change-audit-specialist/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

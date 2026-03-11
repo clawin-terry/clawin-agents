@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-design-systems-lead",
+    "roleTitle":  "Design Systems Lead",
+    "personaSummary":  "Leads design systems work so shared marketplace components, patterns, and governance improve consistency across product surfaces.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "design",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "frontend-design"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-design-systems-lead",
+                    "workspace":  "~/.openclaw/agents/i3-design-systems-lead/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-design-systems-lead/agent",
+                    "configEntry":  "config/openclaw.agent.i3-design-systems-lead.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-design-systems-lead.snippet.json"
+                }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i1-sales-training-coach",
+    "roleTitle":  "Sales Training Coach",
+    "personaSummary":  "Improves sales capability through coaching, playbook reinforcement, and practical training aligned to field performance needs.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "sales",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i1-sales-training-coach",
+                    "workspace":  "~/.openclaw/agents/i1-sales-training-coach/workspace",
+                    "agentDir":  "~/.openclaw/agents/i1-sales-training-coach/agent",
+                    "configEntry":  "config/openclaw.agent.i1-sales-training-coach.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i1-sales-training-coach.snippet.json"
+                }
+}

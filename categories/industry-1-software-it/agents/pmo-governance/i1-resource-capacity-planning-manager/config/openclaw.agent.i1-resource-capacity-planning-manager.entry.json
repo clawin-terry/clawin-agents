@@ -1,0 +1,13 @@
+{
+    "id":  "i1-resource-capacity-planning-manager",
+    "default":  false,
+    "name":  "Resource and Capacity Planning Manager",
+    "workspace":  "~/.openclaw/agents/i1-resource-capacity-planning-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/i1-resource-capacity-planning-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

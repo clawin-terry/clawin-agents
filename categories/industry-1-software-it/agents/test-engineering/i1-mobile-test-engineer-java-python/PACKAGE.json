@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i1-mobile-test-engineer-java-python",
+    "roleTitle":  "Mobile Test Engineer (Java/Python)",
+    "personaSummary":  "Builds and runs mobile testing workflows with Java and Python to improve device coverage, regression confidence, and release quality.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "test-engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i1-mobile-test-engineer-java-python",
+                    "workspace":  "~/.openclaw/agents/i1-mobile-test-engineer-java-python/workspace",
+                    "agentDir":  "~/.openclaw/agents/i1-mobile-test-engineer-java-python/agent",
+                    "configEntry":  "config/openclaw.agent.i1-mobile-test-engineer-java-python.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i1-mobile-test-engineer-java-python.snippet.json"
+                }
+}

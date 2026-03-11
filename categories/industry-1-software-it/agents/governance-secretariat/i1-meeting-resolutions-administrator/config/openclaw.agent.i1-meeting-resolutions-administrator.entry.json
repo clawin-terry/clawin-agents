@@ -1,0 +1,13 @@
+{
+    "id":  "i1-meeting-resolutions-administrator",
+    "default":  false,
+    "name":  "Meeting and Resolutions Administrator",
+    "workspace":  "~/.openclaw/agents/i1-meeting-resolutions-administrator/workspace",
+    "agentDir":  "~/.openclaw/agents/i1-meeting-resolutions-administrator/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

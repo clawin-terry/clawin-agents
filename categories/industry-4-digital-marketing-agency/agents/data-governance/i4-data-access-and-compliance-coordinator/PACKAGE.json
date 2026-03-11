@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-data-access-and-compliance-coordinator",
+    "roleTitle":  "Data Access and Compliance Coordinator",
+    "personaSummary":  "Coordinates access control and compliance workflows so agency data usage remains properly approved, auditable, and aligned with legal and security requirements.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "data-governance",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-data-access-and-compliance-coordinator",
+                    "workspace":  "~/.openclaw/agents/i4-data-access-and-compliance-coordinator/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-data-access-and-compliance-coordinator/agent",
+                    "configEntry":  "config/openclaw.agent.i4-data-access-and-compliance-coordinator.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-data-access-and-compliance-coordinator.snippet.json"
+                }
+}

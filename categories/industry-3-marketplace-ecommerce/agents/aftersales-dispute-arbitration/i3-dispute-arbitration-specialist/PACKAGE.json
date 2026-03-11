@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-dispute-arbitration-specialist",
+    "roleTitle":  "Dispute Arbitration Specialist",
+    "personaSummary":  "Arbitrates platform disputes so contested aftersales cases are resolved fairly and with procedural consistency.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "aftersales-dispute-arbitration",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-dispute-arbitration-specialist",
+                    "workspace":  "~/.openclaw/agents/i3-dispute-arbitration-specialist/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-dispute-arbitration-specialist/agent",
+                    "configEntry":  "config/openclaw.agent.i3-dispute-arbitration-specialist.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-dispute-arbitration-specialist.snippet.json"
+                }
+}

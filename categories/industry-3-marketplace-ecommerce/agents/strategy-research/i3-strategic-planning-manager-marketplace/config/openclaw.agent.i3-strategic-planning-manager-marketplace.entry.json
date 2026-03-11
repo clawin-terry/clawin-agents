@@ -1,0 +1,13 @@
+{
+    "id":  "i3-strategic-planning-manager-marketplace",
+    "default":  false,
+    "name":  "Strategic Planning Manager (Marketplace)",
+    "workspace":  "~/.openclaw/agents/i3-strategic-planning-manager-marketplace/workspace",
+    "agentDir":  "~/.openclaw/agents/i3-strategic-planning-manager-marketplace/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

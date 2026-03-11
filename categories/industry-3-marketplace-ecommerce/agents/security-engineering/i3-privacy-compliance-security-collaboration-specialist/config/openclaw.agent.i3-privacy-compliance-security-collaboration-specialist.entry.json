@@ -1,0 +1,13 @@
+{
+    "id":  "i3-privacy-compliance-security-collaboration-specialist",
+    "default":  false,
+    "name":  "Privacy Compliance Security Collaboration Specialist",
+    "workspace":  "~/.openclaw/agents/i3-privacy-compliance-security-collaboration-specialist/workspace",
+    "agentDir":  "~/.openclaw/agents/i3-privacy-compliance-security-collaboration-specialist/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

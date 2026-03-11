@@ -1,0 +1,13 @@
+{
+    "id":  "i1-middleware-integration-engineer-java",
+    "default":  false,
+    "name":  "Middleware Integration Engineer (Java)",
+    "workspace":  "~/.openclaw/agents/i1-middleware-integration-engineer-java/workspace",
+    "agentDir":  "~/.openclaw/agents/i1-middleware-integration-engineer-java/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

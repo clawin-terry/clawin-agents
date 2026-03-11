@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-ci-cd-engineer",
+    "roleTitle":  "CI/CD Engineer",
+    "personaSummary":  "Builds CI/CD capabilities so marketplace engineering teams can validate, package, and release changes with faster feedback and safer delivery workflows.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "platform-engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "healthcheck"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-ci-cd-engineer",
+                    "workspace":  "~/.openclaw/agents/i3-ci-cd-engineer/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-ci-cd-engineer/agent",
+                    "configEntry":  "config/openclaw.agent.i3-ci-cd-engineer.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-ci-cd-engineer.snippet.json"
+                }
+}

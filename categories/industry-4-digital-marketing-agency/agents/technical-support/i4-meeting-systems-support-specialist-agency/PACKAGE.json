@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-meeting-systems-support-specialist-agency",
+    "roleTitle":  "Meeting Systems Support Specialist (Agency)",
+    "personaSummary":  "Supports meeting systems so agency conference rooms, collaboration tools, and hybrid-session setups remain reliable for internal and client-facing work.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "technical-support",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-meeting-systems-support-specialist-agency",
+                    "workspace":  "~/.openclaw/agents/i4-meeting-systems-support-specialist-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-meeting-systems-support-specialist-agency/agent",
+                    "configEntry":  "config/openclaw.agent.i4-meeting-systems-support-specialist-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-meeting-systems-support-specialist-agency.snippet.json"
+                }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-performance-manager-agency",
+    "roleTitle":  "Performance Manager (Agency)",
+    "personaSummary":  "Runs agency performance-management programs so goals, review cycles, and manager execution stay fair, timely, and aligned with business expectations.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "compensation-benefits-performance",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-performance-manager-agency",
+                    "workspace":  "~/.openclaw/agents/i4-performance-manager-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-performance-manager-agency/agent",
+                    "configEntry":  "config/openclaw.agent.i4-performance-manager-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-performance-manager-agency.snippet.json"
+                }
+}

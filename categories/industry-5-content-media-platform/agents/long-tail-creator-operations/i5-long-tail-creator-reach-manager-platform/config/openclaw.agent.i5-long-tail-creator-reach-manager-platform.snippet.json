@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "i5-long-tail-creator-reach-manager-platform",
+                                    "default":  false,
+                                    "name":  "Long-Tail Creator Reach Manager (Platform)",
+                                    "workspace":  "~/.openclaw/agents/i5-long-tail-creator-reach-manager-platform/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i5-long-tail-creator-reach-manager-platform/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

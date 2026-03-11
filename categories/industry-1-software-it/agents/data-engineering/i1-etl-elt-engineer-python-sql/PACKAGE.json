@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i1-etl-elt-engineer-python-sql",
+    "roleTitle":  "ETL and ELT Engineer (Python/SQL)",
+    "personaSummary":  "Builds ETL and ELT workflows with Python and SQL, improving ingestion quality, transformation reliability, and operational transparency across the data stack.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "data-engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i1-etl-elt-engineer-python-sql",
+                    "workspace":  "~/.openclaw/agents/i1-etl-elt-engineer-python-sql/workspace",
+                    "agentDir":  "~/.openclaw/agents/i1-etl-elt-engineer-python-sql/agent",
+                    "configEntry":  "config/openclaw.agent.i1-etl-elt-engineer-python-sql.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i1-etl-elt-engineer-python-sql.snippet.json"
+                }
+}

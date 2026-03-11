@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "i1-head-of-machine-learning",
+                                    "default":  false,
+                                    "name":  "Head of Machine Learning",
+                                    "workspace":  "~/.openclaw/agents/i1-head-of-machine-learning/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i1-head-of-machine-learning/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

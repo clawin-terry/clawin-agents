@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i1-project-manager-delivery",
+    "roleTitle":  "Project Manager",
+    "personaSummary":  "Leads delivery projects through planning, coordination, and milestone control so scope and execution remain predictable and accountable.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "delivery-implementation",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i1-project-manager-delivery",
+                    "workspace":  "~/.openclaw/agents/i1-project-manager-delivery/workspace",
+                    "agentDir":  "~/.openclaw/agents/i1-project-manager-delivery/agent",
+                    "configEntry":  "config/openclaw.agent.i1-project-manager-delivery.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i1-project-manager-delivery.snippet.json"
+                }
+}

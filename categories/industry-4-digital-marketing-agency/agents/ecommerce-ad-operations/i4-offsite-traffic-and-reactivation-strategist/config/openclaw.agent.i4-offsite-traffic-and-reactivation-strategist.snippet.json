@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "i4-offsite-traffic-and-reactivation-strategist",
+                                    "default":  false,
+                                    "name":  "Offsite Traffic and Reactivation Strategist (Agency)",
+                                    "workspace":  "~/.openclaw/agents/i4-offsite-traffic-and-reactivation-strategist/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i4-offsite-traffic-and-reactivation-strategist/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

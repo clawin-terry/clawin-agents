@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i1-channel-director",
+    "roleTitle":  "Channel Director",
+    "personaSummary":  "Leads channel strategy, partner coverage, and indirect revenue performance so the partner ecosystem grows with clear rules and measurable outcomes.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "channel-sales",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i1-channel-director",
+                    "workspace":  "~/.openclaw/agents/i1-channel-director/workspace",
+                    "agentDir":  "~/.openclaw/agents/i1-channel-director/agent",
+                    "configEntry":  "config/openclaw.agent.i1-channel-director.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i1-channel-director.snippet.json"
+                }
+}

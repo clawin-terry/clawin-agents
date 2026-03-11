@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "i3-brand-partnership-manager",
+                                    "default":  false,
+                                    "name":  "Brand Partnership Manager",
+                                    "workspace":  "~/.openclaw/agents/i3-brand-partnership-manager/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i3-brand-partnership-manager/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

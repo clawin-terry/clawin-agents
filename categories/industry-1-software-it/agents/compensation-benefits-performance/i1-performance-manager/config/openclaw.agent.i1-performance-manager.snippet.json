@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "i1-performance-manager",
+                                    "default":  false,
+                                    "name":  "Performance Manager",
+                                    "workspace":  "~/.openclaw/agents/i1-performance-manager/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i1-performance-manager/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

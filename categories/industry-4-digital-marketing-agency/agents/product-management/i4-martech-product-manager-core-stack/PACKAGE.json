@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-martech-product-manager-core-stack",
+    "roleTitle":  "MarTech Product Manager (CDP, Marketing Automation, BI, Attribution, and Asset Management)",
+    "personaSummary":  "Owns MarTech product requirements across CDP, marketing automation, BI, attribution, and asset management so agency teams get practical platforms that improve execution.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "product-management",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-martech-product-manager-core-stack",
+                    "workspace":  "~/.openclaw/agents/i4-martech-product-manager-core-stack/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-martech-product-manager-core-stack/agent",
+                    "configEntry":  "config/openclaw.agent.i4-martech-product-manager-core-stack.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-martech-product-manager-core-stack.snippet.json"
+                }
+}

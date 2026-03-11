@@ -1,0 +1,13 @@
+{
+    "id":  "i4-ads-tools-frontend-engineer-javascript-typescript",
+    "default":  false,
+    "name":  "Ads Tools Frontend Engineer (JavaScript/TypeScript)",
+    "workspace":  "~/.openclaw/agents/i4-ads-tools-frontend-engineer-javascript-typescript/workspace",
+    "agentDir":  "~/.openclaw/agents/i4-ads-tools-frontend-engineer-javascript-typescript/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-aso-coordination-specialist-agency",
+    "roleTitle":  "ASO Coordination Specialist (Agency)",
+    "personaSummary":  "Coordinates app store optimization so agency app-growth teams can align store presence, acquisition campaigns, and conversion improvement efforts.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "app-growth-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-aso-coordination-specialist-agency",
+                    "workspace":  "~/.openclaw/agents/i4-aso-coordination-specialist-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-aso-coordination-specialist-agency/agent",
+                    "configEntry":  "config/openclaw.agent.i4-aso-coordination-specialist-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-aso-coordination-specialist-agency.snippet.json"
+                }
+}

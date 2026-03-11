@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-tag-and-topic-operations-manager",
+    "roleTitle":  "Tag and Topic Operations Manager",
+    "personaSummary":  "Runs tag and topic operations so marketplace taxonomy, discovery themes, and content organization remain clear and scalable.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "content-distribution-strategy",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-tag-and-topic-operations-manager",
+                    "workspace":  "~/.openclaw/agents/i3-tag-and-topic-operations-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-tag-and-topic-operations-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i3-tag-and-topic-operations-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-tag-and-topic-operations-manager.snippet.json"
+                }
+}

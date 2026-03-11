@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-mta-and-incrementality-testing-specialist",
+    "roleTitle":  "MTA and Incrementality Testing Specialist",
+    "personaSummary":  "Runs multi-touch attribution and incrementality testing so media teams can evaluate causal lift, channel contribution, and optimization tradeoffs with stronger evidence.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "attribution-measurement",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-mta-and-incrementality-testing-specialist",
+                    "workspace":  "~/.openclaw/agents/i4-mta-and-incrementality-testing-specialist/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-mta-and-incrementality-testing-specialist/agent",
+                    "configEntry":  "config/openclaw.agent.i4-mta-and-incrementality-testing-specialist.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-mta-and-incrementality-testing-specialist.snippet.json"
+                }
+}

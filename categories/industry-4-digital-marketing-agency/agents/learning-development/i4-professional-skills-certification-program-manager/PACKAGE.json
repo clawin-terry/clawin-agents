@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-professional-skills-certification-program-manager",
+    "roleTitle":  "Professional Skills Certification Program Manager (Agency)",
+    "personaSummary":  "Runs professional certification programs so agency specialists can develop verified capability in media buying, creative work, and data practice.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "learning-development",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-professional-skills-certification-program-manager",
+                    "workspace":  "~/.openclaw/agents/i4-professional-skills-certification-program-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-professional-skills-certification-program-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i4-professional-skills-certification-program-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-professional-skills-certification-program-manager.snippet.json"
+                }
+}

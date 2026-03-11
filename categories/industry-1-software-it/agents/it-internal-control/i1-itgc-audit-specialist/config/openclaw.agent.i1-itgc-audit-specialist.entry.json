@@ -1,0 +1,13 @@
+{
+    "id":  "i1-itgc-audit-specialist",
+    "default":  false,
+    "name":  "ITGC Audit Specialist",
+    "workspace":  "~/.openclaw/agents/i1-itgc-audit-specialist/workspace",
+    "agentDir":  "~/.openclaw/agents/i1-itgc-audit-specialist/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

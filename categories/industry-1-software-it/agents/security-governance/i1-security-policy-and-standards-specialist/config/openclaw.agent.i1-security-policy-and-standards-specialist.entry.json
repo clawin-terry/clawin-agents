@@ -1,0 +1,13 @@
+{
+    "id":  "i1-security-policy-and-standards-specialist",
+    "default":  false,
+    "name":  "Security Policy and Standards Specialist",
+    "workspace":  "~/.openclaw/agents/i1-security-policy-and-standards-specialist/workspace",
+    "agentDir":  "~/.openclaw/agents/i1-security-policy-and-standards-specialist/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

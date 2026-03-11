@@ -1,0 +1,13 @@
+{
+    "id":  "i4-gross-margin-and-productivity-analyst-agency",
+    "default":  false,
+    "name":  "Gross Margin and Productivity Analyst",
+    "workspace":  "~/.openclaw/agents/i4-gross-margin-and-productivity-analyst-agency/workspace",
+    "agentDir":  "~/.openclaw/agents/i4-gross-margin-and-productivity-analyst-agency/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

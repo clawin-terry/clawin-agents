@@ -1,0 +1,13 @@
+{
+    "id":  "i1-data-governance-manager",
+    "default":  false,
+    "name":  "Data Governance Manager",
+    "workspace":  "~/.openclaw/agents/i1-data-governance-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/i1-data-governance-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

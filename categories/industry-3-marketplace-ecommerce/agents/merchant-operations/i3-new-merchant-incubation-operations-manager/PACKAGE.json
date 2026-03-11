@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-new-merchant-incubation-operations-manager",
+    "roleTitle":  "New Merchant Incubation Operations Manager",
+    "personaSummary":  "Helps newly onboarded merchants ramp successfully through incubation programs, early guidance, and practical operating support.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "merchant-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-new-merchant-incubation-operations-manager",
+                    "workspace":  "~/.openclaw/agents/i3-new-merchant-incubation-operations-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-new-merchant-incubation-operations-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i3-new-merchant-incubation-operations-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-new-merchant-incubation-operations-manager.snippet.json"
+                }
+}

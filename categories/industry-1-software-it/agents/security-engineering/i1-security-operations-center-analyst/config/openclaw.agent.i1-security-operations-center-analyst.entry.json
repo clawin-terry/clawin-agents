@@ -1,0 +1,13 @@
+{
+    "id":  "i1-security-operations-center-analyst",
+    "default":  false,
+    "name":  "Security Operations Center Analyst",
+    "workspace":  "~/.openclaw/agents/i1-security-operations-center-analyst/workspace",
+    "agentDir":  "~/.openclaw/agents/i1-security-operations-center-analyst/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

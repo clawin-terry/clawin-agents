@@ -1,0 +1,13 @@
+{
+    "id":  "i3-live-room-operations-manager",
+    "default":  false,
+    "name":  "Live Room Operations Manager",
+    "workspace":  "~/.openclaw/agents/i3-live-room-operations-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/i3-live-room-operations-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

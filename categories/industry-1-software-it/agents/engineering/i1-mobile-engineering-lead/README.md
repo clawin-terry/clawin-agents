@@ -18,6 +18,7 @@ A shareable OpenClaw agent folder package for **Mobile Engineering Lead**.
 
 ## Bundled skills
 - coding-agent
+- clawin-mobile-engineering
 
 ## Install
 See `INSTALL.md`.

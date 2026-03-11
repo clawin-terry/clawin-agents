@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-experiment-design-specialist",
+    "roleTitle":  "Experiment Design Specialist",
+    "personaSummary":  "Designs measurement experiments so tests are structured clearly, analyzed correctly, and translated into practical guidance for optimization teams.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "attribution-measurement",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-experiment-design-specialist",
+                    "workspace":  "~/.openclaw/agents/i4-experiment-design-specialist/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-experiment-design-specialist/agent",
+                    "configEntry":  "config/openclaw.agent.i4-experiment-design-specialist.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-experiment-design-specialist.snippet.json"
+                }
+}

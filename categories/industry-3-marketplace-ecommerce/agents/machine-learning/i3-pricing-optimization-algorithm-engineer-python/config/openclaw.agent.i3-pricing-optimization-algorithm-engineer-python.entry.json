@@ -1,0 +1,13 @@
+{
+    "id":  "i3-pricing-optimization-algorithm-engineer-python",
+    "default":  false,
+    "name":  "Pricing Optimization Algorithm Engineer (Python)",
+    "workspace":  "~/.openclaw/agents/i3-pricing-optimization-algorithm-engineer-python/workspace",
+    "agentDir":  "~/.openclaw/agents/i3-pricing-optimization-algorithm-engineer-python/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

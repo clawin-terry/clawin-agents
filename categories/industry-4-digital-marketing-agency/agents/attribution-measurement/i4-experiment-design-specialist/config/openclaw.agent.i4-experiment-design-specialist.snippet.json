@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "i4-experiment-design-specialist",
+                                    "default":  false,
+                                    "name":  "Experiment Design Specialist",
+                                    "workspace":  "~/.openclaw/agents/i4-experiment-design-specialist/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i4-experiment-design-specialist/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

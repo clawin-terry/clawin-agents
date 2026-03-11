@@ -1,0 +1,13 @@
+{
+    "id":  "i4-premium-media-inventory-buyer-agency",
+    "default":  false,
+    "name":  "Premium Media Inventory Buyer (Agency)",
+    "workspace":  "~/.openclaw/agents/i4-premium-media-inventory-buyer-agency/workspace",
+    "agentDir":  "~/.openclaw/agents/i4-premium-media-inventory-buyer-agency/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

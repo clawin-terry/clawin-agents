@@ -1,0 +1,13 @@
+{
+    "id":  "i5-arbitration-mechanism-operations-manager-platform",
+    "default":  false,
+    "name":  "Arbitration Mechanism Operations Manager (Platform)",
+    "workspace":  "~/.openclaw/agents/i5-arbitration-mechanism-operations-manager-platform/workspace",
+    "agentDir":  "~/.openclaw/agents/i5-arbitration-mechanism-operations-manager-platform/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

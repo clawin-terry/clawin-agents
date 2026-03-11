@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-customer-success-manager-renewals-expansion-agency",
+    "roleTitle":  "Customer Success Manager, Renewals and Expansion (Agency)",
+    "personaSummary":  "Owns renewals and expansion so agency clients receive proactive support that improves retention and incremental growth.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "customer-success",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-customer-success-manager-renewals-expansion-agency",
+                    "workspace":  "~/.openclaw/agents/i4-customer-success-manager-renewals-expansion-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-customer-success-manager-renewals-expansion-agency/agent",
+                    "configEntry":  "config/openclaw.agent.i4-customer-success-manager-renewals-expansion-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-customer-success-manager-renewals-expansion-agency.snippet.json"
+                }
+}

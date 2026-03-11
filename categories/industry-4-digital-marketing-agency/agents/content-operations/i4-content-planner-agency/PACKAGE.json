@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-content-planner-agency",
+    "roleTitle":  "Content Planner (Agency)",
+    "personaSummary":  "Plans editorial content so agency teams can match campaign objectives, audience needs, and publishing windows with clearer topic structures.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "content-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-content-planner-agency",
+                    "workspace":  "~/.openclaw/agents/i4-content-planner-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-content-planner-agency/agent",
+                    "configEntry":  "config/openclaw.agent.i4-content-planner-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-content-planner-agency.snippet.json"
+                }
+}

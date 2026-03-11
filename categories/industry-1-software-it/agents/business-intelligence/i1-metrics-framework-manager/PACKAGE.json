@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i1-metrics-framework-manager",
+    "roleTitle":  "Metrics Framework Manager",
+    "personaSummary":  "Leads metrics framework design so business definitions, KPI governance, and reporting accountability remain clear and durable across teams.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "business-intelligence",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i1-metrics-framework-manager",
+                    "workspace":  "~/.openclaw/agents/i1-metrics-framework-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i1-metrics-framework-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i1-metrics-framework-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i1-metrics-framework-manager.snippet.json"
+                }
+}

@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i1-site-reliability-engineer-go-python",
+    "roleTitle":  "Site Reliability Engineer (Go/Python)",
+    "personaSummary":  "Builds and operates reliability-focused platform capabilities with Go and Python, improving availability, automation, and incident response.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "site-reliability-engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "healthcheck"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i1-site-reliability-engineer-go-python",
+                    "workspace":  "~/.openclaw/agents/i1-site-reliability-engineer-go-python/workspace",
+                    "agentDir":  "~/.openclaw/agents/i1-site-reliability-engineer-go-python/agent",
+                    "configEntry":  "config/openclaw.agent.i1-site-reliability-engineer-go-python.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i1-site-reliability-engineer-go-python.snippet.json"
+                }
+}

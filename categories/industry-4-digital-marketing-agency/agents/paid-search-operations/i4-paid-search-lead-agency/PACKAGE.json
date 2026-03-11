@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-paid-search-lead-agency",
+    "roleTitle":  "Paid Search Lead (Agency)",
+    "personaSummary":  "Leads paid search operations so agency search campaigns, execution standards, and optimization priorities remain coordinated across accounts.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "paid-search-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-paid-search-lead-agency",
+                    "workspace":  "~/.openclaw/agents/i4-paid-search-lead-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-paid-search-lead-agency/agent",
+                    "configEntry":  "config/openclaw.agent.i4-paid-search-lead-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-paid-search-lead-agency.snippet.json"
+                }
+}

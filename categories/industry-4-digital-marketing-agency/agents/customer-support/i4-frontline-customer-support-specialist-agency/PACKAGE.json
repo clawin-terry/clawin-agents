@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-frontline-customer-support-specialist-agency",
+    "roleTitle":  "Frontline Customer Support Specialist (Agency)",
+    "personaSummary":  "Handles frontline support requests so agency clients receive timely answers, issue triage, and clear service communication.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "customer-support",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-frontline-customer-support-specialist-agency",
+                    "workspace":  "~/.openclaw/agents/i4-frontline-customer-support-specialist-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-frontline-customer-support-specialist-agency/agent",
+                    "configEntry":  "config/openclaw.agent.i4-frontline-customer-support-specialist-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-frontline-customer-support-specialist-agency.snippet.json"
+                }
+}

@@ -1,0 +1,13 @@
+{
+    "id":  "i1-contract-counsel",
+    "default":  false,
+    "name":  "Contract Counsel",
+    "workspace":  "~/.openclaw/agents/i1-contract-counsel/workspace",
+    "agentDir":  "~/.openclaw/agents/i1-contract-counsel/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

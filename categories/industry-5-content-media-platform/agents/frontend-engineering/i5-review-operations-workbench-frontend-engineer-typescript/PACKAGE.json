@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i5-review-operations-workbench-frontend-engineer-typescript",
+    "roleTitle":  "Review and Operations Workbench Frontend Engineer (TypeScript)",
+    "personaSummary":  "Builds TypeScript frontends for review and operations workbenches so moderation operators can work faster with clearer, more maintainable internal interfaces.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "frontend-engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "ui-ux-pro-max"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i5-review-operations-workbench-frontend-engineer-typescript",
+                    "workspace":  "~/.openclaw/agents/i5-review-operations-workbench-frontend-engineer-typescript/workspace",
+                    "agentDir":  "~/.openclaw/agents/i5-review-operations-workbench-frontend-engineer-typescript/agent",
+                    "configEntry":  "config/openclaw.agent.i5-review-operations-workbench-frontend-engineer-typescript.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i5-review-operations-workbench-frontend-engineer-typescript.snippet.json"
+                }
+}

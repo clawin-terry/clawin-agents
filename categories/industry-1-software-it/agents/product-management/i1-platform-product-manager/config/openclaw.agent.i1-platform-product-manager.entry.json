@@ -1,0 +1,13 @@
+{
+    "id":  "i1-platform-product-manager",
+    "default":  false,
+    "name":  "Platform Product Manager",
+    "workspace":  "~/.openclaw/agents/i1-platform-product-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/i1-platform-product-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

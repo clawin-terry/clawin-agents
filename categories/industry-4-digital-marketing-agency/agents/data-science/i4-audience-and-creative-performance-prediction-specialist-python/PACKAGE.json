@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-audience-and-creative-performance-prediction-specialist-python",
+    "roleTitle":  "Audience and Creative Performance Prediction Specialist (Python)",
+    "personaSummary":  "Builds prediction models with Python so audience targeting and creative selection decisions can be informed by stronger performance expectations.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "data-science",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-audience-and-creative-performance-prediction-specialist-python",
+                    "workspace":  "~/.openclaw/agents/i4-audience-and-creative-performance-prediction-specialist-python/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-audience-and-creative-performance-prediction-specialist-python/agent",
+                    "configEntry":  "config/openclaw.agent.i4-audience-and-creative-performance-prediction-specialist-python.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-audience-and-creative-performance-prediction-specialist-python.snippet.json"
+                }
+}

@@ -1,0 +1,13 @@
+{
+    "id":  "i4-head-of-attribution-and-measurement",
+    "default":  false,
+    "name":  "Head of Attribution and Measurement",
+    "workspace":  "~/.openclaw/agents/i4-head-of-attribution-and-measurement/workspace",
+    "agentDir":  "~/.openclaw/agents/i4-head-of-attribution-and-measurement/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

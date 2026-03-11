@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "i3-merchant-customer-service-coordination-manager",
+                                    "default":  false,
+                                    "name":  "Merchant Customer Service Coordination Manager",
+                                    "workspace":  "~/.openclaw/agents/i3-merchant-customer-service-coordination-manager/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i3-merchant-customer-service-coordination-manager/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

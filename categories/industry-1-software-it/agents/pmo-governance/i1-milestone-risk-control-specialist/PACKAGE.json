@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i1-milestone-risk-control-specialist",
+    "roleTitle":  "Milestone and Risk Control Specialist",
+    "personaSummary":  "Tracks milestones and risk controls so programs stay on course with earlier warning, clearer escalation, and stronger execution discipline.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "pmo-governance",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i1-milestone-risk-control-specialist",
+                    "workspace":  "~/.openclaw/agents/i1-milestone-risk-control-specialist/workspace",
+                    "agentDir":  "~/.openclaw/agents/i1-milestone-risk-control-specialist/agent",
+                    "configEntry":  "config/openclaw.agent.i1-milestone-risk-control-specialist.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i1-milestone-risk-control-specialist.snippet.json"
+                }
+}

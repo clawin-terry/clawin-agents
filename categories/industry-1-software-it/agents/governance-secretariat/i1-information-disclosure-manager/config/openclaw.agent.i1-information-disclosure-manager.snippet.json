@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "i1-information-disclosure-manager",
+                                    "default":  false,
+                                    "name":  "Information Disclosure Manager",
+                                    "workspace":  "~/.openclaw/agents/i1-information-disclosure-manager/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i1-information-disclosure-manager/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

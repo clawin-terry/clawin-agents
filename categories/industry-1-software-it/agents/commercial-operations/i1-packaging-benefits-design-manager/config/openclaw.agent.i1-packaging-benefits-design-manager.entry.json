@@ -1,0 +1,13 @@
+{
+    "id":  "i1-packaging-benefits-design-manager",
+    "default":  false,
+    "name":  "Packaging and Benefits Design Manager",
+    "workspace":  "~/.openclaw/agents/i1-packaging-benefits-design-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/i1-packaging-benefits-design-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

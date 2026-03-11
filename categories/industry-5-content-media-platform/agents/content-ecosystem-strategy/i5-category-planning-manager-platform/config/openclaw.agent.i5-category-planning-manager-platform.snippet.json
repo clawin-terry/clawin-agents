@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "i5-category-planning-manager-platform",
+                                    "default":  false,
+                                    "name":  "Category Planning Manager (Platform)",
+                                    "workspace":  "~/.openclaw/agents/i5-category-planning-manager-platform/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i5-category-planning-manager-platform/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

@@ -1,0 +1,13 @@
+{
+    "id":  "i3-device-fingerprinting-and-identity-risk-engineer",
+    "default":  false,
+    "name":  "Device Fingerprinting and Identity Risk Engineer",
+    "workspace":  "~/.openclaw/agents/i3-device-fingerprinting-and-identity-risk-engineer/workspace",
+    "agentDir":  "~/.openclaw/agents/i3-device-fingerprinting-and-identity-risk-engineer/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

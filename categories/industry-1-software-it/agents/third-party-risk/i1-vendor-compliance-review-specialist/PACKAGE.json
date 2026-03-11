@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i1-vendor-compliance-review-specialist",
+    "roleTitle":  "Vendor Compliance Review Specialist",
+    "personaSummary":  "Reviews vendor compliance evidence so supplier onboarding and ongoing oversight decisions rest on documented control and regulatory checks.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "third-party-risk",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i1-vendor-compliance-review-specialist",
+                    "workspace":  "~/.openclaw/agents/i1-vendor-compliance-review-specialist/workspace",
+                    "agentDir":  "~/.openclaw/agents/i1-vendor-compliance-review-specialist/agent",
+                    "configEntry":  "config/openclaw.agent.i1-vendor-compliance-review-specialist.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i1-vendor-compliance-review-specialist.snippet.json"
+                }
+}

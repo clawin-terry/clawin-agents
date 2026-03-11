@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-data-compliance-specialist-privacy-sdk-tracking",
+    "roleTitle":  "Data Compliance Specialist (Privacy, SDK, and Tracking)",
+    "personaSummary":  "Oversees data-compliance controls so personal-information handling, SDK governance, and tracking implementations remain lawful and reviewable.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "compliance-risk",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-data-compliance-specialist-privacy-sdk-tracking",
+                    "workspace":  "~/.openclaw/agents/i4-data-compliance-specialist-privacy-sdk-tracking/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-data-compliance-specialist-privacy-sdk-tracking/agent",
+                    "configEntry":  "config/openclaw.agent.i4-data-compliance-specialist-privacy-sdk-tracking.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-data-compliance-specialist-privacy-sdk-tracking.snippet.json"
+                }
+}

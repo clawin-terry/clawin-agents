@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "i1-pricing-manager",
+                                    "default":  false,
+                                    "name":  "Pricing Manager",
+                                    "workspace":  "~/.openclaw/agents/i1-pricing-manager/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i1-pricing-manager/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

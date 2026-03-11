@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-pricing-model-analyst-agency",
+    "roleTitle":  "Pricing Model Analyst",
+    "personaSummary":  "Builds and evaluates pricing models so agency proposals, service packaging, and margin assumptions remain commercially sound and easier to defend.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "finance-management",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-pricing-model-analyst-agency",
+                    "workspace":  "~/.openclaw/agents/i4-pricing-model-analyst-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-pricing-model-analyst-agency/agent",
+                    "configEntry":  "config/openclaw.agent.i4-pricing-model-analyst-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-pricing-model-analyst-agency.snippet.json"
+                }
+}

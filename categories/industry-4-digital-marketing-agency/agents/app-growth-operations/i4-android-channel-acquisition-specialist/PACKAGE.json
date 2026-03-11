@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-android-channel-acquisition-specialist",
+    "roleTitle":  "Android Channel Acquisition Specialist (Agency)",
+    "personaSummary":  "Runs Android channel acquisition so agency app campaigns can coordinate media partnerships, delivery pacing, and install growth more effectively.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "app-growth-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-android-channel-acquisition-specialist",
+                    "workspace":  "~/.openclaw/agents/i4-android-channel-acquisition-specialist/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-android-channel-acquisition-specialist/agent",
+                    "configEntry":  "config/openclaw.agent.i4-android-channel-acquisition-specialist.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-android-channel-acquisition-specialist.snippet.json"
+                }
+}

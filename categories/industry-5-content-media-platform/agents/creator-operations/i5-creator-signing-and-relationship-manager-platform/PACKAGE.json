@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i5-creator-signing-and-relationship-manager-platform",
+    "roleTitle":  "Creator Signing and Relationship Manager (Platform)",
+    "personaSummary":  "Leads creator signing and relationship management so key partnerships, renewals, and creator commitments remain stable and well coordinated.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "creator-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i5-creator-signing-and-relationship-manager-platform",
+                    "workspace":  "~/.openclaw/agents/i5-creator-signing-and-relationship-manager-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/i5-creator-signing-and-relationship-manager-platform/agent",
+                    "configEntry":  "config/openclaw.agent.i5-creator-signing-and-relationship-manager-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i5-creator-signing-and-relationship-manager-platform.snippet.json"
+                }
+}

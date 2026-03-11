@@ -1,0 +1,13 @@
+{
+    "id":  "i1-remediation-tracking-specialist",
+    "default":  false,
+    "name":  "Remediation Tracking Specialist",
+    "workspace":  "~/.openclaw/agents/i1-remediation-tracking-specialist/workspace",
+    "agentDir":  "~/.openclaw/agents/i1-remediation-tracking-specialist/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

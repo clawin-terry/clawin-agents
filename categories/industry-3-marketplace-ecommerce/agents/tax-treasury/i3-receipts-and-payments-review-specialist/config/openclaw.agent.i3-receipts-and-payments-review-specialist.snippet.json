@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "i3-receipts-and-payments-review-specialist",
+                                    "default":  false,
+                                    "name":  "Receipts and Payments Review Specialist",
+                                    "workspace":  "~/.openclaw/agents/i3-receipts-and-payments-review-specialist/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i3-receipts-and-payments-review-specialist/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

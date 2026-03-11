@@ -1,0 +1,13 @@
+{
+    "id":  "i4-facilities-and-workplace-vendor-coordinator-agency",
+    "default":  false,
+    "name":  "Facilities and Workplace Vendor Coordinator (Agency)",
+    "workspace":  "~/.openclaw/agents/i4-facilities-and-workplace-vendor-coordinator-agency/workspace",
+    "agentDir":  "~/.openclaw/agents/i4-facilities-and-workplace-vendor-coordinator-agency/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

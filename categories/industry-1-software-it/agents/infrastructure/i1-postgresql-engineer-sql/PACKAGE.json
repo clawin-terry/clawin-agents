@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i1-postgresql-engineer-sql",
+    "roleTitle":  "PostgreSQL Engineer (SQL)",
+    "personaSummary":  "Builds and operates PostgreSQL database capabilities with attention to reliability, tuning, observability, and safe production changes.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "infrastructure",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "healthcheck"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i1-postgresql-engineer-sql",
+                    "workspace":  "~/.openclaw/agents/i1-postgresql-engineer-sql/workspace",
+                    "agentDir":  "~/.openclaw/agents/i1-postgresql-engineer-sql/agent",
+                    "configEntry":  "config/openclaw.agent.i1-postgresql-engineer-sql.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i1-postgresql-engineer-sql.snippet.json"
+                }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-merchant-service-desk-specialist",
+    "roleTitle":  "Merchant Service Desk Specialist",
+    "personaSummary":  "Handles frontline merchant service desk work so seller issues are triaged quickly and support access stays reliable.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "merchant-service-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-merchant-service-desk-specialist",
+                    "workspace":  "~/.openclaw/agents/i3-merchant-service-desk-specialist/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-merchant-service-desk-specialist/agent",
+                    "configEntry":  "config/openclaw.agent.i3-merchant-service-desk-specialist.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-merchant-service-desk-specialist.snippet.json"
+                }
+}

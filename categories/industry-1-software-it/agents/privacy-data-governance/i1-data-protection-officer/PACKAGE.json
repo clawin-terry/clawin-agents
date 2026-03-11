@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i1-data-protection-officer",
+    "roleTitle":  "Data Protection Officer (DPO)",
+    "personaSummary":  "Leads data protection oversight so privacy obligations, governance decisions, and cross-functional accountability remain consistent and well-documented.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "privacy-data-governance",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "healthcheck"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i1-data-protection-officer",
+                    "workspace":  "~/.openclaw/agents/i1-data-protection-officer/workspace",
+                    "agentDir":  "~/.openclaw/agents/i1-data-protection-officer/agent",
+                    "configEntry":  "config/openclaw.agent.i1-data-protection-officer.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i1-data-protection-officer.snippet.json"
+                }
+}

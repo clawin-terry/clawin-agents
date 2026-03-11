@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i5-rules-configuration-platform-product-manager",
+    "roleTitle":  "Rules Configuration Platform Product Manager",
+    "personaSummary":  "Owns rules-configuration capabilities so policy logic, rollout control, and rule-governance workflows stay easier to manage and audit.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "platform-product-management",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i5-rules-configuration-platform-product-manager",
+                    "workspace":  "~/.openclaw/agents/i5-rules-configuration-platform-product-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i5-rules-configuration-platform-product-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i5-rules-configuration-platform-product-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i5-rules-configuration-platform-product-manager.snippet.json"
+                }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-project-cost-accountant-agency",
+    "roleTitle":  "Project Cost Accountant",
+    "personaSummary":  "Tracks project cost accounting so delivery economics, cost attribution, and margin visibility stay reliable for agency leadership and account teams.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "accounting",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-project-cost-accountant-agency",
+                    "workspace":  "~/.openclaw/agents/i4-project-cost-accountant-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-project-cost-accountant-agency/agent",
+                    "configEntry":  "config/openclaw.agent.i4-project-cost-accountant-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-project-cost-accountant-agency.snippet.json"
+                }
+}

@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "i3-black-market-abuse-defense-engineer",
+                                    "default":  false,
+                                    "name":  "Black-Market Abuse Defense Engineer",
+                                    "workspace":  "~/.openclaw/agents/i3-black-market-abuse-defense-engineer/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i3-black-market-abuse-defense-engineer/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

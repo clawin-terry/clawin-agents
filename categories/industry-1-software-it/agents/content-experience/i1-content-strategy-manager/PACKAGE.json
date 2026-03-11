@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i1-content-strategy-manager",
+    "roleTitle":  "Content Strategy Manager",
+    "personaSummary":  "Leads content strategy so product and brand messages stay consistent, useful, and aligned with user journeys across channels.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "content-experience",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "ui-ux-pro-max"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i1-content-strategy-manager",
+                    "workspace":  "~/.openclaw/agents/i1-content-strategy-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i1-content-strategy-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i1-content-strategy-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i1-content-strategy-manager.snippet.json"
+                }
+}

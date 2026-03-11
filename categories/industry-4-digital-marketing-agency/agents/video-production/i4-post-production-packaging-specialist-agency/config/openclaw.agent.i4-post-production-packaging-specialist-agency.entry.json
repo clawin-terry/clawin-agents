@@ -1,0 +1,13 @@
+{
+    "id":  "i4-post-production-packaging-specialist-agency",
+    "default":  false,
+    "name":  "Post-Production Packaging Specialist (Agency)",
+    "workspace":  "~/.openclaw/agents/i4-post-production-packaging-specialist-agency/workspace",
+    "agentDir":  "~/.openclaw/agents/i4-post-production-packaging-specialist-agency/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

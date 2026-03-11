@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-tiktok-ads-specialist-agency",
+    "roleTitle":  "TikTok Ads Specialist (Agency)",
+    "personaSummary":  "Runs TikTok Ads so agency global campaigns can scale short-form video acquisition with stronger platform execution and learning loops.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "global-ad-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-tiktok-ads-specialist-agency",
+                    "workspace":  "~/.openclaw/agents/i4-tiktok-ads-specialist-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-tiktok-ads-specialist-agency/agent",
+                    "configEntry":  "config/openclaw.agent.i4-tiktok-ads-specialist-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-tiktok-ads-specialist-agency.snippet.json"
+                }
+}

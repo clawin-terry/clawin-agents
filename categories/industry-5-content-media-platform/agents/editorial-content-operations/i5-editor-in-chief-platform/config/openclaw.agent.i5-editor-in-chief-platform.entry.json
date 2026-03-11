@@ -1,0 +1,13 @@
+{
+    "id":  "i5-editor-in-chief-platform",
+    "default":  false,
+    "name":  "Editor-in-Chief (Platform)",
+    "workspace":  "~/.openclaw/agents/i5-editor-in-chief-platform/workspace",
+    "agentDir":  "~/.openclaw/agents/i5-editor-in-chief-platform/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

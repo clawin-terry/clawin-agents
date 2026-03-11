@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-risk-strategy-operations-manager",
+    "roleTitle":  "Risk Strategy Operations Manager",
+    "personaSummary":  "Runs risk strategy operations so controls, thresholds, and intervention policies stay effective against evolving abuse patterns.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "transaction-risk-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-risk-strategy-operations-manager",
+                    "workspace":  "~/.openclaw/agents/i3-risk-strategy-operations-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-risk-strategy-operations-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i3-risk-strategy-operations-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-risk-strategy-operations-manager.snippet.json"
+                }
+}

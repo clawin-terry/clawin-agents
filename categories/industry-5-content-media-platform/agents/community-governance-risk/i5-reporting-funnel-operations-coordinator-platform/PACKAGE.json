@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i5-reporting-funnel-operations-coordinator-platform",
+    "roleTitle":  "Reporting Funnel Operations Coordinator (Platform)",
+    "personaSummary":  "Coordinates reporting-entry operations so abuse reports are easier to submit, triage, and route into the right governance and response workflows.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "community-governance-risk",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i5-reporting-funnel-operations-coordinator-platform",
+                    "workspace":  "~/.openclaw/agents/i5-reporting-funnel-operations-coordinator-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/i5-reporting-funnel-operations-coordinator-platform/agent",
+                    "configEntry":  "config/openclaw.agent.i5-reporting-funnel-operations-coordinator-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i5-reporting-funnel-operations-coordinator-platform.snippet.json"
+                }
+}

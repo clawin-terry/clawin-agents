@@ -1,0 +1,13 @@
+{
+    "id":  "i1-incubation-program-manager",
+    "default":  false,
+    "name":  "Incubation Program Manager",
+    "workspace":  "~/.openclaw/agents/i1-incubation-program-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/i1-incubation-program-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

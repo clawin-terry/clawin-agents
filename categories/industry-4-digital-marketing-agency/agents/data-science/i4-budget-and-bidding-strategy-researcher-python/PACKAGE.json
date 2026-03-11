@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-budget-and-bidding-strategy-researcher-python",
+    "roleTitle":  "Budget and Bidding Strategy Researcher (Python)",
+    "personaSummary":  "Researches budget allocation and bidding strategies with Python so paid media teams can improve efficiency, pacing, and return across campaigns.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "data-science",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-budget-and-bidding-strategy-researcher-python",
+                    "workspace":  "~/.openclaw/agents/i4-budget-and-bidding-strategy-researcher-python/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-budget-and-bidding-strategy-researcher-python/agent",
+                    "configEntry":  "config/openclaw.agent.i4-budget-and-bidding-strategy-researcher-python.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-budget-and-bidding-strategy-researcher-python.snippet.json"
+                }
+}

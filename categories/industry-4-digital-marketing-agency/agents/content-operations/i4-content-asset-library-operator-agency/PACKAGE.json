@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-content-asset-library-operator-agency",
+    "roleTitle":  "Content Asset Library Operator (Agency)",
+    "personaSummary":  "Maintains the content asset library so agency teams can retrieve, reuse, and govern approved materials with less duplication and confusion.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "content-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-content-asset-library-operator-agency",
+                    "workspace":  "~/.openclaw/agents/i4-content-asset-library-operator-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-content-asset-library-operator-agency/agent",
+                    "configEntry":  "config/openclaw.agent.i4-content-asset-library-operator-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-content-asset-library-operator-agency.snippet.json"
+                }
+}

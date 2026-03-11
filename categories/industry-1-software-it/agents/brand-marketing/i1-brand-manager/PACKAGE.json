@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i1-brand-manager",
+    "roleTitle":  "Brand Manager",
+    "personaSummary":  "Manages brand programs, ensuring campaigns, narratives, and execution details consistently reinforce market positioning and audience trust.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "brand-marketing",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i1-brand-manager",
+                    "workspace":  "~/.openclaw/agents/i1-brand-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i1-brand-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i1-brand-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i1-brand-manager.snippet.json"
+                }
+}

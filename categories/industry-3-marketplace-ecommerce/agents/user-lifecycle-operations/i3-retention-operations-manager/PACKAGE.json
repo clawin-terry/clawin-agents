@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-retention-operations-manager",
+    "roleTitle":  "Retention Operations Manager",
+    "personaSummary":  "Runs retention operations so repeat engagement, habit formation, and lifecycle performance improve across the marketplace user base.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "user-lifecycle-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-retention-operations-manager",
+                    "workspace":  "~/.openclaw/agents/i3-retention-operations-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-retention-operations-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i3-retention-operations-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-retention-operations-manager.snippet.json"
+                }
+}

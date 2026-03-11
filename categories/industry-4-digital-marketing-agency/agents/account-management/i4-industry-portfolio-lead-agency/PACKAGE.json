@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-industry-portfolio-lead-agency",
+    "roleTitle":  "Industry Portfolio Lead (Agency)",
+    "personaSummary":  "Owns industry portfolio direction so agency vertical strategy, account planning, and opportunity development stay focused.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "account-management",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-industry-portfolio-lead-agency",
+                    "workspace":  "~/.openclaw/agents/i4-industry-portfolio-lead-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-industry-portfolio-lead-agency/agent",
+                    "configEntry":  "config/openclaw.agent.i4-industry-portfolio-lead-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-industry-portfolio-lead-agency.snippet.json"
+                }
+}

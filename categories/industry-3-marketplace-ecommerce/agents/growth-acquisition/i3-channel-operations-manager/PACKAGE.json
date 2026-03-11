@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-channel-operations-manager",
+    "roleTitle":  "Channel Operations Manager",
+    "personaSummary":  "Runs acquisition channel operations so campaign execution, partner coordination, and performance tracking stay disciplined across growth channels.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "growth-acquisition",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-channel-operations-manager",
+                    "workspace":  "~/.openclaw/agents/i3-channel-operations-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-channel-operations-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i3-channel-operations-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-channel-operations-manager.snippet.json"
+                }
+}

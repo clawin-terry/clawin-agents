@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i5-content-promotion-coordination-manager-platform",
+    "roleTitle":  "Content Promotion Coordination Manager (Platform)",
+    "personaSummary":  "Coordinates content-promotion execution so long-form launches, campaign tie-ins, and cross-team publicity support are delivered with better timing and consistency.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "long-form-content-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i5-content-promotion-coordination-manager-platform",
+                    "workspace":  "~/.openclaw/agents/i5-content-promotion-coordination-manager-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/i5-content-promotion-coordination-manager-platform/agent",
+                    "configEntry":  "config/openclaw.agent.i5-content-promotion-coordination-manager-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i5-content-promotion-coordination-manager-platform.snippet.json"
+                }
+}

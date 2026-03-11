@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i5-content-acquisition-manager-platform",
+    "roleTitle":  "Content Acquisition Manager (Platform)",
+    "personaSummary":  "Leads content acquisition so external programs, licensed assets, and strategic supply can be introduced to the platform with stronger fit and coordination.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "content-rights-and-partnerships",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i5-content-acquisition-manager-platform",
+                    "workspace":  "~/.openclaw/agents/i5-content-acquisition-manager-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/i5-content-acquisition-manager-platform/agent",
+                    "configEntry":  "config/openclaw.agent.i5-content-acquisition-manager-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i5-content-acquisition-manager-platform.snippet.json"
+                }
+}

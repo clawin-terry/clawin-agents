@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-process-governance-manager-marketplace",
+    "roleTitle":  "Process Governance Manager (Marketplace)",
+    "personaSummary":  "Builds marketplace process governance so operating standards, approval flows, and accountability mechanisms stay consistent and usable across teams.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "pmo-governance",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-process-governance-manager-marketplace",
+                    "workspace":  "~/.openclaw/agents/i3-process-governance-manager-marketplace/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-process-governance-manager-marketplace/agent",
+                    "configEntry":  "config/openclaw.agent.i3-process-governance-manager-marketplace.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-process-governance-manager-marketplace.snippet.json"
+                }
+}

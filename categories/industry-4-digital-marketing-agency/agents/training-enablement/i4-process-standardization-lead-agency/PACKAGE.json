@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-process-standardization-lead-agency",
+    "roleTitle":  "Process Standardization Lead (Agency)",
+    "personaSummary":  "Leads process standardization so agency workflows, handoffs, and operating playbooks become easier to scale and govern.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "training-enablement",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-process-standardization-lead-agency",
+                    "workspace":  "~/.openclaw/agents/i4-process-standardization-lead-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-process-standardization-lead-agency/agent",
+                    "configEntry":  "config/openclaw.agent.i4-process-standardization-lead-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-process-standardization-lead-agency.snippet.json"
+                }
+}

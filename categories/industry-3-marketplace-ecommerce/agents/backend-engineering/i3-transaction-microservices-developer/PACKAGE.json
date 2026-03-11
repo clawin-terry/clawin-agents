@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-transaction-microservices-developer",
+    "roleTitle":  "Transaction Microservices Developer",
+    "personaSummary":  "Builds and evolves transaction microservices so marketplace order-domain capabilities stay modular, observable, and easier to coordinate across systems.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "backend-engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "clawin-backend-service-engineering"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-transaction-microservices-developer",
+                    "workspace":  "~/.openclaw/agents/i3-transaction-microservices-developer/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-transaction-microservices-developer/agent",
+                    "configEntry":  "config/openclaw.agent.i3-transaction-microservices-developer.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-transaction-microservices-developer.snippet.json"
+                }
+}

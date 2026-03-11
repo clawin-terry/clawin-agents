@@ -1,0 +1,13 @@
+{
+    "id":  "i3-android-engineer-kotlin",
+    "default":  false,
+    "name":  "Android Engineer (Kotlin)",
+    "workspace":  "~/.openclaw/agents/i3-android-engineer-kotlin/workspace",
+    "agentDir":  "~/.openclaw/agents/i3-android-engineer-kotlin/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

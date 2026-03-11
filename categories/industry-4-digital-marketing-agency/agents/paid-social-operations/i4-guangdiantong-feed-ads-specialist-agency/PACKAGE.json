@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-guangdiantong-feed-ads-specialist-agency",
+    "roleTitle":  "Guangdiantong Feed Ads Specialist (Agency)",
+    "personaSummary":  "Operates Guangdiantong feed ads so agency teams can execute Tencent-channel acquisition with clearer targeting, pacing, and delivery control.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "paid-social-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-guangdiantong-feed-ads-specialist-agency",
+                    "workspace":  "~/.openclaw/agents/i4-guangdiantong-feed-ads-specialist-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-guangdiantong-feed-ads-specialist-agency/agent",
+                    "configEntry":  "config/openclaw.agent.i4-guangdiantong-feed-ads-specialist-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-guangdiantong-feed-ads-specialist-agency.snippet.json"
+                }
+}

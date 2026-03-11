@@ -1,0 +1,13 @@
+{
+    "id":  "i3-capacity-planning-manager",
+    "default":  false,
+    "name":  "Capacity Planning Manager",
+    "workspace":  "~/.openclaw/agents/i3-capacity-planning-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/i3-capacity-planning-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

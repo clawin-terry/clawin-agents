@@ -1,0 +1,13 @@
+{
+    "id":  "i4-proposal-presentation-packaging-specialist-agency",
+    "default":  false,
+    "name":  "Proposal Presentation Packaging Specialist (Agency)",
+    "workspace":  "~/.openclaw/agents/i4-proposal-presentation-packaging-specialist-agency/workspace",
+    "agentDir":  "~/.openclaw/agents/i4-proposal-presentation-packaging-specialist-agency/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

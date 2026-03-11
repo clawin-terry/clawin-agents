@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "i1-cmdb-engineer-java-python",
+                                    "default":  false,
+                                    "name":  "CMDB Engineer (Java/Python)",
+                                    "workspace":  "~/.openclaw/agents/i1-cmdb-engineer-java-python/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i1-cmdb-engineer-java-python/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "i4-client-director-group-head-agency",
+                                    "default":  false,
+                                    "name":  "Client Director / Group Head (Agency)",
+                                    "workspace":  "~/.openclaw/agents/i4-client-director-group-head-agency/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i4-client-director-group-head-agency/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i1-equity-incentive-manager",
+    "roleTitle":  "Equity Incentive Manager",
+    "personaSummary":  "Administers equity incentive programs so grant processes, participant records, and policy execution stay accurate and compliant.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "compensation-benefits-performance",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i1-equity-incentive-manager",
+                    "workspace":  "~/.openclaw/agents/i1-equity-incentive-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i1-equity-incentive-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i1-equity-incentive-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i1-equity-incentive-manager.snippet.json"
+                }
+}

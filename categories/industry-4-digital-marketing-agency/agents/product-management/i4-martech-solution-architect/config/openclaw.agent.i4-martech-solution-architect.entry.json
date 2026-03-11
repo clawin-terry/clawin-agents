@@ -1,0 +1,13 @@
+{
+    "id":  "i4-martech-solution-architect",
+    "default":  false,
+    "name":  "MarTech Solution Architect",
+    "workspace":  "~/.openclaw/agents/i4-martech-solution-architect/workspace",
+    "agentDir":  "~/.openclaw/agents/i4-martech-solution-architect/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

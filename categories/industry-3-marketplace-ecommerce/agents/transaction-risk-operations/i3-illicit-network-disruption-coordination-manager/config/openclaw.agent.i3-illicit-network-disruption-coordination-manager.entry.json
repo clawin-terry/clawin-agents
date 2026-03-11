@@ -1,0 +1,13 @@
+{
+    "id":  "i3-illicit-network-disruption-coordination-manager",
+    "default":  false,
+    "name":  "Illicit Network Disruption Coordination Manager",
+    "workspace":  "~/.openclaw/agents/i3-illicit-network-disruption-coordination-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/i3-illicit-network-disruption-coordination-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

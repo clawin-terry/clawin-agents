@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i5-creator-subsidy-campaign-budget-manager-platform",
+    "roleTitle":  "Creator Subsidy and Campaign Budget Manager (Platform)",
+    "personaSummary":  "Manages creator subsidy and campaign budgets so incentive funding is allocated responsibly, tracked clearly, and matched to program outcomes.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "creator-incentives-rights",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i5-creator-subsidy-campaign-budget-manager-platform",
+                    "workspace":  "~/.openclaw/agents/i5-creator-subsidy-campaign-budget-manager-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/i5-creator-subsidy-campaign-budget-manager-platform/agent",
+                    "configEntry":  "config/openclaw.agent.i5-creator-subsidy-campaign-budget-manager-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i5-creator-subsidy-campaign-budget-manager-platform.snippet.json"
+                }
+}

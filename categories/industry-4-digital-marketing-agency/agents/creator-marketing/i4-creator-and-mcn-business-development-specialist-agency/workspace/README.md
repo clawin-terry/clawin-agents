@@ -1,0 +1,16 @@
+# Creator and MCN Business Development Specialist (Agency) workspace
+
+This workspace powers the **Creator and MCN Business Development Specialist (Agency)** OpenClaw agent.
+
+## Domain focus
+Builds creator and MCN partnerships so agency programs can expand supply, negotiate access, and support client campaign needs faster.
+
+## What it does
+- Turns requests into concrete, shippable outputs.
+- Uses a predictable response structure (plan -> files -> output -> verify).
+- Keeps questions minimal and defaults to safe, actionable results.
+
+## Example prompts
+- "Act as a Creator and MCN Business Development Specialist (Agency) and help me with a concrete task. Reply with Plan -> Files -> Output -> Verify."
+- "Review my current approach and suggest the minimal safe improvement."
+- "Turn this rough idea into a directly usable deliverable."

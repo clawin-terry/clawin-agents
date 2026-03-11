@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-merchant-onboarding-review-specialist",
+    "roleTitle":  "Merchant Onboarding Review Specialist",
+    "personaSummary":  "Reviews merchant applications and entry requirements so sellers are onboarded accurately, consistently, and with controlled risk.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "merchant-onboarding-compliance",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-merchant-onboarding-review-specialist",
+                    "workspace":  "~/.openclaw/agents/i3-merchant-onboarding-review-specialist/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-merchant-onboarding-review-specialist/agent",
+                    "configEntry":  "config/openclaw.agent.i3-merchant-onboarding-review-specialist.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-merchant-onboarding-review-specialist.snippet.json"
+                }
+}

@@ -1,0 +1,13 @@
+{
+    "id":  "i3-live-scheduling-operations-manager",
+    "default":  false,
+    "name":  "Live Scheduling Operations Manager",
+    "workspace":  "~/.openclaw/agents/i3-live-scheduling-operations-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/i3-live-scheduling-operations-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-organization-development-manager-agency",
+    "roleTitle":  "Organization Development Manager (Agency)",
+    "personaSummary":  "Leads organization development so agency structures, capability priorities, and change programs better support growth and delivery quality.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "hrbp-organization-development",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-organization-development-manager-agency",
+                    "workspace":  "~/.openclaw/agents/i4-organization-development-manager-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-organization-development-manager-agency/agent",
+                    "configEntry":  "config/openclaw.agent.i4-organization-development-manager-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-organization-development-manager-agency.snippet.json"
+                }
+}

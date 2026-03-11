@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-performance-settlement-support-specialist-agency",
+    "roleTitle":  "Performance Settlement Support Specialist",
+    "personaSummary":  "Supports performance-based settlement workflows so payout calculations, evidence gathering, and finance handoffs stay accurate and auditable.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "finance-management",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-performance-settlement-support-specialist-agency",
+                    "workspace":  "~/.openclaw/agents/i4-performance-settlement-support-specialist-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-performance-settlement-support-specialist-agency/agent",
+                    "configEntry":  "config/openclaw.agent.i4-performance-settlement-support-specialist-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-performance-settlement-support-specialist-agency.snippet.json"
+                }
+}

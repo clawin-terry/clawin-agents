@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i1-lakehouse-engineer-java-scala",
+    "roleTitle":  "Lakehouse Engineer (Java/Scala)",
+    "personaSummary":  "Builds lakehouse platform capabilities with Java and Scala, improving scalable storage, unified analytics workflows, and trustworthy data foundations.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "data-engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i1-lakehouse-engineer-java-scala",
+                    "workspace":  "~/.openclaw/agents/i1-lakehouse-engineer-java-scala/workspace",
+                    "agentDir":  "~/.openclaw/agents/i1-lakehouse-engineer-java-scala/agent",
+                    "configEntry":  "config/openclaw.agent.i1-lakehouse-engineer-java-scala.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i1-lakehouse-engineer-java-scala.snippet.json"
+                }
+}

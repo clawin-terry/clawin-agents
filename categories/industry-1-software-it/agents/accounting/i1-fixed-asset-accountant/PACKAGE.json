@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i1-fixed-asset-accountant",
+    "roleTitle":  "Fixed Asset Accountant",
+    "personaSummary":  "Maintains fixed-asset accounting so capitalization, depreciation, disposals, and supporting schedules remain accurate and audit-ready.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "accounting",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i1-fixed-asset-accountant",
+                    "workspace":  "~/.openclaw/agents/i1-fixed-asset-accountant/workspace",
+                    "agentDir":  "~/.openclaw/agents/i1-fixed-asset-accountant/agent",
+                    "configEntry":  "config/openclaw.agent.i1-fixed-asset-accountant.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i1-fixed-asset-accountant.snippet.json"
+                }
+}

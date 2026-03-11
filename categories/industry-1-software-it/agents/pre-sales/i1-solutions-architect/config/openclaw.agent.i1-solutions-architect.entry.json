@@ -1,0 +1,13 @@
+{
+    "id":  "i1-solutions-architect",
+    "default":  false,
+    "name":  "Solutions Architect",
+    "workspace":  "~/.openclaw/agents/i1-solutions-architect/workspace",
+    "agentDir":  "~/.openclaw/agents/i1-solutions-architect/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-pricing-and-discount-operations-manager-agency",
+    "roleTitle":  "Pricing and Discount Operations Manager (Agency)",
+    "personaSummary":  "Manages pricing and discount operations so agency deal terms stay controlled, explainable, and aligned with commercial guardrails.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "sales-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-pricing-and-discount-operations-manager-agency",
+                    "workspace":  "~/.openclaw/agents/i4-pricing-and-discount-operations-manager-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-pricing-and-discount-operations-manager-agency/agent",
+                    "configEntry":  "config/openclaw.agent.i4-pricing-and-discount-operations-manager-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-pricing-and-discount-operations-manager-agency.snippet.json"
+                }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i1-employer-brand-manager",
+    "roleTitle":  "Employer Brand Manager",
+    "personaSummary":  "Leads employer-brand programs so the company attracts talent with clearer positioning, stronger campaigns, and more consistent candidate messaging.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "talent-acquisition",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i1-employer-brand-manager",
+                    "workspace":  "~/.openclaw/agents/i1-employer-brand-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i1-employer-brand-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i1-employer-brand-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i1-employer-brand-manager.snippet.json"
+                }
+}

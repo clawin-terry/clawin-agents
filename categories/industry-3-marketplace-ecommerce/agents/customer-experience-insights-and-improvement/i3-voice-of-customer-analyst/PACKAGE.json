@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-voice-of-customer-analyst",
+    "roleTitle":  "Voice of Customer Analyst",
+    "personaSummary":  "Analyzes voice-of-customer feedback so marketplace service, policy, and product issues become visible and actionable.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "customer-experience-insights-and-improvement",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-voice-of-customer-analyst",
+                    "workspace":  "~/.openclaw/agents/i3-voice-of-customer-analyst/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-voice-of-customer-analyst/agent",
+                    "configEntry":  "config/openclaw.agent.i3-voice-of-customer-analyst.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-voice-of-customer-analyst.snippet.json"
+                }
+}

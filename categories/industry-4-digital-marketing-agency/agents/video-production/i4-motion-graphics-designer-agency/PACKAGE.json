@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-motion-graphics-designer-agency",
+    "roleTitle":  "Motion Graphics Designer (Agency)",
+    "personaSummary":  "Creates motion graphics so agency campaigns can explain ideas, reinforce brand cues, and improve visual rhythm across video assets.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "video-production",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-motion-graphics-designer-agency",
+                    "workspace":  "~/.openclaw/agents/i4-motion-graphics-designer-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-motion-graphics-designer-agency/agent",
+                    "configEntry":  "config/openclaw.agent.i4-motion-graphics-designer-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-motion-graphics-designer-agency.snippet.json"
+                }
+}

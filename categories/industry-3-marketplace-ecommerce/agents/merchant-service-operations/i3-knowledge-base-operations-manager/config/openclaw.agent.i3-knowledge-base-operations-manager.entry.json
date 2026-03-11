@@ -1,0 +1,13 @@
+{
+    "id":  "i3-knowledge-base-operations-manager",
+    "default":  false,
+    "name":  "Knowledge Base Operations Manager",
+    "workspace":  "~/.openclaw/agents/i3-knowledge-base-operations-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/i3-knowledge-base-operations-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

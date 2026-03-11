@@ -1,0 +1,13 @@
+{
+    "id":  "i3-major-incident-retrospective-manager",
+    "default":  false,
+    "name":  "Major Incident Retrospective Manager",
+    "workspace":  "~/.openclaw/agents/i3-major-incident-retrospective-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/i3-major-incident-retrospective-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i5-programming-schedule-planning-manager-platform",
+    "roleTitle":  "Programming Schedule Planning Manager (Platform)",
+    "personaSummary":  "Plans long-form programming schedules so release cadence, editorial timing, and audience-facing content windows stay coordinated across featured content lines.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "long-form-content-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i5-programming-schedule-planning-manager-platform",
+                    "workspace":  "~/.openclaw/agents/i5-programming-schedule-planning-manager-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/i5-programming-schedule-planning-manager-platform/agent",
+                    "configEntry":  "config/openclaw.agent.i5-programming-schedule-planning-manager-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i5-programming-schedule-planning-manager-platform.snippet.json"
+                }
+}

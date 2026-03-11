@@ -1,0 +1,13 @@
+{
+    "id":  "i5-group-and-circle-operations-manager-platform",
+    "default":  false,
+    "name":  "Group and Circle Operations Manager (Platform)",
+    "workspace":  "~/.openclaw/agents/i5-group-and-circle-operations-manager-platform/workspace",
+    "agentDir":  "~/.openclaw/agents/i5-group-and-circle-operations-manager-platform/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

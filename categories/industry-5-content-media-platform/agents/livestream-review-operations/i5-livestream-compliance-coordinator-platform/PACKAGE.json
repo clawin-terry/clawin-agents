@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i5-livestream-compliance-coordinator-platform",
+    "roleTitle":  "Livestream Compliance Coordinator (Platform)",
+    "personaSummary":  "Coordinates livestream compliance so trust-and-safety, policy, and business teams stay aligned on high-risk live-content handling.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "livestream-review-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i5-livestream-compliance-coordinator-platform",
+                    "workspace":  "~/.openclaw/agents/i5-livestream-compliance-coordinator-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/i5-livestream-compliance-coordinator-platform/agent",
+                    "configEntry":  "config/openclaw.agent.i5-livestream-compliance-coordinator-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i5-livestream-compliance-coordinator-platform.snippet.json"
+                }
+}

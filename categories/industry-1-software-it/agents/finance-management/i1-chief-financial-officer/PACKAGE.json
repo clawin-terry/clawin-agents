@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i1-chief-financial-officer",
+    "roleTitle":  "Chief Financial Officer",
+    "personaSummary":  "Leads finance strategy, stewardship, and operating discipline so growth decisions, investment tradeoffs, and financial controls remain aligned with company goals.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "finance-management",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i1-chief-financial-officer",
+                    "workspace":  "~/.openclaw/agents/i1-chief-financial-officer/workspace",
+                    "agentDir":  "~/.openclaw/agents/i1-chief-financial-officer/agent",
+                    "configEntry":  "config/openclaw.agent.i1-chief-financial-officer.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i1-chief-financial-officer.snippet.json"
+                }
+}

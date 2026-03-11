@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i1-head-of-data-platform",
+    "roleTitle":  "Head of Data Platform",
+    "personaSummary":  "Leads the data platform function, aligning data infrastructure, delivery standards, and operating priorities with broader product and business needs.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "data-engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i1-head-of-data-platform",
+                    "workspace":  "~/.openclaw/agents/i1-head-of-data-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/i1-head-of-data-platform/agent",
+                    "configEntry":  "config/openclaw.agent.i1-head-of-data-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i1-head-of-data-platform.snippet.json"
+                }
+}

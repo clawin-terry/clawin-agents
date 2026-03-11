@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-store-manager-agency",
+    "roleTitle":  "Store Manager (Agency)",
+    "personaSummary":  "Manages store execution so agency-operated ecommerce accounts can maintain trading rhythm, storefront quality, and daily performance discipline.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "ecommerce-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-store-manager-agency",
+                    "workspace":  "~/.openclaw/agents/i4-store-manager-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-store-manager-agency/agent",
+                    "configEntry":  "config/openclaw.agent.i4-store-manager-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-store-manager-agency.snippet.json"
+                }
+}

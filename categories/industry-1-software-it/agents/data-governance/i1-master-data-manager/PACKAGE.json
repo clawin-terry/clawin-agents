@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i1-master-data-manager",
+    "roleTitle":  "Master Data Manager",
+    "personaSummary":  "Leads master data management practices that improve consistency, stewardship, and cross-system integrity for critical business entities.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "data-governance",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i1-master-data-manager",
+                    "workspace":  "~/.openclaw/agents/i1-master-data-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i1-master-data-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i1-master-data-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i1-master-data-manager.snippet.json"
+                }
+}

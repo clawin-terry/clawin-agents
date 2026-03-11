@@ -1,0 +1,13 @@
+{
+    "id":  "i4-live-stream-traffic-acquisition-specialist",
+    "default":  false,
+    "name":  "Live Stream Traffic Acquisition Specialist (Agency)",
+    "workspace":  "~/.openclaw/agents/i4-live-stream-traffic-acquisition-specialist/workspace",
+    "agentDir":  "~/.openclaw/agents/i4-live-stream-traffic-acquisition-specialist/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-quality-inspection-lead-agency",
+    "roleTitle":  "Quality Inspection Lead (Agency)",
+    "personaSummary":  "Leads quality inspection practices so agency reviews, defect standards, and escalation decisions stay consistent across delivery work.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "quality-control",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-quality-inspection-lead-agency",
+                    "workspace":  "~/.openclaw/agents/i4-quality-inspection-lead-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-quality-inspection-lead-agency/agent",
+                    "configEntry":  "config/openclaw.agent.i4-quality-inspection-lead-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-quality-inspection-lead-agency.snippet.json"
+                }
+}

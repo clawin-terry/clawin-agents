@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-dsp-campaign-manager-agency",
+    "roleTitle":  "DSP Campaign Manager (Agency)",
+    "personaSummary":  "Manages DSP campaigns so agency teams can coordinate programmatic buying, spend control, and delivery outcomes with stronger operational discipline.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "programmatic-ad-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-dsp-campaign-manager-agency",
+                    "workspace":  "~/.openclaw/agents/i4-dsp-campaign-manager-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-dsp-campaign-manager-agency/agent",
+                    "configEntry":  "config/openclaw.agent.i4-dsp-campaign-manager-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-dsp-campaign-manager-agency.snippet.json"
+                }
+}

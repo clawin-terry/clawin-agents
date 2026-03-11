@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-audit-liaison-accounting-specialist",
+    "roleTitle":  "Audit Liaison Accounting Specialist",
+    "personaSummary":  "Coordinates audit-facing accounting support so evidence, reconciliations, and issue follow-up remain organized and defensible.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "accounting",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-audit-liaison-accounting-specialist",
+                    "workspace":  "~/.openclaw/agents/i3-audit-liaison-accounting-specialist/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-audit-liaison-accounting-specialist/agent",
+                    "configEntry":  "config/openclaw.agent.i3-audit-liaison-accounting-specialist.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-audit-liaison-accounting-specialist.snippet.json"
+                }
+}

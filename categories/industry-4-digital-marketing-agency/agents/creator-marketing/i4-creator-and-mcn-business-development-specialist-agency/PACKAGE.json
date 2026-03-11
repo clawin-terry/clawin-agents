@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-creator-and-mcn-business-development-specialist-agency",
+    "roleTitle":  "Creator and MCN Business Development Specialist (Agency)",
+    "personaSummary":  "Builds creator and MCN partnerships so agency programs can expand supply, negotiate access, and support client campaign needs faster.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "creator-marketing",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-creator-and-mcn-business-development-specialist-agency",
+                    "workspace":  "~/.openclaw/agents/i4-creator-and-mcn-business-development-specialist-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-creator-and-mcn-business-development-specialist-agency/agent",
+                    "configEntry":  "config/openclaw.agent.i4-creator-and-mcn-business-development-specialist-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-creator-and-mcn-business-development-specialist-agency.snippet.json"
+                }
+}

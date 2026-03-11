@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-jinritoutiao-ocean-engine-feed-specialist",
+    "roleTitle":  "Jinri Toutiao and Ocean Engine Feed Ads Specialist (Agency)",
+    "personaSummary":  "Runs Jinri Toutiao and Ocean Engine feed ads so agency campaigns can manage high-volume traffic acquisition with tighter platform execution.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "paid-social-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-jinritoutiao-ocean-engine-feed-specialist",
+                    "workspace":  "~/.openclaw/agents/i4-jinritoutiao-ocean-engine-feed-specialist/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-jinritoutiao-ocean-engine-feed-specialist/agent",
+                    "configEntry":  "config/openclaw.agent.i4-jinritoutiao-ocean-engine-feed-specialist.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-jinritoutiao-ocean-engine-feed-specialist.snippet.json"
+                }
+}

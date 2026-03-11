@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i5-fake-engagement-traffic-abuse-strategist",
+    "roleTitle":  "Fake Engagement and Traffic Abuse Strategist",
+    "personaSummary":  "Designs countermeasures for fake traffic and engagement abuse so inflated metrics, coordinated manipulation, and low-quality interactions are reduced at platform scale.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "risk-strategy",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i5-fake-engagement-traffic-abuse-strategist",
+                    "workspace":  "~/.openclaw/agents/i5-fake-engagement-traffic-abuse-strategist/workspace",
+                    "agentDir":  "~/.openclaw/agents/i5-fake-engagement-traffic-abuse-strategist/agent",
+                    "configEntry":  "config/openclaw.agent.i5-fake-engagement-traffic-abuse-strategist.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i5-fake-engagement-traffic-abuse-strategist.snippet.json"
+                }
+}

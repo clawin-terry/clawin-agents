@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i1-security-risk-manager",
+    "roleTitle":  "Security Risk Manager",
+    "personaSummary":  "Leads security risk assessment and treatment workflows so threats, vulnerabilities, and business impacts are prioritized with clearer ownership and follow-through.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "security-governance",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "healthcheck"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i1-security-risk-manager",
+                    "workspace":  "~/.openclaw/agents/i1-security-risk-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i1-security-risk-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i1-security-risk-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i1-security-risk-manager.snippet.json"
+                }
+}

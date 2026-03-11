@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-public-sentiment-monitoring-and-response-manager",
+    "roleTitle":  "Public Sentiment Monitoring and Response Manager",
+    "personaSummary":  "Monitors and responds to public sentiment so marketplace reputation issues are detected early and handled with coordinated response discipline.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "brand-public-relations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-public-sentiment-monitoring-and-response-manager",
+                    "workspace":  "~/.openclaw/agents/i3-public-sentiment-monitoring-and-response-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-public-sentiment-monitoring-and-response-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i3-public-sentiment-monitoring-and-response-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-public-sentiment-monitoring-and-response-manager.snippet.json"
+                }
+}

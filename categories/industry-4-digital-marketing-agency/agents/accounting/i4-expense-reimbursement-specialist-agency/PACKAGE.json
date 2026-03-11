@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-expense-reimbursement-specialist-agency",
+    "roleTitle":  "Expense Reimbursement Specialist",
+    "personaSummary":  "Operates reimbursement workflows so employee expenses are reviewed, processed, and documented in line with agency policy and finance controls.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "accounting",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-expense-reimbursement-specialist-agency",
+                    "workspace":  "~/.openclaw/agents/i4-expense-reimbursement-specialist-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-expense-reimbursement-specialist-agency/agent",
+                    "configEntry":  "config/openclaw.agent.i4-expense-reimbursement-specialist-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-expense-reimbursement-specialist-agency.snippet.json"
+                }
+}

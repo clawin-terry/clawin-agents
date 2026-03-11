@@ -1,0 +1,13 @@
+{
+    "id":  "i1-compliance-training-specialist",
+    "default":  false,
+    "name":  "Compliance Training Specialist",
+    "workspace":  "~/.openclaw/agents/i1-compliance-training-specialist/workspace",
+    "agentDir":  "~/.openclaw/agents/i1-compliance-training-specialist/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

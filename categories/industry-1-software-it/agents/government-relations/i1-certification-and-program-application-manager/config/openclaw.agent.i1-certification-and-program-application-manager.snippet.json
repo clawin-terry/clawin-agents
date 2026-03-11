@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "i1-certification-and-program-application-manager",
+                                    "default":  false,
+                                    "name":  "Certification and Program Application Manager",
+                                    "workspace":  "~/.openclaw/agents/i1-certification-and-program-application-manager/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i1-certification-and-program-application-manager/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

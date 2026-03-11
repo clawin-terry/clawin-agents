@@ -1,0 +1,13 @@
+{
+    "id":  "i1-chief-marketing-officer",
+    "default":  false,
+    "name":  "Chief Marketing Officer",
+    "workspace":  "~/.openclaw/agents/i1-chief-marketing-officer/workspace",
+    "agentDir":  "~/.openclaw/agents/i1-chief-marketing-officer/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

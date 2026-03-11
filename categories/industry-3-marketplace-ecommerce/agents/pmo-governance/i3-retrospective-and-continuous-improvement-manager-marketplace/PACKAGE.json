@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-retrospective-and-continuous-improvement-manager-marketplace",
+    "roleTitle":  "Retrospective and Continuous Improvement Manager (Marketplace)",
+    "personaSummary":  "Leads retrospective and continuous-improvement routines so marketplace teams can turn delivery learnings into stronger operating practices.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "pmo-governance",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-retrospective-and-continuous-improvement-manager-marketplace",
+                    "workspace":  "~/.openclaw/agents/i3-retrospective-and-continuous-improvement-manager-marketplace/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-retrospective-and-continuous-improvement-manager-marketplace/agent",
+                    "configEntry":  "config/openclaw.agent.i3-retrospective-and-continuous-improvement-manager-marketplace.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-retrospective-and-continuous-improvement-manager-marketplace.snippet.json"
+                }
+}

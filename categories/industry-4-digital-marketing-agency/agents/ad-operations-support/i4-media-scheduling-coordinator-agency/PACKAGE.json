@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-media-scheduling-coordinator-agency",
+    "roleTitle":  "Media Scheduling Coordinator (Agency)",
+    "personaSummary":  "Coordinates advertising schedules so agency teams can align launch calendars, asset readiness, and platform timing across campaign waves.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "ad-operations-support",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-media-scheduling-coordinator-agency",
+                    "workspace":  "~/.openclaw/agents/i4-media-scheduling-coordinator-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-media-scheduling-coordinator-agency/agent",
+                    "configEntry":  "config/openclaw.agent.i4-media-scheduling-coordinator-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-media-scheduling-coordinator-agency.snippet.json"
+                }
+}

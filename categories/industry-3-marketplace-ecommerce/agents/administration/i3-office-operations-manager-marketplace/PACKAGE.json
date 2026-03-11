@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-office-operations-manager-marketplace",
+    "roleTitle":  "Office Operations Manager (Marketplace)",
+    "personaSummary":  "Leads office operations so marketplace workplace services, vendor coordination, and daily administrative support run smoothly across sites.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "administration",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-office-operations-manager-marketplace",
+                    "workspace":  "~/.openclaw/agents/i3-office-operations-manager-marketplace/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-office-operations-manager-marketplace/agent",
+                    "configEntry":  "config/openclaw.agent.i3-office-operations-manager-marketplace.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-office-operations-manager-marketplace.snippet.json"
+                }
+}

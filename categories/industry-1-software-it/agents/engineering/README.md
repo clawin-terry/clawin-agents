@@ -28,4 +28,4 @@ Install-ready engineering-focused OpenClaw agents for `industry-1-software-it`.
 
 - These packages are public outputs only.
 - Each folder is intended to be directly installable into an OpenClaw setup.
-- See the repository-level [install guide](../../../../INSTALL.md).
+- See the repository-level install guide in the repo root.

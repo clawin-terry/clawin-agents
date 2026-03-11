@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "i4-content-asset-library-operator-agency",
+                                    "default":  false,
+                                    "name":  "Content Asset Library Operator (Agency)",
+                                    "workspace":  "~/.openclaw/agents/i4-content-asset-library-operator-agency/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i4-content-asset-library-operator-agency/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-live-penalty-and-appeals-coordination-manager",
+    "roleTitle":  "Live Penalty and Appeals Coordination Manager",
+    "personaSummary":  "Coordinates live penalties and appeals so marketplace enforcement actions, merchant communications, and review decisions stay traceable and fair.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "live-risk-and-compliance-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-live-penalty-and-appeals-coordination-manager",
+                    "workspace":  "~/.openclaw/agents/i3-live-penalty-and-appeals-coordination-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-live-penalty-and-appeals-coordination-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i3-live-penalty-and-appeals-coordination-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-live-penalty-and-appeals-coordination-manager.snippet.json"
+                }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-domain-architect",
+    "roleTitle":  "Domain Architect",
+    "personaSummary":  "Defines domain architecture boundaries and solution patterns so marketplace systems scale with clearer ownership, interfaces, and technical consistency.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "architecture",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-domain-architect",
+                    "workspace":  "~/.openclaw/agents/i3-domain-architect/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-domain-architect/agent",
+                    "configEntry":  "config/openclaw.agent.i3-domain-architect.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-domain-architect.snippet.json"
+                }
+}

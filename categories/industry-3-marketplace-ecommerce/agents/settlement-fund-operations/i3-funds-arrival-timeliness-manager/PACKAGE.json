@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-funds-arrival-timeliness-manager",
+    "roleTitle":  "Funds Arrival Timeliness Manager",
+    "personaSummary":  "Improves funds arrival timeliness so merchants receive payouts within expected windows and settlement reliability stays high.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "settlement-fund-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-funds-arrival-timeliness-manager",
+                    "workspace":  "~/.openclaw/agents/i3-funds-arrival-timeliness-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-funds-arrival-timeliness-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i3-funds-arrival-timeliness-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-funds-arrival-timeliness-manager.snippet.json"
+                }
+}

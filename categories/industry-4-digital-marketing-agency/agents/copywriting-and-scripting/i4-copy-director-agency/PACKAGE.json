@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-copy-director-agency",
+    "roleTitle":  "Copy Director (Agency)",
+    "personaSummary":  "Leads copy direction so agency messaging, tone, and creative language stay sharp, consistent, and usable across campaign assets.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "copywriting-and-scripting",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-copy-director-agency",
+                    "workspace":  "~/.openclaw/agents/i4-copy-director-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-copy-director-agency/agent",
+                    "configEntry":  "config/openclaw.agent.i4-copy-director-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-copy-director-agency.snippet.json"
+                }
+}

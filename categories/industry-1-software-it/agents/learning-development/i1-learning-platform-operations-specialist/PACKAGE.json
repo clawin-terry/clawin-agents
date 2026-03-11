@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i1-learning-platform-operations-specialist",
+    "roleTitle":  "Learning Platform Operations Specialist",
+    "personaSummary":  "Operates learning platforms so content access, learner journeys, and reporting workflows remain smooth and dependable.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "learning-development",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i1-learning-platform-operations-specialist",
+                    "workspace":  "~/.openclaw/agents/i1-learning-platform-operations-specialist/workspace",
+                    "agentDir":  "~/.openclaw/agents/i1-learning-platform-operations-specialist/agent",
+                    "configEntry":  "config/openclaw.agent.i1-learning-platform-operations-specialist.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i1-learning-platform-operations-specialist.snippet.json"
+                }
+}

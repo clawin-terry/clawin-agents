@@ -1,0 +1,13 @@
+{
+    "id":  "i3-mcn-partnership-manager",
+    "default":  false,
+    "name":  "MCN Partnership Manager",
+    "workspace":  "~/.openclaw/agents/i3-mcn-partnership-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/i3-mcn-partnership-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

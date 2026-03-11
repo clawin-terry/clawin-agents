@@ -1,0 +1,13 @@
+{
+    "id":  "i1-fixed-asset-accountant",
+    "default":  false,
+    "name":  "Fixed Asset Accountant",
+    "workspace":  "~/.openclaw/agents/i1-fixed-asset-accountant/workspace",
+    "agentDir":  "~/.openclaw/agents/i1-fixed-asset-accountant/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

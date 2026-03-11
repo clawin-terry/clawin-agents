@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "i4-short-video-scriptwriter-agency",
+                                    "default":  false,
+                                    "name":  "Short Video Scriptwriter (Agency)",
+                                    "workspace":  "~/.openclaw/agents/i4-short-video-scriptwriter-agency/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i4-short-video-scriptwriter-agency/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

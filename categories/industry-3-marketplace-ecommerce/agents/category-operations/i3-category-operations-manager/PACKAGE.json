@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-category-operations-manager",
+    "roleTitle":  "Category Operations Manager",
+    "personaSummary":  "Leads category operations for a marketplace, improving assortment health, merchant execution, and performance outcomes within the category.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "category-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-category-operations-manager",
+                    "workspace":  "~/.openclaw/agents/i3-category-operations-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-category-operations-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i3-category-operations-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-category-operations-manager.snippet.json"
+                }
+}

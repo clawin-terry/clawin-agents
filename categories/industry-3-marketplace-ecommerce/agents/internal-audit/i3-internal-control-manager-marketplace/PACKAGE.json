@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-internal-control-manager-marketplace",
+    "roleTitle":  "Internal Control Manager (Marketplace)",
+    "personaSummary":  "Leads marketplace internal-control programs so control design, evidence readiness, and ownership discipline remain aligned with audit expectations.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "internal-audit",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-internal-control-manager-marketplace",
+                    "workspace":  "~/.openclaw/agents/i3-internal-control-manager-marketplace/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-internal-control-manager-marketplace/agent",
+                    "configEntry":  "config/openclaw.agent.i3-internal-control-manager-marketplace.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-internal-control-manager-marketplace.snippet.json"
+                }
+}

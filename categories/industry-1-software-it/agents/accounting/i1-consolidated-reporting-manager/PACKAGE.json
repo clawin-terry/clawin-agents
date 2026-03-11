@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i1-consolidated-reporting-manager",
+    "roleTitle":  "Consolidated Reporting Manager",
+    "personaSummary":  "Leads consolidation and group reporting so multi-entity financial results are aligned, adjusted correctly, and reported with consistency.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "accounting",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i1-consolidated-reporting-manager",
+                    "workspace":  "~/.openclaw/agents/i1-consolidated-reporting-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i1-consolidated-reporting-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i1-consolidated-reporting-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i1-consolidated-reporting-manager.snippet.json"
+                }
+}

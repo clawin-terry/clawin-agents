@@ -1,0 +1,13 @@
+{
+    "id":  "i5-story-planning-manager-platform",
+    "default":  false,
+    "name":  "Story Planning Manager (Platform)",
+    "workspace":  "~/.openclaw/agents/i5-story-planning-manager-platform/workspace",
+    "agentDir":  "~/.openclaw/agents/i5-story-planning-manager-platform/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

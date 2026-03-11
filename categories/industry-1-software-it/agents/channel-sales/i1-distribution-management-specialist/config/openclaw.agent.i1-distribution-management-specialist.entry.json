@@ -1,0 +1,13 @@
+{
+    "id":  "i1-distribution-management-specialist",
+    "default":  false,
+    "name":  "Distribution Management Specialist",
+    "workspace":  "~/.openclaw/agents/i1-distribution-management-specialist/workspace",
+    "agentDir":  "~/.openclaw/agents/i1-distribution-management-specialist/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

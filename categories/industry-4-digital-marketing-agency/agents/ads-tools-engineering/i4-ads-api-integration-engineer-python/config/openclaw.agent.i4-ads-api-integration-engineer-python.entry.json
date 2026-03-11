@@ -1,0 +1,13 @@
+{
+    "id":  "i4-ads-api-integration-engineer-python",
+    "default":  false,
+    "name":  "Ads API Integration Engineer (Python)",
+    "workspace":  "~/.openclaw/agents/i4-ads-api-integration-engineer-python/workspace",
+    "agentDir":  "~/.openclaw/agents/i4-ads-api-integration-engineer-python/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

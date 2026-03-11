@@ -1,0 +1,13 @@
+{
+    "id":  "i1-curriculum-designer",
+    "default":  false,
+    "name":  "Curriculum Designer",
+    "workspace":  "~/.openclaw/agents/i1-curriculum-designer/workspace",
+    "agentDir":  "~/.openclaw/agents/i1-curriculum-designer/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

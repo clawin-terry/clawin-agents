@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-payment-conversion-improvement-manager",
+    "roleTitle":  "Payment Conversion Improvement Manager",
+    "personaSummary":  "Improves payment conversion so more valid transactions succeed and fewer buyers drop during payment execution.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "transaction-conversion-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-payment-conversion-improvement-manager",
+                    "workspace":  "~/.openclaw/agents/i3-payment-conversion-improvement-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-payment-conversion-improvement-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i3-payment-conversion-improvement-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-payment-conversion-improvement-manager.snippet.json"
+                }
+}

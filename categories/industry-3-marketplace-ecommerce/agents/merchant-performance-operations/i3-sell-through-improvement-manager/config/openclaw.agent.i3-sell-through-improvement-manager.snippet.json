@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "i3-sell-through-improvement-manager",
+                                    "default":  false,
+                                    "name":  "Sell-Through Improvement Manager",
+                                    "workspace":  "~/.openclaw/agents/i3-sell-through-improvement-manager/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i3-sell-through-improvement-manager/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

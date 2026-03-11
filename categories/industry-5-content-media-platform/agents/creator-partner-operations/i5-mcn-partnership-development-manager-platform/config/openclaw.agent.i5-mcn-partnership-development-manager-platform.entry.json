@@ -1,0 +1,13 @@
+{
+    "id":  "i5-mcn-partnership-development-manager-platform",
+    "default":  false,
+    "name":  "MCN Partnership Development Manager (Platform)",
+    "workspace":  "~/.openclaw/agents/i5-mcn-partnership-development-manager-platform/workspace",
+    "agentDir":  "~/.openclaw/agents/i5-mcn-partnership-development-manager-platform/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

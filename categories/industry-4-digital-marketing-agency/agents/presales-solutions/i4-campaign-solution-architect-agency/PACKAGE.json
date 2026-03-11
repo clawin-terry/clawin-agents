@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-campaign-solution-architect-agency",
+    "roleTitle":  "Campaign Solution Architect (Agency)",
+    "personaSummary":  "Designs campaign solution architectures so agency proposals balance media execution, tooling choices, and delivery feasibility.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "presales-solutions",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-campaign-solution-architect-agency",
+                    "workspace":  "~/.openclaw/agents/i4-campaign-solution-architect-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-campaign-solution-architect-agency/agent",
+                    "configEntry":  "config/openclaw.agent.i4-campaign-solution-architect-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-campaign-solution-architect-agency.snippet.json"
+                }
+}

@@ -1,0 +1,13 @@
+{
+    "id":  "i1-reconciliation-specialist",
+    "default":  false,
+    "name":  "Reconciliation Specialist",
+    "workspace":  "~/.openclaw/agents/i1-reconciliation-specialist/workspace",
+    "agentDir":  "~/.openclaw/agents/i1-reconciliation-specialist/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

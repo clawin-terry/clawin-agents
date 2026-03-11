@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i5-editor-in-chief-platform",
+    "roleTitle":  "Editor-in-Chief (Platform)",
+    "personaSummary":  "Leads editorial direction so channel priorities, publishing standards, and content judgment stay coherent across the platform\u0027s operated surfaces.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "editorial-content-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i5-editor-in-chief-platform",
+                    "workspace":  "~/.openclaw/agents/i5-editor-in-chief-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/i5-editor-in-chief-platform/agent",
+                    "configEntry":  "config/openclaw.agent.i5-editor-in-chief-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i5-editor-in-chief-platform.snippet.json"
+                }
+}

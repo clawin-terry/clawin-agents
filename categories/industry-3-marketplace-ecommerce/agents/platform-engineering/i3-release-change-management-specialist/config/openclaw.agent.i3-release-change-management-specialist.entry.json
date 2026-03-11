@@ -1,0 +1,13 @@
+{
+    "id":  "i3-release-change-management-specialist",
+    "default":  false,
+    "name":  "Release Change Management Specialist",
+    "workspace":  "~/.openclaw/agents/i3-release-change-management-specialist/workspace",
+    "agentDir":  "~/.openclaw/agents/i3-release-change-management-specialist/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

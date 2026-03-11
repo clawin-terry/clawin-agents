@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-live-subsidy-and-incentives-manager",
+    "roleTitle":  "Live Subsidy and Incentives Manager",
+    "personaSummary":  "Runs live subsidy and incentive programs so marketplace livestream participation and conversion goals are supported without losing economic control.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "live-event-campaign-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-live-subsidy-and-incentives-manager",
+                    "workspace":  "~/.openclaw/agents/i3-live-subsidy-and-incentives-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-live-subsidy-and-incentives-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i3-live-subsidy-and-incentives-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-live-subsidy-and-incentives-manager.snippet.json"
+                }
+}

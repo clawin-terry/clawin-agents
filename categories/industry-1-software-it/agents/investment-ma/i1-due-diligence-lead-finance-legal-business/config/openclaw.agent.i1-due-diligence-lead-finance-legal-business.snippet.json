@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "i1-due-diligence-lead-finance-legal-business",
+                                    "default":  false,
+                                    "name":  "Due Diligence Lead (Finance / Legal / Business)",
+                                    "workspace":  "~/.openclaw/agents/i1-due-diligence-lead-finance-legal-business/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i1-due-diligence-lead-finance-legal-business/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

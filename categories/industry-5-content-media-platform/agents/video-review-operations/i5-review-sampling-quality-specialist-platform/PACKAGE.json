@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i5-review-sampling-quality-specialist-platform",
+    "roleTitle":  "Review Sampling and Quality Specialist (Platform)",
+    "personaSummary":  "Runs moderation sampling and quality checks so review accuracy, drift detection, and coaching inputs remain stronger across video operations.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "video-review-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i5-review-sampling-quality-specialist-platform",
+                    "workspace":  "~/.openclaw/agents/i5-review-sampling-quality-specialist-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/i5-review-sampling-quality-specialist-platform/agent",
+                    "configEntry":  "config/openclaw.agent.i5-review-sampling-quality-specialist-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i5-review-sampling-quality-specialist-platform.snippet.json"
+                }
+}

@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "i4-subtitling-and-graphics-packaging-specialist-agency",
+                                    "default":  false,
+                                    "name":  "Subtitling and Graphics Packaging Specialist (Agency)",
+                                    "workspace":  "~/.openclaw/agents/i4-subtitling-and-graphics-packaging-specialist-agency/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i4-subtitling-and-graphics-packaging-specialist-agency/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

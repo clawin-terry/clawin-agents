@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-website-and-lead-operations-manager-agency",
+    "roleTitle":  "Website and Lead Operations Manager (Agency)",
+    "personaSummary":  "Operates website and lead workflows so agency traffic conversion, inquiry routing, and funnel hygiene stay measurable and responsive.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "market-growth",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-website-and-lead-operations-manager-agency",
+                    "workspace":  "~/.openclaw/agents/i4-website-and-lead-operations-manager-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-website-and-lead-operations-manager-agency/agent",
+                    "configEntry":  "config/openclaw.agent.i4-website-and-lead-operations-manager-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-website-and-lead-operations-manager-agency.snippet.json"
+                }
+}

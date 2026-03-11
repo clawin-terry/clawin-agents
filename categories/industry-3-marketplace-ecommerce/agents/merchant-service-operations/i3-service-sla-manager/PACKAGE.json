@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-service-sla-manager",
+    "roleTitle":  "Service SLA Manager",
+    "personaSummary":  "Manages merchant service SLAs so support commitments are measurable, enforceable, and aligned with platform service standards.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "merchant-service-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-service-sla-manager",
+                    "workspace":  "~/.openclaw/agents/i3-service-sla-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-service-sla-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i3-service-sla-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-service-sla-manager.snippet.json"
+                }
+}

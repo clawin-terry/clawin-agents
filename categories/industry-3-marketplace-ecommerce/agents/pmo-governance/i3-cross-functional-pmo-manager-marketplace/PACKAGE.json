@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-cross-functional-pmo-manager-marketplace",
+    "roleTitle":  "Cross-Functional PMO Manager (Marketplace)",
+    "personaSummary":  "Runs cross-functional PMO practices so marketplace programs maintain visibility, coordination, and timely decision support across departments.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "pmo-governance",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-cross-functional-pmo-manager-marketplace",
+                    "workspace":  "~/.openclaw/agents/i3-cross-functional-pmo-manager-marketplace/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-cross-functional-pmo-manager-marketplace/agent",
+                    "configEntry":  "config/openclaw.agent.i3-cross-functional-pmo-manager-marketplace.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-cross-functional-pmo-manager-marketplace.snippet.json"
+                }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-creative-strategy-manager-data-collaboration-agency",
+    "roleTitle":  "Creative Strategy Manager, Data Collaboration (Agency)",
+    "personaSummary":  "Connects creative strategy with data partners so agency concepts can respond to audience signals, performance learning, and measurable campaign goals.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "creative-planning",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-creative-strategy-manager-data-collaboration-agency",
+                    "workspace":  "~/.openclaw/agents/i4-creative-strategy-manager-data-collaboration-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-creative-strategy-manager-data-collaboration-agency/agent",
+                    "configEntry":  "config/openclaw.agent.i4-creative-strategy-manager-data-collaboration-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-creative-strategy-manager-data-collaboration-agency.snippet.json"
+                }
+}

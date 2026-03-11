@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-sampling-inspection-operations-manager",
+    "roleTitle":  "Sampling Inspection Operations Manager",
+    "personaSummary":  "Operates sampling inspection programs so product quality risks are detected early and corrective actions can be enforced consistently.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "product-quality-governance",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-sampling-inspection-operations-manager",
+                    "workspace":  "~/.openclaw/agents/i3-sampling-inspection-operations-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-sampling-inspection-operations-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i3-sampling-inspection-operations-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-sampling-inspection-operations-manager.snippet.json"
+                }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-keyword-account-optimizer-agency",
+    "roleTitle":  "Keyword and Account Structure Optimizer (Agency)",
+    "personaSummary":  "Optimizes keywords and account structure so agency search programs can improve relevance, control, and scalable performance management.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "paid-search-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-keyword-account-optimizer-agency",
+                    "workspace":  "~/.openclaw/agents/i4-keyword-account-optimizer-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-keyword-account-optimizer-agency/agent",
+                    "configEntry":  "config/openclaw.agent.i4-keyword-account-optimizer-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-keyword-account-optimizer-agency.snippet.json"
+                }
+}

@@ -1,0 +1,13 @@
+{
+    "id":  "i5-copyright-asset-management-coordinator-platform",
+    "default":  false,
+    "name":  "Copyright Asset Management Coordinator (Platform)",
+    "workspace":  "~/.openclaw/agents/i5-copyright-asset-management-coordinator-platform/workspace",
+    "agentDir":  "~/.openclaw/agents/i5-copyright-asset-management-coordinator-platform/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

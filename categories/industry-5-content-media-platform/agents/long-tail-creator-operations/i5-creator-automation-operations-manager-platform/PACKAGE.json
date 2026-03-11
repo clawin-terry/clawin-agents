@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i5-creator-automation-operations-manager-platform",
+    "roleTitle":  "Creator Automation Operations Manager (Platform)",
+    "personaSummary":  "Builds automated creator operations so scaled communications, nudges, and lifecycle actions can reach many creators with consistent execution quality.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "long-tail-creator-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i5-creator-automation-operations-manager-platform",
+                    "workspace":  "~/.openclaw/agents/i5-creator-automation-operations-manager-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/i5-creator-automation-operations-manager-platform/agent",
+                    "configEntry":  "config/openclaw.agent.i5-creator-automation-operations-manager-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i5-creator-automation-operations-manager-platform.snippet.json"
+                }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i1-commercial-contract-manager",
+    "roleTitle":  "Commercial Contract Manager",
+    "personaSummary":  "Manages commercial contract workflows so business terms, negotiation progress, and internal approvals remain controlled and executable.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "business-development",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i1-commercial-contract-manager",
+                    "workspace":  "~/.openclaw/agents/i1-commercial-contract-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i1-commercial-contract-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i1-commercial-contract-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i1-commercial-contract-manager.snippet.json"
+                }
+}

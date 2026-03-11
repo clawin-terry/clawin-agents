@@ -1,0 +1,13 @@
+{
+    "id":  "i5-repeat-offender-control-specialist-platform",
+    "default":  false,
+    "name":  "Repeat Offender Control Specialist (Platform)",
+    "workspace":  "~/.openclaw/agents/i5-repeat-offender-control-specialist-platform/workspace",
+    "agentDir":  "~/.openclaw/agents/i5-repeat-offender-control-specialist-platform/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

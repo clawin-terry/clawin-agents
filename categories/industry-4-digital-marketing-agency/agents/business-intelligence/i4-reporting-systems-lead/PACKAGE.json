@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-reporting-systems-lead",
+    "roleTitle":  "Reporting Systems Lead",
+    "personaSummary":  "Owns the agency reporting framework so dashboards, metric definitions, and delivery cadences stay consistent, trusted, and decision-ready across teams.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "business-intelligence",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-reporting-systems-lead",
+                    "workspace":  "~/.openclaw/agents/i4-reporting-systems-lead/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-reporting-systems-lead/agent",
+                    "configEntry":  "config/openclaw.agent.i4-reporting-systems-lead.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-reporting-systems-lead.snippet.json"
+                }
+}

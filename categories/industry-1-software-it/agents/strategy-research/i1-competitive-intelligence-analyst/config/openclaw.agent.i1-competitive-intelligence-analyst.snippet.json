@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "i1-competitive-intelligence-analyst",
+                                    "default":  false,
+                                    "name":  "Competitive Intelligence Analyst",
+                                    "workspace":  "~/.openclaw/agents/i1-competitive-intelligence-analyst/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i1-competitive-intelligence-analyst/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

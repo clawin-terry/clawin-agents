@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-search-relevance-engineer",
+    "roleTitle":  "Search Relevance Engineer",
+    "personaSummary":  "Improves search relevance so marketplace retrieval results better match user intent, catalog structure, and business quality signals.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "machine-learning",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-search-relevance-engineer",
+                    "workspace":  "~/.openclaw/agents/i3-search-relevance-engineer/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-search-relevance-engineer/agent",
+                    "configEntry":  "config/openclaw.agent.i3-search-relevance-engineer.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-search-relevance-engineer.snippet.json"
+                }
+}

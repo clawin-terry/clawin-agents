@@ -1,0 +1,13 @@
+{
+    "id":  "i1-board-affairs-manager",
+    "default":  false,
+    "name":  "Board Affairs Manager",
+    "workspace":  "~/.openclaw/agents/i1-board-affairs-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/i1-board-affairs-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "i1-sales-recruiter",
+                                    "default":  false,
+                                    "name":  "Sales Recruiter",
+                                    "workspace":  "~/.openclaw/agents/i1-sales-recruiter/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i1-sales-recruiter/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

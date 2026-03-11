@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-risk-strategy-platform-support-engineer",
+    "roleTitle":  "Risk Strategy Platform Support Engineer",
+    "personaSummary":  "Supports risk strategy platform engineering so marketplace control systems remain usable, stable, and responsive for operational teams.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "security-engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "healthcheck"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-risk-strategy-platform-support-engineer",
+                    "workspace":  "~/.openclaw/agents/i3-risk-strategy-platform-support-engineer/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-risk-strategy-platform-support-engineer/agent",
+                    "configEntry":  "config/openclaw.agent.i3-risk-strategy-platform-support-engineer.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-risk-strategy-platform-support-engineer.snippet.json"
+                }
+}

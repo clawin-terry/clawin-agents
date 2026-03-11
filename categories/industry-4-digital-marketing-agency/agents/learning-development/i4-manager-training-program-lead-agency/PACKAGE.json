@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-manager-training-program-lead-agency",
+    "roleTitle":  "Manager Training Program Lead (Agency)",
+    "personaSummary":  "Leads manager training programs so agency leaders build stronger coaching, planning, and team-management capability.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "learning-development",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-manager-training-program-lead-agency",
+                    "workspace":  "~/.openclaw/agents/i4-manager-training-program-lead-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-manager-training-program-lead-agency/agent",
+                    "configEntry":  "config/openclaw.agent.i4-manager-training-program-lead-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-manager-training-program-lead-agency.snippet.json"
+                }
+}

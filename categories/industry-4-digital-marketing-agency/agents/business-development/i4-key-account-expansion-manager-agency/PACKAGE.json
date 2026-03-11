@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-key-account-expansion-manager-agency",
+    "roleTitle":  "Key Account Expansion Manager (Agency)",
+    "personaSummary":  "Drives key-account expansion so agency growth within priority clients remains proactive, structured, and easier to scale.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "business-development",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-key-account-expansion-manager-agency",
+                    "workspace":  "~/.openclaw/agents/i4-key-account-expansion-manager-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-key-account-expansion-manager-agency/agent",
+                    "configEntry":  "config/openclaw.agent.i4-key-account-expansion-manager-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-key-account-expansion-manager-agency.snippet.json"
+                }
+}

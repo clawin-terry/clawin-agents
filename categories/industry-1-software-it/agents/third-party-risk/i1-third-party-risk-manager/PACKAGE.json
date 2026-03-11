@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i1-third-party-risk-manager",
+    "roleTitle":  "Third-Party Risk Manager",
+    "personaSummary":  "Leads third-party risk governance so vendor relationships are assessed consistently, monitored appropriately, and aligned with enterprise control expectations.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "third-party-risk",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i1-third-party-risk-manager",
+                    "workspace":  "~/.openclaw/agents/i1-third-party-risk-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i1-third-party-risk-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i1-third-party-risk-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i1-third-party-risk-manager.snippet.json"
+                }
+}

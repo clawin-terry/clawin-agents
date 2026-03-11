@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-audience-segmentation-manager",
+    "roleTitle":  "Audience Segmentation Manager",
+    "personaSummary":  "Owns audience segmentation so marketplace CRM programs can target users with clearer lifecycle logic and better campaign relevance.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "crm-private-domain-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-audience-segmentation-manager",
+                    "workspace":  "~/.openclaw/agents/i3-audience-segmentation-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-audience-segmentation-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i3-audience-segmentation-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-audience-segmentation-manager.snippet.json"
+                }
+}

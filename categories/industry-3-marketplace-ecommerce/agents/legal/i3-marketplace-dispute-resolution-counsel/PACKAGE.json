@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-marketplace-dispute-resolution-counsel",
+    "roleTitle":  "Marketplace Dispute Resolution Counsel",
+    "personaSummary":  "Handles marketplace dispute-related legal work so escalations, case handling, and resolution strategies remain controlled and supportable.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "legal",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-marketplace-dispute-resolution-counsel",
+                    "workspace":  "~/.openclaw/agents/i3-marketplace-dispute-resolution-counsel/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-marketplace-dispute-resolution-counsel/agent",
+                    "configEntry":  "config/openclaw.agent.i3-marketplace-dispute-resolution-counsel.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-marketplace-dispute-resolution-counsel.snippet.json"
+                }
+}

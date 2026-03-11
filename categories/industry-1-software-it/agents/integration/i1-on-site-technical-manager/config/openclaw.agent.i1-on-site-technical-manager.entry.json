@@ -1,0 +1,13 @@
+{
+    "id":  "i1-on-site-technical-manager",
+    "default":  false,
+    "name":  "On-Site Technical Manager",
+    "workspace":  "~/.openclaw/agents/i1-on-site-technical-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/i1-on-site-technical-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

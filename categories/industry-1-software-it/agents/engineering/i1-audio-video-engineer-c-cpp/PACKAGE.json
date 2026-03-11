@@ -9,7 +9,8 @@
     "roleFamilyKey":  "engineering",
     "recommendedModel":  "openai-codex/gpt-5.4",
     "bundledSkills":  [
-                          "coding-agent"
+                          "coding-agent",
+                          "clawin-media-performance-systems"
                       ],
     "install":  {
                     "targetRoot":  "~/.openclaw/agents/i1-audio-video-engineer-c-cpp",

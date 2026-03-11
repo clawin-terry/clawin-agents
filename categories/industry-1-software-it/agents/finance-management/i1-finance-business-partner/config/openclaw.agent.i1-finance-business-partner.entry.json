@@ -1,0 +1,13 @@
+{
+    "id":  "i1-finance-business-partner",
+    "default":  false,
+    "name":  "Finance Business Partner",
+    "workspace":  "~/.openclaw/agents/i1-finance-business-partner/workspace",
+    "agentDir":  "~/.openclaw/agents/i1-finance-business-partner/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

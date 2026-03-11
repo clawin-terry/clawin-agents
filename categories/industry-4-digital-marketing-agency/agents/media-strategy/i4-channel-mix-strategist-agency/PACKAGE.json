@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-channel-mix-strategist-agency",
+    "roleTitle":  "Channel Mix Strategist (Agency)",
+    "personaSummary":  "Designs channel mix strategy so agency campaigns can distribute effort across media options with stronger fit, sequencing, and expected impact.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "media-strategy",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-channel-mix-strategist-agency",
+                    "workspace":  "~/.openclaw/agents/i4-channel-mix-strategist-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-channel-mix-strategist-agency/agent",
+                    "configEntry":  "config/openclaw.agent.i4-channel-mix-strategist-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-channel-mix-strategist-agency.snippet.json"
+                }
+}

@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "i1-industry-solutions-marketing-manager",
+                                    "default":  false,
+                                    "name":  "Industry Solutions Marketing Manager",
+                                    "workspace":  "~/.openclaw/agents/i1-industry-solutions-marketing-manager/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i1-industry-solutions-marketing-manager/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

@@ -1,0 +1,13 @@
+{
+    "id":  "i1-business-performance-analyst-pl-unit-economics",
+    "default":  false,
+    "name":  "Business Performance Analyst (P&L / Unit Economics)",
+    "workspace":  "~/.openclaw/agents/i1-business-performance-analyst-pl-unit-economics/workspace",
+    "agentDir":  "~/.openclaw/agents/i1-business-performance-analyst-pl-unit-economics/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

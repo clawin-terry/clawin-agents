@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-inventory-counting-manager",
+    "roleTitle":  "Inventory Counting Manager",
+    "personaSummary":  "Runs inventory counting programs so stock accuracy stays trustworthy for fulfillment, replenishment, and financial control workflows.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "warehouse-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-inventory-counting-manager",
+                    "workspace":  "~/.openclaw/agents/i3-inventory-counting-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-inventory-counting-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i3-inventory-counting-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-inventory-counting-manager.snippet.json"
+                }
+}

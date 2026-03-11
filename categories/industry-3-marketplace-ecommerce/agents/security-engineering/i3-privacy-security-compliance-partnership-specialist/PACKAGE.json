@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-privacy-security-compliance-partnership-specialist",
+    "roleTitle":  "Privacy Security Compliance Partnership Specialist",
+    "personaSummary":  "Coordinates privacy compliance with technical security controls so marketplace data protection practices align with policy, audit, and delivery requirements.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "security-engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "healthcheck"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-privacy-security-compliance-partnership-specialist",
+                    "workspace":  "~/.openclaw/agents/i3-privacy-security-compliance-partnership-specialist/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-privacy-security-compliance-partnership-specialist/agent",
+                    "configEntry":  "config/openclaw.agent.i3-privacy-security-compliance-partnership-specialist.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-privacy-security-compliance-partnership-specialist.snippet.json"
+                }
+}

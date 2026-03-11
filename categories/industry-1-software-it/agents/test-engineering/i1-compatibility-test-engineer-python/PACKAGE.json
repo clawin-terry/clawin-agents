@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i1-compatibility-test-engineer-python",
+    "roleTitle":  "Compatibility Test Engineer (Python)",
+    "personaSummary":  "Validates compatibility across environments, platforms, and dependency combinations with Python-based test tooling and disciplined coverage.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "test-engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i1-compatibility-test-engineer-python",
+                    "workspace":  "~/.openclaw/agents/i1-compatibility-test-engineer-python/workspace",
+                    "agentDir":  "~/.openclaw/agents/i1-compatibility-test-engineer-python/agent",
+                    "configEntry":  "config/openclaw.agent.i1-compatibility-test-engineer-python.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i1-compatibility-test-engineer-python.snippet.json"
+                }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i1-project-audit-inspection-specialist",
+    "roleTitle":  "Project Audit and Inspection Specialist",
+    "personaSummary":  "Reviews project execution for compliance, process discipline, and risk signals so governance issues are surfaced early and clearly.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "pmo-governance",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i1-project-audit-inspection-specialist",
+                    "workspace":  "~/.openclaw/agents/i1-project-audit-inspection-specialist/workspace",
+                    "agentDir":  "~/.openclaw/agents/i1-project-audit-inspection-specialist/agent",
+                    "configEntry":  "config/openclaw.agent.i1-project-audit-inspection-specialist.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i1-project-audit-inspection-specialist.snippet.json"
+                }
+}

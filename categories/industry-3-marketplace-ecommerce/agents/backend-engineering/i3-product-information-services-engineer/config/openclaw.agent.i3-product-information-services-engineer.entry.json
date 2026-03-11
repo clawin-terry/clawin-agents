@@ -1,0 +1,13 @@
+{
+    "id":  "i3-product-information-services-engineer",
+    "default":  false,
+    "name":  "Product Information Services Engineer",
+    "workspace":  "~/.openclaw/agents/i3-product-information-services-engineer/workspace",
+    "agentDir":  "~/.openclaw/agents/i3-product-information-services-engineer/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

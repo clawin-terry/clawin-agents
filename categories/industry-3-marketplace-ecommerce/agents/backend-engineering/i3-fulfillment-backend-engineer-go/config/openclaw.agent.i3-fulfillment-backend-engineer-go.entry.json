@@ -1,0 +1,13 @@
+{
+    "id":  "i3-fulfillment-backend-engineer-go",
+    "default":  false,
+    "name":  "Fulfillment Backend Engineer (Go)",
+    "workspace":  "~/.openclaw/agents/i3-fulfillment-backend-engineer-go/workspace",
+    "agentDir":  "~/.openclaw/agents/i3-fulfillment-backend-engineer-go/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

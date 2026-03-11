@@ -1,0 +1,13 @@
+{
+    "id":  "i3-security-review-engineer",
+    "default":  false,
+    "name":  "Security Review Engineer",
+    "workspace":  "~/.openclaw/agents/i3-security-review-engineer/workspace",
+    "agentDir":  "~/.openclaw/agents/i3-security-review-engineer/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

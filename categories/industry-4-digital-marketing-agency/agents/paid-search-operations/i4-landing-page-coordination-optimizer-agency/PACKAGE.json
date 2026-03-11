@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-landing-page-coordination-optimizer-agency",
+    "roleTitle":  "Landing Page Coordination Optimizer (Agency)",
+    "personaSummary":  "Coordinates landing page optimization with media execution so agency search traffic converts through stronger page-message alignment and follow-through.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "paid-search-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-landing-page-coordination-optimizer-agency",
+                    "workspace":  "~/.openclaw/agents/i4-landing-page-coordination-optimizer-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-landing-page-coordination-optimizer-agency/agent",
+                    "configEntry":  "config/openclaw.agent.i4-landing-page-coordination-optimizer-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-landing-page-coordination-optimizer-agency.snippet.json"
+                }
+}

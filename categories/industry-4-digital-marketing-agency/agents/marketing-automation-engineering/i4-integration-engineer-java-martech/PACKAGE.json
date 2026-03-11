@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-integration-engineer-java-martech",
+    "roleTitle":  "Integration Engineer (Java)",
+    "personaSummary":  "Builds platform integrations in Java so CRM, marketing automation, and customer data workflows stay connected and operational.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "marketing-automation-engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-integration-engineer-java-martech",
+                    "workspace":  "~/.openclaw/agents/i4-integration-engineer-java-martech/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-integration-engineer-java-martech/agent",
+                    "configEntry":  "config/openclaw.agent.i4-integration-engineer-java-martech.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-integration-engineer-java-martech.snippet.json"
+                }
+}

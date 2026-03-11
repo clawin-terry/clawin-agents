@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-android-engineer-kotlin",
+    "roleTitle":  "Android Engineer (Kotlin)",
+    "personaSummary":  "Builds Android marketplace experiences with Kotlin, focusing on product quality, maintainable architecture, and reliable release delivery.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "mobile-engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "clawin-mobile-engineering"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-android-engineer-kotlin",
+                    "workspace":  "~/.openclaw/agents/i3-android-engineer-kotlin/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-android-engineer-kotlin/agent",
+                    "configEntry":  "config/openclaw.agent.i3-android-engineer-kotlin.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-android-engineer-kotlin.snippet.json"
+                }
+}

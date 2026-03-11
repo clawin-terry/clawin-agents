@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-ad-performance-operations-manager",
+    "roleTitle":  "Ad Performance Operations Manager",
+    "personaSummary":  "Operates ad performance workflows so marketplace advertisers get clear delivery feedback, optimization insights, and measurable results.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "advertising-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-ad-performance-operations-manager",
+                    "workspace":  "~/.openclaw/agents/i3-ad-performance-operations-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-ad-performance-operations-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i3-ad-performance-operations-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-ad-performance-operations-manager.snippet.json"
+                }
+}

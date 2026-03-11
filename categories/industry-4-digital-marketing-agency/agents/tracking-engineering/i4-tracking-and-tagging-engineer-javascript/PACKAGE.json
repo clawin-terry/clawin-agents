@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-tracking-and-tagging-engineer-javascript",
+    "roleTitle":  "Tracking and Tagging Engineer (JavaScript)",
+    "personaSummary":  "Implements browser-side tracking and tagging so campaign measurement signals are captured consistently and remain usable across marketing and analytics workflows.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "tracking-engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-tracking-and-tagging-engineer-javascript",
+                    "workspace":  "~/.openclaw/agents/i4-tracking-and-tagging-engineer-javascript/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-tracking-and-tagging-engineer-javascript/agent",
+                    "configEntry":  "config/openclaw.agent.i4-tracking-and-tagging-engineer-javascript.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-tracking-and-tagging-engineer-javascript.snippet.json"
+                }
+}

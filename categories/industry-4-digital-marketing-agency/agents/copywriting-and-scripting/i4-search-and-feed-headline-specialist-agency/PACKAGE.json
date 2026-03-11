@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-search-and-feed-headline-specialist-agency",
+    "roleTitle":  "Search and Feed Headline Specialist (Agency)",
+    "personaSummary":  "Optimizes search and feed headlines so agency creatives can win attention faster while staying aligned with query intent and platform behavior.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "copywriting-and-scripting",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-search-and-feed-headline-specialist-agency",
+                    "workspace":  "~/.openclaw/agents/i4-search-and-feed-headline-specialist-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-search-and-feed-headline-specialist-agency/agent",
+                    "configEntry":  "config/openclaw.agent.i4-search-and-feed-headline-specialist-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-search-and-feed-headline-specialist-agency.snippet.json"
+                }
+}

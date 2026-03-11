@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-technical-standards-and-review-manager",
+    "roleTitle":  "Technical Standards and Review Manager",
+    "personaSummary":  "Owns technical standards and architecture review practices so engineering decisions remain consistent, reviewable, and aligned with platform strategy.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "architecture",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-technical-standards-and-review-manager",
+                    "workspace":  "~/.openclaw/agents/i3-technical-standards-and-review-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-technical-standards-and-review-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i3-technical-standards-and-review-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-technical-standards-and-review-manager.snippet.json"
+                }
+}

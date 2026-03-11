@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-jd-jingzhuntong-specialist-agency",
+    "roleTitle":  "JD Jingzhuntong Specialist (Agency)",
+    "personaSummary":  "Operates JD Jingzhuntong campaigns so agency teams can manage ecommerce demand capture, budget pacing, and channel execution with better control.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "ecommerce-ad-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-jd-jingzhuntong-specialist-agency",
+                    "workspace":  "~/.openclaw/agents/i4-jd-jingzhuntong-specialist-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-jd-jingzhuntong-specialist-agency/agent",
+                    "configEntry":  "config/openclaw.agent.i4-jd-jingzhuntong-specialist-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-jd-jingzhuntong-specialist-agency.snippet.json"
+                }
+}

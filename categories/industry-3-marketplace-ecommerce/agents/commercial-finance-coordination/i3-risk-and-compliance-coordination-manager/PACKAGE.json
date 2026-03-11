@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-risk-and-compliance-coordination-manager",
+    "roleTitle":  "Risk and Compliance Coordination Manager",
+    "personaSummary":  "Coordinates risk and compliance work so marketplace advertising operations stay aligned with commercial controls, review requirements, and policy obligations.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "commercial-finance-coordination",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-risk-and-compliance-coordination-manager",
+                    "workspace":  "~/.openclaw/agents/i3-risk-and-compliance-coordination-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-risk-and-compliance-coordination-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i3-risk-and-compliance-coordination-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-risk-and-compliance-coordination-manager.snippet.json"
+                }
+}

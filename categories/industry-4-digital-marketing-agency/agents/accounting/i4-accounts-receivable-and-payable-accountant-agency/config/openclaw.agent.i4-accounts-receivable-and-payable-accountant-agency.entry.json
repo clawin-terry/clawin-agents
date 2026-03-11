@@ -1,0 +1,13 @@
+{
+    "id":  "i4-accounts-receivable-and-payable-accountant-agency",
+    "default":  false,
+    "name":  "Accounts Receivable and Payable Accountant",
+    "workspace":  "~/.openclaw/agents/i4-accounts-receivable-and-payable-accountant-agency/workspace",
+    "agentDir":  "~/.openclaw/agents/i4-accounts-receivable-and-payable-accountant-agency/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

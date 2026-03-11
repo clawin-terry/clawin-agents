@@ -1,0 +1,13 @@
+{
+    "id":  "i3-payment-conversion-improvement-manager",
+    "default":  false,
+    "name":  "Payment Conversion Improvement Manager",
+    "workspace":  "~/.openclaw/agents/i3-payment-conversion-improvement-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/i3-payment-conversion-improvement-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

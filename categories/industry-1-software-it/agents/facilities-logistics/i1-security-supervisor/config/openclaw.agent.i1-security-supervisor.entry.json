@@ -1,0 +1,13 @@
+{
+    "id":  "i1-security-supervisor",
+    "default":  false,
+    "name":  "Security Supervisor",
+    "workspace":  "~/.openclaw/agents/i1-security-supervisor/workspace",
+    "agentDir":  "~/.openclaw/agents/i1-security-supervisor/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

@@ -1,0 +1,13 @@
+{
+    "id":  "i3-evidence-review-specialist",
+    "default":  false,
+    "name":  "Evidence Review Specialist",
+    "workspace":  "~/.openclaw/agents/i3-evidence-review-specialist/workspace",
+    "agentDir":  "~/.openclaw/agents/i3-evidence-review-specialist/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

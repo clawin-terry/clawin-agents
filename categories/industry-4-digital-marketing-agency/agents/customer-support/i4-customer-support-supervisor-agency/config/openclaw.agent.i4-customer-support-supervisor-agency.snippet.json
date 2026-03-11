@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "i4-customer-support-supervisor-agency",
+                                    "default":  false,
+                                    "name":  "Customer Support Supervisor (Agency)",
+                                    "workspace":  "~/.openclaw/agents/i4-customer-support-supervisor-agency/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i4-customer-support-supervisor-agency/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

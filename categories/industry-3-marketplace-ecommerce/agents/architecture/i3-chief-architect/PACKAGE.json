@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-chief-architect",
+    "roleTitle":  "Chief Architect",
+    "personaSummary":  "Leads platform architecture direction so the marketplace technology stack evolves with clear technical principles, scalable design, and long-term execution discipline.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "architecture",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-chief-architect",
+                    "workspace":  "~/.openclaw/agents/i3-chief-architect/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-chief-architect/agent",
+                    "configEntry":  "config/openclaw.agent.i3-chief-architect.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-chief-architect.snippet.json"
+                }
+}

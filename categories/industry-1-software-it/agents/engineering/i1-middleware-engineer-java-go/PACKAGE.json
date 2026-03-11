@@ -9,7 +9,9 @@
     "roleFamilyKey":  "engineering",
     "recommendedModel":  "openai-codex/gpt-5.4",
     "bundledSkills":  [
-                          "coding-agent"
+                          "coding-agent",
+                          "clawin-backend-service-engineering",
+                          "clawin-middleware-distributed-systems"
                       ],
     "install":  {
                     "targetRoot":  "~/.openclaw/agents/i1-middleware-engineer-java-go",

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-cross-border-timeliness-operations-manager",
+    "roleTitle":  "Cross-Border Timeliness Operations Manager",
+    "personaSummary":  "Improves cross-border timeliness so international fulfillment flows meet delivery expectations more reliably.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "cross-border-fulfillment-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-cross-border-timeliness-operations-manager",
+                    "workspace":  "~/.openclaw/agents/i3-cross-border-timeliness-operations-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-cross-border-timeliness-operations-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i3-cross-border-timeliness-operations-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-cross-border-timeliness-operations-manager.snippet.json"
+                }
+}

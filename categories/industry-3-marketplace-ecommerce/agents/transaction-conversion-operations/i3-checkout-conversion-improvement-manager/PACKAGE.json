@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-checkout-conversion-improvement-manager",
+    "roleTitle":  "Checkout Conversion Improvement Manager",
+    "personaSummary":  "Improves checkout conversion so more buyers complete orders through smoother purchase flows and clearer operational interventions.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "transaction-conversion-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-checkout-conversion-improvement-manager",
+                    "workspace":  "~/.openclaw/agents/i3-checkout-conversion-improvement-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-checkout-conversion-improvement-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i3-checkout-conversion-improvement-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-checkout-conversion-improvement-manager.snippet.json"
+                }
+}

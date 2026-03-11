@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-cro-specialist-agency",
+    "roleTitle":  "Conversion Rate Optimization Specialist (Agency)",
+    "personaSummary":  "Improves conversion rates so agency funnels, traffic flows, and campaign journeys generate stronger response from available demand.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "growth-strategy",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-cro-specialist-agency",
+                    "workspace":  "~/.openclaw/agents/i4-cro-specialist-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-cro-specialist-agency/agent",
+                    "configEntry":  "config/openclaw.agent.i4-cro-specialist-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-cro-specialist-agency.snippet.json"
+                }
+}

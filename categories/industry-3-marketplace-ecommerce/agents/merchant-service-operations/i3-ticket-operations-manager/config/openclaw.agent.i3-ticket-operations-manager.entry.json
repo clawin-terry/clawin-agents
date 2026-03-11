@@ -1,0 +1,13 @@
+{
+    "id":  "i3-ticket-operations-manager",
+    "default":  false,
+    "name":  "Ticket Operations Manager",
+    "workspace":  "~/.openclaw/agents/i3-ticket-operations-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/i3-ticket-operations-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

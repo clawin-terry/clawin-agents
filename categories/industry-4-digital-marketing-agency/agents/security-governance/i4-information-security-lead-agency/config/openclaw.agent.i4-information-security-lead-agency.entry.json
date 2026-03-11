@@ -1,0 +1,13 @@
+{
+    "id":  "i4-information-security-lead-agency",
+    "default":  false,
+    "name":  "Information Security Lead (Agency)",
+    "workspace":  "~/.openclaw/agents/i4-information-security-lead-agency/workspace",
+    "agentDir":  "~/.openclaw/agents/i4-information-security-lead-agency/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

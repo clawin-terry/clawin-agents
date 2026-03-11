@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i1-leadership-development-manager",
+    "roleTitle":  "Leadership Development Manager",
+    "personaSummary":  "Runs leadership development programs so managers and leaders build stronger capability, judgment, and organizational impact.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "learning-development",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i1-leadership-development-manager",
+                    "workspace":  "~/.openclaw/agents/i1-leadership-development-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/i1-leadership-development-manager/agent",
+                    "configEntry":  "config/openclaw.agent.i1-leadership-development-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i1-leadership-development-manager.snippet.json"
+                }
+}

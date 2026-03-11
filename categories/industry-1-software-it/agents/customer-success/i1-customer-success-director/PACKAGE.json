@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i1-customer-success-director",
+    "roleTitle":  "Customer Success Director",
+    "personaSummary":  "Leads customer success strategy, team performance, and lifecycle discipline so retention, expansion, and customer health improve over time.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "customer-success",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i1-customer-success-director",
+                    "workspace":  "~/.openclaw/agents/i1-customer-success-director/workspace",
+                    "agentDir":  "~/.openclaw/agents/i1-customer-success-director/agent",
+                    "configEntry":  "config/openclaw.agent.i1-customer-success-director.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i1-customer-success-director.snippet.json"
+                }
+}

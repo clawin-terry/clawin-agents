@@ -1,0 +1,13 @@
+{
+    "id":  "i1-pmo-lead",
+    "default":  false,
+    "name":  "PMO Lead",
+    "workspace":  "~/.openclaw/agents/i1-pmo-lead/workspace",
+    "agentDir":  "~/.openclaw/agents/i1-pmo-lead/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

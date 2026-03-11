@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-growth-solutions-consultant-agency",
+    "roleTitle":  "Growth Solutions Consultant (Agency)",
+    "personaSummary":  "Advises on growth solutions so agency clients receive practical plans for acquisition, funnel improvement, and campaign scaling.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "presales-solutions",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-growth-solutions-consultant-agency",
+                    "workspace":  "~/.openclaw/agents/i4-growth-solutions-consultant-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-growth-solutions-consultant-agency/agent",
+                    "configEntry":  "config/openclaw.agent.i4-growth-solutions-consultant-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-growth-solutions-consultant-agency.snippet.json"
+                }
+}

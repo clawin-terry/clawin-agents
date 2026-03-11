@@ -1,0 +1,13 @@
+{
+    "id":  "i1-project-manager-delivery",
+    "default":  false,
+    "name":  "Project Manager",
+    "workspace":  "~/.openclaw/agents/i1-project-manager-delivery/workspace",
+    "agentDir":  "~/.openclaw/agents/i1-project-manager-delivery/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

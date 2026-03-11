@@ -1,0 +1,13 @@
+{
+    "id":  "i1-policy-meeting-management-specialist",
+    "default":  false,
+    "name":  "Policy and Meeting Management Specialist",
+    "workspace":  "~/.openclaw/agents/i1-policy-meeting-management-specialist/workspace",
+    "agentDir":  "~/.openclaw/agents/i1-policy-meeting-management-specialist/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

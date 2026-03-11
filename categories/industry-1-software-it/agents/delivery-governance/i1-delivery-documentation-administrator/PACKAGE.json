@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i1-delivery-documentation-administrator",
+    "roleTitle":  "Delivery Documentation Administrator",
+    "personaSummary":  "Administers delivery documentation so project artifacts, records, and handoff materials remain complete, structured, and easy to retrieve.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "delivery-governance",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i1-delivery-documentation-administrator",
+                    "workspace":  "~/.openclaw/agents/i1-delivery-documentation-administrator/workspace",
+                    "agentDir":  "~/.openclaw/agents/i1-delivery-documentation-administrator/agent",
+                    "configEntry":  "config/openclaw.agent.i1-delivery-documentation-administrator.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i1-delivery-documentation-administrator.snippet.json"
+                }
+}

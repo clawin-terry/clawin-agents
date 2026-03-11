@@ -1,0 +1,13 @@
+{
+    "id":  "i1-solution-toolchain-administrator",
+    "default":  false,
+    "name":  "Solution Toolchain Administrator",
+    "workspace":  "~/.openclaw/agents/i1-solution-toolchain-administrator/workspace",
+    "agentDir":  "~/.openclaw/agents/i1-solution-toolchain-administrator/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

@@ -1,0 +1,13 @@
+{
+    "id":  "i4-professional-skills-certification-program-manager",
+    "default":  false,
+    "name":  "Professional Skills Certification Program Manager (Agency)",
+    "workspace":  "~/.openclaw/agents/i4-professional-skills-certification-program-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/i4-professional-skills-certification-program-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

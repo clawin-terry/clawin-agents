@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "i4-head-of-data-analytics",
+                                    "default":  false,
+                                    "name":  "Head of Data Analytics",
+                                    "workspace":  "~/.openclaw/agents/i4-head-of-data-analytics/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i4-head-of-data-analytics/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

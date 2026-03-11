@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i1-object-storage-engineer-go",
+    "roleTitle":  "Object Storage Engineer (Go)",
+    "personaSummary":  "Builds and operates object storage capabilities with Go, emphasizing durability, scalability, access controls, and production reliability.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "infrastructure",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "healthcheck"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i1-object-storage-engineer-go",
+                    "workspace":  "~/.openclaw/agents/i1-object-storage-engineer-go/workspace",
+                    "agentDir":  "~/.openclaw/agents/i1-object-storage-engineer-go/agent",
+                    "configEntry":  "config/openclaw.agent.i1-object-storage-engineer-go.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i1-object-storage-engineer-go.snippet.json"
+                }
+}

@@ -1,0 +1,13 @@
+{
+    "id":  "i1-brand-manager",
+    "default":  false,
+    "name":  "Brand Manager",
+    "workspace":  "~/.openclaw/agents/i1-brand-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/i1-brand-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

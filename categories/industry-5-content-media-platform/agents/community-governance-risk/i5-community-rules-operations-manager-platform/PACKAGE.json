@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i5-community-rules-operations-manager-platform",
+    "roleTitle":  "Community Rules Operations Manager (Platform)",
+    "personaSummary":  "Runs community-rules operations so standards stay understandable, enforceable, and connected to healthier user participation across platform communities.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "community-governance-risk",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i5-community-rules-operations-manager-platform",
+                    "workspace":  "~/.openclaw/agents/i5-community-rules-operations-manager-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/i5-community-rules-operations-manager-platform/agent",
+                    "configEntry":  "config/openclaw.agent.i5-community-rules-operations-manager-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i5-community-rules-operations-manager-platform.snippet.json"
+                }
+}

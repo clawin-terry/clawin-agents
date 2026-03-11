@@ -1,0 +1,13 @@
+{
+    "id":  "i3-subsidy-optimization-strategy-engineer",
+    "default":  false,
+    "name":  "Subsidy Optimization Strategy Engineer",
+    "workspace":  "~/.openclaw/agents/i3-subsidy-optimization-strategy-engineer/workspace",
+    "agentDir":  "~/.openclaw/agents/i3-subsidy-optimization-strategy-engineer/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

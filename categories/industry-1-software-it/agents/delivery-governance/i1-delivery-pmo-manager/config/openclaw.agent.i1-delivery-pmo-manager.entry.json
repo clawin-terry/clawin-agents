@@ -1,0 +1,13 @@
+{
+    "id":  "i1-delivery-pmo-manager",
+    "default":  false,
+    "name":  "Delivery PMO Manager",
+    "workspace":  "~/.openclaw/agents/i1-delivery-pmo-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/i1-delivery-pmo-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

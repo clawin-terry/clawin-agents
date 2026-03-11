@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "i4-account-assistant-agency",
+                                    "default":  false,
+                                    "name":  "Account Assistant (Agency)",
+                                    "workspace":  "~/.openclaw/agents/i4-account-assistant-agency/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i4-account-assistant-agency/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-site-and-template-engineer-javascript",
+    "roleTitle":  "Site and Template Engineer (JavaScript)",
+    "personaSummary":  "Builds reusable site templates and implementation patterns so campaign microsites and landing-page delivery stay fast, consistent, and easier to maintain.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "web-platform-engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-site-and-template-engineer-javascript",
+                    "workspace":  "~/.openclaw/agents/i4-site-and-template-engineer-javascript/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-site-and-template-engineer-javascript/agent",
+                    "configEntry":  "config/openclaw.agent.i4-site-and-template-engineer-javascript.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-site-and-template-engineer-javascript.snippet.json"
+                }
+}

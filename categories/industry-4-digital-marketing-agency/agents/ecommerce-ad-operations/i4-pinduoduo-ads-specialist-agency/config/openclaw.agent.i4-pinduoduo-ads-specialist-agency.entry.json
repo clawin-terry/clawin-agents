@@ -1,0 +1,13 @@
+{
+    "id":  "i4-pinduoduo-ads-specialist-agency",
+    "default":  false,
+    "name":  "Pinduoduo Ads Specialist (Agency)",
+    "workspace":  "~/.openclaw/agents/i4-pinduoduo-ads-specialist-agency/workspace",
+    "agentDir":  "~/.openclaw/agents/i4-pinduoduo-ads-specialist-agency/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

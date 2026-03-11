@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-messaging-and-engagement-service-engineer-java-go",
+    "roleTitle":  "Messaging and Engagement Service Engineer (Java/Go)",
+    "personaSummary":  "Builds messaging and engagement services so campaign-triggered outreach, service reliability, and delivery coordination remain robust at scale.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "marketing-automation-engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-messaging-and-engagement-service-engineer-java-go",
+                    "workspace":  "~/.openclaw/agents/i4-messaging-and-engagement-service-engineer-java-go/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-messaging-and-engagement-service-engineer-java-go/agent",
+                    "configEntry":  "config/openclaw.agent.i4-messaging-and-engagement-service-engineer-java-go.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-messaging-and-engagement-service-engineer-java-go.snippet.json"
+                }
+}

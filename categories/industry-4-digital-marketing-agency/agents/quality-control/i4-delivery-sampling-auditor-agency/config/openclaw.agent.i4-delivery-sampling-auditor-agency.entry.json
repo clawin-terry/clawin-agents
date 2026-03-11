@@ -1,0 +1,13 @@
+{
+    "id":  "i4-delivery-sampling-auditor-agency",
+    "default":  false,
+    "name":  "Delivery Sampling Auditor (Agency)",
+    "workspace":  "~/.openclaw/agents/i4-delivery-sampling-auditor-agency/workspace",
+    "agentDir":  "~/.openclaw/agents/i4-delivery-sampling-auditor-agency/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

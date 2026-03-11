@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-livestream-retrospective-and-script-optimization-specialist-agency",
+    "roleTitle":  "Livestream Retrospective and Script Optimization Specialist (Agency)",
+    "personaSummary":  "Runs livestream retrospectives and script optimization so agency teams can improve show structure, offer delivery, and repeatable performance learning.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "livestream-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-livestream-retrospective-and-script-optimization-specialist-agency",
+                    "workspace":  "~/.openclaw/agents/i4-livestream-retrospective-and-script-optimization-specialist-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-livestream-retrospective-and-script-optimization-specialist-agency/agent",
+                    "configEntry":  "config/openclaw.agent.i4-livestream-retrospective-and-script-optimization-specialist-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-livestream-retrospective-and-script-optimization-specialist-agency.snippet.json"
+                }
+}

@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "i4-new-media-operations-specialist-agency",
+                                    "default":  false,
+                                    "name":  "New Media Operations Specialist (Agency)",
+                                    "workspace":  "~/.openclaw/agents/i4-new-media-operations-specialist-agency/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i4-new-media-operations-specialist-agency/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i1-database-support-engineer-sql",
+    "roleTitle":  "Database Support Engineer (SQL)",
+    "personaSummary":  "Supports database-related incidents with strong SQL discipline, improving issue triage, data correctness checks, and recovery coordination.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "technical-support",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i1-database-support-engineer-sql",
+                    "workspace":  "~/.openclaw/agents/i1-database-support-engineer-sql/workspace",
+                    "agentDir":  "~/.openclaw/agents/i1-database-support-engineer-sql/agent",
+                    "configEntry":  "config/openclaw.agent.i1-database-support-engineer-sql.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i1-database-support-engineer-sql.snippet.json"
+                }
+}

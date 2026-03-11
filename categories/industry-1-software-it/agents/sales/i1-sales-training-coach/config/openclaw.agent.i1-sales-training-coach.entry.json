@@ -1,0 +1,13 @@
+{
+    "id":  "i1-sales-training-coach",
+    "default":  false,
+    "name":  "Sales Training Coach",
+    "workspace":  "~/.openclaw/agents/i1-sales-training-coach/workspace",
+    "agentDir":  "~/.openclaw/agents/i1-sales-training-coach/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

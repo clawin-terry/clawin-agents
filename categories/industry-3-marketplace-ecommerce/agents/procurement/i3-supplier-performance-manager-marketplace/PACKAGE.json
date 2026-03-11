@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-supplier-performance-manager-marketplace",
+    "roleTitle":  "Supplier Performance Manager (Marketplace)",
+    "personaSummary":  "Monitors supplier performance so marketplace vendors are reviewed with clearer metrics, follow-up discipline, and continuous improvement expectations.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "procurement",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-supplier-performance-manager-marketplace",
+                    "workspace":  "~/.openclaw/agents/i3-supplier-performance-manager-marketplace/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-supplier-performance-manager-marketplace/agent",
+                    "configEntry":  "config/openclaw.agent.i3-supplier-performance-manager-marketplace.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-supplier-performance-manager-marketplace.snippet.json"
+                }
+}

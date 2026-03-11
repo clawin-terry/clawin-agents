@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i3-performance-test-engineer",
+    "roleTitle":  "Performance Test Engineer",
+    "personaSummary":  "Plans and runs performance testing so marketplace systems can handle peak traffic, latency targets, and capacity risk with stronger confidence.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "quality-engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i3-performance-test-engineer",
+                    "workspace":  "~/.openclaw/agents/i3-performance-test-engineer/workspace",
+                    "agentDir":  "~/.openclaw/agents/i3-performance-test-engineer/agent",
+                    "configEntry":  "config/openclaw.agent.i3-performance-test-engineer.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i3-performance-test-engineer.snippet.json"
+                }
+}

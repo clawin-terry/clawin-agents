@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "i4-campaign-qc-specialist-agency",
+    "roleTitle":  "Campaign Review Quality Specialist, Links Assets Compliance and Naming (Agency)",
+    "personaSummary":  "Reviews campaign setups for quality so links, assets, compliance details, and naming standards are checked before launch or handoff.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "quality-control",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/i4-campaign-qc-specialist-agency",
+                    "workspace":  "~/.openclaw/agents/i4-campaign-qc-specialist-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/i4-campaign-qc-specialist-agency/agent",
+                    "configEntry":  "config/openclaw.agent.i4-campaign-qc-specialist-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.i4-campaign-qc-specialist-agency.snippet.json"
+                }
+}

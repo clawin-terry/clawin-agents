@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "i4-sdk-engineer-java-ios",
+                                    "default":  false,
+                                    "name":  "SDK Engineer (Java, Objective-C, and Swift)",
+                                    "workspace":  "~/.openclaw/agents/i4-sdk-engineer-java-ios/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i4-sdk-engineer-java-ios/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}
