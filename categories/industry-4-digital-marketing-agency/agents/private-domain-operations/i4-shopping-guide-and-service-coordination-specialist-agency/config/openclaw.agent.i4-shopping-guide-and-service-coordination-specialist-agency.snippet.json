@@ -8,7 +8,7 @@
                                     "workspace":  "~/.openclaw/agents/i4-shopping-guide-and-service-coordination-specialist-agency/workspace",
                                     "agentDir":  "~/.openclaw/agents/i4-shopping-guide-and-service-coordination-specialist-agency/agent",
                                     "model":  {
-                                                  "primary":  "openai-codex/gpt-5.4"
+                                                  "primary":  "mycodex/gpt-5.4"
                                               },
                                     "subagents":  {
                                                       "thinking":  "low"

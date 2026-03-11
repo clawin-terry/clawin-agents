@@ -2,11 +2,11 @@
     "agents":  {
                    "list":  [
                                 {
-                                    "id":  "i4-audience-and-creative-performance-prediction-specialist-python",
+                                    "id":  "i5-copyright-partnership-business-development-manager-platform",
                                     "default":  false,
-                                    "name":  "Audience and Creative Performance Prediction Specialist (Python)",
-                                    "workspace":  "~/.openclaw/agents/i4-audience-and-creative-performance-prediction-specialist-python/workspace",
-                                    "agentDir":  "~/.openclaw/agents/i4-audience-and-creative-performance-prediction-specialist-python/agent",
+                                    "name":  "Copyright Partnership Business Development Manager (Platform)",
+                                    "workspace":  "~/.openclaw/agents/i5-copyright-partnership-business-development-manager-platform/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i5-copyright-partnership-business-development-manager-platform/agent",
                                     "model":  {
                                                   "primary":  "mycodex/gpt-5.4"
                                               },

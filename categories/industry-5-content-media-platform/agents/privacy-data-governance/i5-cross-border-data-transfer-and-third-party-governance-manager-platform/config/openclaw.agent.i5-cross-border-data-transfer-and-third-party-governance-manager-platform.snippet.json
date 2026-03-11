@@ -2,11 +2,11 @@
     "agents":  {
                    "list":  [
                                 {
-                                    "id":  "i4-audience-and-creative-performance-prediction-specialist-python",
+                                    "id":  "i5-cross-border-data-transfer-and-third-party-governance-manager-platform",
                                     "default":  false,
-                                    "name":  "Audience and Creative Performance Prediction Specialist (Python)",
-                                    "workspace":  "~/.openclaw/agents/i4-audience-and-creative-performance-prediction-specialist-python/workspace",
-                                    "agentDir":  "~/.openclaw/agents/i4-audience-and-creative-performance-prediction-specialist-python/agent",
+                                    "name":  "Cross-Border Data Transfer and Third-Party Governance Manager (Platform)",
+                                    "workspace":  "~/.openclaw/agents/i5-cross-border-data-transfer-and-third-party-governance-manager-platform/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i5-cross-border-data-transfer-and-third-party-governance-manager-platform/agent",
                                     "model":  {
                                                   "primary":  "mycodex/gpt-5.4"
                                               },

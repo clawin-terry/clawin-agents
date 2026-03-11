@@ -5,7 +5,7 @@
     "workspace":  "~/.openclaw/agents/i4-martech-product-manager-cdp-ma-bi-attribution-asset-management/workspace",
     "agentDir":  "~/.openclaw/agents/i4-martech-product-manager-cdp-ma-bi-attribution-asset-management/agent",
     "model":  {
-                  "primary":  "openai-codex/gpt-5.4"
+                  "primary":  "mycodex/gpt-5.4"
               },
     "subagents":  {
                       "thinking":  "low"

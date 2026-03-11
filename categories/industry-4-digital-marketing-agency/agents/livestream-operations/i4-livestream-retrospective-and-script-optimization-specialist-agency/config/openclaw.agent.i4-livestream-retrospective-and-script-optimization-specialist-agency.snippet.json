@@ -2,11 +2,11 @@
     "agents":  {
                    "list":  [
                                 {
-                                    "id":  "i4-audience-and-creative-performance-prediction-specialist-python",
+                                    "id":  "i4-livestream-retrospective-and-script-optimization-specialist-agency",
                                     "default":  false,
-                                    "name":  "Audience and Creative Performance Prediction Specialist (Python)",
-                                    "workspace":  "~/.openclaw/agents/i4-audience-and-creative-performance-prediction-specialist-python/workspace",
-                                    "agentDir":  "~/.openclaw/agents/i4-audience-and-creative-performance-prediction-specialist-python/agent",
+                                    "name":  "Livestream Retrospective and Script Optimization Specialist (Agency)",
+                                    "workspace":  "~/.openclaw/agents/i4-livestream-retrospective-and-script-optimization-specialist-agency/workspace",
+                                    "agentDir":  "~/.openclaw/agents/i4-livestream-retrospective-and-script-optimization-specialist-agency/agent",
                                     "model":  {
                                                   "primary":  "mycodex/gpt-5.4"
                                               },
