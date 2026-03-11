@@ -32,12 +32,21 @@ It does not contain:
 
 ## Current public release
 
-Current published slice:
-- **1 industry**: `industry-1-software-it`
-- **2 role families**:
-  - `engineering` (**19** agents)
-  - `platform-engineering` (**8** agents)
-- **27 total install-ready agent packages**
+Current published catalog snapshot:
+- Industries (`4`):
+  - `industry-1-software-it`
+  - `industry-3-marketplace-ecommerce`
+  - `industry-4-digital-marketing-agency`
+  - `industry-5-content-media-platform`
+- Total install-ready agent packages: **1349**
+- Breakdown by industry:
+  - `industry-1-software-it` — **394**
+  - `industry-3-marketplace-ecommerce` — **355**
+  - `industry-4-digital-marketing-agency` — **285**
+  - `industry-5-content-media-platform` — **315**
+
+For the full breakdown by role family and per-agent links, see:
+- [CATALOG.md](./CATALOG.md)
 
 ## Featured starting points
 
