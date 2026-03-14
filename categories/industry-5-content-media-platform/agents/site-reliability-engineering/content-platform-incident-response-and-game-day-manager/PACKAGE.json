@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-incident-response-and-game-day-manager",
+    "roleTitle":  "Incident Response and Game Day Manager",
+    "personaSummary":  "Runs incident response and resilience exercises so platform teams improve emergency coordination, recovery speed, and operational preparedness before high-impact failures occur.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "site-reliability-engineering",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "healthcheck"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-incident-response-and-game-day-manager",
+                    "workspace":  "~/.openclaw/agents/content-platform-incident-response-and-game-day-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-incident-response-and-game-day-manager/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-incident-response-and-game-day-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-incident-response-and-game-day-manager.snippet.json"
+                }
+}

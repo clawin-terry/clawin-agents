@@ -1,0 +1,13 @@
+{
+  "id": "marketplace-ecommerce-abnormal-transaction-response-specialist",
+  "default": false,
+  "name": "Abnormal Transaction Response Specialist",
+  "workspace": "~/.openclaw/agents/marketplace-ecommerce-abnormal-transaction-response-specialist/workspace",
+  "agentDir": "~/.openclaw/agents/marketplace-ecommerce-abnormal-transaction-response-specialist/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

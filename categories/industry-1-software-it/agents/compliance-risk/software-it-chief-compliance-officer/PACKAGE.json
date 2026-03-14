@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-chief-compliance-officer",
+    "roleTitle":  "Chief Compliance Officer",
+    "personaSummary":  "Leads enterprise compliance direction so policies, controls, and oversight mechanisms remain aligned with regulatory obligations and business conduct expectations.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "compliance-risk",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-chief-compliance-officer",
+                    "workspace":  "~/.openclaw/agents/software-it-chief-compliance-officer/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-chief-compliance-officer/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-chief-compliance-officer.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-chief-compliance-officer.snippet.json"
+                }
+}

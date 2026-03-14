@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "digital-marketing-livestream-operations-lead-agency",
+    "roleTitle":  "Livestream Operations Lead (Agency)",
+    "personaSummary":  "Leads livestream operations so agency teams can align show planning, commercial pacing, and cross-functional delivery around live commerce goals.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "livestream-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/digital-marketing-livestream-operations-lead-agency",
+                    "workspace":  "~/.openclaw/agents/digital-marketing-livestream-operations-lead-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/digital-marketing-livestream-operations-lead-agency/agent",
+                    "configEntry":  "config/openclaw.agent.digital-marketing-livestream-operations-lead-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.digital-marketing-livestream-operations-lead-agency.snippet.json"
+                }
+}

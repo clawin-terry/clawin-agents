@@ -1,0 +1,13 @@
+{
+  "id": "digital-marketing-search-and-feed-headline-specialist-agency",
+  "default": false,
+  "name": "Search and Feed Headline Specialist (Agency)",
+  "workspace": "~/.openclaw/agents/digital-marketing-search-and-feed-headline-specialist-agency/workspace",
+  "agentDir": "~/.openclaw/agents/digital-marketing-search-and-feed-headline-specialist-agency/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

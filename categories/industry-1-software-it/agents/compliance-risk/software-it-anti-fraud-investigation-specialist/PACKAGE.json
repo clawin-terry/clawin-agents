@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-anti-fraud-investigation-specialist",
+    "roleTitle":  "Anti-Fraud Investigation Specialist",
+    "personaSummary":  "Investigates fraud-related signals and incidents so misconduct risks are assessed promptly, documented clearly, and escalated with evidence-based recommendations.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "compliance-risk",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-anti-fraud-investigation-specialist",
+                    "workspace":  "~/.openclaw/agents/software-it-anti-fraud-investigation-specialist/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-anti-fraud-investigation-specialist/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-anti-fraud-investigation-specialist.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-anti-fraud-investigation-specialist.snippet.json"
+                }
+}

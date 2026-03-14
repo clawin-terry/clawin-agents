@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-user-atmosphere-operations-manager",
+    "roleTitle":  "User Atmosphere Operations Manager",
+    "personaSummary":  "Runs user atmosphere operations so campaign moments feel timely, high-energy, and well coordinated across marketplace user touchpoints.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "campaign-program-management",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-user-atmosphere-operations-manager",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-user-atmosphere-operations-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-user-atmosphere-operations-manager/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-user-atmosphere-operations-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-user-atmosphere-operations-manager.snippet.json"
+                }
+}

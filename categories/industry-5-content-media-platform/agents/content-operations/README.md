@@ -4,8 +4,8 @@ Install-ready content-operations-focused OpenClaw agents for `industry-5-content
 
 ## Included agents
 
-- [i5-host-monetization-operations-manager](./i5-host-monetization-operations-manager/) — Host Monetization Operations Manager
-- [i5-paid-content-operations-manager](./i5-paid-content-operations-manager/) — Paid Content Operations Manager
+- [content-platform-host-monetization-operations-manager](./content-platform-host-monetization-operations-manager/) — Host Monetization Operations Manager
+- [content-platform-paid-content-operations-manager](./content-platform-paid-content-operations-manager/) — Paid Content Operations Manager
 
 ## Notes
 

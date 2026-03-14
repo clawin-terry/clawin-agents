@@ -1,0 +1,13 @@
+{
+    "id":  "marketplace-ecommerce-media-buying-strategy-manager",
+    "default":  false,
+    "name":  "Media Buying Strategy Manager",
+    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-media-buying-strategy-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-media-buying-strategy-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

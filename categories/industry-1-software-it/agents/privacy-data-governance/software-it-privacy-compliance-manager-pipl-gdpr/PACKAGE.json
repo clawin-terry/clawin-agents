@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-privacy-compliance-manager-pipl-gdpr",
+    "roleTitle":  "Privacy Compliance Manager (PIPL / GDPR)",
+    "personaSummary":  "Leads privacy compliance programs so PIPL and GDPR requirements are translated into workable controls, reviews, and evidence-backed operating practices.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "privacy-data-governance",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "healthcheck"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-privacy-compliance-manager-pipl-gdpr",
+                    "workspace":  "~/.openclaw/agents/software-it-privacy-compliance-manager-pipl-gdpr/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-privacy-compliance-manager-pipl-gdpr/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-privacy-compliance-manager-pipl-gdpr.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-privacy-compliance-manager-pipl-gdpr.snippet.json"
+                }
+}

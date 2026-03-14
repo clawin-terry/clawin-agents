@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "content-platform-special-feature-page-operations-manager-platform",
+        "default": false,
+        "name": "Special Feature Page Operations Manager (Platform)",
+        "workspace": "~/.openclaw/agents/content-platform-special-feature-page-operations-manager-platform/workspace",
+        "agentDir": "~/.openclaw/agents/content-platform-special-feature-page-operations-manager-platform/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

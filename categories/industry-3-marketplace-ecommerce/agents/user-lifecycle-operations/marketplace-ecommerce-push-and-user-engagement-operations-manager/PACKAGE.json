@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-push-and-user-engagement-operations-manager",
+    "roleTitle":  "Push and User Engagement Operations Manager",
+    "personaSummary":  "Operates push and user engagement programs so marketplace outreach reaches the right audience with better timing, relevance, and action rates.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "user-lifecycle-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-push-and-user-engagement-operations-manager",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-push-and-user-engagement-operations-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-push-and-user-engagement-operations-manager/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-push-and-user-engagement-operations-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-push-and-user-engagement-operations-manager.snippet.json"
+                }
+}

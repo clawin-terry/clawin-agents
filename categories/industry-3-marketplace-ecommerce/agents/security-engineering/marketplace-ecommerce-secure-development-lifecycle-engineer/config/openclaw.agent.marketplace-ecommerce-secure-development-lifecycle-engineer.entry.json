@@ -1,0 +1,13 @@
+{
+  "id": "marketplace-ecommerce-secure-development-lifecycle-engineer",
+  "default": false,
+  "name": "Secure Development Lifecycle Engineer",
+  "workspace": "~/.openclaw/agents/marketplace-ecommerce-secure-development-lifecycle-engineer/workspace",
+  "agentDir": "~/.openclaw/agents/marketplace-ecommerce-secure-development-lifecycle-engineer/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

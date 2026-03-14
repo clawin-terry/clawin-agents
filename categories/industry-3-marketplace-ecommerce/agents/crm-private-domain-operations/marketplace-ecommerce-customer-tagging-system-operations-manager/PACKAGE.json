@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-customer-tagging-system-operations-manager",
+    "roleTitle":  "Customer Tagging System Operations Manager",
+    "personaSummary":  "Runs customer tagging system operations so marketplace user labels stay accurate, useful, and ready for segmentation and personalization workflows.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "crm-private-domain-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-customer-tagging-system-operations-manager",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-customer-tagging-system-operations-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-customer-tagging-system-operations-manager/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-customer-tagging-system-operations-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-customer-tagging-system-operations-manager.snippet.json"
+                }
+}

@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-chief-architect",
+    "default":  false,
+    "name":  "Chief Architect",
+    "workspace":  "~/.openclaw/agents/software-it-chief-architect/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-chief-architect/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

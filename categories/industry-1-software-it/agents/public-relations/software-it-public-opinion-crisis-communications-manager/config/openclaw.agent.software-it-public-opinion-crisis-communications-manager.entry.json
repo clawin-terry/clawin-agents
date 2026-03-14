@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-public-opinion-crisis-communications-manager",
+    "default":  false,
+    "name":  "Public Opinion and Crisis Communications Manager",
+    "workspace":  "~/.openclaw/agents/software-it-public-opinion-crisis-communications-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-public-opinion-crisis-communications-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

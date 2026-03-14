@@ -4,10 +4,10 @@ Install-ready live-commerce-operations-focused OpenClaw agents for `industry-3-m
 
 ## Included agents
 
-- [i3-live-host-operations-manager](./i3-live-host-operations-manager/) — Live Host Operations Manager
-- [i3-live-merchandise-assortment-manager](./i3-live-merchandise-assortment-manager/) — Live Merchandise Assortment Manager
-- [i3-live-room-operations-manager](./i3-live-room-operations-manager/) — Live Room Operations Manager
-- [i3-live-scheduling-operations-manager](./i3-live-scheduling-operations-manager/) — Live Scheduling Operations Manager
+- [marketplace-ecommerce-live-host-operations-manager](./marketplace-ecommerce-live-host-operations-manager/) — Live Host Operations Manager
+- [marketplace-ecommerce-live-merchandise-assortment-manager](./marketplace-ecommerce-live-merchandise-assortment-manager/) — Live Merchandise Assortment Manager
+- [marketplace-ecommerce-live-room-operations-manager](./marketplace-ecommerce-live-room-operations-manager/) — Live Room Operations Manager
+- [marketplace-ecommerce-live-scheduling-operations-manager](./marketplace-ecommerce-live-scheduling-operations-manager/) — Live Scheduling Operations Manager
 
 ## Notes
 

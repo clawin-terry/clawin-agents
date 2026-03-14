@@ -1,0 +1,13 @@
+{
+  "id": "marketplace-ecommerce-penalty-follow-up-manager",
+  "default": false,
+  "name": "Penalty Follow-Up Manager",
+  "workspace": "~/.openclaw/agents/marketplace-ecommerce-penalty-follow-up-manager/workspace",
+  "agentDir": "~/.openclaw/agents/marketplace-ecommerce-penalty-follow-up-manager/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "digital-marketing-customer-support-supervisor-agency",
+        "default": false,
+        "name": "Customer Support Supervisor (Agency)",
+        "workspace": "~/.openclaw/agents/digital-marketing-customer-support-supervisor-agency/workspace",
+        "agentDir": "~/.openclaw/agents/digital-marketing-customer-support-supervisor-agency/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

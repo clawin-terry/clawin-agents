@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-product-marketing-director",
+    "roleTitle":  "Product Marketing Director",
+    "personaSummary":  "Leads product marketing strategy across positioning, go-to-market alignment, and commercial enablement for products and solutions.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "product-marketing",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-product-marketing-director",
+                    "workspace":  "~/.openclaw/agents/software-it-product-marketing-director/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-product-marketing-director/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-product-marketing-director.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-product-marketing-director.snippet.json"
+                }
+}

@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "marketplace-ecommerce-account-access-support-specialist",
+        "default": false,
+        "name": "Account and Access Support Specialist (Marketplace)",
+        "workspace": "~/.openclaw/agents/marketplace-ecommerce-account-access-support-specialist/workspace",
+        "agentDir": "~/.openclaw/agents/marketplace-ecommerce-account-access-support-specialist/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

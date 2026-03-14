@@ -1,0 +1,13 @@
+{
+  "id": "digital-marketing-community-operations-specialist-agency",
+  "default": false,
+  "name": "Community Operations Specialist (Agency)",
+  "workspace": "~/.openclaw/agents/digital-marketing-community-operations-specialist-agency/workspace",
+  "agentDir": "~/.openclaw/agents/digital-marketing-community-operations-specialist-agency/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

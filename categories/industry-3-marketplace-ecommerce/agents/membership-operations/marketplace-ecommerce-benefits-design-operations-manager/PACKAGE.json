@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-benefits-design-operations-manager",
+    "roleTitle":  "Benefits Design Operations Manager",
+    "personaSummary":  "Designs and operates membership benefits so marketplace loyalty programs stay compelling, usable, and aligned with commercial goals.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "membership-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-benefits-design-operations-manager",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-benefits-design-operations-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-benefits-design-operations-manager/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-benefits-design-operations-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-benefits-design-operations-manager.snippet.json"
+                }
+}

@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "digital-marketing-website-and-lead-operations-manager-agency",
+        "default": false,
+        "name": "Website and Lead Operations Manager (Agency)",
+        "workspace": "~/.openclaw/agents/digital-marketing-website-and-lead-operations-manager-agency/workspace",
+        "agentDir": "~/.openclaw/agents/digital-marketing-website-and-lead-operations-manager-agency/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-device-fingerprinting-and-identity-risk-engineer",
+    "roleTitle":  "Device Fingerprinting and Identity Risk Engineer",
+    "personaSummary":  "Builds device fingerprinting capabilities so marketplace risk systems can detect suspicious identities, linked abuse patterns, and repeat evasion attempts more effectively.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "security-engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "healthcheck"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-device-fingerprinting-and-identity-risk-engineer",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-device-fingerprinting-and-identity-risk-engineer/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-device-fingerprinting-and-identity-risk-engineer/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-device-fingerprinting-and-identity-risk-engineer.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-device-fingerprinting-and-identity-risk-engineer.snippet.json"
+                }
+}

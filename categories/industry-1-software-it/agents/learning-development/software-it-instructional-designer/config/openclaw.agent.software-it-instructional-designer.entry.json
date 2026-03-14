@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-instructional-designer",
+    "default":  false,
+    "name":  "Instructional Designer",
+    "workspace":  "~/.openclaw/agents/software-it-instructional-designer/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-instructional-designer/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

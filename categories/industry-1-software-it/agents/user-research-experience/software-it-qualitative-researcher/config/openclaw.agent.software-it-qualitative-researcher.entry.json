@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-qualitative-researcher",
+    "default":  false,
+    "name":  "Qualitative Researcher",
+    "workspace":  "~/.openclaw/agents/software-it-qualitative-researcher/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-qualitative-researcher/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

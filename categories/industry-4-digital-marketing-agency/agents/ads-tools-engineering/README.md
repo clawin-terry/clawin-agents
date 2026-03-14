@@ -4,9 +4,9 @@ Install-ready ads-tools-engineering-focused OpenClaw agents for `industry-4-digi
 
 ## Included agents
 
-- [i4-ads-api-integration-engineer-python](./i4-ads-api-integration-engineer-python/) — Ads API Integration Engineer (Python)
-- [i4-ads-tools-backend-engineer-java-go](./i4-ads-tools-backend-engineer-java-go/) — Ads Tools Backend Engineer (Java/Go)
-- [i4-ads-tools-frontend-engineer-javascript-typescript](./i4-ads-tools-frontend-engineer-javascript-typescript/) — Ads Tools Frontend Engineer (JavaScript/TypeScript)
+- [digital-marketing-ads-api-integration-engineer-python](./digital-marketing-ads-api-integration-engineer-python/) — Ads API Integration Engineer (Python)
+- [digital-marketing-ads-tools-backend-engineer-java-go](./digital-marketing-ads-tools-backend-engineer-java-go/) — Ads Tools Backend Engineer (Java/Go)
+- [digital-marketing-ads-tools-frontend-engineer-javascript-typescript](./digital-marketing-ads-tools-frontend-engineer-javascript-typescript/) — Ads Tools Frontend Engineer (JavaScript/TypeScript)
 
 ## Notes
 

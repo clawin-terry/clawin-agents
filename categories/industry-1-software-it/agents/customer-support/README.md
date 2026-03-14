@@ -4,11 +4,11 @@ Install-ready customer-support-focused OpenClaw agents for `industry-1-software-
 
 ## Included agents
 
-- [i1-customer-follow-up-specialist](./i1-customer-follow-up-specialist/) — Customer Follow-Up Specialist
-- [i1-customer-support-specialist](./i1-customer-support-specialist/) — Customer Support Specialist
-- [i1-customer-support-supervisor](./i1-customer-support-supervisor/) — Customer Support Supervisor
-- [i1-support-shift-coordinator](./i1-support-shift-coordinator/) — Support Shift Coordinator
-- [i1-ticket-dispatch-specialist](./i1-ticket-dispatch-specialist/) — Ticket Dispatch Specialist
+- [software-it-customer-follow-up-specialist](./software-it-customer-follow-up-specialist/) — Customer Follow-Up Specialist
+- [software-it-customer-support-specialist](./software-it-customer-support-specialist/) — Customer Support Specialist
+- [software-it-customer-support-supervisor](./software-it-customer-support-supervisor/) — Customer Support Supervisor
+- [software-it-support-shift-coordinator](./software-it-support-shift-coordinator/) — Support Shift Coordinator
+- [software-it-ticket-dispatch-specialist](./software-it-ticket-dispatch-specialist/) — Ticket Dispatch Specialist
 
 ## Notes
 

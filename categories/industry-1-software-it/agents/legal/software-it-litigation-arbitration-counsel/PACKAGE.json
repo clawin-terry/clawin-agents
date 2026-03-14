@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-litigation-arbitration-counsel",
+    "roleTitle":  "Litigation and Arbitration Counsel",
+    "personaSummary":  "Handles dispute-related legal work so litigation and arbitration matters are prepared thoroughly, managed carefully, and resolved with stronger control.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "legal",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-litigation-arbitration-counsel",
+                    "workspace":  "~/.openclaw/agents/software-it-litigation-arbitration-counsel/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-litigation-arbitration-counsel/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-litigation-arbitration-counsel.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-litigation-arbitration-counsel.snippet.json"
+                }
+}

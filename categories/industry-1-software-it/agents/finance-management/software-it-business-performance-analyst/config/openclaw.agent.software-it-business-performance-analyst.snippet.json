@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "software-it-business-performance-analyst",
+                                    "default":  false,
+                                    "name":  "Business Performance Analyst (P&L / Unit Economics)",
+                                    "workspace":  "~/.openclaw/agents/software-it-business-performance-analyst/workspace",
+                                    "agentDir":  "~/.openclaw/agents/software-it-business-performance-analyst/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

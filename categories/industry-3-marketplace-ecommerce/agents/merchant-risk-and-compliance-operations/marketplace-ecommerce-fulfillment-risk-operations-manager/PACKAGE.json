@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-fulfillment-risk-operations-manager",
+    "roleTitle":  "Fulfillment Risk Operations Manager",
+    "personaSummary":  "Runs fulfillment risk operations so merchant delivery risk signals are monitored and acted on before service quality deteriorates.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "merchant-risk-and-compliance-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-fulfillment-risk-operations-manager",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-fulfillment-risk-operations-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-fulfillment-risk-operations-manager/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-fulfillment-risk-operations-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-fulfillment-risk-operations-manager.snippet.json"
+                }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-disputed-funds-resolution-specialist",
+    "roleTitle":  "Disputed Funds Resolution Specialist",
+    "personaSummary":  "Resolves disputed funds cases so financial exceptions are investigated quickly and outcomes are executed with strong control discipline.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "refund-dispute-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-disputed-funds-resolution-specialist",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-disputed-funds-resolution-specialist/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-disputed-funds-resolution-specialist/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-disputed-funds-resolution-specialist.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-disputed-funds-resolution-specialist.snippet.json"
+                }
+}

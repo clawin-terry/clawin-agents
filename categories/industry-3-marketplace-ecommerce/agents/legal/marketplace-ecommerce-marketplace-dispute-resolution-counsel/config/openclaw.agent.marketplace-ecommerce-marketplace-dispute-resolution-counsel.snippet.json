@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "marketplace-ecommerce-marketplace-dispute-resolution-counsel",
+                                    "default":  false,
+                                    "name":  "Marketplace Dispute Resolution Counsel",
+                                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-marketplace-dispute-resolution-counsel/workspace",
+                                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-marketplace-dispute-resolution-counsel/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

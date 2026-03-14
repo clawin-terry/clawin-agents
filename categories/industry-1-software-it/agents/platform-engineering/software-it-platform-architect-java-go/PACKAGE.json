@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-platform-architect-java-go",
+    "roleTitle":  "Platform Architect (Java/Go)",
+    "personaSummary":  "Designs platform architecture foundations, shared engineering capabilities, and scalable service patterns with Java and Go.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "platform-engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "healthcheck"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-platform-architect-java-go",
+                    "workspace":  "~/.openclaw/agents/software-it-platform-architect-java-go/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-platform-architect-java-go/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-platform-architect-java-go.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-platform-architect-java-go.snippet.json"
+                }
+}

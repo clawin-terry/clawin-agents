@@ -1,0 +1,13 @@
+{
+  "id": "content-platform-content-acquisition-coordination-manager-platform",
+  "default": false,
+  "name": "Content Acquisition Coordination Manager (Platform)",
+  "workspace": "~/.openclaw/agents/content-platform-content-acquisition-coordination-manager-platform/workspace",
+  "agentDir": "~/.openclaw/agents/content-platform-content-acquisition-coordination-manager-platform/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

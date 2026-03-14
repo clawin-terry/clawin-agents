@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-advertiser-customer-success-manager",
+    "roleTitle":  "Advertiser Customer Success Manager",
+    "personaSummary":  "Owns advertiser customer success so marketplace ad clients onboard smoothly, realize value, and expand through strong ongoing support.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "advertising-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-advertiser-customer-success-manager",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-advertiser-customer-success-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-advertiser-customer-success-manager/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-advertiser-customer-success-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-advertiser-customer-success-manager.snippet.json"
+                }
+}

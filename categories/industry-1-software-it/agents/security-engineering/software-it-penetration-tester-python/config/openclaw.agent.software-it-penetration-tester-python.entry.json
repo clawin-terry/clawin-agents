@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-penetration-tester-python",
+    "default":  false,
+    "name":  "Penetration Tester (Python)",
+    "workspace":  "~/.openclaw/agents/software-it-penetration-tester-python/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-penetration-tester-python/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

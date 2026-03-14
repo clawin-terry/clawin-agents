@@ -4,10 +4,10 @@ Install-ready live-event-campaign-operations-focused OpenClaw agents for `indust
 
 ## Included agents
 
-- [i3-live-campaign-retrospective-manager](./i3-live-campaign-retrospective-manager/) — Live Campaign Retrospective Manager
-- [i3-live-flagship-event-planning-manager](./i3-live-flagship-event-planning-manager/) — Live Flagship Event Planning Manager
-- [i3-live-slot-and-resource-operations-manager](./i3-live-slot-and-resource-operations-manager/) — Live Slot and Resource Operations Manager
-- [i3-live-subsidy-and-incentives-manager](./i3-live-subsidy-and-incentives-manager/) — Live Subsidy and Incentives Manager
+- [marketplace-ecommerce-live-campaign-retrospective-manager](./marketplace-ecommerce-live-campaign-retrospective-manager/) — Live Campaign Retrospective Manager
+- [marketplace-ecommerce-live-flagship-event-planning-manager](./marketplace-ecommerce-live-flagship-event-planning-manager/) — Live Flagship Event Planning Manager
+- [marketplace-ecommerce-live-slot-and-resource-operations-manager](./marketplace-ecommerce-live-slot-and-resource-operations-manager/) — Live Slot and Resource Operations Manager
+- [marketplace-ecommerce-live-subsidy-and-incentives-manager](./marketplace-ecommerce-live-subsidy-and-incentives-manager/) — Live Subsidy and Incentives Manager
 
 ## Notes
 

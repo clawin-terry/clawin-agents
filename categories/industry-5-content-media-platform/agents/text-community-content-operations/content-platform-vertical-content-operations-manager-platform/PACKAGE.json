@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-vertical-content-operations-manager-platform",
+    "roleTitle":  "Vertical Content Operations Manager (Platform)",
+    "personaSummary":  "Runs vertical content operations so category communities such as film, gaming, and sports receive tailored programming, supply attention, and operating rhythm.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "text-community-content-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-vertical-content-operations-manager-platform",
+                    "workspace":  "~/.openclaw/agents/content-platform-vertical-content-operations-manager-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-vertical-content-operations-manager-platform/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-vertical-content-operations-manager-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-vertical-content-operations-manager-platform.snippet.json"
+                }
+}

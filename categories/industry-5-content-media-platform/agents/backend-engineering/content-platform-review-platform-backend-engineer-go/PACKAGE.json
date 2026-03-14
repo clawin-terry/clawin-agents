@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-review-platform-backend-engineer-go",
+    "roleTitle":  "Review Platform Backend Engineer (Go)",
+    "personaSummary":  "Builds review-platform backend services in Go so moderation systems support higher throughput, clearer workflows, and more dependable operator tooling.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "backend-engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "clawin-backend-service-engineering"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-review-platform-backend-engineer-go",
+                    "workspace":  "~/.openclaw/agents/content-platform-review-platform-backend-engineer-go/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-review-platform-backend-engineer-go/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-review-platform-backend-engineer-go.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-review-platform-backend-engineer-go.snippet.json"
+                }
+}

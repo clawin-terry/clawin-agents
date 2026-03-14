@@ -4,10 +4,10 @@ Install-ready content-distribution-strategy-focused OpenClaw agents for `industr
 
 ## Included agents
 
-- [i3-cold-start-content-operations-manager](./i3-cold-start-content-operations-manager/) — Cold-Start Content Operations Manager
-- [i3-content-pool-operations-manager](./i3-content-pool-operations-manager/) — Content Pool Operations Manager
-- [i3-tag-and-topic-operations-manager](./i3-tag-and-topic-operations-manager/) — Tag and Topic Operations Manager
-- [i3-trending-topics-operations-manager](./i3-trending-topics-operations-manager/) — Trending Topics Operations Manager
+- [marketplace-ecommerce-cold-start-content-operations-manager](./marketplace-ecommerce-cold-start-content-operations-manager/) — Cold-Start Content Operations Manager
+- [marketplace-ecommerce-content-pool-operations-manager](./marketplace-ecommerce-content-pool-operations-manager/) — Content Pool Operations Manager
+- [marketplace-ecommerce-tag-and-topic-operations-manager](./marketplace-ecommerce-tag-and-topic-operations-manager/) — Tag and Topic Operations Manager
+- [marketplace-ecommerce-trending-topics-operations-manager](./marketplace-ecommerce-trending-topics-operations-manager/) — Trending Topics Operations Manager
 
 ## Notes
 

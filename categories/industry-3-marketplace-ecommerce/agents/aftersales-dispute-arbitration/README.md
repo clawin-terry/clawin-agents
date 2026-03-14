@@ -4,10 +4,10 @@ Install-ready aftersales-dispute-arbitration-focused OpenClaw agents for `indust
 
 ## Included agents
 
-- [i3-aftersales-policy-operations-manager](./i3-aftersales-policy-operations-manager/) — Aftersales Policy Operations Manager
-- [i3-dispute-arbitration-specialist](./i3-dispute-arbitration-specialist/) — Dispute Arbitration Specialist
-- [i3-evidence-review-specialist](./i3-evidence-review-specialist/) — Evidence Review Specialist
-- [i3-platform-intervention-operations-manager](./i3-platform-intervention-operations-manager/) — Platform Intervention Operations Manager
+- [marketplace-ecommerce-aftersales-policy-operations-manager](./marketplace-ecommerce-aftersales-policy-operations-manager/) — Aftersales Policy Operations Manager
+- [marketplace-ecommerce-dispute-arbitration-specialist](./marketplace-ecommerce-dispute-arbitration-specialist/) — Dispute Arbitration Specialist
+- [marketplace-ecommerce-evidence-review-specialist](./marketplace-ecommerce-evidence-review-specialist/) — Evidence Review Specialist
+- [marketplace-ecommerce-platform-intervention-operations-manager](./marketplace-ecommerce-platform-intervention-operations-manager/) — Platform Intervention Operations Manager
 
 ## Notes
 

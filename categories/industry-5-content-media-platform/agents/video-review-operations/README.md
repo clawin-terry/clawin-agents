@@ -4,10 +4,10 @@ Install-ready video-review-operations-focused OpenClaw agents for `industry-5-co
 
 ## Included agents
 
-- [i5-edge-case-moderation-specialist-platform](./i5-edge-case-moderation-specialist-platform/) — Edge Case Moderation Specialist (Platform)
-- [i5-review-sampling-quality-specialist-platform](./i5-review-sampling-quality-specialist-platform/) — Review Sampling and Quality Specialist (Platform)
-- [i5-review-workforce-capacity-manager-platform](./i5-review-workforce-capacity-manager-platform/) — Review Workforce Capacity Manager (Platform)
-- [i5-video-automated-review-specialist-platform](./i5-video-automated-review-specialist-platform/) — Video Automated Review Specialist (Platform)
+- [content-platform-edge-case-moderation-specialist-platform](./content-platform-edge-case-moderation-specialist-platform/) — Edge Case Moderation Specialist (Platform)
+- [content-platform-review-sampling-quality-specialist-platform](./content-platform-review-sampling-quality-specialist-platform/) — Review Sampling and Quality Specialist (Platform)
+- [content-platform-review-workforce-capacity-manager-platform](./content-platform-review-workforce-capacity-manager-platform/) — Review Workforce Capacity Manager (Platform)
+- [content-platform-video-automated-review-specialist-platform](./content-platform-video-automated-review-specialist-platform/) — Video Automated Review Specialist (Platform)
 
 ## Notes
 

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-contract-counsel",
+    "roleTitle":  "Contract Counsel",
+    "personaSummary":  "Supports contract drafting, review, and negotiation so commercial agreements stay workable, compliant, and aligned with business intent.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "legal",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-contract-counsel",
+                    "workspace":  "~/.openclaw/agents/software-it-contract-counsel/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-contract-counsel/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-contract-counsel.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-contract-counsel.snippet.json"
+                }
+}

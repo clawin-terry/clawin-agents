@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "digital-marketing-platform-training-coordinator-agency",
+    "roleTitle":  "Platform Training Coordinator (Agency)",
+    "personaSummary":  "Coordinates platform training so agency practitioners can stay current on product changes, delivery methods, and platform-specific operating standards.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "media-business",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/digital-marketing-platform-training-coordinator-agency",
+                    "workspace":  "~/.openclaw/agents/digital-marketing-platform-training-coordinator-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/digital-marketing-platform-training-coordinator-agency/agent",
+                    "configEntry":  "config/openclaw.agent.digital-marketing-platform-training-coordinator-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.digital-marketing-platform-training-coordinator-agency.snippet.json"
+                }
+}

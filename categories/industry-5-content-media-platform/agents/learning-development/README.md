@@ -4,7 +4,7 @@ Install-ready learning-development-focused OpenClaw agents for `industry-5-conte
 
 ## Included agents
 
-- [i5-training-manager-platform](./i5-training-manager-platform/) — Training Manager (Platform)
+- [content-platform-training-manager-platform](./content-platform-training-manager-platform/) — Training Manager (Platform)
 
 ## Notes
 

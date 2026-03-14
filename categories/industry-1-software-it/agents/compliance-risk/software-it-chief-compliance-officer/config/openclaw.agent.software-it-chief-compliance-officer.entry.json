@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-chief-compliance-officer",
+    "default":  false,
+    "name":  "Chief Compliance Officer",
+    "workspace":  "~/.openclaw/agents/software-it-chief-compliance-officer/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-chief-compliance-officer/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

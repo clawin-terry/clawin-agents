@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "digital-marketing-martech-product-director",
+        "default": false,
+        "name": "MarTech Product Director",
+        "workspace": "~/.openclaw/agents/digital-marketing-martech-product-director/workspace",
+        "agentDir": "~/.openclaw/agents/digital-marketing-martech-product-director/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-budget-and-rolling-forecast-manager-marketplace",
+    "roleTitle":  "Budget and Rolling Forecast Manager (Marketplace)",
+    "personaSummary":  "Runs budgeting and rolling forecast processes so marketplace leaders can adjust plans with clearer forward visibility and performance context.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "finance-management",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-budget-and-rolling-forecast-manager-marketplace",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-budget-and-rolling-forecast-manager-marketplace/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-budget-and-rolling-forecast-manager-marketplace/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-budget-and-rolling-forecast-manager-marketplace.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-budget-and-rolling-forecast-manager-marketplace.snippet.json"
+                }
+}

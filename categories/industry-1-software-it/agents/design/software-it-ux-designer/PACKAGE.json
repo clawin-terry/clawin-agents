@@ -1,0 +1,23 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-ux-designer",
+    "roleTitle":  "UX Designer",
+    "personaSummary":  "Designs user journeys, interaction patterns, and information structure so products feel intuitive, efficient, and aligned with user goals.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "design",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "ui-ux-pro-max",
+                          "frontend-design"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-ux-designer",
+                    "workspace":  "~/.openclaw/agents/software-it-ux-designer/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-ux-designer/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-ux-designer.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-ux-designer.snippet.json"
+                }
+}

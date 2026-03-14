@@ -4,11 +4,11 @@ Install-ready short-video-ad-operations-focused OpenClaw agents for `industry-4-
 
 ## Included agents
 
-- [i4-douyin-ads-specialist-agency](./i4-douyin-ads-specialist-agency/) — Douyin Ads Specialist (Agency)
-- [i4-kuaishou-ads-specialist-agency](./i4-kuaishou-ads-specialist-agency/) — Kuaishou Ads Specialist (Agency)
-- [i4-live-stream-traffic-acquisition-specialist](./i4-live-stream-traffic-acquisition-specialist/) — Live Stream Traffic Acquisition Specialist (Agency)
-- [i4-short-video-ads-lead-agency](./i4-short-video-ads-lead-agency/) — Short Video Ads Lead (Agency)
-- [i4-video-scale-strategy-specialist-agency](./i4-video-scale-strategy-specialist-agency/) — Video Scale Strategy Specialist (Agency)
+- [digital-marketing-douyin-ads-specialist-agency](./digital-marketing-douyin-ads-specialist-agency/) — Douyin Ads Specialist (Agency)
+- [digital-marketing-kuaishou-ads-specialist-agency](./digital-marketing-kuaishou-ads-specialist-agency/) — Kuaishou Ads Specialist (Agency)
+- [digital-marketing-live-stream-traffic-acquisition-specialist-agency](./digital-marketing-live-stream-traffic-acquisition-specialist-agency/) — Live Stream Traffic Acquisition Specialist (Agency)
+- [digital-marketing-short-video-ads-lead-agency](./digital-marketing-short-video-ads-lead-agency/) — Short Video Ads Lead (Agency)
+- [digital-marketing-video-scale-strategy-specialist-agency](./digital-marketing-video-scale-strategy-specialist-agency/) — Video Scale Strategy Specialist (Agency)
 
 ## Notes
 

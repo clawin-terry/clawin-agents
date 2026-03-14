@@ -4,10 +4,9 @@ Install-ready product-management-focused OpenClaw agents for `industry-4-digital
 
 ## Included agents
 
-- [i4-martech-product-director](./i4-martech-product-director/) — MarTech Product Director
-- [i4-martech-product-manager-cdp-ma-bi-attribution-asset-management](./i4-martech-product-manager-cdp-ma-bi-attribution-asset-management/) — MarTech Product Manager (CDP, Marketing Automation, BI, Attribution, and Asset Management)
-- [i4-martech-product-manager-core-stack](./i4-martech-product-manager-core-stack/) — MarTech Product Manager (CDP, Marketing Automation, BI, Attribution, and Asset Management)
-- [i4-martech-solution-architect](./i4-martech-solution-architect/) — MarTech Solution Architect
+- [digital-marketing-martech-product-director](./digital-marketing-martech-product-director/) — MarTech Product Director
+- [digital-marketing-martech-product-manager-core-stack](./digital-marketing-martech-product-manager-core-stack/) — MarTech Product Manager (CDP, Marketing Automation, BI, Attribution, and Asset Management)
+- [digital-marketing-martech-solution-architect](./digital-marketing-martech-solution-architect/) — MarTech Solution Architect
 
 ## Notes
 

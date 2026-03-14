@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "marketplace-ecommerce-funds-arrival-timeliness-manager",
+        "default": false,
+        "name": "Funds Arrival Timeliness Manager",
+        "workspace": "~/.openclaw/agents/marketplace-ecommerce-funds-arrival-timeliness-manager/workspace",
+        "agentDir": "~/.openclaw/agents/marketplace-ecommerce-funds-arrival-timeliness-manager/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+    "id":  "marketplace-ecommerce-ecosystem-partnership-manager",
+    "default":  false,
+    "name":  "Ecosystem Partnership Manager",
+    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-ecosystem-partnership-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-ecosystem-partnership-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

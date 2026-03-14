@@ -4,9 +4,9 @@ Install-ready hrbp-organization-development-focused OpenClaw agents for `industr
 
 ## Included agents
 
-- [i4-business-unit-hrbp-agency](./i4-business-unit-hrbp-agency/) — Business Unit HRBP (Agency)
-- [i4-job-architecture-and-levels-specialist-agency](./i4-job-architecture-and-levels-specialist-agency/) — Job Architecture and Levels Specialist (Agency)
-- [i4-organization-development-manager-agency](./i4-organization-development-manager-agency/) — Organization Development Manager (Agency)
+- [digital-marketing-business-unit-hrbp-agency](./digital-marketing-business-unit-hrbp-agency/) — Business Unit HRBP (Agency)
+- [digital-marketing-job-architecture-and-levels-specialist-agency](./digital-marketing-job-architecture-and-levels-specialist-agency/) — Job Architecture and Levels Specialist (Agency)
+- [digital-marketing-organization-development-manager-agency](./digital-marketing-organization-development-manager-agency/) — Organization Development Manager (Agency)
 
 ## Notes
 

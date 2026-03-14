@@ -1,0 +1,13 @@
+{
+  "id": "digital-marketing-campus-recruiting-specialist-agency",
+  "default": false,
+  "name": "Campus Recruiting Specialist (Agency)",
+  "workspace": "~/.openclaw/agents/digital-marketing-campus-recruiting-specialist-agency/workspace",
+  "agentDir": "~/.openclaw/agents/digital-marketing-campus-recruiting-specialist-agency/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

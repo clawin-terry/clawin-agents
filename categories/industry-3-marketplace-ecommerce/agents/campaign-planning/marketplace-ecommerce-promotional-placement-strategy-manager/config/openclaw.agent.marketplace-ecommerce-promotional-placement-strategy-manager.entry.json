@@ -1,0 +1,13 @@
+{
+    "id":  "marketplace-ecommerce-promotional-placement-strategy-manager",
+    "default":  false,
+    "name":  "Promotional Placement Strategy Manager",
+    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-promotional-placement-strategy-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-promotional-placement-strategy-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

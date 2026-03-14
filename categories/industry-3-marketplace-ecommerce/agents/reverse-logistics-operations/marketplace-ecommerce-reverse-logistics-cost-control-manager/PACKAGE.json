@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-reverse-logistics-cost-control-manager",
+    "roleTitle":  "Reverse Logistics Cost Control Manager",
+    "personaSummary":  "Controls reverse logistics costs so returns and exchange programs stay operationally sustainable at marketplace scale.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "reverse-logistics-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-reverse-logistics-cost-control-manager",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-reverse-logistics-cost-control-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-reverse-logistics-cost-control-manager/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-reverse-logistics-cost-control-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-reverse-logistics-cost-control-manager.snippet.json"
+                }
+}

@@ -4,10 +4,10 @@ Install-ready training-enablement-focused OpenClaw agents for `industry-4-digita
 
 ## Included agents
 
-- [i4-case-library-ops-manager-agency](./i4-case-library-ops-manager-agency/) — Case Library and Battlecard Operations Manager (Agency)
-- [i4-internal-trainer-agency](./i4-internal-trainer-agency/) — Internal Trainer (Agency)
-- [i4-methodology-lead-agency](./i4-methodology-lead-agency/) — Methodology Lead (Agency)
-- [i4-process-standardization-lead-agency](./i4-process-standardization-lead-agency/) — Process Standardization Lead (Agency)
+- [digital-marketing-case-library-ops-manager-agency](./digital-marketing-case-library-ops-manager-agency/) — Case Library and Battlecard Operations Manager (Agency)
+- [digital-marketing-internal-trainer-agency](./digital-marketing-internal-trainer-agency/) — Internal Trainer (Agency)
+- [digital-marketing-methodology-lead-agency](./digital-marketing-methodology-lead-agency/) — Methodology Lead (Agency)
+- [digital-marketing-process-standardization-lead-agency](./digital-marketing-process-standardization-lead-agency/) — Process Standardization Lead (Agency)
 
 ## Notes
 

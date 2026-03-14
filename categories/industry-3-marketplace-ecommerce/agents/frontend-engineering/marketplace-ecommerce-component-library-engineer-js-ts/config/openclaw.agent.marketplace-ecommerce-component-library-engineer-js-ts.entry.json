@@ -1,0 +1,13 @@
+{
+    "id":  "marketplace-ecommerce-component-library-engineer-js-ts",
+    "default":  false,
+    "name":  "Component Library Engineer (JS/TS)",
+    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-component-library-engineer-js-ts/workspace",
+    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-component-library-engineer-js-ts/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

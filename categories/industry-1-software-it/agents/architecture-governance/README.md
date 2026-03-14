@@ -4,12 +4,12 @@ Install-ready architecture-governance-focused OpenClaw agents for `industry-1-so
 
 ## Included agents
 
-- [i1-application-architect](./i1-application-architect/) — Application Architect
-- [i1-business-architect](./i1-business-architect/) — Business Architect
-- [i1-chief-architect](./i1-chief-architect/) — Chief Architect
-- [i1-data-architect](./i1-data-architect/) — Data Architect
-- [i1-enterprise-architect](./i1-enterprise-architect/) — Enterprise Architect
-- [i1-technical-standards-committee-secretary](./i1-technical-standards-committee-secretary/) — Technical Standards Committee Secretary
+- [software-it-application-architect](./software-it-application-architect/) — Application Architect
+- [software-it-business-architect](./software-it-business-architect/) — Business Architect
+- [software-it-chief-architect](./software-it-chief-architect/) — Chief Architect
+- [software-it-data-architect](./software-it-data-architect/) — Data Architect
+- [software-it-enterprise-architect](./software-it-enterprise-architect/) — Enterprise Architect
+- [software-it-technical-standards-committee-secretary](./software-it-technical-standards-committee-secretary/) — Technical Standards Committee Secretary
 
 ## Notes
 

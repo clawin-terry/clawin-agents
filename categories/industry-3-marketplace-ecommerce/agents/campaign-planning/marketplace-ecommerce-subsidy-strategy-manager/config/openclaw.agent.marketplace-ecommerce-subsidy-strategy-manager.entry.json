@@ -1,0 +1,13 @@
+{
+    "id":  "marketplace-ecommerce-subsidy-strategy-manager",
+    "default":  false,
+    "name":  "Subsidy Strategy Manager",
+    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-subsidy-strategy-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-subsidy-strategy-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

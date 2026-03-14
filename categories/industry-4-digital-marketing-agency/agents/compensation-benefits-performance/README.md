@@ -4,8 +4,8 @@ Install-ready compensation-benefits-performance-focused OpenClaw agents for `ind
 
 ## Included agents
 
-- [i4-compensation-and-benefits-specialist-agency](./i4-compensation-and-benefits-specialist-agency/) — Compensation and Benefits Specialist (Agency)
-- [i4-performance-manager-agency](./i4-performance-manager-agency/) — Performance Manager (Agency)
+- [digital-marketing-compensation-and-benefits-specialist-agency](./digital-marketing-compensation-and-benefits-specialist-agency/) — Compensation and Benefits Specialist (Agency)
+- [digital-marketing-performance-manager-agency](./digital-marketing-performance-manager-agency/) — Performance Manager (Agency)
 
 ## Notes
 

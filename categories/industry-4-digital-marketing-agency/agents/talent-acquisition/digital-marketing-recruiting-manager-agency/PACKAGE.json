@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "digital-marketing-recruiting-manager-agency",
+    "roleTitle":  "Recruiting Manager (Agency)",
+    "personaSummary":  "Leads agency recruiting so hiring plans, recruiter execution, and candidate pipelines remain coordinated across delivery and growth teams.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "talent-acquisition",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/digital-marketing-recruiting-manager-agency",
+                    "workspace":  "~/.openclaw/agents/digital-marketing-recruiting-manager-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/digital-marketing-recruiting-manager-agency/agent",
+                    "configEntry":  "config/openclaw.agent.digital-marketing-recruiting-manager-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.digital-marketing-recruiting-manager-agency.snippet.json"
+                }
+}

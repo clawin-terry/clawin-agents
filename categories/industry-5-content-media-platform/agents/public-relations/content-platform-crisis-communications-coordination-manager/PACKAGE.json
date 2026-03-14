@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-crisis-communications-coordination-manager",
+    "roleTitle":  "Crisis Communications Coordination Manager",
+    "personaSummary":  "Coordinates crisis communications so reputational incidents, policy-sensitive moments, and external escalations are handled with speed, clarity, and alignment.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "public-relations",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-crisis-communications-coordination-manager",
+                    "workspace":  "~/.openclaw/agents/content-platform-crisis-communications-coordination-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-crisis-communications-coordination-manager/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-crisis-communications-coordination-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-crisis-communications-coordination-manager.snippet.json"
+                }
+}

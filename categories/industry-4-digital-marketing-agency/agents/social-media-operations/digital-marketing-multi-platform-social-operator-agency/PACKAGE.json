@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "digital-marketing-multi-platform-social-operator-agency",
+    "roleTitle":  "Multi-Platform Social Operator (Agency)",
+    "personaSummary":  "Operates brand social channels so agency teams can adapt publishing, community handling, and content execution across different platform environments.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "social-media-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/digital-marketing-multi-platform-social-operator-agency",
+                    "workspace":  "~/.openclaw/agents/digital-marketing-multi-platform-social-operator-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/digital-marketing-multi-platform-social-operator-agency/agent",
+                    "configEntry":  "config/openclaw.agent.digital-marketing-multi-platform-social-operator-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.digital-marketing-multi-platform-social-operator-agency.snippet.json"
+                }
+}

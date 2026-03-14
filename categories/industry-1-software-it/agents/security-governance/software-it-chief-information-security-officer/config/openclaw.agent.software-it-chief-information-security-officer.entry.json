@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-chief-information-security-officer",
+    "default":  false,
+    "name":  "Chief Information Security Officer (CISO)",
+    "workspace":  "~/.openclaw/agents/software-it-chief-information-security-officer/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-chief-information-security-officer/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

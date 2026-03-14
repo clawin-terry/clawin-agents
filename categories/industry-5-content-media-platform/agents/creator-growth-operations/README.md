@@ -4,10 +4,10 @@ Install-ready creator-growth-operations-focused OpenClaw agents for `industry-5-
 
 ## Included agents
 
-- [i5-content-support-strategy-manager-platform](./i5-content-support-strategy-manager-platform/) — Content Support Strategy Manager (Platform)
-- [i5-creator-segmentation-operations-manager-platform](./i5-creator-segmentation-operations-manager-platform/) — Creator Segmentation Operations Manager (Platform)
-- [i5-creator-task-system-operations-manager-platform](./i5-creator-task-system-operations-manager-platform/) — Creator Task System Operations Manager (Platform)
-- [i5-growth-creator-operations-manager-platform](./i5-growth-creator-operations-manager-platform/) — Growth Creator Operations Manager (Platform)
+- [content-platform-content-support-strategy-manager-platform](./content-platform-content-support-strategy-manager-platform/) — Content Support Strategy Manager (Platform)
+- [content-platform-creator-segmentation-operations-manager-platform](./content-platform-creator-segmentation-operations-manager-platform/) — Creator Segmentation Operations Manager (Platform)
+- [content-platform-creator-task-system-operations-manager-platform](./content-platform-creator-task-system-operations-manager-platform/) — Creator Task System Operations Manager (Platform)
+- [content-platform-growth-creator-operations-manager-platform](./content-platform-growth-creator-operations-manager-platform/) — Growth Creator Operations Manager (Platform)
 
 ## Notes
 

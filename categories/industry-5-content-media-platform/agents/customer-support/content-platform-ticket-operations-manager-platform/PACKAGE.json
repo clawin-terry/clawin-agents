@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-ticket-operations-manager-platform",
+    "roleTitle":  "Ticket Operations Manager (Platform)",
+    "personaSummary":  "Runs ticket operations so case intake, routing, queue health, and resolution workflows stay structured across support channels.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "customer-support",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-ticket-operations-manager-platform",
+                    "workspace":  "~/.openclaw/agents/content-platform-ticket-operations-manager-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-ticket-operations-manager-platform/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-ticket-operations-manager-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-ticket-operations-manager-platform.snippet.json"
+                }
+}

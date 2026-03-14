@@ -4,11 +4,11 @@ Install-ready short-video-content-operations-focused OpenClaw agents for `indust
 
 ## Included agents
 
-- [i5-channel-operations-manager-platform](./i5-channel-operations-manager-platform/) — Channel Operations Manager (Platform)
-- [i5-content-quality-improvement-manager-platform](./i5-content-quality-improvement-manager-platform/) — Content Quality Improvement Manager (Platform)
-- [i5-premium-content-program-manager-platform](./i5-premium-content-program-manager-platform/) — Premium Content Program Manager (Platform)
-- [i5-topic-planning-manager-platform](./i5-topic-planning-manager-platform/) — Topic Planning Manager (Platform)
-- [i5-trending-content-operations-manager-platform](./i5-trending-content-operations-manager-platform/) — Trending Content Operations Manager (Platform)
+- [content-platform-channel-operations-manager-platform](./content-platform-channel-operations-manager-platform/) — Channel Operations Manager (Platform)
+- [content-platform-content-quality-improvement-manager-platform](./content-platform-content-quality-improvement-manager-platform/) — Content Quality Improvement Manager (Platform)
+- [content-platform-premium-content-program-manager-platform](./content-platform-premium-content-program-manager-platform/) — Premium Content Program Manager (Platform)
+- [content-platform-topic-planning-manager-platform](./content-platform-topic-planning-manager-platform/) — Topic Planning Manager (Platform)
+- [content-platform-trending-content-operations-manager-platform](./content-platform-trending-content-operations-manager-platform/) — Trending Content Operations Manager (Platform)
 
 ## Notes
 

@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-platform-engineer-python",
+    "roleTitle":  "Platform Engineer (Python)",
+    "personaSummary":  "Builds internal platform capabilities with Python automation so marketplace engineering workflows remain efficient, maintainable, and dependable.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "platform-engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "healthcheck"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-platform-engineer-python",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-platform-engineer-python/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-platform-engineer-python/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-platform-engineer-python.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-platform-engineer-python.snippet.json"
+                }
+}

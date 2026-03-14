@@ -1,0 +1,13 @@
+{
+  "id": "digital-marketing-creative-risk-pre-screening-specialist-agency",
+  "default": false,
+  "name": "Creative Risk Pre-Screening Specialist (Agency)",
+  "workspace": "~/.openclaw/agents/digital-marketing-creative-risk-pre-screening-specialist-agency/workspace",
+  "agentDir": "~/.openclaw/agents/digital-marketing-creative-risk-pre-screening-specialist-agency/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

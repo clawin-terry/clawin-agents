@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-monitoring-alerting-and-capacity-planning-engineer",
+    "roleTitle":  "Monitoring, Alerting, and Capacity Planning Engineer",
+    "personaSummary":  "Builds monitoring, alerting, and capacity planning practices so content platform services maintain clearer production visibility and healthier scaling decisions.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "site-reliability-engineering",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "healthcheck"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-monitoring-alerting-and-capacity-planning-engineer",
+                    "workspace":  "~/.openclaw/agents/content-platform-monitoring-alerting-and-capacity-planning-engineer/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-monitoring-alerting-and-capacity-planning-engineer/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-monitoring-alerting-and-capacity-planning-engineer.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-monitoring-alerting-and-capacity-planning-engineer.snippet.json"
+                }
+}

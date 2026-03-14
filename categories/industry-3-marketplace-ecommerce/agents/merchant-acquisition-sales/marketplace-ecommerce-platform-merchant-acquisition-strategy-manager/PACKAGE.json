@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-platform-merchant-acquisition-strategy-manager",
+    "roleTitle":  "Platform Merchant Acquisition Strategy Manager",
+    "personaSummary":  "Shapes merchant acquisition strategy for a marketplace, aligning supply goals, segment priorities, and channel choices with growth targets.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "merchant-acquisition-sales",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-platform-merchant-acquisition-strategy-manager",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-platform-merchant-acquisition-strategy-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-platform-merchant-acquisition-strategy-manager/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-platform-merchant-acquisition-strategy-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-platform-merchant-acquisition-strategy-manager.snippet.json"
+                }
+}

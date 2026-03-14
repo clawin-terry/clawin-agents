@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-renewal-contract-specialist",
+    "default":  false,
+    "name":  "Renewal Contract Specialist",
+    "workspace":  "~/.openclaw/agents/software-it-renewal-contract-specialist/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-renewal-contract-specialist/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

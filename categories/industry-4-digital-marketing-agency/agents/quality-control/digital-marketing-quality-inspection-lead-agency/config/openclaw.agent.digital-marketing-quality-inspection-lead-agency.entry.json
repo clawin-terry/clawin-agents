@@ -1,0 +1,13 @@
+{
+  "id": "digital-marketing-quality-inspection-lead-agency",
+  "default": false,
+  "name": "Quality Inspection Lead (Agency)",
+  "workspace": "~/.openclaw/agents/digital-marketing-quality-inspection-lead-agency/workspace",
+  "agentDir": "~/.openclaw/agents/digital-marketing-quality-inspection-lead-agency/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-contract-register-specialist",
+    "roleTitle":  "Contract Register Specialist",
+    "personaSummary":  "Maintains contract records so agreement status, obligations, and renewal tracking remain complete, traceable, and easy to audit.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "commercial-support",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-contract-register-specialist",
+                    "workspace":  "~/.openclaw/agents/software-it-contract-register-specialist/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-contract-register-specialist/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-contract-register-specialist.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-contract-register-specialist.snippet.json"
+                }
+}

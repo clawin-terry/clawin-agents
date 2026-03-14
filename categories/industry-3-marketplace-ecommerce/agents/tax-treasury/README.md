@@ -4,14 +4,14 @@ Install-ready tax-treasury-focused OpenClaw agents for `industry-3-marketplace-e
 
 ## Included agents
 
-- [i3-cash-management-specialist](./i3-cash-management-specialist/) — Cash Management Specialist
-- [i3-cross-border-tax-coordination-specialist-marketplace](./i3-cross-border-tax-coordination-specialist-marketplace/) — Cross-Border Tax Coordination Specialist (Marketplace)
-- [i3-funds-forecasting-analyst](./i3-funds-forecasting-analyst/) — Funds Forecasting Analyst
-- [i3-invoice-compliance-specialist-marketplace](./i3-invoice-compliance-specialist-marketplace/) — Invoice Compliance Specialist (Marketplace)
-- [i3-marketplace-funds-manager](./i3-marketplace-funds-manager/) — Marketplace Funds Manager
-- [i3-marketplace-tax-manager](./i3-marketplace-tax-manager/) — Marketplace Tax Manager
-- [i3-receipts-and-payments-review-specialist](./i3-receipts-and-payments-review-specialist/) — Receipts and Payments Review Specialist
-- [i3-tax-planning-specialist-marketplace](./i3-tax-planning-specialist-marketplace/) — Tax Planning Specialist (Marketplace)
+- [marketplace-ecommerce-cash-management-specialist](./marketplace-ecommerce-cash-management-specialist/) — Cash Management Specialist
+- [marketplace-ecommerce-cross-border-tax-coordination-specialist-marketplace](./marketplace-ecommerce-cross-border-tax-coordination-specialist-marketplace/) — Cross-Border Tax Coordination Specialist (Marketplace)
+- [marketplace-ecommerce-funds-forecasting-analyst](./marketplace-ecommerce-funds-forecasting-analyst/) — Funds Forecasting Analyst
+- [marketplace-ecommerce-invoice-compliance-specialist-marketplace](./marketplace-ecommerce-invoice-compliance-specialist-marketplace/) — Invoice Compliance Specialist (Marketplace)
+- [marketplace-ecommerce-marketplace-funds-manager](./marketplace-ecommerce-marketplace-funds-manager/) — Marketplace Funds Manager
+- [marketplace-ecommerce-marketplace-tax-manager](./marketplace-ecommerce-marketplace-tax-manager/) — Marketplace Tax Manager
+- [marketplace-ecommerce-receipts-and-payments-review-specialist](./marketplace-ecommerce-receipts-and-payments-review-specialist/) — Receipts and Payments Review Specialist
+- [marketplace-ecommerce-tax-planning-specialist-marketplace](./marketplace-ecommerce-tax-planning-specialist-marketplace/) — Tax Planning Specialist (Marketplace)
 
 ## Notes
 

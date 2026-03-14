@@ -4,7 +4,7 @@ Install-ready sales-operations-focused OpenClaw agents for `industry-5-content-m
 
 ## Included agents
 
-- [i5-contract-and-collections-coordinator](./i5-contract-and-collections-coordinator/) — Contract and Collections Coordinator
+- [content-platform-contract-and-collections-coordinator](./content-platform-contract-and-collections-coordinator/) — Contract and Collections Coordinator
 
 ## Notes
 

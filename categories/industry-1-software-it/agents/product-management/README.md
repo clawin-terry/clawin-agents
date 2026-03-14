@@ -4,14 +4,14 @@ Install-ready product-management-focused OpenClaw agents for `industry-1-softwar
 
 ## Included agents
 
-- [i1-b2b-product-manager](./i1-b2b-product-manager/) — B2B Product Manager
-- [i1-b2c-product-manager](./i1-b2c-product-manager/) — B2C Product Manager
-- [i1-chief-product-officer](./i1-chief-product-officer/) — Chief Product Officer
-- [i1-growth-product-manager](./i1-growth-product-manager/) — Growth Product Manager
-- [i1-monetization-product-manager](./i1-monetization-product-manager/) — Monetization Product Manager
-- [i1-platform-product-manager](./i1-platform-product-manager/) — Platform Product Manager
-- [i1-product-assistant](./i1-product-assistant/) — Product Assistant
-- [i1-product-director](./i1-product-director/) — Product Director
+- [software-it-b2b-product-manager](./software-it-b2b-product-manager/) — B2B Product Manager
+- [software-it-b2c-product-manager](./software-it-b2c-product-manager/) — B2C Product Manager
+- [software-it-chief-product-officer](./software-it-chief-product-officer/) — Chief Product Officer
+- [software-it-growth-product-manager](./software-it-growth-product-manager/) — Growth Product Manager
+- [software-it-monetization-product-manager](./software-it-monetization-product-manager/) — Monetization Product Manager
+- [software-it-platform-product-manager](./software-it-platform-product-manager/) — Platform Product Manager
+- [software-it-product-assistant](./software-it-product-assistant/) — Product Assistant
+- [software-it-product-director](./software-it-product-director/) — Product Director
 
 ## Notes
 

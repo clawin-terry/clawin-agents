@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-strategic-initiatives-manager-marketplace",
+    "roleTitle":  "Strategic Initiatives Manager (Marketplace)",
+    "personaSummary":  "Drives cross-functional marketplace initiatives so priority programs move forward with clearer ownership, sequencing, and executive visibility.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "strategy-research",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-strategic-initiatives-manager-marketplace",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-strategic-initiatives-manager-marketplace/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-strategic-initiatives-manager-marketplace/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-strategic-initiatives-manager-marketplace.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-strategic-initiatives-manager-marketplace.snippet.json"
+                }
+}

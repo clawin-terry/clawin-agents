@@ -1,0 +1,13 @@
+{
+    "id":  "marketplace-ecommerce-mcn-partnership-manager",
+    "default":  false,
+    "name":  "MCN Partnership Manager",
+    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-mcn-partnership-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-mcn-partnership-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

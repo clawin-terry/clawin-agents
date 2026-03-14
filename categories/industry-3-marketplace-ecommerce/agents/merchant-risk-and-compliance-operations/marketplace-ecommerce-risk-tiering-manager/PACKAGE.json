@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-risk-tiering-manager",
+    "roleTitle":  "Risk Tiering Manager",
+    "personaSummary":  "Owns merchant risk tiering so control intensity and operational oversight align with seller risk exposure.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "merchant-risk-and-compliance-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-risk-tiering-manager",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-risk-tiering-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-risk-tiering-manager/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-risk-tiering-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-risk-tiering-manager.snippet.json"
+                }
+}

@@ -4,10 +4,10 @@ Install-ready internal-audit-focused OpenClaw agents for `industry-3-marketplace
 
 ## Included agents
 
-- [i3-audit-project-manager-marketplace](./i3-audit-project-manager-marketplace/) — Audit Project Manager (Marketplace)
-- [i3-fraud-investigation-coordination-specialist-marketplace](./i3-fraud-investigation-coordination-specialist-marketplace/) — Fraud Investigation Coordination Specialist (Marketplace)
-- [i3-internal-control-manager-marketplace](./i3-internal-control-manager-marketplace/) — Internal Control Manager (Marketplace)
-- [i3-remediation-closure-specialist-marketplace](./i3-remediation-closure-specialist-marketplace/) — Remediation Closure Specialist (Marketplace)
+- [marketplace-ecommerce-audit-project-manager-marketplace](./marketplace-ecommerce-audit-project-manager-marketplace/) — Audit Project Manager (Marketplace)
+- [marketplace-ecommerce-fraud-investigation-coordination-specialist-marketplace](./marketplace-ecommerce-fraud-investigation-coordination-specialist-marketplace/) — Fraud Investigation Coordination Specialist (Marketplace)
+- [marketplace-ecommerce-internal-control-manager-marketplace](./marketplace-ecommerce-internal-control-manager-marketplace/) — Internal Control Manager (Marketplace)
+- [marketplace-ecommerce-remediation-closure-specialist-marketplace](./marketplace-ecommerce-remediation-closure-specialist-marketplace/) — Remediation Closure Specialist (Marketplace)
 
 ## Notes
 

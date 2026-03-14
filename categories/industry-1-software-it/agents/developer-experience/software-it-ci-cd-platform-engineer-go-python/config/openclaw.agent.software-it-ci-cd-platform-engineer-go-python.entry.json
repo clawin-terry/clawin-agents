@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-ci-cd-platform-engineer-go-python",
+    "default":  false,
+    "name":  "CI/CD Platform Engineer (Go/Python)",
+    "workspace":  "~/.openclaw/agents/software-it-ci-cd-platform-engineer-go-python/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-ci-cd-platform-engineer-go-python/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

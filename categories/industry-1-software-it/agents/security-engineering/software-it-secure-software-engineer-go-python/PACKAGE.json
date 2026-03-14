@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-secure-software-engineer-go-python",
+    "roleTitle":  "Secure Software Engineer (Go/Python)",
+    "personaSummary":  "Builds secure software controls and engineering patterns with Go and Python to reduce application risk and improve secure delivery practices.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "security-engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "healthcheck"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-secure-software-engineer-go-python",
+                    "workspace":  "~/.openclaw/agents/software-it-secure-software-engineer-go-python/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-secure-software-engineer-go-python/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-secure-software-engineer-go-python.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-secure-software-engineer-go-python.snippet.json"
+                }
+}

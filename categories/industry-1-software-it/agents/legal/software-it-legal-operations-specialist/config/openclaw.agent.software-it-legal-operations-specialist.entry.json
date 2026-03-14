@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-legal-operations-specialist",
+    "default":  false,
+    "name":  "Legal Operations Specialist (Registers / Company Seals)",
+    "workspace":  "~/.openclaw/agents/software-it-legal-operations-specialist/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-legal-operations-specialist/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

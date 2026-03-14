@@ -4,10 +4,10 @@ Install-ready merchant-violation-governance-focused OpenClaw agents for `industr
 
 ## Included agents
 
-- [i3-appeals-guidance-specialist](./i3-appeals-guidance-specialist/) — Appeals Guidance Specialist
-- [i3-penalty-follow-up-manager](./i3-penalty-follow-up-manager/) — Penalty Follow-Up Manager
-- [i3-rules-education-manager](./i3-rules-education-manager/) — Rules Education Manager
-- [i3-violation-remediation-manager](./i3-violation-remediation-manager/) — Violation Remediation Manager
+- [marketplace-ecommerce-appeals-guidance-specialist](./marketplace-ecommerce-appeals-guidance-specialist/) — Appeals Guidance Specialist
+- [marketplace-ecommerce-penalty-follow-up-manager](./marketplace-ecommerce-penalty-follow-up-manager/) — Penalty Follow-Up Manager
+- [marketplace-ecommerce-rules-education-manager](./marketplace-ecommerce-rules-education-manager/) — Rules Education Manager
+- [marketplace-ecommerce-violation-remediation-manager](./marketplace-ecommerce-violation-remediation-manager/) — Violation Remediation Manager
 
 ## Notes
 

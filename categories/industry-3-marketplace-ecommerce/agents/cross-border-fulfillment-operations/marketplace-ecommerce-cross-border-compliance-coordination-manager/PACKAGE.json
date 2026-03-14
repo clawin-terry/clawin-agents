@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-cross-border-compliance-coordination-manager",
+    "roleTitle":  "Cross-Border Compliance Coordination Manager",
+    "personaSummary":  "Coordinates cross-border compliance work so bonded and international fulfillment operations stay aligned with regulatory obligations.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "cross-border-fulfillment-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-cross-border-compliance-coordination-manager",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-cross-border-compliance-coordination-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-cross-border-compliance-coordination-manager/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-cross-border-compliance-coordination-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-cross-border-compliance-coordination-manager.snippet.json"
+                }
+}

@@ -4,11 +4,11 @@ Install-ready security-governance-focused OpenClaw agents for `industry-1-softwa
 
 ## Included agents
 
-- [i1-chief-information-security-officer](./i1-chief-information-security-officer/) — Chief Information Security Officer (CISO)
-- [i1-security-awareness-training-specialist](./i1-security-awareness-training-specialist/) — Security Awareness Training Specialist
-- [i1-security-compliance-manager-mlps-iso27001](./i1-security-compliance-manager-mlps-iso27001/) — Security Compliance Manager (MLPS / ISO 27001)
-- [i1-security-policy-and-standards-specialist](./i1-security-policy-and-standards-specialist/) — Security Policy and Standards Specialist
-- [i1-security-risk-manager](./i1-security-risk-manager/) — Security Risk Manager
+- [software-it-chief-information-security-officer](./software-it-chief-information-security-officer/) — Chief Information Security Officer (CISO)
+- [software-it-security-awareness-training-specialist](./software-it-security-awareness-training-specialist/) — Security Awareness Training Specialist
+- [software-it-security-compliance-manager-tier-protection-iso27001](./software-it-security-compliance-manager-tier-protection-iso27001/) — Security Compliance Manager (MLPS / ISO 27001)
+- [software-it-security-policy-and-standards-specialist](./software-it-security-policy-and-standards-specialist/) — Security Policy and Standards Specialist
+- [software-it-security-risk-manager](./software-it-security-risk-manager/) — Security Risk Manager
 
 ## Notes
 

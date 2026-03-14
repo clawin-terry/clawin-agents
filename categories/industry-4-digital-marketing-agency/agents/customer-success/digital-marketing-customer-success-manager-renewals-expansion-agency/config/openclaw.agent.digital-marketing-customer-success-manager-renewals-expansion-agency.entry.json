@@ -1,0 +1,13 @@
+{
+  "id": "digital-marketing-customer-success-manager-renewals-expansion-agency",
+  "default": false,
+  "name": "Customer Success Manager, Renewals and Expansion (Agency)",
+  "workspace": "~/.openclaw/agents/digital-marketing-customer-success-manager-renewals-expansion-agency/workspace",
+  "agentDir": "~/.openclaw/agents/digital-marketing-customer-success-manager-renewals-expansion-agency/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

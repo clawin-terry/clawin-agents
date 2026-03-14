@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "content-platform-real-time-features-and-profile-pipeline-engineer",
+        "default": false,
+        "name": "Real-Time Features and Profile Pipeline Engineer",
+        "workspace": "~/.openclaw/agents/content-platform-real-time-features-and-profile-pipeline-engineer/workspace",
+        "agentDir": "~/.openclaw/agents/content-platform-real-time-features-and-profile-pipeline-engineer/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

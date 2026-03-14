@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-operational-audit-manager",
+    "roleTitle":  "Operational Audit Manager",
+    "personaSummary":  "Runs operational audits so business processes, controls, and execution risks are evaluated with practical recommendations for stronger performance and compliance.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "internal-audit",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-operational-audit-manager",
+                    "workspace":  "~/.openclaw/agents/software-it-operational-audit-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-operational-audit-manager/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-operational-audit-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-operational-audit-manager.snippet.json"
+                }
+}

@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-technical-debt-governance-manager",
+    "roleTitle":  "Technical Debt Governance Manager",
+    "personaSummary":  "Leads technical debt governance so architecture erosion, maintenance risks, and long-term delivery friction are surfaced, prioritized, and reduced across the platform.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "platform-engineering",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "healthcheck"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-technical-debt-governance-manager",
+                    "workspace":  "~/.openclaw/agents/content-platform-technical-debt-governance-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-technical-debt-governance-manager/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-technical-debt-governance-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-technical-debt-governance-manager.snippet.json"
+                }
+}

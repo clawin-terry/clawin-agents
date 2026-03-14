@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "marketplace-ecommerce-test-engineer-python",
+        "default": false,
+        "name": "Test Engineer (Python)",
+        "workspace": "~/.openclaw/agents/marketplace-ecommerce-test-engineer-python/workspace",
+        "agentDir": "~/.openclaw/agents/marketplace-ecommerce-test-engineer-python/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

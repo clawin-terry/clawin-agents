@@ -1,0 +1,13 @@
+{
+  "id": "digital-marketing-data-scientist-python",
+  "default": false,
+  "name": "Data Scientist (Python)",
+  "workspace": "~/.openclaw/agents/digital-marketing-data-scientist-python/workspace",
+  "agentDir": "~/.openclaw/agents/digital-marketing-data-scientist-python/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

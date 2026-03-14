@@ -4,12 +4,12 @@ Install-ready pre-sales-focused OpenClaw agents for `industry-1-software-it`.
 
 ## Included agents
 
-- [i1-bid-and-tender-manager](./i1-bid-and-tender-manager/) — Bid and Tender Manager
-- [i1-industry-consultant](./i1-industry-consultant/) — Industry Consultant
-- [i1-pre-sales-director](./i1-pre-sales-director/) — Pre-Sales Director
-- [i1-proof-of-concept-manager](./i1-proof-of-concept-manager/) — Proof of Concept Manager
-- [i1-proposal-specialist](./i1-proposal-specialist/) — Proposal Specialist
-- [i1-solutions-architect](./i1-solutions-architect/) — Solutions Architect
+- [software-it-bid-and-tender-manager](./software-it-bid-and-tender-manager/) — Bid and Tender Manager
+- [software-it-industry-consultant](./software-it-industry-consultant/) — Industry Consultant
+- [software-it-pre-sales-director](./software-it-pre-sales-director/) — Pre-Sales Director
+- [software-it-proof-of-concept-manager](./software-it-proof-of-concept-manager/) — Proof of Concept Manager
+- [software-it-proposal-specialist](./software-it-proposal-specialist/) — Proposal Specialist
+- [software-it-solutions-architect](./software-it-solutions-architect/) — Solutions Architect
 
 ## Notes
 

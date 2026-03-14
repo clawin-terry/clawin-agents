@@ -4,10 +4,10 @@ Install-ready settlement-fund-operations-focused OpenClaw agents for `industry-4
 
 ## Included agents
 
-- [i4-client-settlement-specialist-agency](./i4-client-settlement-specialist-agency/) — Client Settlement Specialist
-- [i4-media-rebate-reconciliation-specialist-agency](./i4-media-rebate-reconciliation-specialist-agency/) — Media Rebate Reconciliation Specialist
-- [i4-payment-term-and-collections-coordinator-agency](./i4-payment-term-and-collections-coordinator-agency/) — Payment Term and Collections Coordinator
-- [i4-supplier-reconciliation-specialist-agency](./i4-supplier-reconciliation-specialist-agency/) — Supplier Reconciliation Specialist
+- [digital-marketing-client-settlement-specialist-agency](./digital-marketing-client-settlement-specialist-agency/) — Client Settlement Specialist
+- [digital-marketing-media-rebate-reconciliation-specialist-agency](./digital-marketing-media-rebate-reconciliation-specialist-agency/) — Media Rebate Reconciliation Specialist
+- [digital-marketing-payment-term-and-collections-coordinator-agency](./digital-marketing-payment-term-and-collections-coordinator-agency/) — Payment Term and Collections Coordinator
+- [digital-marketing-supplier-reconciliation-specialist-agency](./digital-marketing-supplier-reconciliation-specialist-agency/) — Supplier Reconciliation Specialist
 
 ## Notes
 

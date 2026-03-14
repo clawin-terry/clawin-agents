@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "digital-marketing-upsell-and-cross-sell-manager-agency",
+    "roleTitle":  "Upsell and Cross-Sell Manager (Agency)",
+    "personaSummary":  "Drives upsell and cross-sell motions so agency accounts can expand through better opportunity planning and offer matching.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "commercial-growth",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/digital-marketing-upsell-and-cross-sell-manager-agency",
+                    "workspace":  "~/.openclaw/agents/digital-marketing-upsell-and-cross-sell-manager-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/digital-marketing-upsell-and-cross-sell-manager-agency/agent",
+                    "configEntry":  "config/openclaw.agent.digital-marketing-upsell-and-cross-sell-manager-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.digital-marketing-upsell-and-cross-sell-manager-agency.snippet.json"
+                }
+}

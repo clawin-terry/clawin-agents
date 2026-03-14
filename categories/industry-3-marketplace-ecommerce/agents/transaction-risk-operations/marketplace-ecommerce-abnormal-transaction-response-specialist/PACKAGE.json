@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-abnormal-transaction-response-specialist",
+    "roleTitle":  "Abnormal Transaction Response Specialist",
+    "personaSummary":  "Responds to abnormal transaction cases so suspicious orders are investigated and contained before impact widens.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "transaction-risk-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-abnormal-transaction-response-specialist",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-abnormal-transaction-response-specialist/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-abnormal-transaction-response-specialist/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-abnormal-transaction-response-specialist.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-abnormal-transaction-response-specialist.snippet.json"
+                }
+}

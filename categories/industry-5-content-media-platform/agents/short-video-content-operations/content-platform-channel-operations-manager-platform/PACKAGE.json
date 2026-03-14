@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-channel-operations-manager-platform",
+    "roleTitle":  "Channel Operations Manager (Platform)",
+    "personaSummary":  "Runs short-video channel operations so category surfaces stay curated, supply stays organized, and users can discover stronger content through clearer operational stewardship.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "short-video-content-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-channel-operations-manager-platform",
+                    "workspace":  "~/.openclaw/agents/content-platform-channel-operations-manager-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-channel-operations-manager-platform/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-channel-operations-manager-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-channel-operations-manager-platform.snippet.json"
+                }
+}

@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "content-platform-review-and-operations-workbench-frontend-engineer-typescript",
+        "default": false,
+        "name": "Review and Operations Workbench Frontend Engineer (TypeScript)",
+        "workspace": "~/.openclaw/agents/content-platform-review-and-operations-workbench-frontend-engineer-typescript/workspace",
+        "agentDir": "~/.openclaw/agents/content-platform-review-and-operations-workbench-frontend-engineer-typescript/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

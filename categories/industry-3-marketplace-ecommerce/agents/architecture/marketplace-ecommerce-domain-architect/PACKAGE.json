@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-domain-architect",
+    "roleTitle":  "Domain Architect",
+    "personaSummary":  "Defines domain architecture boundaries and solution patterns so marketplace systems scale with clearer ownership, interfaces, and technical consistency.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "architecture",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-domain-architect",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-domain-architect/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-domain-architect/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-domain-architect.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-domain-architect.snippet.json"
+                }
+}

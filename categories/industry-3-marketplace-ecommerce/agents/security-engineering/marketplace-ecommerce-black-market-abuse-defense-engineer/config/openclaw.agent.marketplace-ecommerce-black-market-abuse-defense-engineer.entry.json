@@ -1,0 +1,13 @@
+{
+  "id": "marketplace-ecommerce-black-market-abuse-defense-engineer",
+  "default": false,
+  "name": "Black-Market Abuse Defense Engineer",
+  "workspace": "~/.openclaw/agents/marketplace-ecommerce-black-market-abuse-defense-engineer/workspace",
+  "agentDir": "~/.openclaw/agents/marketplace-ecommerce-black-market-abuse-defense-engineer/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

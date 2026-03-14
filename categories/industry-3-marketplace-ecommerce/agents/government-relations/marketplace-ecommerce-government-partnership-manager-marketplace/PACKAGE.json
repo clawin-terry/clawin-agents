@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-government-partnership-manager-marketplace",
+    "roleTitle":  "Government Partnership Manager (Marketplace)",
+    "personaSummary":  "Builds government partnership workflows so marketplace external programs, collaboration opportunities, and public-sector relationships stay coordinated and useful.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "government-relations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-government-partnership-manager-marketplace",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-government-partnership-manager-marketplace/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-government-partnership-manager-marketplace/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-government-partnership-manager-marketplace.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-government-partnership-manager-marketplace.snippet.json"
+                }
+}

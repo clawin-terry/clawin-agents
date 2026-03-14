@@ -1,0 +1,13 @@
+{
+  "id": "content-platform-ab-experimentation-platform-manager",
+  "default": false,
+  "name": "A/B Experimentation Platform Manager",
+  "workspace": "~/.openclaw/agents/content-platform-ab-experimentation-platform-manager/workspace",
+  "agentDir": "~/.openclaw/agents/content-platform-ab-experimentation-platform-manager/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

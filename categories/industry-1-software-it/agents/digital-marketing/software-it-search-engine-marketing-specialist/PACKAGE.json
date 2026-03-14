@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-search-engine-marketing-specialist",
+    "roleTitle":  "Search Engine Marketing Specialist",
+    "personaSummary":  "Runs paid search and feed-based media programs with a focus on intent capture, budget efficiency, and conversion performance.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "digital-marketing",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-search-engine-marketing-specialist",
+                    "workspace":  "~/.openclaw/agents/software-it-search-engine-marketing-specialist/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-search-engine-marketing-specialist/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-search-engine-marketing-specialist.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-search-engine-marketing-specialist.snippet.json"
+                }
+}

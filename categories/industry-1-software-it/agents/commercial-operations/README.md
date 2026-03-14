@@ -4,12 +4,12 @@ Install-ready commercial-operations-focused OpenClaw agents for `industry-1-soft
 
 ## Included agents
 
-- [i1-head-of-commercial-operations](./i1-head-of-commercial-operations/) — Head of Commercial Operations
-- [i1-packaging-benefits-design-manager](./i1-packaging-benefits-design-manager/) — Packaging and Benefits Design Manager
-- [i1-pricing-manager](./i1-pricing-manager/) — Pricing Manager
-- [i1-promotion-strategy-manager](./i1-promotion-strategy-manager/) — Promotion Strategy Manager
-- [i1-revenue-operations-manager](./i1-revenue-operations-manager/) — Revenue Operations Manager
-- [i1-settlement-reconciliation-operations-specialist](./i1-settlement-reconciliation-operations-specialist/) — Settlement and Reconciliation Operations Specialist
+- [software-it-head-of-commercial-operations](./software-it-head-of-commercial-operations/) — Head of Commercial Operations
+- [software-it-packaging-benefits-design-manager](./software-it-packaging-benefits-design-manager/) — Packaging and Benefits Design Manager
+- [software-it-pricing-manager](./software-it-pricing-manager/) — Pricing Manager
+- [software-it-promotion-strategy-manager](./software-it-promotion-strategy-manager/) — Promotion Strategy Manager
+- [software-it-revenue-operations-manager](./software-it-revenue-operations-manager/) — Revenue Operations Manager
+- [software-it-settlement-reconciliation-operations-specialist](./software-it-settlement-reconciliation-operations-specialist/) — Settlement and Reconciliation Operations Specialist
 
 ## Notes
 

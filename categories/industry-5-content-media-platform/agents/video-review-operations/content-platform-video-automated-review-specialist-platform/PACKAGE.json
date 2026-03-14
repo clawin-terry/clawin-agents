@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-video-automated-review-specialist-platform",
+    "roleTitle":  "Video Automated Review Specialist (Platform)",
+    "personaSummary":  "Reviews machine-flagged video decisions so automated moderation outcomes are checked, corrected, and improved with stronger human oversight.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "video-review-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-video-automated-review-specialist-platform",
+                    "workspace":  "~/.openclaw/agents/content-platform-video-automated-review-specialist-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-video-automated-review-specialist-platform/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-video-automated-review-specialist-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-video-automated-review-specialist-platform.snippet.json"
+                }
+}

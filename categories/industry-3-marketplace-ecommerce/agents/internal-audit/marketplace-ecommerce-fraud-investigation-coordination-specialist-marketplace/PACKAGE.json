@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-fraud-investigation-coordination-specialist-marketplace",
+    "roleTitle":  "Fraud Investigation Coordination Specialist (Marketplace)",
+    "personaSummary":  "Coordinates fraud-investigation work so marketplace cases, evidence follow-up, and stakeholder escalation stay organized and defensible.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "internal-audit",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-fraud-investigation-coordination-specialist-marketplace",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-fraud-investigation-coordination-specialist-marketplace/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-fraud-investigation-coordination-specialist-marketplace/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-fraud-investigation-coordination-specialist-marketplace.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-fraud-investigation-coordination-specialist-marketplace.snippet.json"
+                }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "digital-marketing-automation-test-engineer-python",
+    "roleTitle":  "Automation Test Engineer (Python)",
+    "personaSummary":  "Builds automated test coverage with Python so MarTech platforms can catch regressions earlier and protect release quality across evolving workflows.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "quality-engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/digital-marketing-automation-test-engineer-python",
+                    "workspace":  "~/.openclaw/agents/digital-marketing-automation-test-engineer-python/workspace",
+                    "agentDir":  "~/.openclaw/agents/digital-marketing-automation-test-engineer-python/agent",
+                    "configEntry":  "config/openclaw.agent.digital-marketing-automation-test-engineer-python.entry.json",
+                    "configSnippet":  "config/openclaw.agent.digital-marketing-automation-test-engineer-python.snippet.json"
+                }
+}

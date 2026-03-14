@@ -1,0 +1,13 @@
+{
+    "id":  "marketplace-ecommerce-live-merchandise-assortment-manager",
+    "default":  false,
+    "name":  "Live Merchandise Assortment Manager",
+    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-live-merchandise-assortment-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-live-merchandise-assortment-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

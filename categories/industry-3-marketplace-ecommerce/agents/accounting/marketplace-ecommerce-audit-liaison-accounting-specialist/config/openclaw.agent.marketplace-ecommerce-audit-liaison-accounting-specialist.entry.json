@@ -1,0 +1,13 @@
+{
+    "id":  "marketplace-ecommerce-audit-liaison-accounting-specialist",
+    "default":  false,
+    "name":  "Audit Liaison Accounting Specialist",
+    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-audit-liaison-accounting-specialist/workspace",
+    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-audit-liaison-accounting-specialist/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

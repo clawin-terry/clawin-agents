@@ -4,10 +4,10 @@ Install-ready quality-engineering-focused OpenClaw agents for `industry-3-market
 
 ## Included agents
 
-- [i3-automation-test-engineer](./i3-automation-test-engineer/) — Automation Test Engineer
-- [i3-performance-test-engineer](./i3-performance-test-engineer/) — Performance Test Engineer
-- [i3-qa-operations-manager](./i3-qa-operations-manager/) — QA Operations Manager
-- [i3-test-engineer-python](./i3-test-engineer-python/) — Test Engineer (Python)
+- [marketplace-ecommerce-automation-test-engineer](./marketplace-ecommerce-automation-test-engineer/) — Automation Test Engineer
+- [marketplace-ecommerce-performance-test-engineer](./marketplace-ecommerce-performance-test-engineer/) — Performance Test Engineer
+- [marketplace-ecommerce-qa-operations-manager](./marketplace-ecommerce-qa-operations-manager/) — QA Operations Manager
+- [marketplace-ecommerce-test-engineer-python](./marketplace-ecommerce-test-engineer-python/) — Test Engineer (Python)
 
 ## Notes
 

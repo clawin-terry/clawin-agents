@@ -4,13 +4,13 @@ Install-ready video-production-focused OpenClaw agents for `industry-4-digital-m
 
 ## Included agents
 
-- [i4-colorist-agency](./i4-colorist-agency/) — Colorist (Agency)
-- [i4-motion-graphics-designer-agency](./i4-motion-graphics-designer-agency/) — Motion Graphics Designer (Agency)
-- [i4-post-production-packaging-specialist-agency](./i4-post-production-packaging-specialist-agency/) — Post-Production Packaging Specialist (Agency)
-- [i4-subtitling-and-graphics-packaging-specialist-agency](./i4-subtitling-and-graphics-packaging-specialist-agency/) — Subtitling and Graphics Packaging Specialist (Agency)
-- [i4-three-dimensional-designer-agency](./i4-three-dimensional-designer-agency/) — Three-Dimensional Designer (Agency)
-- [i4-video-director-agency](./i4-video-director-agency/) — Video Director (Agency)
-- [i4-video-editor-agency](./i4-video-editor-agency/) — Video Editor (Agency)
+- [digital-marketing-colorist-agency](./digital-marketing-colorist-agency/) — Colorist (Agency)
+- [digital-marketing-motion-graphics-designer-agency](./digital-marketing-motion-graphics-designer-agency/) — Motion Graphics Designer (Agency)
+- [digital-marketing-post-production-packaging-specialist-agency](./digital-marketing-post-production-packaging-specialist-agency/) — Post-Production Packaging Specialist (Agency)
+- [digital-marketing-subtitling-and-graphics-packaging-specialist-agency](./digital-marketing-subtitling-and-graphics-packaging-specialist-agency/) — Subtitling and Graphics Packaging Specialist (Agency)
+- [digital-marketing-three-dimensional-designer-agency](./digital-marketing-three-dimensional-designer-agency/) — Three-Dimensional Designer (Agency)
+- [digital-marketing-video-director-agency](./digital-marketing-video-director-agency/) — Video Director (Agency)
+- [digital-marketing-video-editor-agency](./digital-marketing-video-editor-agency/) — Video Editor (Agency)
 
 ## Notes
 

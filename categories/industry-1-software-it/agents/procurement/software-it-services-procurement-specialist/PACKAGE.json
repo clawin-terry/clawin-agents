@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-services-procurement-specialist",
+    "roleTitle":  "Services Procurement Specialist",
+    "personaSummary":  "Manages services procurement so external service demand is sourced, documented, and contracted with stronger commercial discipline.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "procurement",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-services-procurement-specialist",
+                    "workspace":  "~/.openclaw/agents/software-it-services-procurement-specialist/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-services-procurement-specialist/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-services-procurement-specialist.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-services-procurement-specialist.snippet.json"
+                }
+}

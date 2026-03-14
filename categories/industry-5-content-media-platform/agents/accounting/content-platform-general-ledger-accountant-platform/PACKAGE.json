@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-general-ledger-accountant-platform",
+    "roleTitle":  "General Ledger Accountant (Platform)",
+    "personaSummary":  "Owns accounting close and ledger accuracy so creator, advertising, and platform transactions are recorded consistently and auditably.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "accounting",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-general-ledger-accountant-platform",
+                    "workspace":  "~/.openclaw/agents/content-platform-general-ledger-accountant-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-general-ledger-accountant-platform/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-general-ledger-accountant-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-general-ledger-accountant-platform.snippet.json"
+                }
+}

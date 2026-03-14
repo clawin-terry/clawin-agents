@@ -1,0 +1,13 @@
+{
+    "id":  "marketplace-ecommerce-merchant-and-catalog-backend-engineer-go",
+    "default":  false,
+    "name":  "Merchant and Catalog Backend Engineer (Go)",
+    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-merchant-and-catalog-backend-engineer-go/workspace",
+    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-merchant-and-catalog-backend-engineer-go/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

@@ -4,8 +4,8 @@ Install-ready brand-marketing-focused OpenClaw agents for `industry-5-content-me
 
 ## Included agents
 
-- [i5-brand-events-planning-manager](./i5-brand-events-planning-manager/) — Brand Events Planning Manager
-- [i5-brand-strategy-manager](./i5-brand-strategy-manager/) — Brand Strategy Manager
+- [content-platform-brand-events-planning-manager](./content-platform-brand-events-planning-manager/) — Brand Events Planning Manager
+- [content-platform-brand-strategy-manager](./content-platform-brand-strategy-manager/) — Brand Strategy Manager
 
 ## Notes
 

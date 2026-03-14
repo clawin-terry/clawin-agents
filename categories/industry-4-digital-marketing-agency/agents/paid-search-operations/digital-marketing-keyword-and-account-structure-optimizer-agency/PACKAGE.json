@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "digital-marketing-keyword-and-account-structure-optimizer-agency",
+    "roleTitle":  "Keyword and Account Structure Optimizer (Agency)",
+    "personaSummary":  "Optimizes keywords and account structure so agency search programs can improve relevance, control, and scalable performance management.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "paid-search-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/digital-marketing-keyword-and-account-structure-optimizer-agency",
+                    "workspace":  "~/.openclaw/agents/digital-marketing-keyword-and-account-structure-optimizer-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/digital-marketing-keyword-and-account-structure-optimizer-agency/agent",
+                    "configEntry":  "config/openclaw.agent.digital-marketing-keyword-and-account-structure-optimizer-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.digital-marketing-keyword-and-account-structure-optimizer-agency.snippet.json"
+                }
+}

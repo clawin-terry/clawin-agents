@@ -1,0 +1,23 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-frontend-engineer-js-ts",
+    "roleTitle":  "Frontend Engineer (JS/TS)",
+    "personaSummary":  "Builds production-grade web interfaces with JavaScript, TypeScript, and pragmatic frontend engineering discipline.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "ui-ux-pro-max",
+                          "frontend-design"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-frontend-engineer-js-ts",
+                    "workspace":  "~/.openclaw/agents/software-it-frontend-engineer-js-ts/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-frontend-engineer-js-ts/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-frontend-engineer-js-ts.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-frontend-engineer-js-ts.snippet.json"
+                }
+}

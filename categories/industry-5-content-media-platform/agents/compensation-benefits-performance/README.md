@@ -4,8 +4,8 @@ Install-ready compensation-benefits-performance-focused OpenClaw agents for `ind
 
 ## Included agents
 
-- [i5-compensation-manager-platform](./i5-compensation-manager-platform/) — Compensation Manager (Platform)
-- [i5-performance-manager-platform](./i5-performance-manager-platform/) — Performance Manager (Platform)
+- [content-platform-compensation-manager-platform](./content-platform-compensation-manager-platform/) — Compensation Manager (Platform)
+- [content-platform-performance-manager-platform](./content-platform-performance-manager-platform/) — Performance Manager (Platform)
 
 ## Notes
 

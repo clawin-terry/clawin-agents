@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-renewal-contract-specialist",
+    "roleTitle":  "Renewal Contract Specialist",
+    "personaSummary":  "Runs renewal contract workflows so terms, timelines, and internal approvals support orderly and timely customer renewals.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "commercial-support",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-renewal-contract-specialist",
+                    "workspace":  "~/.openclaw/agents/software-it-renewal-contract-specialist/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-renewal-contract-specialist/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-renewal-contract-specialist.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-renewal-contract-specialist.snippet.json"
+                }
+}

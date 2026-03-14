@@ -1,0 +1,13 @@
+{
+    "id":  "marketplace-ecommerce-chief-architect",
+    "default":  false,
+    "name":  "Chief Architect",
+    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-chief-architect/workspace",
+    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-chief-architect/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

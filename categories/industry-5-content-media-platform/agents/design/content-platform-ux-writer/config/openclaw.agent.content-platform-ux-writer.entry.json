@@ -1,0 +1,13 @@
+{
+  "id": "content-platform-ux-writer",
+  "default": false,
+  "name": "UX Writer",
+  "workspace": "~/.openclaw/agents/content-platform-ux-writer/workspace",
+  "agentDir": "~/.openclaw/agents/content-platform-ux-writer/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

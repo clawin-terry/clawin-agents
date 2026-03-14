@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-low-quality-content-governance-manager-platform",
+    "roleTitle":  "Low-Quality Content Governance Manager (Platform)",
+    "personaSummary":  "Leads low-quality content governance so weak, repetitive, or low-value supply is reduced without undermining healthy community participation.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "community-governance-risk",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-low-quality-content-governance-manager-platform",
+                    "workspace":  "~/.openclaw/agents/content-platform-low-quality-content-governance-manager-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-low-quality-content-governance-manager-platform/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-low-quality-content-governance-manager-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-low-quality-content-governance-manager-platform.snippet.json"
+                }
+}

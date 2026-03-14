@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-promotion-strategy-manager",
+    "roleTitle":  "Promotion Strategy Manager",
+    "personaSummary":  "Shapes promotional strategy so discounts, campaigns, and limited-time offers drive measurable demand without eroding commercial discipline.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "commercial-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-promotion-strategy-manager",
+                    "workspace":  "~/.openclaw/agents/software-it-promotion-strategy-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-promotion-strategy-manager/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-promotion-strategy-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-promotion-strategy-manager.snippet.json"
+                }
+}

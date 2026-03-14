@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-backend-engineer-java",
+    "roleTitle":  "Backend Engineer (Java)",
+    "personaSummary":  "Builds backend services and APIs with a Java-centric stack, production reliability, and pragmatic delivery quality.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "clawin-backend-service-engineering"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-backend-engineer-java",
+                    "workspace":  "~/.openclaw/agents/software-it-backend-engineer-java/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-backend-engineer-java/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-backend-engineer-java.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-backend-engineer-java.snippet.json"
+                }
+}

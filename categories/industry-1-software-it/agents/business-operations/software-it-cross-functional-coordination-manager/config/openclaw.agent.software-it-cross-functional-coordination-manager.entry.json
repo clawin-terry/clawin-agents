@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-cross-functional-coordination-manager",
+    "default":  false,
+    "name":  "Cross-Functional Coordination Manager",
+    "workspace":  "~/.openclaw/agents/software-it-cross-functional-coordination-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-cross-functional-coordination-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

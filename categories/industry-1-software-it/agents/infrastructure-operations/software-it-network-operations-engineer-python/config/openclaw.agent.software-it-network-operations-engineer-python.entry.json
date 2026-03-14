@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-network-operations-engineer-python",
+    "default":  false,
+    "name":  "Network Operations Engineer (Python)",
+    "workspace":  "~/.openclaw/agents/software-it-network-operations-engineer-python/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-network-operations-engineer-python/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

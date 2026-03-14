@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "digital-marketing-public-relations-manager-agency",
+        "default": false,
+        "name": "Public Relations Manager (Agency)",
+        "workspace": "~/.openclaw/agents/digital-marketing-public-relations-manager-agency/workspace",
+        "agentDir": "~/.openclaw/agents/digital-marketing-public-relations-manager-agency/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

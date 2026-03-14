@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-payment-reconciliation-and-risk-collaboration-engineer-java",
+    "roleTitle":  "Payment Reconciliation and Risk Collaboration Engineer (Java)",
+    "personaSummary":  "Builds Java services for payment reconciliation and risk collaboration so financial records, exception handling, and risk-control handoffs stay accurate and auditable.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "backend-engineering",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "clawin-backend-service-engineering"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-payment-reconciliation-and-risk-collaboration-engineer-java",
+                    "workspace":  "~/.openclaw/agents/content-platform-payment-reconciliation-and-risk-collaboration-engineer-java/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-payment-reconciliation-and-risk-collaboration-engineer-java/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-payment-reconciliation-and-risk-collaboration-engineer-java.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-payment-reconciliation-and-risk-collaboration-engineer-java.snippet.json"
+                }
+}

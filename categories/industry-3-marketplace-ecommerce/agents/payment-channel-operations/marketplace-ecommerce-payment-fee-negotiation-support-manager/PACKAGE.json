@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-payment-fee-negotiation-support-manager",
+    "roleTitle":  "Payment Fee Negotiation Support Manager",
+    "personaSummary":  "Supports payment fee negotiations so channel economics improve without weakening operational performance or coverage.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "payment-channel-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-payment-fee-negotiation-support-manager",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-payment-fee-negotiation-support-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-payment-fee-negotiation-support-manager/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-payment-fee-negotiation-support-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-payment-fee-negotiation-support-manager.snippet.json"
+                }
+}

@@ -4,10 +4,10 @@ Install-ready administration-focused OpenClaw agents for `industry-3-marketplace
 
 ## Included agents
 
-- [i3-office-operations-manager-marketplace](./i3-office-operations-manager-marketplace/) — Office Operations Manager (Marketplace)
-- [i3-travel-management-specialist-marketplace](./i3-travel-management-specialist-marketplace/) — Travel Management Specialist (Marketplace)
-- [i3-workplace-asset-manager-marketplace](./i3-workplace-asset-manager-marketplace/) — Workplace Asset Manager (Marketplace)
-- [i3-workplace-security-fire-safety-specialist](./i3-workplace-security-fire-safety-specialist/) — Workplace Security and Fire Safety Specialist
+- [marketplace-ecommerce-office-operations-manager-marketplace](./marketplace-ecommerce-office-operations-manager-marketplace/) — Office Operations Manager (Marketplace)
+- [marketplace-ecommerce-travel-management-specialist-marketplace](./marketplace-ecommerce-travel-management-specialist-marketplace/) — Travel Management Specialist (Marketplace)
+- [marketplace-ecommerce-workplace-asset-manager-marketplace](./marketplace-ecommerce-workplace-asset-manager-marketplace/) — Workplace Asset Manager (Marketplace)
+- [marketplace-ecommerce-workplace-security-fire-safety-specialist](./marketplace-ecommerce-workplace-security-fire-safety-specialist/) — Workplace Security and Fire Safety Specialist
 
 ## Notes
 

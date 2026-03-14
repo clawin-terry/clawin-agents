@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "digital-marketing-security-engineer-python-agency",
+    "roleTitle":  "Security Engineer (Python, Agency)",
+    "personaSummary":  "Builds and automates security controls so agency monitoring, validation, and operational safeguards become more reliable and easier to sustain.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "security-engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "healthcheck"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/digital-marketing-security-engineer-python-agency",
+                    "workspace":  "~/.openclaw/agents/digital-marketing-security-engineer-python-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/digital-marketing-security-engineer-python-agency/agent",
+                    "configEntry":  "config/openclaw.agent.digital-marketing-security-engineer-python-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.digital-marketing-security-engineer-python-agency.snippet.json"
+                }
+}

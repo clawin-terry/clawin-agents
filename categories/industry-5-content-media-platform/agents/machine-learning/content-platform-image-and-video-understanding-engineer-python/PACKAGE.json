@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-image-and-video-understanding-engineer-python",
+    "roleTitle":  "Image and Video Understanding Engineer (Python)",
+    "personaSummary":  "Builds Python computer-vision and multimodal understanding models so image and video content can be interpreted more accurately across moderation, risk, and quality workflows.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "machine-learning",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-image-and-video-understanding-engineer-python",
+                    "workspace":  "~/.openclaw/agents/content-platform-image-and-video-understanding-engineer-python/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-image-and-video-understanding-engineer-python/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-image-and-video-understanding-engineer-python.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-image-and-video-understanding-engineer-python.snippet.json"
+                }
+}

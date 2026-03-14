@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-follow-and-fan-graph-product-manager",
+    "roleTitle":  "Follow and Fan Graph Product Manager",
+    "personaSummary":  "Owns follow and fan-graph products so relationship signals, creator reach, and audience-building mechanics stay stronger and more coherent across the platform.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "product-management",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-follow-and-fan-graph-product-manager",
+                    "workspace":  "~/.openclaw/agents/content-platform-follow-and-fan-graph-product-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-follow-and-fan-graph-product-manager/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-follow-and-fan-graph-product-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-follow-and-fan-graph-product-manager.snippet.json"
+                }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "digital-marketing-user-growth-operator-acquisition-and-activation-agency",
+    "roleTitle":  "User Growth Operator, Acquisition and Activation (Agency)",
+    "personaSummary":  "Operates acquisition and activation workflows so agency private-domain programs can grow audiences and improve early-stage participation.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "private-domain-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/digital-marketing-user-growth-operator-acquisition-and-activation-agency",
+                    "workspace":  "~/.openclaw/agents/digital-marketing-user-growth-operator-acquisition-and-activation-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/digital-marketing-user-growth-operator-acquisition-and-activation-agency/agent",
+                    "configEntry":  "config/openclaw.agent.digital-marketing-user-growth-operator-acquisition-and-activation-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.digital-marketing-user-growth-operator-acquisition-and-activation-agency.snippet.json"
+                }
+}

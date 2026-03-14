@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-chargeback-coordination-manager",
+    "roleTitle":  "Chargeback Coordination Manager",
+    "personaSummary":  "Coordinates chargeback response workflows so disputes are handled consistently across payment partners, risk teams, and merchants.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "refund-dispute-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-chargeback-coordination-manager",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-chargeback-coordination-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-chargeback-coordination-manager/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-chargeback-coordination-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-chargeback-coordination-manager.snippet.json"
+                }
+}

@@ -4,11 +4,11 @@ Install-ready risk-and-incident-operations-focused OpenClaw agents for `industry
 
 ## Included agents
 
-- [i5-command-center-duty-manager-platform](./i5-command-center-duty-manager-platform/) — Command Center Duty Manager (Platform)
-- [i5-incident-playbook-manager-platform](./i5-incident-playbook-manager-platform/) — Incident Playbook Manager (Platform)
-- [i5-major-incident-retrospective-lead-platform](./i5-major-incident-retrospective-lead-platform/) — Major Incident Retrospective Lead (Platform)
-- [i5-public-sentiment-risk-analyst-platform](./i5-public-sentiment-risk-analyst-platform/) — Public Sentiment Risk Analyst (Platform)
-- [i5-risk-monitoring-analyst-platform](./i5-risk-monitoring-analyst-platform/) — Risk Monitoring Analyst (Platform)
+- [content-platform-command-center-duty-manager-platform](./content-platform-command-center-duty-manager-platform/) — Command Center Duty Manager (Platform)
+- [content-platform-incident-playbook-manager-platform](./content-platform-incident-playbook-manager-platform/) — Incident Playbook Manager (Platform)
+- [content-platform-major-incident-retrospective-lead-platform](./content-platform-major-incident-retrospective-lead-platform/) — Major Incident Retrospective Lead (Platform)
+- [content-platform-public-sentiment-risk-analyst-platform](./content-platform-public-sentiment-risk-analyst-platform/) — Public Sentiment Risk Analyst (Platform)
+- [content-platform-risk-monitoring-analyst-platform](./content-platform-risk-monitoring-analyst-platform/) — Risk Monitoring Analyst (Platform)
 
 ## Notes
 

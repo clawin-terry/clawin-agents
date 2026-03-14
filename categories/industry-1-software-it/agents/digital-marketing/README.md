@@ -4,11 +4,11 @@ Install-ready digital-marketing-focused OpenClaw agents for `industry-1-software
 
 ## Included agents
 
-- [i1-digital-marketing-manager](./i1-digital-marketing-manager/) — Digital Marketing Manager
-- [i1-lead-nurturing-operations-manager](./i1-lead-nurturing-operations-manager/) — Lead Nurturing Operations Manager
-- [i1-marketing-automation-operations-manager](./i1-marketing-automation-operations-manager/) — Marketing Automation Operations Manager
-- [i1-search-engine-marketing-specialist](./i1-search-engine-marketing-specialist/) — Search Engine Marketing Specialist
-- [i1-seo-manager](./i1-seo-manager/) — SEO Manager
+- [software-it-digital-marketing-manager](./software-it-digital-marketing-manager/) — Digital Marketing Manager
+- [software-it-lead-nurturing-operations-manager](./software-it-lead-nurturing-operations-manager/) — Lead Nurturing Operations Manager
+- [software-it-marketing-automation-operations-manager](./software-it-marketing-automation-operations-manager/) — Marketing Automation Operations Manager
+- [software-it-search-engine-marketing-specialist](./software-it-search-engine-marketing-specialist/) — Search Engine Marketing Specialist
+- [software-it-seo-manager](./software-it-seo-manager/) — SEO Manager
 
 ## Notes
 

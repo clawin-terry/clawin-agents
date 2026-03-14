@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-lead-routing-rules-operations-specialist",
+    "default":  false,
+    "name":  "Lead Routing and Rules Operations Specialist",
+    "workspace":  "~/.openclaw/agents/software-it-lead-routing-rules-operations-specialist/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-lead-routing-rules-operations-specialist/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

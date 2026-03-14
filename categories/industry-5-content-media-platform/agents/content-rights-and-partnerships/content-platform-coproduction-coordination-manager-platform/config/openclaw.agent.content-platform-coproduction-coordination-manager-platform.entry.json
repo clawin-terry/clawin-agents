@@ -1,0 +1,13 @@
+{
+  "id": "content-platform-coproduction-coordination-manager-platform",
+  "default": false,
+  "name": "Co-Production Coordination Manager (Platform)",
+  "workspace": "~/.openclaw/agents/content-platform-coproduction-coordination-manager-platform/workspace",
+  "agentDir": "~/.openclaw/agents/content-platform-coproduction-coordination-manager-platform/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

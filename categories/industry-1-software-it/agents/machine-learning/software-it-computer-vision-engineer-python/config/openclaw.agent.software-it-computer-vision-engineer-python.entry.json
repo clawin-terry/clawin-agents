@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-computer-vision-engineer-python",
+    "default":  false,
+    "name":  "Computer Vision Engineer (Python)",
+    "workspace":  "~/.openclaw/agents/software-it-computer-vision-engineer-python/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-computer-vision-engineer-python/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

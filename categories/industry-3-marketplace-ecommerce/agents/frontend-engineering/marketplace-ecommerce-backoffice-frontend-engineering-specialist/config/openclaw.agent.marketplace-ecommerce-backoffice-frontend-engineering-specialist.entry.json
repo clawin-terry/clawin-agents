@@ -1,0 +1,13 @@
+{
+    "id":  "marketplace-ecommerce-backoffice-frontend-engineering-specialist",
+    "default":  false,
+    "name":  "Backoffice Frontend Engineering Specialist",
+    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-backoffice-frontend-engineering-specialist/workspace",
+    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-backoffice-frontend-engineering-specialist/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

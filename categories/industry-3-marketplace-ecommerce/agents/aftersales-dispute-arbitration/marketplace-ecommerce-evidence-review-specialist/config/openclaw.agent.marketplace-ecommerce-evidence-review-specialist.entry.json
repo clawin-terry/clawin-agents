@@ -1,0 +1,13 @@
+{
+    "id":  "marketplace-ecommerce-evidence-review-specialist",
+    "default":  false,
+    "name":  "Evidence Review Specialist",
+    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-evidence-review-specialist/workspace",
+    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-evidence-review-specialist/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

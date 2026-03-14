@@ -4,9 +4,9 @@ Install-ready social-media-operations-focused OpenClaw agents for `industry-4-di
 
 ## Included agents
 
-- [i4-engagement-and-community-operations-specialist-agency](./i4-engagement-and-community-operations-specialist-agency/) — Engagement and Community Operations Specialist (Agency)
-- [i4-multi-platform-social-operator-agency](./i4-multi-platform-social-operator-agency/) — Multi-Platform Social Operator (Agency)
-- [i4-social-media-director-agency](./i4-social-media-director-agency/) — Social Media Director (Agency)
+- [digital-marketing-engagement-and-community-operations-specialist-agency](./digital-marketing-engagement-and-community-operations-specialist-agency/) — Engagement and Community Operations Specialist (Agency)
+- [digital-marketing-multi-platform-social-operator-agency](./digital-marketing-multi-platform-social-operator-agency/) — Multi-Platform Social Operator (Agency)
+- [digital-marketing-social-media-director-agency](./digital-marketing-social-media-director-agency/) — Social Media Director (Agency)
 
 ## Notes
 

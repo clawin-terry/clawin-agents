@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "digital-marketing-creator-media-buying-manager-agency",
+    "roleTitle":  "Creator Media Buying Manager (Agency)",
+    "personaSummary":  "Leads creator media buying so agency teams can plan influencer spend, partner selection, and commercial pacing with clearer performance accountability.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "creator-marketing",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/digital-marketing-creator-media-buying-manager-agency",
+                    "workspace":  "~/.openclaw/agents/digital-marketing-creator-media-buying-manager-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/digital-marketing-creator-media-buying-manager-agency/agent",
+                    "configEntry":  "config/openclaw.agent.digital-marketing-creator-media-buying-manager-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.digital-marketing-creator-media-buying-manager-agency.snippet.json"
+                }
+}

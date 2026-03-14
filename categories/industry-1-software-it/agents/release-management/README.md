@@ -4,11 +4,11 @@ Install-ready release-management-focused OpenClaw agents for `industry-1-softwar
 
 ## Included agents
 
-- [i1-canary-rollback-platform-engineer-go-python](./i1-canary-rollback-platform-engineer-go-python/) — Canary and Rollback Platform Engineer (Go/Python)
-- [i1-change-manager](./i1-change-manager/) — Change Manager
-- [i1-cmdb-engineer-java-python](./i1-cmdb-engineer-java-python/) — CMDB Engineer (Java/Python)
-- [i1-release-engineer-python-shell](./i1-release-engineer-python-shell/) — Release Engineer (Python/Shell)
-- [i1-release-manager](./i1-release-manager/) — Release Manager
+- [software-it-canary-rollback-platform-engineer-go-python](./software-it-canary-rollback-platform-engineer-go-python/) — Canary and Rollback Platform Engineer (Go/Python)
+- [software-it-change-manager](./software-it-change-manager/) — Change Manager
+- [software-it-cmdb-engineer-java-python](./software-it-cmdb-engineer-java-python/) — CMDB Engineer (Java/Python)
+- [software-it-release-engineer-python-shell](./software-it-release-engineer-python-shell/) — Release Engineer (Python/Shell)
+- [software-it-release-manager](./software-it-release-manager/) — Release Manager
 
 ## Notes
 

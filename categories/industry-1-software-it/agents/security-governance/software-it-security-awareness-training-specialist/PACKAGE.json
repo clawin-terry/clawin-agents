@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-security-awareness-training-specialist",
+    "roleTitle":  "Security Awareness Training Specialist",
+    "personaSummary":  "Runs security awareness programs so employees understand core risks, policy expectations, and safe operating behaviors through practical training and reinforcement.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "security-governance",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "healthcheck"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-security-awareness-training-specialist",
+                    "workspace":  "~/.openclaw/agents/software-it-security-awareness-training-specialist/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-security-awareness-training-specialist/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-security-awareness-training-specialist.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-security-awareness-training-specialist.snippet.json"
+                }
+}

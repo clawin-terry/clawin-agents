@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-legal-director",
+    "roleTitle":  "Legal Director",
+    "personaSummary":  "Leads legal strategy, risk judgment, and team coordination so business decisions and transactions are supported with sound legal guidance.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "legal",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-legal-director",
+                    "workspace":  "~/.openclaw/agents/software-it-legal-director/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-legal-director/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-legal-director.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-legal-director.snippet.json"
+                }
+}

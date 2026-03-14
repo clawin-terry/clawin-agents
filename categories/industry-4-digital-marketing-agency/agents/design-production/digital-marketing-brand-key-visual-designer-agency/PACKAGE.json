@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "digital-marketing-brand-key-visual-designer-agency",
+    "roleTitle":  "Brand Key Visual Designer (Agency)",
+    "personaSummary":  "Creates brand key visuals so agency campaigns can anchor major launches and storytelling moments with stronger visual identity.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "design-production",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/digital-marketing-brand-key-visual-designer-agency",
+                    "workspace":  "~/.openclaw/agents/digital-marketing-brand-key-visual-designer-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/digital-marketing-brand-key-visual-designer-agency/agent",
+                    "configEntry":  "config/openclaw.agent.digital-marketing-brand-key-visual-designer-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.digital-marketing-brand-key-visual-designer-agency.snippet.json"
+                }
+}

@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "software-it-facilities-manager",
+                                    "default":  false,
+                                    "name":  "Facilities Manager",
+                                    "workspace":  "~/.openclaw/agents/software-it-facilities-manager/workspace",
+                                    "agentDir":  "~/.openclaw/agents/software-it-facilities-manager/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

@@ -4,11 +4,11 @@ Install-ready commercial-support-focused OpenClaw agents for `industry-1-softwar
 
 ## Included agents
 
-- [i1-collections-follow-up-specialist](./i1-collections-follow-up-specialist/) — Collections Follow-Up Specialist
-- [i1-contract-register-specialist](./i1-contract-register-specialist/) — Contract Register Specialist
-- [i1-delivery-invoicing-coordination-specialist](./i1-delivery-invoicing-coordination-specialist/) — Delivery Invoicing Coordination Specialist
-- [i1-order-operations-specialist](./i1-order-operations-specialist/) — Order Operations Specialist
-- [i1-renewal-contract-specialist](./i1-renewal-contract-specialist/) — Renewal Contract Specialist
+- [software-it-collections-follow-up-specialist](./software-it-collections-follow-up-specialist/) — Collections Follow-Up Specialist
+- [software-it-contract-register-specialist](./software-it-contract-register-specialist/) — Contract Register Specialist
+- [software-it-delivery-invoicing-coordination-specialist](./software-it-delivery-invoicing-coordination-specialist/) — Delivery Invoicing Coordination Specialist
+- [software-it-order-operations-specialist](./software-it-order-operations-specialist/) — Order Operations Specialist
+- [software-it-renewal-contract-specialist](./software-it-renewal-contract-specialist/) — Renewal Contract Specialist
 
 ## Notes
 

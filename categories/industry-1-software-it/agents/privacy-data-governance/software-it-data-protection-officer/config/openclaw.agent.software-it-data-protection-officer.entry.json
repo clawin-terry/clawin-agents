@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-data-protection-officer",
+    "default":  false,
+    "name":  "Data Protection Officer (DPO)",
+    "workspace":  "~/.openclaw/agents/software-it-data-protection-officer/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-data-protection-officer/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

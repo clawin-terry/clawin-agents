@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-supply-side-incentive-strategy-manager",
+    "roleTitle":  "Supply-Side Incentive Strategy Manager",
+    "personaSummary":  "Designs supply-side incentive strategies so merchant behavior, assortment quality, and commercial goals stay aligned on the platform.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "pricing-profitability-strategy",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-supply-side-incentive-strategy-manager",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-supply-side-incentive-strategy-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-supply-side-incentive-strategy-manager/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-supply-side-incentive-strategy-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-supply-side-incentive-strategy-manager.snippet.json"
+                }
+}

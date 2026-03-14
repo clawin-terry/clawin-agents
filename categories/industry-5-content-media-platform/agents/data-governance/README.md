@@ -4,7 +4,7 @@ Install-ready data-governance-focused OpenClaw agents for `industry-5-content-me
 
 ## Included agents
 
-- [i5-metrics-and-data-assets-governance-manager](./i5-metrics-and-data-assets-governance-manager/) — Metrics and Data Assets Governance Manager
+- [content-platform-metrics-and-data-assets-governance-manager](./content-platform-metrics-and-data-assets-governance-manager/) — Metrics and Data Assets Governance Manager
 
 ## Notes
 

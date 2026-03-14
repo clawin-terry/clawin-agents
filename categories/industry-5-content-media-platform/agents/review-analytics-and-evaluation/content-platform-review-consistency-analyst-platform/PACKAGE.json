@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-review-consistency-analyst-platform",
+    "roleTitle":  "Review Consistency Analyst (Platform)",
+    "personaSummary":  "Analyzes review consistency so moderation judgments, escalations, and policy interpretations stay aligned across reviewer cohorts and changing risk conditions.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "review-analytics-and-evaluation",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-review-consistency-analyst-platform",
+                    "workspace":  "~/.openclaw/agents/content-platform-review-consistency-analyst-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-review-consistency-analyst-platform/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-review-consistency-analyst-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-review-consistency-analyst-platform.snippet.json"
+                }
+}

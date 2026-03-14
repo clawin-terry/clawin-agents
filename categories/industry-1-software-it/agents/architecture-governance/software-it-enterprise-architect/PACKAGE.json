@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-enterprise-architect",
+    "roleTitle":  "Enterprise Architect",
+    "personaSummary":  "Aligns business capabilities, platforms, and technology roadmaps so enterprise systems fit together with clearer standards, dependencies, and investment choices.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "architecture-governance",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-enterprise-architect",
+                    "workspace":  "~/.openclaw/agents/software-it-enterprise-architect/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-enterprise-architect/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-enterprise-architect.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-enterprise-architect.snippet.json"
+                }
+}

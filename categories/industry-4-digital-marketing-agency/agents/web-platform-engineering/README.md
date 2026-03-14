@@ -4,9 +4,9 @@ Install-ready web-platform-engineering-focused OpenClaw agents for `industry-4-d
 
 ## Included agents
 
-- [i4-backend-engineer-java-go-web-platform](./i4-backend-engineer-java-go-web-platform/) — Backend Engineer (Java/Go)
-- [i4-frontend-engineer-javascript-typescript-martech](./i4-frontend-engineer-javascript-typescript-martech/) — Frontend Engineer (JavaScript/TypeScript)
-- [i4-site-and-template-engineer-javascript](./i4-site-and-template-engineer-javascript/) — Site and Template Engineer (JavaScript)
+- [digital-marketing-backend-engineer-java-go-web-platform](./digital-marketing-backend-engineer-java-go-web-platform/) — Backend Engineer (Java/Go)
+- [digital-marketing-frontend-engineer-javascript-typescript](./digital-marketing-frontend-engineer-javascript-typescript/) — Frontend Engineer (JavaScript/TypeScript)
+- [digital-marketing-site-and-template-engineer-javascript](./digital-marketing-site-and-template-engineer-javascript/) — Site and Template Engineer (JavaScript)
 
 ## Notes
 

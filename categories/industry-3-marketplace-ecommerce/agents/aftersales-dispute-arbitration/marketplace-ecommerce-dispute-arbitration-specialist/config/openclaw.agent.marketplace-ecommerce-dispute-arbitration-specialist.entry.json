@@ -1,0 +1,13 @@
+{
+    "id":  "marketplace-ecommerce-dispute-arbitration-specialist",
+    "default":  false,
+    "name":  "Dispute Arbitration Specialist",
+    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-dispute-arbitration-specialist/workspace",
+    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-dispute-arbitration-specialist/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

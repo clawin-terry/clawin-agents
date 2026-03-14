@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "software-it-delivery-quality-manager",
+                                    "default":  false,
+                                    "name":  "Delivery Quality Manager",
+                                    "workspace":  "~/.openclaw/agents/software-it-delivery-quality-manager/workspace",
+                                    "agentDir":  "~/.openclaw/agents/software-it-delivery-quality-manager/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

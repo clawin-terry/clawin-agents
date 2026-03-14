@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-key-account-sales-manager",
+    "roleTitle":  "Key Account Sales Manager",
+    "personaSummary":  "Leads key account sales so major advertisers can grow spend through clearer account planning, relationship management, and platform monetization alignment.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "sales",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-key-account-sales-manager",
+                    "workspace":  "~/.openclaw/agents/content-platform-key-account-sales-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-key-account-sales-manager/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-key-account-sales-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-key-account-sales-manager.snippet.json"
+                }
+}

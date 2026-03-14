@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-fraud-ring-profiling-strategist",
+    "roleTitle":  "Fraud Ring Profiling Strategist",
+    "personaSummary":  "Builds fraud-ring profiles so malicious networks, operator patterns, and industrialized abuse clusters can be mapped and disrupted more systematically.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "risk-strategy",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-fraud-ring-profiling-strategist",
+                    "workspace":  "~/.openclaw/agents/content-platform-fraud-ring-profiling-strategist/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-fraud-ring-profiling-strategist/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-fraud-ring-profiling-strategist.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-fraud-ring-profiling-strategist.snippet.json"
+                }
+}

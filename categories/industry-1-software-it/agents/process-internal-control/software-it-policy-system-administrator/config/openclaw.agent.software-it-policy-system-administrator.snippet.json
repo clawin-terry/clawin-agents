@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "software-it-policy-system-administrator",
+                                    "default":  false,
+                                    "name":  "Policy System Administrator",
+                                    "workspace":  "~/.openclaw/agents/software-it-policy-system-administrator/workspace",
+                                    "agentDir":  "~/.openclaw/agents/software-it-policy-system-administrator/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

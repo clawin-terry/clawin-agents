@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "digital-marketing-campaign-commerce-content-business-analyst",
+    "roleTitle":  "Business Analyst (Campaign, Commerce, and Content)",
+    "personaSummary":  "Analyzes campaign delivery, ecommerce operations, and content performance so cross-functional teams can understand business drivers and act on measurable improvement opportunities.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "business-intelligence",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/digital-marketing-campaign-commerce-content-business-analyst",
+                    "workspace":  "~/.openclaw/agents/digital-marketing-campaign-commerce-content-business-analyst/workspace",
+                    "agentDir":  "~/.openclaw/agents/digital-marketing-campaign-commerce-content-business-analyst/agent",
+                    "configEntry":  "config/openclaw.agent.digital-marketing-campaign-commerce-content-business-analyst.entry.json",
+                    "configSnippet":  "config/openclaw.agent.digital-marketing-campaign-commerce-content-business-analyst.snippet.json"
+                }
+}

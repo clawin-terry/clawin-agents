@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-functional-test-engineer",
+    "roleTitle":  "Functional Test Engineer",
+    "personaSummary":  "Runs functional testing so content, community, and monetization product changes meet expected behavior before release.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "quality-engineering",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-functional-test-engineer",
+                    "workspace":  "~/.openclaw/agents/content-platform-functional-test-engineer/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-functional-test-engineer/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-functional-test-engineer.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-functional-test-engineer.snippet.json"
+                }
+}

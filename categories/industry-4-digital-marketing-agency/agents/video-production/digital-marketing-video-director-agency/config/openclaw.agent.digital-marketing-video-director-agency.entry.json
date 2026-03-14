@@ -1,0 +1,13 @@
+{
+  "id": "digital-marketing-video-director-agency",
+  "default": false,
+  "name": "Video Director (Agency)",
+  "workspace": "~/.openclaw/agents/digital-marketing-video-director-agency/workspace",
+  "agentDir": "~/.openclaw/agents/digital-marketing-video-director-agency/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

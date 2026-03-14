@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-sast-dast-platform-engineer-java-python",
+    "roleTitle":  "SAST and DAST Platform Engineer (Java/Python)",
+    "personaSummary":  "Builds SAST and DAST platform capabilities with Java and Python to improve scalable application security testing and actionable developer feedback.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "security-engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "healthcheck"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-sast-dast-platform-engineer-java-python",
+                    "workspace":  "~/.openclaw/agents/software-it-sast-dast-platform-engineer-java-python/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-sast-dast-platform-engineer-java-python/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-sast-dast-platform-engineer-java-python.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-sast-dast-platform-engineer-java-python.snippet.json"
+                }
+}

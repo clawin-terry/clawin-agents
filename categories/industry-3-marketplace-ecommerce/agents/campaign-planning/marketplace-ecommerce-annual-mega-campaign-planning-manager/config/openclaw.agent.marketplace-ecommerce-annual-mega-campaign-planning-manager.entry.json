@@ -1,0 +1,13 @@
+{
+    "id":  "marketplace-ecommerce-annual-mega-campaign-planning-manager",
+    "default":  false,
+    "name":  "Annual Mega-Campaign Planning Manager",
+    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-annual-mega-campaign-planning-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-annual-mega-campaign-planning-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-security-review-engineer",
+    "roleTitle":  "Security Review Engineer",
+    "personaSummary":  "Performs security reviews so marketplace systems can identify architectural and implementation weaknesses before they reach production.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "security-engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "healthcheck"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-security-review-engineer",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-security-review-engineer/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-security-review-engineer/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-security-review-engineer.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-security-review-engineer.snippet.json"
+                }
+}

@@ -4,11 +4,11 @@ Install-ready livestream-operations-focused OpenClaw agents for `industry-5-cont
 
 ## Included agents
 
-- [i5-guild-operations-coordination-manager-platform](./i5-guild-operations-coordination-manager-platform/) — Guild Operations Coordination Manager (Platform)
-- [i5-host-operations-coordination-manager-platform](./i5-host-operations-coordination-manager-platform/) — Host Operations Coordination Manager (Platform)
-- [i5-live-room-engagement-mechanics-manager-platform](./i5-live-room-engagement-mechanics-manager-platform/) — Live Room Engagement Mechanics Manager (Platform)
-- [i5-livestream-content-operations-manager-platform](./i5-livestream-content-operations-manager-platform/) — Livestream Content Operations Manager (Platform)
-- [i5-livestream-event-planning-manager-platform](./i5-livestream-event-planning-manager-platform/) — Livestream Event Planning Manager (Platform)
+- [content-platform-guild-operations-coordination-manager-platform](./content-platform-guild-operations-coordination-manager-platform/) — Guild Operations Coordination Manager (Platform)
+- [content-platform-host-operations-coordination-manager-platform](./content-platform-host-operations-coordination-manager-platform/) — Host Operations Coordination Manager (Platform)
+- [content-platform-live-room-engagement-mechanics-manager-platform](./content-platform-live-room-engagement-mechanics-manager-platform/) — Live Room Engagement Mechanics Manager (Platform)
+- [content-platform-livestream-content-operations-manager-platform](./content-platform-livestream-content-operations-manager-platform/) — Livestream Content Operations Manager (Platform)
+- [content-platform-livestream-event-planning-manager-platform](./content-platform-livestream-event-planning-manager-platform/) — Livestream Event Planning Manager (Platform)
 
 ## Notes
 

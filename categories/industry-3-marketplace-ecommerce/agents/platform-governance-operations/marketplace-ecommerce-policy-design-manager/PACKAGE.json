@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-policy-design-manager",
+    "roleTitle":  "Policy Design Manager",
+    "personaSummary":  "Designs marketplace policies so platform rules stay clear, enforceable, and aligned with trust and compliance objectives.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "platform-governance-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-policy-design-manager",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-policy-design-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-policy-design-manager/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-policy-design-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-policy-design-manager.snippet.json"
+                }
+}

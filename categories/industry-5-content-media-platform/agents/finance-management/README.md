@@ -4,7 +4,7 @@ Install-ready finance-management-focused OpenClaw agents for `industry-5-content
 
 ## Included agents
 
-- [i5-budget-and-budget-control-manager-platform](./i5-budget-and-budget-control-manager-platform/) — Budget and Budget Control Manager (Platform)
+- [content-platform-budget-and-budget-control-manager-platform](./content-platform-budget-and-budget-control-manager-platform/) — Budget and Budget Control Manager (Platform)
 
 ## Notes
 

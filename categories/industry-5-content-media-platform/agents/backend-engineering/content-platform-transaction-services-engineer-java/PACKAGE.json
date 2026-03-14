@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-transaction-services-engineer-java",
+    "roleTitle":  "Transaction Services Engineer (Java)",
+    "personaSummary":  "Builds transaction services in Java so commerce ordering, state management, and downstream integrations remain reliable under production demand.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "backend-engineering",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "clawin-backend-service-engineering"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-transaction-services-engineer-java",
+                    "workspace":  "~/.openclaw/agents/content-platform-transaction-services-engineer-java/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-transaction-services-engineer-java/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-transaction-services-engineer-java.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-transaction-services-engineer-java.snippet.json"
+                }
+}

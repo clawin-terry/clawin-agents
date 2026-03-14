@@ -1,0 +1,13 @@
+{
+  "id": "digital-marketing-data-collection-backend-engineer-java-go",
+  "default": false,
+  "name": "Data Collection Backend Engineer (Java/Go)",
+  "workspace": "~/.openclaw/agents/digital-marketing-data-collection-backend-engineer-java-go/workspace",
+  "agentDir": "~/.openclaw/agents/digital-marketing-data-collection-backend-engineer-java-go/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

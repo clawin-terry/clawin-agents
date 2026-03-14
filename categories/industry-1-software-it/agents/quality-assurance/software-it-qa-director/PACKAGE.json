@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-qa-director",
+    "roleTitle":  "QA Director",
+    "personaSummary":  "Leads quality strategy, governance, and execution standards across engineering organizations with a focus on release confidence and measurable quality outcomes.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "quality-assurance",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-qa-director",
+                    "workspace":  "~/.openclaw/agents/software-it-qa-director/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-qa-director/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-qa-director.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-qa-director.snippet.json"
+                }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-advertising-and-ecommerce-law-compliance-manager",
+    "roleTitle":  "Advertising and Ecommerce Law Compliance Manager",
+    "personaSummary":  "Coordinates advertising and ecommerce law compliance so marketplace policies, campaigns, and seller practices remain aligned with legal obligations.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "content-product-compliance-governance",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-advertising-and-ecommerce-law-compliance-manager",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-advertising-and-ecommerce-law-compliance-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-advertising-and-ecommerce-law-compliance-manager/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-advertising-and-ecommerce-law-compliance-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-advertising-and-ecommerce-law-compliance-manager.snippet.json"
+                }
+}

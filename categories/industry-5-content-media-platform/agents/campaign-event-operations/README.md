@@ -4,11 +4,11 @@ Install-ready campaign-event-operations-focused OpenClaw agents for `industry-5-
 
 ## Included agents
 
-- [i5-challenge-campaign-operations-manager-platform](./i5-challenge-campaign-operations-manager-platform/) — Challenge Campaign Operations Manager (Platform)
-- [i5-competitive-event-operations-manager-platform](./i5-competitive-event-operations-manager-platform/) — Competitive Event Operations Manager (Platform)
-- [i5-ip-collaboration-project-manager-platform](./i5-ip-collaboration-project-manager-platform/) — IP Collaboration Project Manager (Platform)
-- [i5-offline-carnival-program-manager-platform](./i5-offline-carnival-program-manager-platform/) — Offline Carnival Program Manager (Platform)
-- [i5-online-event-planning-manager-platform](./i5-online-event-planning-manager-platform/) — Online Event Planning Manager (Platform)
+- [content-platform-challenge-campaign-operations-manager-platform](./content-platform-challenge-campaign-operations-manager-platform/) — Challenge Campaign Operations Manager (Platform)
+- [content-platform-competitive-event-operations-manager-platform](./content-platform-competitive-event-operations-manager-platform/) — Competitive Event Operations Manager (Platform)
+- [content-platform-ip-collaboration-project-manager-platform](./content-platform-ip-collaboration-project-manager-platform/) — IP Collaboration Project Manager (Platform)
+- [content-platform-offline-carnival-program-manager-platform](./content-platform-offline-carnival-program-manager-platform/) — Offline Carnival Program Manager (Platform)
+- [content-platform-online-event-planning-manager-platform](./content-platform-online-event-planning-manager-platform/) — Online Event Planning Manager (Platform)
 
 ## Notes
 

@@ -1,0 +1,13 @@
+{
+  "id": "digital-marketing-communications-planner-agency",
+  "default": false,
+  "name": "Communications Planner (Agency)",
+  "workspace": "~/.openclaw/agents/digital-marketing-communications-planner-agency/workspace",
+  "agentDir": "~/.openclaw/agents/digital-marketing-communications-planner-agency/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

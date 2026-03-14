@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-cross-platform-engineer-flutter-dart",
+    "default":  false,
+    "name":  "Cross-Platform Engineer (Flutter/Dart)",
+    "workspace":  "~/.openclaw/agents/software-it-cross-platform-engineer-flutter-dart/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-cross-platform-engineer-flutter-dart/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

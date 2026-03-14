@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "digital-marketing-search-engine-ads-specialist-360-sogou-agency",
+        "default": false,
+        "name": "360 and Sogou Search Ads Specialist (Agency)",
+        "workspace": "~/.openclaw/agents/digital-marketing-search-engine-ads-specialist-360-sogou-agency/workspace",
+        "agentDir": "~/.openclaw/agents/digital-marketing-search-engine-ads-specialist-360-sogou-agency/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

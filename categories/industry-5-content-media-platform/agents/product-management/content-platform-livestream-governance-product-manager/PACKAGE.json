@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-livestream-governance-product-manager",
+    "roleTitle":  "Livestream Governance Product Manager",
+    "personaSummary":  "Owns livestream-governance product coordination so live safety controls, moderation tooling, and policy execution stay well aligned with product experience decisions.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "product-management",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-livestream-governance-product-manager",
+                    "workspace":  "~/.openclaw/agents/content-platform-livestream-governance-product-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-livestream-governance-product-manager/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-livestream-governance-product-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-livestream-governance-product-manager.snippet.json"
+                }
+}

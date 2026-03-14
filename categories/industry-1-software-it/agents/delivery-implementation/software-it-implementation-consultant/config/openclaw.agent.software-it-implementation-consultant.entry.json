@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-implementation-consultant",
+    "default":  false,
+    "name":  "Implementation Consultant",
+    "workspace":  "~/.openclaw/agents/software-it-implementation-consultant/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-implementation-consultant/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

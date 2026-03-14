@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-cold-start-strategy-product-manager",
+    "roleTitle":  "Cold Start Strategy Product Manager",
+    "personaSummary":  "Owns cold-start strategy so new users, new creators, and new content can enter recommendation systems with stronger initial exposure and healthier quality signals.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "product-management",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-cold-start-strategy-product-manager",
+                    "workspace":  "~/.openclaw/agents/content-platform-cold-start-strategy-product-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-cold-start-strategy-product-manager/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-cold-start-strategy-product-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-cold-start-strategy-product-manager.snippet.json"
+                }
+}

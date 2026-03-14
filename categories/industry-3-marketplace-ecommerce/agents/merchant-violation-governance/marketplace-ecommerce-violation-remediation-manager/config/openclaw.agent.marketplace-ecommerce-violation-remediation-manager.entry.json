@@ -1,0 +1,13 @@
+{
+  "id": "marketplace-ecommerce-violation-remediation-manager",
+  "default": false,
+  "name": "Violation Remediation Manager",
+  "workspace": "~/.openclaw/agents/marketplace-ecommerce-violation-remediation-manager/workspace",
+  "agentDir": "~/.openclaw/agents/marketplace-ecommerce-violation-remediation-manager/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

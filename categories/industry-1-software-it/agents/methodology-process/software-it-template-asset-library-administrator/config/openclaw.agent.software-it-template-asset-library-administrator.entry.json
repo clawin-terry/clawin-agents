@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-template-asset-library-administrator",
+    "default":  false,
+    "name":  "Template and Asset Library Administrator",
+    "workspace":  "~/.openclaw/agents/software-it-template-asset-library-administrator/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-template-asset-library-administrator/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

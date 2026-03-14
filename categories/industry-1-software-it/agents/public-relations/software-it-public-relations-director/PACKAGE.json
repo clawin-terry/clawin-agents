@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-public-relations-director",
+    "roleTitle":  "Public Relations Director",
+    "personaSummary":  "Leads public relations strategy, managing company narrative, media exposure, and reputational response across external audiences.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "public-relations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "clawin-media-performance-systems"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-public-relations-director",
+                    "workspace":  "~/.openclaw/agents/software-it-public-relations-director/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-public-relations-director/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-public-relations-director.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-public-relations-director.snippet.json"
+                }
+}

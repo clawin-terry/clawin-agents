@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-violative-content-recognition-model-engineer-python",
+    "roleTitle":  "Violative Content Recognition Model Engineer (Python)",
+    "personaSummary":  "Builds Python moderation models for high-risk violative content so policy-breaking political, sexual, violent, and abusive material can be detected with stronger precision and operational coverage.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "machine-learning",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-violative-content-recognition-model-engineer-python",
+                    "workspace":  "~/.openclaw/agents/content-platform-violative-content-recognition-model-engineer-python/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-violative-content-recognition-model-engineer-python/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-violative-content-recognition-model-engineer-python.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-violative-content-recognition-model-engineer-python.snippet.json"
+                }
+}

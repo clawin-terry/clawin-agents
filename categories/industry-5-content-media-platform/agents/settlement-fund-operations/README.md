@@ -4,7 +4,7 @@ Install-ready settlement-fund-operations-focused OpenClaw agents for `industry-5
 
 ## Included agents
 
-- [i5-creator-payout-settlement-manager-platform](./i5-creator-payout-settlement-manager-platform/) — Creator Payout Settlement Manager (Platform)
+- [content-platform-creator-payout-settlement-manager-platform](./content-platform-creator-payout-settlement-manager-platform/) — Creator Payout Settlement Manager (Platform)
 
 ## Notes
 

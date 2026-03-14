@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "digital-marketing-senior-visual-designer-agency",
+    "roleTitle":  "Senior Visual Designer (Agency)",
+    "personaSummary":  "Designs high-quality visual assets so agency campaigns can express brand intent with clearer hierarchy, polish, and consistency.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "design-production",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/digital-marketing-senior-visual-designer-agency",
+                    "workspace":  "~/.openclaw/agents/digital-marketing-senior-visual-designer-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/digital-marketing-senior-visual-designer-agency/agent",
+                    "configEntry":  "config/openclaw.agent.digital-marketing-senior-visual-designer-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.digital-marketing-senior-visual-designer-agency.snippet.json"
+                }
+}

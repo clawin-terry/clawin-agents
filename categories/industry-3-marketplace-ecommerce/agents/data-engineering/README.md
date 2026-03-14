@@ -4,15 +4,15 @@ Install-ready data-engineering-focused OpenClaw agents for `industry-3-marketpla
 
 ## Included agents
 
-- [i3-data-engineer-scala](./i3-data-engineer-scala/) — Data Engineer (Scala)
-- [i3-data-observability-and-lineage-engineer](./i3-data-observability-and-lineage-engineer/) — Data Observability and Lineage Engineer
-- [i3-data-quality-and-lineage-engineer](./i3-data-quality-and-lineage-engineer/) — Data Quality and Lineage Engineer
-- [i3-data-warehouse-modeling-engineer](./i3-data-warehouse-modeling-engineer/) — Data Warehouse Modeling Engineer
-- [i3-etl-elt-engineer](./i3-etl-elt-engineer/) — ETL and ELT Engineer
-- [i3-real-time-engineer-java](./i3-real-time-engineer-java/) — Real-Time Engineer (Java)
-- [i3-real-time-metrics-systems-engineer](./i3-real-time-metrics-systems-engineer/) — Real-Time Metrics Systems Engineer
-- [i3-real-time-risk-data-pipeline-engineer](./i3-real-time-risk-data-pipeline-engineer/) — Real-Time Risk Data Pipeline Engineer
-- [i3-streaming-computing-engineer](./i3-streaming-computing-engineer/) — Streaming Computing Engineer
+- [marketplace-ecommerce-data-engineer-scala](./marketplace-ecommerce-data-engineer-scala/) — Data Engineer (Scala)
+- [marketplace-ecommerce-data-observability-and-lineage-engineer](./marketplace-ecommerce-data-observability-and-lineage-engineer/) — Data Observability and Lineage Engineer
+- [marketplace-ecommerce-data-quality-and-lineage-engineer](./marketplace-ecommerce-data-quality-and-lineage-engineer/) — Data Quality and Lineage Engineer
+- [marketplace-ecommerce-data-warehouse-modeling-engineer](./marketplace-ecommerce-data-warehouse-modeling-engineer/) — Data Warehouse Modeling Engineer
+- [marketplace-ecommerce-etl-elt-engineer](./marketplace-ecommerce-etl-elt-engineer/) — ETL and ELT Engineer
+- [marketplace-ecommerce-real-time-engineer-java](./marketplace-ecommerce-real-time-engineer-java/) — Real-Time Engineer (Java)
+- [marketplace-ecommerce-real-time-metrics-systems-engineer](./marketplace-ecommerce-real-time-metrics-systems-engineer/) — Real-Time Metrics Systems Engineer
+- [marketplace-ecommerce-real-time-risk-data-pipeline-engineer](./marketplace-ecommerce-real-time-risk-data-pipeline-engineer/) — Real-Time Risk Data Pipeline Engineer
+- [marketplace-ecommerce-streaming-computing-engineer](./marketplace-ecommerce-streaming-computing-engineer/) — Streaming Computing Engineer
 
 ## Notes
 

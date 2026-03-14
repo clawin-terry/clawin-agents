@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-live-room-engagement-mechanics-manager-platform",
+    "roleTitle":  "Live Room Engagement Mechanics Manager (Platform)",
+    "personaSummary":  "Designs live-room engagement mechanics so atmosphere, interaction loops, and audience participation patterns keep livestream sessions more active and sticky.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "livestream-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-live-room-engagement-mechanics-manager-platform",
+                    "workspace":  "~/.openclaw/agents/content-platform-live-room-engagement-mechanics-manager-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-live-room-engagement-mechanics-manager-platform/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-live-room-engagement-mechanics-manager-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-live-room-engagement-mechanics-manager-platform.snippet.json"
+                }
+}

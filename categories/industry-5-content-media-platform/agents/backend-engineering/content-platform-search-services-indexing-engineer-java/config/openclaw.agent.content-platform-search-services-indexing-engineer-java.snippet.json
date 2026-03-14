@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "content-platform-search-services-indexing-engineer-java",
+        "default": false,
+        "name": "Search Services and Indexing Engineer (Java)",
+        "workspace": "~/.openclaw/agents/content-platform-search-services-indexing-engineer-java/workspace",
+        "agentDir": "~/.openclaw/agents/content-platform-search-services-indexing-engineer-java/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

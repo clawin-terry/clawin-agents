@@ -4,11 +4,11 @@ Install-ready technical-support-focused OpenClaw agents for `industry-4-digital-
 
 ## Included agents
 
-- [i4-endpoint-and-account-access-specialist-agency](./i4-endpoint-and-account-access-specialist-agency/) — Endpoint and Account Access Specialist (Agency)
-- [i4-helpdesk-specialist-agency](./i4-helpdesk-specialist-agency/) — Helpdesk Specialist (Agency)
-- [i4-it-manager-agency](./i4-it-manager-agency/) — IT Manager (Agency)
-- [i4-meeting-systems-support-specialist-agency](./i4-meeting-systems-support-specialist-agency/) — Meeting Systems Support Specialist (Agency)
-- [i4-software-asset-management-specialist-agency](./i4-software-asset-management-specialist-agency/) — Software Asset Management Specialist (Agency)
+- [digital-marketing-endpoint-and-account-access-specialist-agency](./digital-marketing-endpoint-and-account-access-specialist-agency/) — Endpoint and Account Access Specialist (Agency)
+- [digital-marketing-helpdesk-specialist-agency](./digital-marketing-helpdesk-specialist-agency/) — Helpdesk Specialist (Agency)
+- [digital-marketing-it-manager-agency](./digital-marketing-it-manager-agency/) — IT Manager (Agency)
+- [digital-marketing-meeting-systems-support-specialist-agency](./digital-marketing-meeting-systems-support-specialist-agency/) — Meeting Systems Support Specialist (Agency)
+- [digital-marketing-software-asset-management-specialist-agency](./digital-marketing-software-asset-management-specialist-agency/) — Software Asset Management Specialist (Agency)
 
 ## Notes
 

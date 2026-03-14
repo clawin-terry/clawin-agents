@@ -4,11 +4,11 @@ Install-ready media-business-focused OpenClaw agents for `industry-4-digital-mar
 
 ## Included agents
 
-- [i4-joint-case-study-and-certification-manager-agency](./i4-joint-case-study-and-certification-manager-agency/) — Joint Case Study and Certification Manager (Agency)
-- [i4-platform-business-manager-agency](./i4-platform-business-manager-agency/) — Platform Business Manager (Agency)
-- [i4-platform-training-coordinator-agency](./i4-platform-training-coordinator-agency/) — Platform Training Coordinator (Agency)
-- [i4-premium-media-inventory-buyer-agency](./i4-premium-media-inventory-buyer-agency/) — Premium Media Inventory Buyer (Agency)
-- [i4-rebate-and-policy-manager-agency](./i4-rebate-and-policy-manager-agency/) — Rebate and Policy Manager (Agency)
+- [digital-marketing-joint-case-study-and-certification-manager-agency](./digital-marketing-joint-case-study-and-certification-manager-agency/) — Joint Case Study and Certification Manager (Agency)
+- [digital-marketing-platform-business-manager-agency](./digital-marketing-platform-business-manager-agency/) — Platform Business Manager (Agency)
+- [digital-marketing-platform-training-coordinator-agency](./digital-marketing-platform-training-coordinator-agency/) — Platform Training Coordinator (Agency)
+- [digital-marketing-premium-media-inventory-buyer-agency](./digital-marketing-premium-media-inventory-buyer-agency/) — Premium Media Inventory Buyer (Agency)
+- [digital-marketing-rebate-and-policy-manager-agency](./digital-marketing-rebate-and-policy-manager-agency/) — Rebate and Policy Manager (Agency)
 
 ## Notes
 

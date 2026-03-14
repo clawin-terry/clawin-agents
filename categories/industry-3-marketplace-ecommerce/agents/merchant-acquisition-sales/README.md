@@ -4,10 +4,10 @@ Install-ready merchant-acquisition-sales-focused OpenClaw agents for `industry-3
 
 ## Included agents
 
-- [i3-merchant-acquisition-manager](./i3-merchant-acquisition-manager/) — Merchant Acquisition Manager
-- [i3-platform-merchant-acquisition-operations-manager](./i3-platform-merchant-acquisition-operations-manager/) — Platform Merchant Acquisition Operations Manager
-- [i3-platform-merchant-acquisition-strategy-manager](./i3-platform-merchant-acquisition-strategy-manager/) — Platform Merchant Acquisition Strategy Manager
-- [i3-platform-partnership-business-development-manager](./i3-platform-partnership-business-development-manager/) — Platform Partnership Business Development Manager
+- [marketplace-ecommerce-merchant-acquisition-manager](./marketplace-ecommerce-merchant-acquisition-manager/) — Merchant Acquisition Manager
+- [marketplace-ecommerce-platform-merchant-acquisition-operations-manager](./marketplace-ecommerce-platform-merchant-acquisition-operations-manager/) — Platform Merchant Acquisition Operations Manager
+- [marketplace-ecommerce-platform-merchant-acquisition-strategy-manager](./marketplace-ecommerce-platform-merchant-acquisition-strategy-manager/) — Platform Merchant Acquisition Strategy Manager
+- [marketplace-ecommerce-platform-partnership-business-development-manager](./marketplace-ecommerce-platform-partnership-business-development-manager/) — Platform Partnership Business Development Manager
 
 ## Notes
 

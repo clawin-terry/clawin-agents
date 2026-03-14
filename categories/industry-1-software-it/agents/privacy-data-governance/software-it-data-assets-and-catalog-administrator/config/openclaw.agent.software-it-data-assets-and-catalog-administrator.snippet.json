@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "software-it-data-assets-and-catalog-administrator",
+                                    "default":  false,
+                                    "name":  "Data Assets and Catalog Administrator",
+                                    "workspace":  "~/.openclaw/agents/software-it-data-assets-and-catalog-administrator/workspace",
+                                    "agentDir":  "~/.openclaw/agents/software-it-data-assets-and-catalog-administrator/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

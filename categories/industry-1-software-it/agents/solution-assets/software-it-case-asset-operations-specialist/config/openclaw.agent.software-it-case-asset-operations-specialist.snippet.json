@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "software-it-case-asset-operations-specialist",
+                                    "default":  false,
+                                    "name":  "Case Asset Operations Specialist",
+                                    "workspace":  "~/.openclaw/agents/software-it-case-asset-operations-specialist/workspace",
+                                    "agentDir":  "~/.openclaw/agents/software-it-case-asset-operations-specialist/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "digital-marketing-mentorship-program-manager-agency",
+    "roleTitle":  "Mentorship Program Manager (Agency)",
+    "personaSummary":  "Runs mentorship programs so agency onboarding, skills transfer, and development support become more structured and sustainable.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "learning-development",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/digital-marketing-mentorship-program-manager-agency",
+                    "workspace":  "~/.openclaw/agents/digital-marketing-mentorship-program-manager-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/digital-marketing-mentorship-program-manager-agency/agent",
+                    "configEntry":  "config/openclaw.agent.digital-marketing-mentorship-program-manager-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.digital-marketing-mentorship-program-manager-agency.snippet.json"
+                }
+}

@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-product-assistant",
+    "default":  false,
+    "name":  "Product Assistant",
+    "workspace":  "~/.openclaw/agents/software-it-product-assistant/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-product-assistant/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

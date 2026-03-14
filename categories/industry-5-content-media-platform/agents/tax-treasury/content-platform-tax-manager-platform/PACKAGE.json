@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-tax-manager-platform",
+    "roleTitle":  "Tax Manager (Platform)",
+    "personaSummary":  "Leads tax operations so platform revenue, creator settlement flows, and entity obligations remain compliant across domestic and cross-border scenarios.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "tax-treasury",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-tax-manager-platform",
+                    "workspace":  "~/.openclaw/agents/content-platform-tax-manager-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-tax-manager-platform/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-tax-manager-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-tax-manager-platform.snippet.json"
+                }
+}

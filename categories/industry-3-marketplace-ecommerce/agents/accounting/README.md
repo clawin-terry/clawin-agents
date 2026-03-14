@@ -4,10 +4,10 @@ Install-ready accounting-focused OpenClaw agents for `industry-3-marketplace-eco
 
 ## Included agents
 
-- [i3-audit-liaison-accounting-specialist](./i3-audit-liaison-accounting-specialist/) — Audit Liaison Accounting Specialist
-- [i3-consolidated-reporting-specialist-marketplace](./i3-consolidated-reporting-specialist-marketplace/) — Consolidated Reporting Specialist (Marketplace)
-- [i3-marketplace-general-ledger-accountant](./i3-marketplace-general-ledger-accountant/) — Marketplace General Ledger Accountant
-- [i3-revenue-and-cost-accountant-marketplace](./i3-revenue-and-cost-accountant-marketplace/) — Revenue and Cost Accountant (Marketplace)
+- [marketplace-ecommerce-audit-liaison-accounting-specialist](./marketplace-ecommerce-audit-liaison-accounting-specialist/) — Audit Liaison Accounting Specialist
+- [marketplace-ecommerce-consolidated-reporting-specialist-marketplace](./marketplace-ecommerce-consolidated-reporting-specialist-marketplace/) — Consolidated Reporting Specialist (Marketplace)
+- [marketplace-ecommerce-marketplace-general-ledger-accountant](./marketplace-ecommerce-marketplace-general-ledger-accountant/) — Marketplace General Ledger Accountant
+- [marketplace-ecommerce-revenue-and-cost-accountant-marketplace](./marketplace-ecommerce-revenue-and-cost-accountant-marketplace/) — Revenue and Cost Accountant (Marketplace)
 
 ## Notes
 

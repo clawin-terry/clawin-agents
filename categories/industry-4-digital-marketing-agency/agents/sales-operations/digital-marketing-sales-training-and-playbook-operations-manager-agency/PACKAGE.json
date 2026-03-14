@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "digital-marketing-sales-training-and-playbook-operations-manager-agency",
+    "roleTitle":  "Sales Training and Playbook Operations Manager (Agency)",
+    "personaSummary":  "Runs sales training and playbook operations so agency reps can access current messaging, talk tracks, and enablement support.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "sales-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/digital-marketing-sales-training-and-playbook-operations-manager-agency",
+                    "workspace":  "~/.openclaw/agents/digital-marketing-sales-training-and-playbook-operations-manager-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/digital-marketing-sales-training-and-playbook-operations-manager-agency/agent",
+                    "configEntry":  "config/openclaw.agent.digital-marketing-sales-training-and-playbook-operations-manager-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.digital-marketing-sales-training-and-playbook-operations-manager-agency.snippet.json"
+                }
+}

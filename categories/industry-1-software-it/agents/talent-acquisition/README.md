@@ -4,11 +4,11 @@ Install-ready talent-acquisition-focused OpenClaw agents for `industry-1-softwar
 
 ## Included agents
 
-- [i1-candidate-experience-specialist](./i1-candidate-experience-specialist/) — Candidate Experience Specialist
-- [i1-employer-brand-manager](./i1-employer-brand-manager/) — Employer Brand Manager
-- [i1-recruiting-manager-experienced-campus](./i1-recruiting-manager-experienced-campus/) — Recruiting Manager (Experienced / Campus)
-- [i1-sales-recruiter](./i1-sales-recruiter/) — Sales Recruiter
-- [i1-technical-recruiter-ta](./i1-technical-recruiter-ta/) — Technical Recruiter (TA)
+- [software-it-candidate-experience-specialist](./software-it-candidate-experience-specialist/) — Candidate Experience Specialist
+- [software-it-employer-brand-manager](./software-it-employer-brand-manager/) — Employer Brand Manager
+- [software-it-recruiting-manager-experienced-campus](./software-it-recruiting-manager-experienced-campus/) — Recruiting Manager (Experienced / Campus)
+- [software-it-sales-recruiter](./software-it-sales-recruiter/) — Sales Recruiter
+- [software-it-technical-recruiter](./software-it-technical-recruiter/) — Technical Recruiter (TA)
 
 ## Notes
 

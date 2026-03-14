@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "software-it-innovation-product-lead",
+                                    "default":  false,
+                                    "name":  "Innovation Product Lead",
+                                    "workspace":  "~/.openclaw/agents/software-it-innovation-product-lead/workspace",
+                                    "agentDir":  "~/.openclaw/agents/software-it-innovation-product-lead/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

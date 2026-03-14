@@ -1,0 +1,13 @@
+{
+  "id": "content-platform-commercial-business-analyst",
+  "default": false,
+  "name": "Commercial Business Analyst",
+  "workspace": "~/.openclaw/agents/content-platform-commercial-business-analyst/workspace",
+  "agentDir": "~/.openclaw/agents/content-platform-commercial-business-analyst/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

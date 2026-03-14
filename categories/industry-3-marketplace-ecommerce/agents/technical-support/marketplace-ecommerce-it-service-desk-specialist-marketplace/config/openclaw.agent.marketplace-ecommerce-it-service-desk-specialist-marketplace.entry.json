@@ -1,0 +1,13 @@
+{
+  "id": "marketplace-ecommerce-it-service-desk-specialist-marketplace",
+  "default": false,
+  "name": "IT Service Desk Specialist (Marketplace)",
+  "workspace": "~/.openclaw/agents/marketplace-ecommerce-it-service-desk-specialist-marketplace/workspace",
+  "agentDir": "~/.openclaw/agents/marketplace-ecommerce-it-service-desk-specialist-marketplace/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

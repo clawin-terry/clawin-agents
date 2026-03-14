@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "content-platform-compensation-manager-platform",
+        "default": false,
+        "name": "Compensation Manager (Platform)",
+        "workspace": "~/.openclaw/agents/content-platform-compensation-manager-platform/workspace",
+        "agentDir": "~/.openclaw/agents/content-platform-compensation-manager-platform/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

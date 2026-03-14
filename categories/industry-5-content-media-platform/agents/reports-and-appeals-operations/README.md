@@ -4,11 +4,11 @@ Install-ready reports-and-appeals-operations-focused OpenClaw agents for `indust
 
 ## Included agents
 
-- [i5-appeals-resolution-specialist-platform](./i5-appeals-resolution-specialist-platform/) — Appeals Resolution Specialist (Platform)
-- [i5-arbitration-mechanism-operations-manager-platform](./i5-arbitration-mechanism-operations-manager-platform/) — Arbitration Mechanism Operations Manager (Platform)
-- [i5-correction-rollback-process-manager-platform](./i5-correction-rollback-process-manager-platform/) — Correction and Rollback Process Manager (Platform)
-- [i5-penalty-communication-template-manager-platform](./i5-penalty-communication-template-manager-platform/) — Penalty Communication Template Manager (Platform)
-- [i5-report-operations-specialist-platform](./i5-report-operations-specialist-platform/) — Report Operations Specialist (Platform)
+- [content-platform-appeals-resolution-specialist-platform](./content-platform-appeals-resolution-specialist-platform/) — Appeals Resolution Specialist (Platform)
+- [content-platform-arbitration-mechanism-operations-manager-platform](./content-platform-arbitration-mechanism-operations-manager-platform/) — Arbitration Mechanism Operations Manager (Platform)
+- [content-platform-correction-and-rollback-process-manager-platform](./content-platform-correction-and-rollback-process-manager-platform/) — Correction and Rollback Process Manager (Platform)
+- [content-platform-penalty-communication-template-manager-platform](./content-platform-penalty-communication-template-manager-platform/) — Penalty Communication Template Manager (Platform)
+- [content-platform-report-operations-specialist-platform](./content-platform-report-operations-specialist-platform/) — Report Operations Specialist (Platform)
 
 ## Notes
 

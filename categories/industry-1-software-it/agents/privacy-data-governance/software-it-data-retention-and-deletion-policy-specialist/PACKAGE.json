@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-data-retention-and-deletion-policy-specialist",
+    "roleTitle":  "Data Retention and Deletion Policy Specialist",
+    "personaSummary":  "Defines and maintains data retention and deletion policies so records lifecycle requirements are clear, enforceable, and aligned with compliance obligations.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "privacy-data-governance",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "healthcheck"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-data-retention-and-deletion-policy-specialist",
+                    "workspace":  "~/.openclaw/agents/software-it-data-retention-and-deletion-policy-specialist/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-data-retention-and-deletion-policy-specialist/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-data-retention-and-deletion-policy-specialist.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-data-retention-and-deletion-policy-specialist.snippet.json"
+                }
+}

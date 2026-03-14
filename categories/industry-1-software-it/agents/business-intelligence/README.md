@@ -4,11 +4,11 @@ Install-ready business-intelligence-focused OpenClaw agents for `industry-1-soft
 
 ## Included agents
 
-- [i1-bi-development-engineer-sql](./i1-bi-development-engineer-sql/) — BI Development Engineer (SQL)
-- [i1-data-analyst](./i1-data-analyst/) — Data Analyst
-- [i1-head-of-business-intelligence](./i1-head-of-business-intelligence/) — Head of Business Intelligence
-- [i1-metrics-framework-manager](./i1-metrics-framework-manager/) — Metrics Framework Manager
-- [i1-reporting-platform-engineer-java](./i1-reporting-platform-engineer-java/) — Reporting Platform Engineer (Java)
+- [software-it-bi-development-engineer-sql](./software-it-bi-development-engineer-sql/) — BI Development Engineer (SQL)
+- [software-it-data-analyst](./software-it-data-analyst/) — Data Analyst
+- [software-it-head-of-business-intelligence](./software-it-head-of-business-intelligence/) — Head of Business Intelligence
+- [software-it-metrics-framework-manager](./software-it-metrics-framework-manager/) — Metrics Framework Manager
+- [software-it-reporting-platform-engineer-java](./software-it-reporting-platform-engineer-java/) — Reporting Platform Engineer (Java)
 
 ## Notes
 

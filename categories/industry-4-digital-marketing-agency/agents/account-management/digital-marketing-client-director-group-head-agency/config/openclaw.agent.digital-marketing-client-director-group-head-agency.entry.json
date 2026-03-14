@@ -1,0 +1,13 @@
+{
+  "id": "digital-marketing-client-director-group-head-agency",
+  "default": false,
+  "name": "Client Director / Group Head (Agency)",
+  "workspace": "~/.openclaw/agents/digital-marketing-client-director-group-head-agency/workspace",
+  "agentDir": "~/.openclaw/agents/digital-marketing-client-director-group-head-agency/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

@@ -4,11 +4,11 @@ Install-ready creator-partner-operations-focused OpenClaw agents for `industry-5
 
 ## Included agents
 
-- [i5-institution-operations-manager-platform](./i5-institution-operations-manager-platform/) — Institution Operations Manager (Platform)
-- [i5-institution-risk-coordination-manager-platform](./i5-institution-risk-coordination-manager-platform/) — Institution Risk Coordination Manager (Platform)
-- [i5-livestream-guild-operations-manager-platform](./i5-livestream-guild-operations-manager-platform/) — Livestream Guild Operations Manager (Platform)
-- [i5-mcn-partnership-development-manager-platform](./i5-mcn-partnership-development-manager-platform/) — MCN Partnership Development Manager (Platform)
-- [i5-partner-settlement-reconciliation-coordinator-platform](./i5-partner-settlement-reconciliation-coordinator-platform/) — Partner Settlement and Reconciliation Coordinator (Platform)
+- [content-platform-institution-operations-manager-platform](./content-platform-institution-operations-manager-platform/) — Institution Operations Manager (Platform)
+- [content-platform-institution-risk-coordination-manager-platform](./content-platform-institution-risk-coordination-manager-platform/) — Institution Risk Coordination Manager (Platform)
+- [content-platform-livestream-guild-operations-manager-platform](./content-platform-livestream-guild-operations-manager-platform/) — Livestream Guild Operations Manager (Platform)
+- [content-platform-mcn-partnership-development-manager-platform](./content-platform-mcn-partnership-development-manager-platform/) — MCN Partnership Development Manager (Platform)
+- [content-platform-partner-settlement-reconciliation-coordinator-platform](./content-platform-partner-settlement-reconciliation-coordinator-platform/) — Partner Settlement and Reconciliation Coordinator (Platform)
 
 ## Notes
 

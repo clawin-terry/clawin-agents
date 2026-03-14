@@ -4,10 +4,10 @@ Install-ready technical-support-focused OpenClaw agents for `industry-3-marketpl
 
 ## Included agents
 
-- [i3-account-access-support-specialist](./i3-account-access-support-specialist/) — Account and Access Support Specialist (Marketplace)
-- [i3-it-service-desk-specialist-marketplace](./i3-it-service-desk-specialist-marketplace/) — IT Service Desk Specialist (Marketplace)
-- [i3-saas-operations-specialist-marketplace](./i3-saas-operations-specialist-marketplace/) — SaaS Operations Specialist (Marketplace)
-- [i3-workplace-network-endpoint-support-specialist](./i3-workplace-network-endpoint-support-specialist/) — Workplace Network and Endpoint Support Specialist
+- [marketplace-ecommerce-account-access-support-specialist](./marketplace-ecommerce-account-access-support-specialist/) — Account and Access Support Specialist (Marketplace)
+- [marketplace-ecommerce-it-service-desk-specialist-marketplace](./marketplace-ecommerce-it-service-desk-specialist-marketplace/) — IT Service Desk Specialist (Marketplace)
+- [marketplace-ecommerce-saas-operations-specialist-marketplace](./marketplace-ecommerce-saas-operations-specialist-marketplace/) — SaaS Operations Specialist (Marketplace)
+- [marketplace-ecommerce-workplace-network-endpoint-support-specialist](./marketplace-ecommerce-workplace-network-endpoint-support-specialist/) — Workplace Network and Endpoint Support Specialist
 
 ## Notes
 

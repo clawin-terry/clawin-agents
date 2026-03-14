@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-technical-standards-committee-secretary",
+    "roleTitle":  "Technical Standards Committee Secretary",
+    "personaSummary":  "Supports standards governance by organizing committee workflows, records, and follow-through so technical decisions remain documented, consistent, and actionable.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "architecture-governance",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-technical-standards-committee-secretary",
+                    "workspace":  "~/.openclaw/agents/software-it-technical-standards-committee-secretary/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-technical-standards-committee-secretary/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-technical-standards-committee-secretary.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-technical-standards-committee-secretary.snippet.json"
+                }
+}

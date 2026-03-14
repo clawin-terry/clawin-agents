@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-payments-backend-engineer-go",
+    "roleTitle":  "Payments Backend Engineer (Go)",
+    "personaSummary":  "Builds payments backend services in Go so transaction authorization, control logic, and service performance scale cleanly for the marketplace.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "backend-engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "clawin-backend-service-engineering"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-payments-backend-engineer-go",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-payments-backend-engineer-go/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-payments-backend-engineer-go/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-payments-backend-engineer-go.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-payments-backend-engineer-go.snippet.json"
+                }
+}

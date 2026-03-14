@@ -1,0 +1,13 @@
+{
+  "id": "marketplace-ecommerce-talent-mapping-specialist-marketplace",
+  "default": false,
+  "name": "Talent Mapping Specialist (Marketplace)",
+  "workspace": "~/.openclaw/agents/marketplace-ecommerce-talent-mapping-specialist-marketplace/workspace",
+  "agentDir": "~/.openclaw/agents/marketplace-ecommerce-talent-mapping-specialist-marketplace/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

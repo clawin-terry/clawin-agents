@@ -1,0 +1,13 @@
+{
+  "id": "digital-marketing-tracking-and-tagging-engineer-javascript",
+  "default": false,
+  "name": "Tracking and Tagging Engineer (JavaScript)",
+  "workspace": "~/.openclaw/agents/digital-marketing-tracking-and-tagging-engineer-javascript/workspace",
+  "agentDir": "~/.openclaw/agents/digital-marketing-tracking-and-tagging-engineer-javascript/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

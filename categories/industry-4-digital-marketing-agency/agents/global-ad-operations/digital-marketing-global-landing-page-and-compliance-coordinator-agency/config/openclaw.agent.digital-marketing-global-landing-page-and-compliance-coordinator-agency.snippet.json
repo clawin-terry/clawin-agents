@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "digital-marketing-global-landing-page-and-compliance-coordinator-agency",
+        "default": false,
+        "name": "Global Landing Page and Compliance Coordinator (Agency)",
+        "workspace": "~/.openclaw/agents/digital-marketing-global-landing-page-and-compliance-coordinator-agency/workspace",
+        "agentDir": "~/.openclaw/agents/digital-marketing-global-landing-page-and-compliance-coordinator-agency/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

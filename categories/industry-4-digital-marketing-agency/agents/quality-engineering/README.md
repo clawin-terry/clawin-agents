@@ -4,9 +4,9 @@ Install-ready quality-engineering-focused OpenClaw agents for `industry-4-digita
 
 ## Included agents
 
-- [i4-automation-test-engineer-python](./i4-automation-test-engineer-python/) — Automation Test Engineer (Python)
-- [i4-quality-engineer-process-release-gates](./i4-quality-engineer-process-release-gates/) — Quality Engineer (Process and Release Gates)
-- [i4-test-development-engineer-javascript](./i4-test-development-engineer-javascript/) — Test Development Engineer (JavaScript)
+- [digital-marketing-automation-test-engineer-python](./digital-marketing-automation-test-engineer-python/) — Automation Test Engineer (Python)
+- [digital-marketing-quality-engineer-process-release-gates](./digital-marketing-quality-engineer-process-release-gates/) — Quality Engineer (Process and Release Gates)
+- [digital-marketing-test-development-engineer-javascript](./digital-marketing-test-development-engineer-javascript/) — Test Development Engineer (JavaScript)
 
 ## Notes
 

@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "content-platform-motion-designer",
+        "default": false,
+        "name": "Motion Designer",
+        "workspace": "~/.openclaw/agents/content-platform-motion-designer/workspace",
+        "agentDir": "~/.openclaw/agents/content-platform-motion-designer/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

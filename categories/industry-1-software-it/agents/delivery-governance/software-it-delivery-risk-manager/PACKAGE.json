@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-delivery-risk-manager",
+    "roleTitle":  "Delivery Risk Manager",
+    "personaSummary":  "Monitors delivery risk so emerging issues, dependency threats, and execution tradeoffs are surfaced early and handled deliberately.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "delivery-governance",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-delivery-risk-manager",
+                    "workspace":  "~/.openclaw/agents/software-it-delivery-risk-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-delivery-risk-manager/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-delivery-risk-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-delivery-risk-manager.snippet.json"
+                }
+}

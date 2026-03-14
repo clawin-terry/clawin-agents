@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-text-content-operations-manager-platform",
+    "roleTitle":  "Text Content Operations Manager (Platform)",
+    "personaSummary":  "Runs text-content operations so articles, captions, and community posts stay organized, discoverable, and aligned with platform content goals.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "text-community-content-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-text-content-operations-manager-platform",
+                    "workspace":  "~/.openclaw/agents/content-platform-text-content-operations-manager-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-text-content-operations-manager-platform/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-text-content-operations-manager-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-text-content-operations-manager-platform.snippet.json"
+                }
+}

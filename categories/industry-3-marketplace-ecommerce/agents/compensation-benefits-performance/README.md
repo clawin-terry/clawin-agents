@@ -4,9 +4,9 @@ Install-ready compensation-benefits-performance-focused OpenClaw agents for `ind
 
 ## Included agents
 
-- [i3-compensation-and-benefits-manager-marketplace](./i3-compensation-and-benefits-manager-marketplace/) — Compensation and Benefits Manager (Marketplace)
-- [i3-performance-manager-marketplace](./i3-performance-manager-marketplace/) — Performance Manager (Marketplace)
-- [i3-social-insurance-housing-fund-specialist](./i3-social-insurance-housing-fund-specialist/) — Social Insurance and Housing Fund Specialist (Marketplace)
+- [marketplace-ecommerce-compensation-and-benefits-manager-marketplace](./marketplace-ecommerce-compensation-and-benefits-manager-marketplace/) — Compensation and Benefits Manager (Marketplace)
+- [marketplace-ecommerce-performance-manager-marketplace](./marketplace-ecommerce-performance-manager-marketplace/) — Performance Manager (Marketplace)
+- [marketplace-ecommerce-social-insurance-housing-fund-specialist](./marketplace-ecommerce-social-insurance-housing-fund-specialist/) — Social Insurance and Housing Fund Specialist (Marketplace)
 
 ## Notes
 

@@ -4,11 +4,11 @@ Install-ready site-reliability-engineering-focused OpenClaw agents for `industry
 
 ## Included agents
 
-- [i1-capacity-cost-optimization-engineer-python](./i1-capacity-cost-optimization-engineer-python/) — Capacity and Cost Optimization Engineer (Python)
-- [i1-observability-engineer-go-python](./i1-observability-engineer-go-python/) — Observability Engineer (Go/Python)
-- [i1-on-call-incident-response-lead](./i1-on-call-incident-response-lead/) — On-Call Incident Response Lead
-- [i1-site-reliability-engineer-go-python](./i1-site-reliability-engineer-go-python/) — Site Reliability Engineer (Go/Python)
-- [i1-sre-lead](./i1-sre-lead/) — SRE Lead
+- [software-it-capacity-cost-optimization-engineer-python](./software-it-capacity-cost-optimization-engineer-python/) — Capacity and Cost Optimization Engineer (Python)
+- [software-it-observability-engineer-go-python](./software-it-observability-engineer-go-python/) — Observability Engineer (Go/Python)
+- [software-it-on-call-incident-response-lead](./software-it-on-call-incident-response-lead/) — On-Call Incident Response Lead
+- [software-it-sre-engineer-go-python](./software-it-sre-engineer-go-python/) — Site Reliability Engineer (Go/Python)
+- [software-it-sre-lead](./software-it-sre-lead/) — SRE Lead
 
 ## Notes
 

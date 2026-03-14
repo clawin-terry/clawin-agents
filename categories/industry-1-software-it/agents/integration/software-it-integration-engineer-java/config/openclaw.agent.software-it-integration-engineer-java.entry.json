@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-integration-engineer-java",
+    "default":  false,
+    "name":  "Integration Engineer (Java)",
+    "workspace":  "~/.openclaw/agents/software-it-integration-engineer-java/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-integration-engineer-java/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

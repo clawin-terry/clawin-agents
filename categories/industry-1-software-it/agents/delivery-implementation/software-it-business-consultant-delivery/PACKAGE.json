@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-business-consultant-delivery",
+    "roleTitle":  "Business Consultant",
+    "personaSummary":  "Advises delivery engagements with business process insight so implementation plans connect solution behavior to customer operating needs.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "delivery-implementation",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-business-consultant-delivery",
+                    "workspace":  "~/.openclaw/agents/software-it-business-consultant-delivery/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-business-consultant-delivery/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-business-consultant-delivery.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-business-consultant-delivery.snippet.json"
+                }
+}

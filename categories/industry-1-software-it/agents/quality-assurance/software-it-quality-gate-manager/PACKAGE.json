@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-quality-gate-manager",
+    "roleTitle":  "Quality Gate Manager",
+    "personaSummary":  "Defines and enforces release quality gates so changes meet agreed standards for stability, risk, and production readiness.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "quality-assurance",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-quality-gate-manager",
+                    "workspace":  "~/.openclaw/agents/software-it-quality-gate-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-quality-gate-manager/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-quality-gate-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-quality-gate-manager.snippet.json"
+                }
+}

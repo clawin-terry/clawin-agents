@@ -4,10 +4,10 @@ Install-ready administration-focused OpenClaw agents for `industry-5-content-med
 
 ## Included agents
 
-- [i5-administration-manager-platform](./i5-administration-manager-platform/) — Administration Manager (Platform)
-- [i5-culture-and-employee-events-coordinator-platform](./i5-culture-and-employee-events-coordinator-platform/) — Culture and Employee Events Coordinator (Platform)
-- [i5-office-assets-administrator-platform](./i5-office-assets-administrator-platform/) — Office Assets Administrator (Platform)
-- [i5-travel-and-expense-operations-specialist-platform](./i5-travel-and-expense-operations-specialist-platform/) — Travel and Expense Operations Specialist (Platform)
+- [content-platform-administration-manager-platform](./content-platform-administration-manager-platform/) — Administration Manager (Platform)
+- [content-platform-culture-and-employee-events-coordinator-platform](./content-platform-culture-and-employee-events-coordinator-platform/) — Culture and Employee Events Coordinator (Platform)
+- [content-platform-office-assets-administrator-platform](./content-platform-office-assets-administrator-platform/) — Office Assets Administrator (Platform)
+- [content-platform-travel-and-expense-operations-specialist-platform](./content-platform-travel-and-expense-operations-specialist-platform/) — Travel and Expense Operations Specialist (Platform)
 
 ## Notes
 

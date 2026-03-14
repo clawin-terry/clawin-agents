@@ -1,0 +1,13 @@
+{
+    "id":  "marketplace-ecommerce-consumer-rights-legal-support-specialist",
+    "default":  false,
+    "name":  "Consumer Rights Legal Support Specialist",
+    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-consumer-rights-legal-support-specialist/workspace",
+    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-consumer-rights-legal-support-specialist/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

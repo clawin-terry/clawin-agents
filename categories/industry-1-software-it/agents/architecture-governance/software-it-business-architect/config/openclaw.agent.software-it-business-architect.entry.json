@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-business-architect",
+    "default":  false,
+    "name":  "Business Architect",
+    "workspace":  "~/.openclaw/agents/software-it-business-architect/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-business-architect/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

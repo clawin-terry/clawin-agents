@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-pilot-operations-manager",
+    "default":  false,
+    "name":  "Pilot Operations Manager",
+    "workspace":  "~/.openclaw/agents/software-it-pilot-operations-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-pilot-operations-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

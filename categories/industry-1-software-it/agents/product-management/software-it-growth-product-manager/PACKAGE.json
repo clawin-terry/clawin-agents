@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-growth-product-manager",
+    "roleTitle":  "Growth Product Manager",
+    "personaSummary":  "Owns growth product initiatives so activation, retention, and expansion opportunities are translated into measurable product experiments and roadmap choices.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "product-management",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-growth-product-manager",
+                    "workspace":  "~/.openclaw/agents/software-it-growth-product-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-growth-product-manager/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-growth-product-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-growth-product-manager.snippet.json"
+                }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-category-data-analyst",
+    "roleTitle":  "Category Data Analyst",
+    "personaSummary":  "Analyzes category performance data to identify assortment trends, merchant issues, and practical actions that improve marketplace outcomes.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "category-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-category-data-analyst",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-category-data-analyst/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-category-data-analyst/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-category-data-analyst.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-category-data-analyst.snippet.json"
+                }
+}

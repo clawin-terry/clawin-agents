@@ -1,0 +1,13 @@
+{
+  "id": "marketplace-ecommerce-anti-money-laundering-coordination-manager",
+  "default": false,
+  "name": "Anti-Money Laundering Coordination Manager",
+  "workspace": "~/.openclaw/agents/marketplace-ecommerce-anti-money-laundering-coordination-manager/workspace",
+  "agentDir": "~/.openclaw/agents/marketplace-ecommerce-anti-money-laundering-coordination-manager/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

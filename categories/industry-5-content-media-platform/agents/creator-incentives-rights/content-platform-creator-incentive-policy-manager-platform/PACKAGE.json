@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-creator-incentive-policy-manager-platform",
+    "roleTitle":  "Creator Incentive Policy Manager (Platform)",
+    "personaSummary":  "Shapes creator incentive policies so the platform can motivate target behaviors, balance ecosystem goals, and keep incentive programs aligned with strategy.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "creator-incentives-rights",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-creator-incentive-policy-manager-platform",
+                    "workspace":  "~/.openclaw/agents/content-platform-creator-incentive-policy-manager-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-creator-incentive-policy-manager-platform/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-creator-incentive-policy-manager-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-creator-incentive-policy-manager-platform.snippet.json"
+                }
+}

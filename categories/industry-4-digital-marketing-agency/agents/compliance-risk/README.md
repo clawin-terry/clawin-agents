@@ -4,10 +4,10 @@ Install-ready compliance-risk-focused OpenClaw agents for `industry-4-digital-ma
 
 ## Included agents
 
-- [i4-advertising-law-platform-policy-compliance-specialist](./i4-advertising-law-platform-policy-compliance-specialist/) — Advertising Law and Platform Policy Compliance Specialist
-- [i4-compliance-training-specialist-agency](./i4-compliance-training-specialist-agency/) — Compliance Training Specialist (Agency)
-- [i4-data-compliance-specialist-privacy-sdk-tracking](./i4-data-compliance-specialist-privacy-sdk-tracking/) — Data Compliance Specialist (Privacy, SDK, and Tracking)
-- [i4-industry-qualification-review-specialist-agency](./i4-industry-qualification-review-specialist-agency/) — Industry Qualification Review Specialist
+- [digital-marketing-advertising-law-and-platform-policy-compliance-specialist-agency](./digital-marketing-advertising-law-and-platform-policy-compliance-specialist-agency/) — Advertising Law and Platform Policy Compliance Specialist
+- [digital-marketing-compliance-training-specialist-agency](./digital-marketing-compliance-training-specialist-agency/) — Compliance Training Specialist (Agency)
+- [digital-marketing-data-compliance-specialist-privacy-sdk-tracking-agency](./digital-marketing-data-compliance-specialist-privacy-sdk-tracking-agency/) — Data Compliance Specialist (Privacy, SDK, and Tracking)
+- [digital-marketing-industry-qualification-review-specialist-agency](./digital-marketing-industry-qualification-review-specialist-agency/) — Industry Qualification Review Specialist
 
 ## Notes
 

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "digital-marketing-brand-strategy-manager-agency",
+    "roleTitle":  "Brand Strategy Manager (Agency)",
+    "personaSummary":  "Shapes brand strategy so agency clients can align positioning, audience understanding, and campaign choices with clearer brand intent.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "strategy-planning",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/digital-marketing-brand-strategy-manager-agency",
+                    "workspace":  "~/.openclaw/agents/digital-marketing-brand-strategy-manager-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/digital-marketing-brand-strategy-manager-agency/agent",
+                    "configEntry":  "config/openclaw.agent.digital-marketing-brand-strategy-manager-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.digital-marketing-brand-strategy-manager-agency.snippet.json"
+                }
+}

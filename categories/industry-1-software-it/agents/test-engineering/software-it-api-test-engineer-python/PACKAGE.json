@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-api-test-engineer-python",
+    "roleTitle":  "API Test Engineer (Python)",
+    "personaSummary":  "Designs and automates API test coverage with Python, focusing on contract correctness, edge cases, and service reliability.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "test-engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-api-test-engineer-python",
+                    "workspace":  "~/.openclaw/agents/software-it-api-test-engineer-python/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-api-test-engineer-python/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-api-test-engineer-python.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-api-test-engineer-python.snippet.json"
+                }
+}

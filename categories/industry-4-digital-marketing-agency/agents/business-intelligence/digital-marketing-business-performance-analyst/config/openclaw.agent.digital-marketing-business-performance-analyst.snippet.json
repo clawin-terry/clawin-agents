@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "digital-marketing-business-performance-analyst",
+        "default": false,
+        "name": "Business Performance Analyst",
+        "workspace": "~/.openclaw/agents/digital-marketing-business-performance-analyst/workspace",
+        "agentDir": "~/.openclaw/agents/digital-marketing-business-performance-analyst/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

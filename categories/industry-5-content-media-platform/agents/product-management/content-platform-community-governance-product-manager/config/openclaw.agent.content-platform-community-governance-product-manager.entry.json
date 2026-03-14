@@ -1,0 +1,13 @@
+{
+    "id":  "content-platform-community-governance-product-manager",
+    "default":  false,
+    "name":  "Community Governance Product Manager",
+    "workspace":  "~/.openclaw/agents/content-platform-community-governance-product-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/content-platform-community-governance-product-manager/agent",
+    "model":  {
+                  "primary":  "mycodex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

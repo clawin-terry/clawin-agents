@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-account-integrity-strategist",
+    "roleTitle":  "Account Integrity Strategist",
+    "personaSummary":  "Shapes account-integrity strategy so abusive account behavior can be detected earlier, scored more accurately, and controlled with stronger enforcement logic.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "risk-strategy",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-account-integrity-strategist",
+                    "workspace":  "~/.openclaw/agents/content-platform-account-integrity-strategist/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-account-integrity-strategist/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-account-integrity-strategist.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-account-integrity-strategist.snippet.json"
+                }
+}

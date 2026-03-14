@@ -4,7 +4,7 @@ Install-ready process-internal-control-focused OpenClaw agents for `industry-5-c
 
 ## Included agents
 
-- [i5-internal-control-process-manager-platform](./i5-internal-control-process-manager-platform/) — Internal Control Process Manager (Platform)
+- [content-platform-internal-control-process-manager-platform](./content-platform-internal-control-process-manager-platform/) — Internal Control Process Manager (Platform)
 
 ## Notes
 

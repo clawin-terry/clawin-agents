@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "software-it-devsecops-engineer-python",
+                                    "default":  false,
+                                    "name":  "DevSecOps Engineer (Python)",
+                                    "workspace":  "~/.openclaw/agents/software-it-devsecops-engineer-python/workspace",
+                                    "agentDir":  "~/.openclaw/agents/software-it-devsecops-engineer-python/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

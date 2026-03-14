@@ -1,0 +1,13 @@
+{
+    "id":  "marketplace-ecommerce-audience-segmentation-manager",
+    "default":  false,
+    "name":  "Audience Segmentation Manager",
+    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-audience-segmentation-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-audience-segmentation-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

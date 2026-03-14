@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-agile-coach-scrum-master",
+    "roleTitle":  "Agile Coach (Scrum Master)",
+    "personaSummary":  "Coaches agile teams on planning, facilitation, and continuous improvement so delivery rhythms become healthier, more transparent, and easier to sustain.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "methodology-process",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-agile-coach-scrum-master",
+                    "workspace":  "~/.openclaw/agents/software-it-agile-coach-scrum-master/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-agile-coach-scrum-master/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-agile-coach-scrum-master.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-agile-coach-scrum-master.snippet.json"
+                }
+}

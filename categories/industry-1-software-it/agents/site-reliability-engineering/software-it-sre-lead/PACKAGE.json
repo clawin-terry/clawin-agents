@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-sre-lead",
+    "roleTitle":  "SRE Lead",
+    "personaSummary":  "Leads site reliability engineering practices for service resilience, operational excellence, incident readiness, and sustainable scaling.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "site-reliability-engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "healthcheck"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-sre-lead",
+                    "workspace":  "~/.openclaw/agents/software-it-sre-lead/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-sre-lead/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-sre-lead.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-sre-lead.snippet.json"
+                }
+}

@@ -1,0 +1,13 @@
+{
+    "id":  "content-platform-report-operations-specialist-platform",
+    "default":  false,
+    "name":  "Report Operations Specialist (Platform)",
+    "workspace":  "~/.openclaw/agents/content-platform-report-operations-specialist-platform/workspace",
+    "agentDir":  "~/.openclaw/agents/content-platform-report-operations-specialist-platform/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

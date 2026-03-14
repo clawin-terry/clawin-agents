@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-fulfillment-backend-engineer-go",
+    "roleTitle":  "Fulfillment Backend Engineer (Go)",
+    "personaSummary":  "Builds fulfillment backend services in Go so marketplace warehousing and logistics systems scale with stronger service efficiency.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "backend-engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "clawin-backend-service-engineering"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-fulfillment-backend-engineer-go",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-fulfillment-backend-engineer-go/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-fulfillment-backend-engineer-go/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-fulfillment-backend-engineer-go.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-fulfillment-backend-engineer-go.snippet.json"
+                }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-api-integration-engineer-java-go",
+    "roleTitle":  "API Integration Engineer (Java/Go)",
+    "personaSummary":  "Builds and adapts API integrations with Java and Go so system connectivity, contract handling, and implementation reliability stay strong.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "integration",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-api-integration-engineer-java-go",
+                    "workspace":  "~/.openclaw/agents/software-it-api-integration-engineer-java-go/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-api-integration-engineer-java-go/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-api-integration-engineer-java-go.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-api-integration-engineer-java-go.snippet.json"
+                }
+}

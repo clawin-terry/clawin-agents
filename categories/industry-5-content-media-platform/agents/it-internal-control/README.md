@@ -4,8 +4,8 @@ Install-ready it-internal-control-focused OpenClaw agents for `industry-5-conten
 
 ## Included agents
 
-- [i5-access-and-asset-management-specialist-platform](./i5-access-and-asset-management-specialist-platform/) — Access and Asset Management Specialist (Platform)
-- [i5-enterprise-it-support-manager-platform](./i5-enterprise-it-support-manager-platform/) — Enterprise IT Support Manager (Platform)
+- [content-platform-access-and-asset-management-specialist-platform](./content-platform-access-and-asset-management-specialist-platform/) — Access and Asset Management Specialist (Platform)
+- [content-platform-enterprise-it-support-manager-platform](./content-platform-enterprise-it-support-manager-platform/) — Enterprise IT Support Manager (Platform)
 
 ## Notes
 

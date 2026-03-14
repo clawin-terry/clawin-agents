@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "software-it-investment-manager",
+                                    "default":  false,
+                                    "name":  "Investment Manager",
+                                    "workspace":  "~/.openclaw/agents/software-it-investment-manager/workspace",
+                                    "agentDir":  "~/.openclaw/agents/software-it-investment-manager/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

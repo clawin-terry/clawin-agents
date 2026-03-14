@@ -4,11 +4,11 @@ Install-ready process-internal-control-focused OpenClaw agents for `industry-1-s
 
 ## Included agents
 
-- [i1-bpm-product-manager](./i1-bpm-product-manager/) — Process Digitization (BPM) Product Manager
-- [i1-compliance-process-specialist](./i1-compliance-process-specialist/) — Compliance Process Specialist
-- [i1-internal-control-manager](./i1-internal-control-manager/) — Internal Control Manager
-- [i1-policy-system-administrator](./i1-policy-system-administrator/) — Policy System Administrator
-- [i1-process-manager](./i1-process-manager/) — Process Manager
+- [software-it-bpm-product-manager](./software-it-bpm-product-manager/) — Process Digitization (BPM) Product Manager
+- [software-it-compliance-process-specialist](./software-it-compliance-process-specialist/) — Compliance Process Specialist
+- [software-it-internal-control-manager](./software-it-internal-control-manager/) — Internal Control Manager
+- [software-it-policy-system-administrator](./software-it-policy-system-administrator/) — Policy System Administrator
+- [software-it-process-manager](./software-it-process-manager/) — Process Manager
 
 ## Notes
 

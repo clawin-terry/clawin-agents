@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-command-center-duty-manager-platform",
+    "roleTitle":  "Command Center Duty Manager (Platform)",
+    "personaSummary":  "Runs command-center duty coverage so severe trust-and-safety events receive continuous coordination, tracking, and escalation support.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "risk-and-incident-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-command-center-duty-manager-platform",
+                    "workspace":  "~/.openclaw/agents/content-platform-command-center-duty-manager-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-command-center-duty-manager-platform/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-command-center-duty-manager-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-command-center-duty-manager-platform.snippet.json"
+                }
+}

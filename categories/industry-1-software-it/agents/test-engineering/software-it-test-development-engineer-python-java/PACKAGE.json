@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-test-development-engineer-python-java",
+    "roleTitle":  "Test Development Engineer (Python/Java)",
+    "personaSummary":  "Builds internal testing frameworks, tooling, and automation capabilities with Python and Java to improve quality efficiency at scale.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "test-engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-test-development-engineer-python-java",
+                    "workspace":  "~/.openclaw/agents/software-it-test-development-engineer-python-java/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-test-development-engineer-python-java/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-test-development-engineer-python-java.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-test-development-engineer-python-java.snippet.json"
+                }
+}

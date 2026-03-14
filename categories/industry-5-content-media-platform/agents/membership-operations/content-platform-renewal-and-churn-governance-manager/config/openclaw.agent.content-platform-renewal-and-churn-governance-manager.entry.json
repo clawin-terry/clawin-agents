@@ -1,0 +1,13 @@
+{
+  "id": "content-platform-renewal-and-churn-governance-manager",
+  "default": false,
+  "name": "Renewal and Churn Governance Manager",
+  "workspace": "~/.openclaw/agents/content-platform-renewal-and-churn-governance-manager/workspace",
+  "agentDir": "~/.openclaw/agents/content-platform-renewal-and-churn-governance-manager/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

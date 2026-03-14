@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-billing-and-settlement-engineer-java",
+    "roleTitle":  "Billing and Settlement Engineer (Java)",
+    "personaSummary":  "Builds Java billing and settlement services so advertiser charging, invoicing, and reconciliation workflows remain accurate and auditable.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "backend-engineering",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "clawin-backend-service-engineering"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-billing-and-settlement-engineer-java",
+                    "workspace":  "~/.openclaw/agents/content-platform-billing-and-settlement-engineer-java/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-billing-and-settlement-engineer-java/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-billing-and-settlement-engineer-java.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-billing-and-settlement-engineer-java.snippet.json"
+                }
+}

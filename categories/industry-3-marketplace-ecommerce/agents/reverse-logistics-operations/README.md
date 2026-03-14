@@ -4,10 +4,10 @@ Install-ready reverse-logistics-operations-focused OpenClaw agents for `industry
 
 ## Included agents
 
-- [i3-returned-goods-quality-inspection-manager](./i3-returned-goods-quality-inspection-manager/) — Returned Goods Quality Inspection Manager
-- [i3-returns-collection-operations-manager](./i3-returns-collection-operations-manager/) — Returns Collection Operations Manager
-- [i3-reverse-logistics-cost-control-manager](./i3-reverse-logistics-cost-control-manager/) — Reverse Logistics Cost Control Manager
-- [i3-secondary-sales-operations-manager](./i3-secondary-sales-operations-manager/) — Secondary Sales Operations Manager
+- [marketplace-ecommerce-returned-goods-quality-inspection-manager](./marketplace-ecommerce-returned-goods-quality-inspection-manager/) — Returned Goods Quality Inspection Manager
+- [marketplace-ecommerce-returns-collection-operations-manager](./marketplace-ecommerce-returns-collection-operations-manager/) — Returns Collection Operations Manager
+- [marketplace-ecommerce-reverse-logistics-cost-control-manager](./marketplace-ecommerce-reverse-logistics-cost-control-manager/) — Reverse Logistics Cost Control Manager
+- [marketplace-ecommerce-secondary-sales-operations-manager](./marketplace-ecommerce-secondary-sales-operations-manager/) — Secondary Sales Operations Manager
 
 ## Notes
 

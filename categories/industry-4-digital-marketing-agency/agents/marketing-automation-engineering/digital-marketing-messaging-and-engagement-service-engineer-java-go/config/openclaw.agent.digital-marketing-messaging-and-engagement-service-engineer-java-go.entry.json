@@ -1,0 +1,13 @@
+{
+  "id": "digital-marketing-messaging-and-engagement-service-engineer-java-go",
+  "default": false,
+  "name": "Messaging and Engagement Service Engineer (Java/Go)",
+  "workspace": "~/.openclaw/agents/digital-marketing-messaging-and-engagement-service-engineer-java-go/workspace",
+  "agentDir": "~/.openclaw/agents/digital-marketing-messaging-and-engagement-service-engineer-java-go/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

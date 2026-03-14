@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-llm-application-engineer-python",
+    "roleTitle":  "LLM Application Engineer (Python)",
+    "personaSummary":  "Builds LLM-powered applications with Python, improving prompt workflows, evaluation quality, and production usefulness for real user tasks.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "machine-learning",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-llm-application-engineer-python",
+                    "workspace":  "~/.openclaw/agents/software-it-llm-application-engineer-python/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-llm-application-engineer-python/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-llm-application-engineer-python.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-llm-application-engineer-python.snippet.json"
+                }
+}

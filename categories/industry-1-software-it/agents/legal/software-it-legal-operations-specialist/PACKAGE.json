@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-legal-operations-specialist",
+    "roleTitle":  "Legal Operations Specialist (Registers / Company Seals)",
+    "personaSummary":  "Runs legal operations administration so registers, approvals, company seals, and supporting records remain accurate, controlled, and easy to audit.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "legal",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-legal-operations-specialist",
+                    "workspace":  "~/.openclaw/agents/software-it-legal-operations-specialist/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-legal-operations-specialist/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-legal-operations-specialist.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-legal-operations-specialist.snippet.json"
+                }
+}

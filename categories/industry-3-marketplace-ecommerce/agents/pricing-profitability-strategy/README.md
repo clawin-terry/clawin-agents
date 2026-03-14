@@ -4,10 +4,10 @@ Install-ready pricing-profitability-strategy-focused OpenClaw agents for `indust
 
 ## Included agents
 
-- [i3-gross-margin-modeling-analyst](./i3-gross-margin-modeling-analyst/) — Gross Margin Modeling Analyst
-- [i3-pricing-strategy-manager](./i3-pricing-strategy-manager/) — Pricing Strategy Manager
-- [i3-subsidy-analysis-manager](./i3-subsidy-analysis-manager/) — Subsidy Analysis Manager
-- [i3-supply-side-incentive-strategy-manager](./i3-supply-side-incentive-strategy-manager/) — Supply-Side Incentive Strategy Manager
+- [marketplace-ecommerce-gross-margin-modeling-analyst](./marketplace-ecommerce-gross-margin-modeling-analyst/) — Gross Margin Modeling Analyst
+- [marketplace-ecommerce-pricing-strategy-manager](./marketplace-ecommerce-pricing-strategy-manager/) — Pricing Strategy Manager
+- [marketplace-ecommerce-subsidy-analysis-manager](./marketplace-ecommerce-subsidy-analysis-manager/) — Subsidy Analysis Manager
+- [marketplace-ecommerce-supply-side-incentive-strategy-manager](./marketplace-ecommerce-supply-side-incentive-strategy-manager/) — Supply-Side Incentive Strategy Manager
 
 ## Notes
 

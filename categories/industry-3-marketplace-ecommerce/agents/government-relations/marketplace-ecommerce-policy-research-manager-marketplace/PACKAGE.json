@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-policy-research-manager-marketplace",
+    "roleTitle":  "Policy Research Manager (Marketplace)",
+    "personaSummary":  "Leads policy research so marketplace teams can understand regulatory shifts, external signals, and public-sector implications earlier and more clearly.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "government-relations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-policy-research-manager-marketplace",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-policy-research-manager-marketplace/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-policy-research-manager-marketplace/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-policy-research-manager-marketplace.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-policy-research-manager-marketplace.snippet.json"
+                }
+}

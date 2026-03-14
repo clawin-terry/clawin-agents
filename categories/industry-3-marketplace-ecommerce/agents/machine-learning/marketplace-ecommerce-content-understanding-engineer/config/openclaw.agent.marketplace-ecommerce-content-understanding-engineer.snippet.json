@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "marketplace-ecommerce-content-understanding-engineer",
+        "default": false,
+        "name": "Content Understanding Engineer",
+        "workspace": "~/.openclaw/agents/marketplace-ecommerce-content-understanding-engineer/workspace",
+        "agentDir": "~/.openclaw/agents/marketplace-ecommerce-content-understanding-engineer/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

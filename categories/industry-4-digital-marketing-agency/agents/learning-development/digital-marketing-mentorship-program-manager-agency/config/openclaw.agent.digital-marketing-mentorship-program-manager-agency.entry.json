@@ -1,0 +1,13 @@
+{
+  "id": "digital-marketing-mentorship-program-manager-agency",
+  "default": false,
+  "name": "Mentorship Program Manager (Agency)",
+  "workspace": "~/.openclaw/agents/digital-marketing-mentorship-program-manager-agency/workspace",
+  "agentDir": "~/.openclaw/agents/digital-marketing-mentorship-program-manager-agency/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

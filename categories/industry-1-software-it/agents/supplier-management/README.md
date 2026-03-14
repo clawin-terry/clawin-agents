@@ -4,10 +4,10 @@ Install-ready supplier-management-focused OpenClaw agents for `industry-1-softwa
 
 ## Included agents
 
-- [i1-contract-performance-specialist](./i1-contract-performance-specialist/) — Contract Performance Specialist
-- [i1-supplier-management-manager](./i1-supplier-management-manager/) — Supplier Management Manager
-- [i1-supplier-qcd-performance-specialist](./i1-supplier-qcd-performance-specialist/) — Supplier QCD Performance Specialist
-- [i1-supplier-risk-specialist](./i1-supplier-risk-specialist/) — Supplier Risk Specialist
+- [software-it-contract-performance-specialist](./software-it-contract-performance-specialist/) — Contract Performance Specialist
+- [software-it-supplier-management-manager](./software-it-supplier-management-manager/) — Supplier Management Manager
+- [software-it-supplier-qcd-performance-specialist](./software-it-supplier-qcd-performance-specialist/) — Supplier QCD Performance Specialist
+- [software-it-supplier-risk-specialist](./software-it-supplier-risk-specialist/) — Supplier Risk Specialist
 
 ## Notes
 

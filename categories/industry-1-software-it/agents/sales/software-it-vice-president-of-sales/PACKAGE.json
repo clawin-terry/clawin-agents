@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-vice-president-of-sales",
+    "roleTitle":  "Vice President of Sales",
+    "personaSummary":  "Leads sales strategy, team performance, and commercial execution across segments so revenue plans convert into disciplined field action.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "sales",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-vice-president-of-sales",
+                    "workspace":  "~/.openclaw/agents/software-it-vice-president-of-sales/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-vice-president-of-sales/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-vice-president-of-sales.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-vice-president-of-sales.snippet.json"
+                }
+}

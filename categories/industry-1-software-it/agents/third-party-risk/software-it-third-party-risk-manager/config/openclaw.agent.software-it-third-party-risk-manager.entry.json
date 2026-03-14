@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-third-party-risk-manager",
+    "default":  false,
+    "name":  "Third-Party Risk Manager",
+    "workspace":  "~/.openclaw/agents/software-it-third-party-risk-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-third-party-risk-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

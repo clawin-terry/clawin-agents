@@ -4,10 +4,10 @@ Install-ready data-engineering-focused OpenClaw agents for `industry-4-digital-m
 
 ## Included agents
 
-- [i4-data-engineer-python-sql](./i4-data-engineer-python-sql/) — Data Engineer (Python/SQL)
-- [i4-data-modeling-engineer-sql](./i4-data-modeling-engineer-sql/) — Data Modeling Engineer (SQL)
-- [i4-data-warehouse-engineer-sql](./i4-data-warehouse-engineer-sql/) — Data Warehouse Engineer (SQL)
-- [i4-etl-engineer-python](./i4-etl-engineer-python/) — ETL Engineer (Python)
+- [digital-marketing-data-engineer-python-sql](./digital-marketing-data-engineer-python-sql/) — Data Engineer (Python/SQL)
+- [digital-marketing-data-modeling-engineer-sql](./digital-marketing-data-modeling-engineer-sql/) — Data Modeling Engineer (SQL)
+- [digital-marketing-data-warehouse-engineer-sql](./digital-marketing-data-warehouse-engineer-sql/) — Data Warehouse Engineer (SQL)
+- [digital-marketing-etl-engineer-python](./digital-marketing-etl-engineer-python/) — ETL Engineer (Python)
 
 ## Notes
 

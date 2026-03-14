@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "software-it-office-space-workstation-manager",
+                                    "default":  false,
+                                    "name":  "Office Space and Workstation Manager",
+                                    "workspace":  "~/.openclaw/agents/software-it-office-space-workstation-manager/workspace",
+                                    "agentDir":  "~/.openclaw/agents/software-it-office-space-workstation-manager/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

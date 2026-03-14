@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "content-platform-misinformation-conflict-content-specialist-platform",
+        "default": false,
+        "name": "Misinformation and Conflict Content Specialist (Platform)",
+        "workspace": "~/.openclaw/agents/content-platform-misinformation-conflict-content-specialist-platform/workspace",
+        "agentDir": "~/.openclaw/agents/content-platform-misinformation-conflict-content-specialist-platform/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

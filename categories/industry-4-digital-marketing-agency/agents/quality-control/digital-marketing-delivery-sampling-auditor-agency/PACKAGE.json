@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "digital-marketing-delivery-sampling-auditor-agency",
+    "roleTitle":  "Delivery Sampling Auditor (Agency)",
+    "personaSummary":  "Performs spot audits on delivery work so agency teams can catch execution issues, verify standards, and improve consistency with evidence.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "quality-control",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/digital-marketing-delivery-sampling-auditor-agency",
+                    "workspace":  "~/.openclaw/agents/digital-marketing-delivery-sampling-auditor-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/digital-marketing-delivery-sampling-auditor-agency/agent",
+                    "configEntry":  "config/openclaw.agent.digital-marketing-delivery-sampling-auditor-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.digital-marketing-delivery-sampling-auditor-agency.snippet.json"
+                }
+}

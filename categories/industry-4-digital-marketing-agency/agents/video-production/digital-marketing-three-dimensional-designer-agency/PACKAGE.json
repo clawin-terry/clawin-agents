@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "digital-marketing-three-dimensional-designer-agency",
+    "roleTitle":  "Three-Dimensional Designer (Agency)",
+    "personaSummary":  "Designs 3D visual elements so agency video and campaign assets can incorporate richer product scenes, motion treatments, and immersive creative support.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "video-production",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/digital-marketing-three-dimensional-designer-agency",
+                    "workspace":  "~/.openclaw/agents/digital-marketing-three-dimensional-designer-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/digital-marketing-three-dimensional-designer-agency/agent",
+                    "configEntry":  "config/openclaw.agent.digital-marketing-three-dimensional-designer-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.digital-marketing-three-dimensional-designer-agency.snippet.json"
+                }
+}

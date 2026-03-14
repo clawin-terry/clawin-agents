@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "digital-marketing-new-media-operations-specialist-agency",
+    "roleTitle":  "New Media Operations Specialist (Agency)",
+    "personaSummary":  "Runs new-media content operations so agency teams can publish consistently, adapt platform formats, and keep campaign calendars moving.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "content-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/digital-marketing-new-media-operations-specialist-agency",
+                    "workspace":  "~/.openclaw/agents/digital-marketing-new-media-operations-specialist-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/digital-marketing-new-media-operations-specialist-agency/agent",
+                    "configEntry":  "config/openclaw.agent.digital-marketing-new-media-operations-specialist-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.digital-marketing-new-media-operations-specialist-agency.snippet.json"
+                }
+}

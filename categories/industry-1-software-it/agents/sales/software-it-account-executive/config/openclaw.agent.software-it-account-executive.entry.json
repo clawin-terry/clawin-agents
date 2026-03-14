@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-account-executive",
+    "default":  false,
+    "name":  "Account Executive",
+    "workspace":  "~/.openclaw/agents/software-it-account-executive/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-account-executive/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

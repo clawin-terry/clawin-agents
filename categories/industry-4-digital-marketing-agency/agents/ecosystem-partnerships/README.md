@@ -4,9 +4,9 @@ Install-ready ecosystem-partnerships-focused OpenClaw agents for `industry-4-dig
 
 ## Included agents
 
-- [i4-agency-and-distribution-partner-manager-agency](./i4-agency-and-distribution-partner-manager-agency/) — Agency and Distribution Partner Manager (Agency)
-- [i4-co-marketing-manager-agency](./i4-co-marketing-manager-agency/) — Co-Marketing Manager (Agency)
-- [i4-platform-partnerships-manager-agency](./i4-platform-partnerships-manager-agency/) — Platform Partnerships Manager (Agency)
+- [digital-marketing-agency-and-distribution-partner-manager-agency](./digital-marketing-agency-and-distribution-partner-manager-agency/) — Agency and Distribution Partner Manager (Agency)
+- [digital-marketing-co-marketing-manager-agency](./digital-marketing-co-marketing-manager-agency/) — Co-Marketing Manager (Agency)
+- [digital-marketing-platform-partnerships-manager-agency](./digital-marketing-platform-partnerships-manager-agency/) — Platform Partnerships Manager (Agency)
 
 ## Notes
 

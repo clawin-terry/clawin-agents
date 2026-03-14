@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "digital-marketing-organization-development-manager-agency",
+        "default": false,
+        "name": "Organization Development Manager (Agency)",
+        "workspace": "~/.openclaw/agents/digital-marketing-organization-development-manager-agency/workspace",
+        "agentDir": "~/.openclaw/agents/digital-marketing-organization-development-manager-agency/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-review-workforce-capacity-manager-platform",
+    "roleTitle":  "Review Workforce Capacity Manager (Platform)",
+    "personaSummary":  "Manages reviewer scheduling and capacity so moderation queues are covered with better throughput, staffing balance, and service stability.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "video-review-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-review-workforce-capacity-manager-platform",
+                    "workspace":  "~/.openclaw/agents/content-platform-review-workforce-capacity-manager-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-review-workforce-capacity-manager-platform/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-review-workforce-capacity-manager-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-review-workforce-capacity-manager-platform.snippet.json"
+                }
+}

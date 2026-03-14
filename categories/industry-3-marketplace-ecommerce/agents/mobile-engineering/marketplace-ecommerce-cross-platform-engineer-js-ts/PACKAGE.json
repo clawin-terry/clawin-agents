@@ -1,0 +1,23 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-cross-platform-engineer-js-ts",
+    "roleTitle":  "Cross-Platform Engineer (JS/TS)",
+    "personaSummary":  "Builds cross-platform marketplace client experiences with a JavaScript and TypeScript stack, balancing shared velocity with product quality and maintainability.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "mobile-engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "clawin-mobile-engineering",
+                          "clawin-native-client-engineering"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-cross-platform-engineer-js-ts",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-cross-platform-engineer-js-ts/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-cross-platform-engineer-js-ts/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-cross-platform-engineer-js-ts.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-cross-platform-engineer-js-ts.snippet.json"
+                }
+}

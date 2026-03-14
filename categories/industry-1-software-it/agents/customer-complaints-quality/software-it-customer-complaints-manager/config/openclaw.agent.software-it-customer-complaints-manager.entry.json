@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-customer-complaints-manager",
+    "default":  false,
+    "name":  "Customer Complaints Manager",
+    "workspace":  "~/.openclaw/agents/software-it-customer-complaints-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-customer-complaints-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

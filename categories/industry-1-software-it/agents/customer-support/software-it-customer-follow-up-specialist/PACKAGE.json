@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-customer-follow-up-specialist",
+    "roleTitle":  "Customer Follow-Up Specialist",
+    "personaSummary":  "Runs post-case customer follow-up so feedback, satisfaction signals, and service recovery actions are captured consistently.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "customer-support",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-customer-follow-up-specialist",
+                    "workspace":  "~/.openclaw/agents/software-it-customer-follow-up-specialist/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-customer-follow-up-specialist/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-customer-follow-up-specialist.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-customer-follow-up-specialist.snippet.json"
+                }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "digital-marketing-budget-management-specialist-agency",
+  "default": false,
+  "name": "Budget Management Specialist",
+  "workspace": "~/.openclaw/agents/digital-marketing-budget-management-specialist-agency/workspace",
+  "agentDir": "~/.openclaw/agents/digital-marketing-budget-management-specialist-agency/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

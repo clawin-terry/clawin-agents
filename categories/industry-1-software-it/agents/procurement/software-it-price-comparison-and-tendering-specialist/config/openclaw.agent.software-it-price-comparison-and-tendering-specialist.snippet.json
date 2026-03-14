@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "software-it-price-comparison-and-tendering-specialist",
+                                    "default":  false,
+                                    "name":  "Price Comparison and Tendering Specialist",
+                                    "workspace":  "~/.openclaw/agents/software-it-price-comparison-and-tendering-specialist/workspace",
+                                    "agentDir":  "~/.openclaw/agents/software-it-price-comparison-and-tendering-specialist/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "marketplace-ecommerce-rules-education-manager",
+  "default": false,
+  "name": "Rules Education Manager",
+  "workspace": "~/.openclaw/agents/marketplace-ecommerce-rules-education-manager/workspace",
+  "agentDir": "~/.openclaw/agents/marketplace-ecommerce-rules-education-manager/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

@@ -1,0 +1,13 @@
+{
+    "id":  "content-platform-monitoring-alerting-and-capacity-planning-engineer",
+    "default":  false,
+    "name":  "Monitoring, Alerting, and Capacity Planning Engineer",
+    "workspace":  "~/.openclaw/agents/content-platform-monitoring-alerting-and-capacity-planning-engineer/workspace",
+    "agentDir":  "~/.openclaw/agents/content-platform-monitoring-alerting-and-capacity-planning-engineer/agent",
+    "model":  {
+                  "primary":  "mycodex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

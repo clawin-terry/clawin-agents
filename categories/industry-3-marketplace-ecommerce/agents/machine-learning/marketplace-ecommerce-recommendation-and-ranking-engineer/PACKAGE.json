@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-recommendation-and-ranking-engineer",
+    "roleTitle":  "Recommendation and Ranking Engineer",
+    "personaSummary":  "Builds recommendation and ranking systems so marketplace users receive more relevant products and content with measurable quality gains.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "machine-learning",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-recommendation-and-ranking-engineer",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-recommendation-and-ranking-engineer/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-recommendation-and-ranking-engineer/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-recommendation-and-ranking-engineer.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-recommendation-and-ranking-engineer.snippet.json"
+                }
+}

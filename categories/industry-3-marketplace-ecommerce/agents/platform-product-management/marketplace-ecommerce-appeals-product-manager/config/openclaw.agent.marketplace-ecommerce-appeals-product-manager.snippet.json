@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "marketplace-ecommerce-appeals-product-manager",
+        "default": false,
+        "name": "Appeals Product Manager",
+        "workspace": "~/.openclaw/agents/marketplace-ecommerce-appeals-product-manager/workspace",
+        "agentDir": "~/.openclaw/agents/marketplace-ecommerce-appeals-product-manager/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

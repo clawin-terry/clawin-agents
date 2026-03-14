@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-nlp-engineer-python",
+    "roleTitle":  "NLP Engineer (Python)",
+    "personaSummary":  "Builds natural language processing systems with Python, focusing on robust language understanding, evaluation quality, and practical product integration.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "machine-learning",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-nlp-engineer-python",
+                    "workspace":  "~/.openclaw/agents/software-it-nlp-engineer-python/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-nlp-engineer-python/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-nlp-engineer-python.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-nlp-engineer-python.snippet.json"
+                }
+}

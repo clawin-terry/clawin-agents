@@ -1,0 +1,13 @@
+{
+  "id": "marketplace-ecommerce-platform-partnership-business-development-manager",
+  "default": false,
+  "name": "Platform Partnership Business Development Manager",
+  "workspace": "~/.openclaw/agents/marketplace-ecommerce-platform-partnership-business-development-manager/workspace",
+  "agentDir": "~/.openclaw/agents/marketplace-ecommerce-platform-partnership-business-development-manager/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

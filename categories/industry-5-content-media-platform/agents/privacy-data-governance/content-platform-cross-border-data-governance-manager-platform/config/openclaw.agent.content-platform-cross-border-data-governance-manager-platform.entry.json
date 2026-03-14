@@ -1,0 +1,13 @@
+{
+    "id":  "content-platform-cross-border-data-governance-manager-platform",
+    "default":  false,
+    "name":  "Cross-Border Data Governance Manager (Platform)",
+    "workspace":  "~/.openclaw/agents/content-platform-cross-border-data-governance-manager-platform/workspace",
+    "agentDir":  "~/.openclaw/agents/content-platform-cross-border-data-governance-manager-platform/agent",
+    "model":  {
+                  "primary":  "mycodex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

@@ -4,11 +4,11 @@ Install-ready business-development-focused OpenClaw agents for `industry-1-softw
 
 ## Included agents
 
-- [i1-business-development-director](./i1-business-development-director/) — Business Development Director
-- [i1-commercial-contract-manager](./i1-commercial-contract-manager/) — Commercial Contract Manager
-- [i1-ecosystem-operations-manager](./i1-ecosystem-operations-manager/) — Ecosystem Operations Manager
-- [i1-joint-solutions-manager](./i1-joint-solutions-manager/) — Joint Solutions Manager
-- [i1-strategic-partnership-manager](./i1-strategic-partnership-manager/) — Strategic Partnership Manager
+- [software-it-business-development-director](./software-it-business-development-director/) — Business Development Director
+- [software-it-commercial-contract-manager](./software-it-commercial-contract-manager/) — Commercial Contract Manager
+- [software-it-ecosystem-operations-manager](./software-it-ecosystem-operations-manager/) — Ecosystem Operations Manager
+- [software-it-joint-solutions-manager](./software-it-joint-solutions-manager/) — Joint Solutions Manager
+- [software-it-strategic-partnership-manager](./software-it-strategic-partnership-manager/) — Strategic Partnership Manager
 
 ## Notes
 

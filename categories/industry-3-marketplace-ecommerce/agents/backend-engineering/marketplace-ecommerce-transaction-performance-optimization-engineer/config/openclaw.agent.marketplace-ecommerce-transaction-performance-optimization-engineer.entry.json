@@ -1,0 +1,13 @@
+{
+    "id":  "marketplace-ecommerce-transaction-performance-optimization-engineer",
+    "default":  false,
+    "name":  "Transaction Performance Optimization Engineer",
+    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-transaction-performance-optimization-engineer/workspace",
+    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-transaction-performance-optimization-engineer/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

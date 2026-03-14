@@ -1,0 +1,13 @@
+{
+    "id":  "marketplace-ecommerce-live-subsidy-and-incentives-manager",
+    "default":  false,
+    "name":  "Live Subsidy and Incentives Manager",
+    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-live-subsidy-and-incentives-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-live-subsidy-and-incentives-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

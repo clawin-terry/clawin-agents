@@ -4,10 +4,10 @@ Install-ready membership-operations-focused OpenClaw agents for `industry-3-mark
 
 ## Included agents
 
-- [i3-benefits-design-operations-manager](./i3-benefits-design-operations-manager/) — Benefits Design Operations Manager
-- [i3-member-campaign-operations-manager](./i3-member-campaign-operations-manager/) — Member Campaign Operations Manager
-- [i3-membership-program-operations-manager](./i3-membership-program-operations-manager/) — Membership Program Operations Manager
-- [i3-points-and-tier-operations-manager](./i3-points-and-tier-operations-manager/) — Points and Tier Operations Manager
+- [marketplace-ecommerce-benefits-design-operations-manager](./marketplace-ecommerce-benefits-design-operations-manager/) — Benefits Design Operations Manager
+- [marketplace-ecommerce-member-campaign-operations-manager](./marketplace-ecommerce-member-campaign-operations-manager/) — Member Campaign Operations Manager
+- [marketplace-ecommerce-membership-program-operations-manager](./marketplace-ecommerce-membership-program-operations-manager/) — Membership Program Operations Manager
+- [marketplace-ecommerce-points-and-tier-operations-manager](./marketplace-ecommerce-points-and-tier-operations-manager/) — Points and Tier Operations Manager
 
 ## Notes
 

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-algorithm-engineer-python",
+    "roleTitle":  "Algorithm Engineer (Python)",
+    "personaSummary":  "Builds recommendation and search-related algorithmic solutions with Python so marketplace ranking quality and user matching keep improving.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "machine-learning",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-algorithm-engineer-python",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-algorithm-engineer-python/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-algorithm-engineer-python/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-algorithm-engineer-python.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-algorithm-engineer-python.snippet.json"
+                }
+}

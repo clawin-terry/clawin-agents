@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-supplier-qcd-performance-specialist",
+    "default":  false,
+    "name":  "Supplier QCD Performance Specialist",
+    "workspace":  "~/.openclaw/agents/software-it-supplier-qcd-performance-specialist/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-supplier-qcd-performance-specialist/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-data-warehouse-modeling-engineer",
+    "roleTitle":  "Data Warehouse Modeling Engineer",
+    "personaSummary":  "Designs marketplace data warehouse models so core business entities, metrics, and reporting structures stay consistent and analyzable.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "data-engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-data-warehouse-modeling-engineer",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-data-warehouse-modeling-engineer/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-data-warehouse-modeling-engineer/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-data-warehouse-modeling-engineer.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-data-warehouse-modeling-engineer.snippet.json"
+                }
+}

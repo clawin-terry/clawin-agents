@@ -4,10 +4,10 @@ Install-ready sales-focused OpenClaw agents for `industry-3-marketplace-ecommerc
 
 ## Included agents
 
-- [i3-advertising-sales-manager](./i3-advertising-sales-manager/) — Advertising Sales Manager
-- [i3-channel-agency-management-manager](./i3-channel-agency-management-manager/) — Channel Agency Management Manager
-- [i3-industry-sales-manager](./i3-industry-sales-manager/) — Industry Sales Manager
-- [i3-renewals-and-upsell-manager](./i3-renewals-and-upsell-manager/) — Renewals and Upsell Manager
+- [marketplace-ecommerce-advertising-sales-manager](./marketplace-ecommerce-advertising-sales-manager/) — Advertising Sales Manager
+- [marketplace-ecommerce-channel-agency-management-manager](./marketplace-ecommerce-channel-agency-management-manager/) — Channel Agency Management Manager
+- [marketplace-ecommerce-industry-sales-manager](./marketplace-ecommerce-industry-sales-manager/) — Industry Sales Manager
+- [marketplace-ecommerce-renewals-and-upsell-manager](./marketplace-ecommerce-renewals-and-upsell-manager/) — Renewals and Upsell Manager
 
 ## Notes
 

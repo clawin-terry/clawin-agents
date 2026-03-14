@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-returns-and-aftersales-product-manager",
+    "roleTitle":  "Returns and Aftersales Product Manager",
+    "personaSummary":  "Owns returns and aftersales product experiences so refund, exchange, and support workflows stay clear, fair, and operationally efficient.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "platform-product-management",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-returns-and-aftersales-product-manager",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-returns-and-aftersales-product-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-returns-and-aftersales-product-manager/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-returns-and-aftersales-product-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-returns-and-aftersales-product-manager.snippet.json"
+                }
+}

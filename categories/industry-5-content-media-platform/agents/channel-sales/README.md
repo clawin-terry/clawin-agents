@@ -4,10 +4,10 @@ Install-ready channel-sales-focused OpenClaw agents for `industry-5-content-medi
 
 ## Included agents
 
-- [i5-agency-partner-manager](./i5-agency-partner-manager/) — Agency Partner Manager
-- [i5-agency-performance-manager](./i5-agency-performance-manager/) — Agency Performance Manager
-- [i5-channel-policy-manager](./i5-channel-policy-manager/) — Channel Policy Manager
-- [i5-partner-enablement-manager](./i5-partner-enablement-manager/) — Partner Enablement Manager
+- [content-platform-agency-partner-manager](./content-platform-agency-partner-manager/) — Agency Partner Manager
+- [content-platform-agency-performance-manager](./content-platform-agency-performance-manager/) — Agency Performance Manager
+- [content-platform-channel-policy-manager](./content-platform-channel-policy-manager/) — Channel Policy Manager
+- [content-platform-partner-enablement-manager](./content-platform-partner-enablement-manager/) — Partner Enablement Manager
 
 ## Notes
 

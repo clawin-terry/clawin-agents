@@ -1,0 +1,13 @@
+{
+  "id": "marketplace-ecommerce-inbound-putaway-operations-manager",
+  "default": false,
+  "name": "Inbound and Putaway Operations Manager",
+  "workspace": "~/.openclaw/agents/marketplace-ecommerce-inbound-putaway-operations-manager/workspace",
+  "agentDir": "~/.openclaw/agents/marketplace-ecommerce-inbound-putaway-operations-manager/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

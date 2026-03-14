@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-experiment-design-and-guardrail-metrics-manager",
+    "roleTitle":  "Experiment Design and Guardrail Metrics Manager",
+    "personaSummary":  "Designs experiment frameworks and guardrail metrics so product and growth teams can evaluate change impact without losing quality and risk visibility.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "business-intelligence",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-experiment-design-and-guardrail-metrics-manager",
+                    "workspace":  "~/.openclaw/agents/content-platform-experiment-design-and-guardrail-metrics-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-experiment-design-and-guardrail-metrics-manager/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-experiment-design-and-guardrail-metrics-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-experiment-design-and-guardrail-metrics-manager.snippet.json"
+                }
+}

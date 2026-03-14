@@ -4,9 +4,9 @@ Install-ready advertising-operations-focused OpenClaw agents for `industry-5-con
 
 ## Included agents
 
-- [i5-advertising-product-operations-manager](./i5-advertising-product-operations-manager/) — Advertising Product Operations Manager
-- [i5-campaign-strategy-operations-manager](./i5-campaign-strategy-operations-manager/) — Campaign Strategy Operations Manager
-- [i5-industry-operations-manager](./i5-industry-operations-manager/) — Industry Operations Manager
+- [content-platform-advertising-product-operations-manager](./content-platform-advertising-product-operations-manager/) — Advertising Product Operations Manager
+- [content-platform-campaign-strategy-operations-manager](./content-platform-campaign-strategy-operations-manager/) — Campaign Strategy Operations Manager
+- [content-platform-industry-operations-manager](./content-platform-industry-operations-manager/) — Industry Operations Manager
 
 ## Notes
 

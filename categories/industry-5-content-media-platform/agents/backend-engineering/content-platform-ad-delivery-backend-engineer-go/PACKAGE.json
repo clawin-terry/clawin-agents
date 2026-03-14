@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-ad-delivery-backend-engineer-go",
+    "roleTitle":  "Ad Delivery Backend Engineer (Go)",
+    "personaSummary":  "Builds Go backend systems for ad delivery so campaign serving stays reliable, scalable, and responsive under production traffic.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "backend-engineering",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "clawin-backend-service-engineering"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-ad-delivery-backend-engineer-go",
+                    "workspace":  "~/.openclaw/agents/content-platform-ad-delivery-backend-engineer-go/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-ad-delivery-backend-engineer-go/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-ad-delivery-backend-engineer-go.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-ad-delivery-backend-engineer-go.snippet.json"
+                }
+}

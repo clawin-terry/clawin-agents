@@ -4,12 +4,12 @@ Install-ready content-operations-focused OpenClaw agents for `industry-4-digital
 
 ## Included agents
 
-- [i4-content-asset-library-operator-agency](./i4-content-asset-library-operator-agency/) — Content Asset Library Operator (Agency)
-- [i4-content-operations-lead-agency](./i4-content-operations-lead-agency/) — Content Operations Lead (Agency)
-- [i4-content-planner-agency](./i4-content-planner-agency/) — Content Planner (Agency)
-- [i4-editor-and-staff-writer-agency](./i4-editor-and-staff-writer-agency/) — Editor and Staff Writer (Agency)
-- [i4-new-media-operations-specialist-agency](./i4-new-media-operations-specialist-agency/) — New Media Operations Specialist (Agency)
-- [i4-topic-and-trend-operations-specialist-agency](./i4-topic-and-trend-operations-specialist-agency/) — Topic and Trend Operations Specialist (Agency)
+- [digital-marketing-content-asset-library-operator-agency](./digital-marketing-content-asset-library-operator-agency/) — Content Asset Library Operator (Agency)
+- [digital-marketing-content-operations-lead-agency](./digital-marketing-content-operations-lead-agency/) — Content Operations Lead (Agency)
+- [digital-marketing-content-planner-agency](./digital-marketing-content-planner-agency/) — Content Planner (Agency)
+- [digital-marketing-editor-and-staff-writer-agency](./digital-marketing-editor-and-staff-writer-agency/) — Editor and Staff Writer (Agency)
+- [digital-marketing-new-media-operations-specialist-agency](./digital-marketing-new-media-operations-specialist-agency/) — New Media Operations Specialist (Agency)
+- [digital-marketing-topic-and-trend-operations-specialist-agency](./digital-marketing-topic-and-trend-operations-specialist-agency/) — Topic and Trend Operations Specialist (Agency)
 
 ## Notes
 

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-appeals-guidance-specialist",
+    "roleTitle":  "Appeals Guidance Specialist",
+    "personaSummary":  "Guides merchants through appeals so cases are prepared more clearly and resolved with stronger procedural consistency.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "merchant-violation-governance",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-appeals-guidance-specialist",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-appeals-guidance-specialist/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-appeals-guidance-specialist/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-appeals-guidance-specialist.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-appeals-guidance-specialist.snippet.json"
+                }
+}

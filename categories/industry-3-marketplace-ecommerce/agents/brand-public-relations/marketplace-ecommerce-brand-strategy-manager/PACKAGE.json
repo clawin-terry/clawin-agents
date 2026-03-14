@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-brand-strategy-manager",
+    "roleTitle":  "Brand Strategy Manager",
+    "personaSummary":  "Leads brand strategy so marketplace positioning, message hierarchy, and campaign direction stay coherent across user-facing programs.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "brand-public-relations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-brand-strategy-manager",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-brand-strategy-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-brand-strategy-manager/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-brand-strategy-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-brand-strategy-manager.snippet.json"
+                }
+}

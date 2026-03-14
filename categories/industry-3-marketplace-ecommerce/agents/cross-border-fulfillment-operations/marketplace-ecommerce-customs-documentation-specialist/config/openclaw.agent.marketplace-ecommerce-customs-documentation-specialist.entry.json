@@ -1,0 +1,13 @@
+{
+    "id":  "marketplace-ecommerce-customs-documentation-specialist",
+    "default":  false,
+    "name":  "Customs Documentation Specialist",
+    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-customs-documentation-specialist/workspace",
+    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-customs-documentation-specialist/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

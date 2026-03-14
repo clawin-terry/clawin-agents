@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-community-operations-manager",
+    "roleTitle":  "Community Operations Manager",
+    "personaSummary":  "Runs community operations so participation, moderation, and engagement programs support a healthy and useful external ecosystem.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "ecosystem-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-community-operations-manager",
+                    "workspace":  "~/.openclaw/agents/software-it-community-operations-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-community-operations-manager/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-community-operations-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-community-operations-manager.snippet.json"
+                }
+}

@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "marketplace-ecommerce-gross-margin-modeling-analyst",
+        "default": false,
+        "name": "Gross Margin Modeling Analyst",
+        "workspace": "~/.openclaw/agents/marketplace-ecommerce-gross-margin-modeling-analyst/workspace",
+        "agentDir": "~/.openclaw/agents/marketplace-ecommerce-gross-margin-modeling-analyst/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

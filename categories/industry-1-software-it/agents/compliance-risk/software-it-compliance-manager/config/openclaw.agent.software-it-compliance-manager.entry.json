@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-compliance-manager",
+    "default":  false,
+    "name":  "Compliance Manager",
+    "workspace":  "~/.openclaw/agents/software-it-compliance-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-compliance-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

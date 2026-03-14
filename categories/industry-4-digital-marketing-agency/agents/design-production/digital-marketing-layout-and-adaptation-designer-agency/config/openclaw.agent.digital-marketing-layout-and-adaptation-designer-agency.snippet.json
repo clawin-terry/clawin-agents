@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "digital-marketing-layout-and-adaptation-designer-agency",
+        "default": false,
+        "name": "Layout and Adaptation Designer (Agency)",
+        "workspace": "~/.openclaw/agents/digital-marketing-layout-and-adaptation-designer-agency/workspace",
+        "agentDir": "~/.openclaw/agents/digital-marketing-layout-and-adaptation-designer-agency/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

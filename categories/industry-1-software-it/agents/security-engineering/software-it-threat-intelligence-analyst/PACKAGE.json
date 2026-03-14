@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-threat-intelligence-analyst",
+    "roleTitle":  "Threat Intelligence Analyst",
+    "personaSummary":  "Produces threat intelligence that improves attacker awareness, prioritization quality, and defensive decision-making across security operations.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "security-engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "healthcheck"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-threat-intelligence-analyst",
+                    "workspace":  "~/.openclaw/agents/software-it-threat-intelligence-analyst/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-threat-intelligence-analyst/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-threat-intelligence-analyst.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-threat-intelligence-analyst.snippet.json"
+                }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "marketplace-ecommerce-supply-side-incentive-strategy-manager",
+  "default": false,
+  "name": "Supply-Side Incentive Strategy Manager",
+  "workspace": "~/.openclaw/agents/marketplace-ecommerce-supply-side-incentive-strategy-manager/workspace",
+  "agentDir": "~/.openclaw/agents/marketplace-ecommerce-supply-side-incentive-strategy-manager/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

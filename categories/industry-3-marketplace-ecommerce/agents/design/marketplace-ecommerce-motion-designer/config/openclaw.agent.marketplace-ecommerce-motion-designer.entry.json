@@ -1,0 +1,13 @@
+{
+    "id":  "marketplace-ecommerce-motion-designer",
+    "default":  false,
+    "name":  "Motion Designer",
+    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-motion-designer/workspace",
+    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-motion-designer/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "digital-marketing-it-manager-agency",
+    "roleTitle":  "IT Manager (Agency)",
+    "personaSummary":  "Leads agency IT operations so end-user support, workplace systems, and access controls stay dependable for delivery and business teams.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "technical-support",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/digital-marketing-it-manager-agency",
+                    "workspace":  "~/.openclaw/agents/digital-marketing-it-manager-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/digital-marketing-it-manager-agency/agent",
+                    "configEntry":  "config/openclaw.agent.digital-marketing-it-manager-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.digital-marketing-it-manager-agency.snippet.json"
+                }
+}

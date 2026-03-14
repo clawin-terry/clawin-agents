@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-ecosystem-operations-manager",
+    "roleTitle":  "Ecosystem Operations Manager",
+    "personaSummary":  "Runs ecosystem operations that keep partner programs, internal coordination, and cross-organization execution moving smoothly.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "business-development",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-ecosystem-operations-manager",
+                    "workspace":  "~/.openclaw/agents/software-it-ecosystem-operations-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-ecosystem-operations-manager/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-ecosystem-operations-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-ecosystem-operations-manager.snippet.json"
+                }
+}

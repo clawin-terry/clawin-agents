@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "digital-marketing-growth-strategy-manager-agency",
+        "default": false,
+        "name": "Growth Strategy Manager (Agency)",
+        "workspace": "~/.openclaw/agents/digital-marketing-growth-strategy-manager-agency/workspace",
+        "agentDir": "~/.openclaw/agents/digital-marketing-growth-strategy-manager-agency/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

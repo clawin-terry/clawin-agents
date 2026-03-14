@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-growth-creator-operations-manager-platform",
+    "roleTitle":  "Growth Creator Operations Manager (Platform)",
+    "personaSummary":  "Runs growth-creator operations so developing creators receive structured guidance, better progression support, and clearer operating priorities on the platform.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "creator-growth-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-growth-creator-operations-manager-platform",
+                    "workspace":  "~/.openclaw/agents/content-platform-growth-creator-operations-manager-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-growth-creator-operations-manager-platform/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-growth-creator-operations-manager-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-growth-creator-operations-manager-platform.snippet.json"
+                }
+}

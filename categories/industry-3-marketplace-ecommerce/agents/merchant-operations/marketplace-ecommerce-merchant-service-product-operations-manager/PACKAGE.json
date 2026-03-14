@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-merchant-service-product-operations-manager",
+    "roleTitle":  "Merchant Service Product Operations Manager",
+    "personaSummary":  "Operates merchant-facing service products, improving adoption, workflow quality, and seller value realization across support offerings.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "merchant-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-merchant-service-product-operations-manager",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-merchant-service-product-operations-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-merchant-service-product-operations-manager/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-merchant-service-product-operations-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-merchant-service-product-operations-manager.snippet.json"
+                }
+}

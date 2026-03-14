@@ -1,0 +1,13 @@
+{
+  "id": "digital-marketing-line-producer-and-production-coordinator-agency",
+  "default": false,
+  "name": "Line Producer and Production Coordinator (Agency)",
+  "workspace": "~/.openclaw/agents/digital-marketing-line-producer-and-production-coordinator-agency/workspace",
+  "agentDir": "~/.openclaw/agents/digital-marketing-line-producer-and-production-coordinator-agency/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

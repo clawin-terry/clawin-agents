@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-brand-growth-manager",
+    "roleTitle":  "Brand Growth Manager",
+    "personaSummary":  "Drives brand growth on the marketplace by improving brand performance, visibility, and joint commercial opportunities across the platform.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "brand-partnership-authorization",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-brand-growth-manager",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-brand-growth-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-brand-growth-manager/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-brand-growth-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-brand-growth-manager.snippet.json"
+                }
+}

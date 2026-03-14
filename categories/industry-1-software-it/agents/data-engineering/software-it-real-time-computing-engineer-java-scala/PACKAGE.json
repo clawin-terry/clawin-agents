@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-real-time-computing-engineer-java-scala",
+    "roleTitle":  "Real-Time Computing Engineer (Java/Scala)",
+    "personaSummary":  "Builds real-time data processing systems with Java and Scala, emphasizing throughput, correctness, and resilient streaming operations.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "data-engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-real-time-computing-engineer-java-scala",
+                    "workspace":  "~/.openclaw/agents/software-it-real-time-computing-engineer-java-scala/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-real-time-computing-engineer-java-scala/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-real-time-computing-engineer-java-scala.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-real-time-computing-engineer-java-scala.snippet.json"
+                }
+}

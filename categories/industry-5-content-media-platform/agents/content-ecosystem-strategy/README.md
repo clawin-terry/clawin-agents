@@ -4,11 +4,11 @@ Install-ready content-ecosystem-strategy-focused OpenClaw agents for `industry-5
 
 ## Included agents
 
-- [i5-category-planning-manager-platform](./i5-category-planning-manager-platform/) — Category Planning Manager (Platform)
-- [i5-content-supply-forecasting-manager-platform](./i5-content-supply-forecasting-manager-platform/) — Content Supply Forecasting Manager (Platform)
-- [i5-content-supply-strategy-manager-platform](./i5-content-supply-strategy-manager-platform/) — Content Supply Strategy Manager (Platform)
-- [i5-content-trends-insights-manager-platform](./i5-content-trends-insights-manager-platform/) — Content Trends and Insights Manager (Platform)
-- [i5-ecosystem-metrics-framework-lead-platform](./i5-ecosystem-metrics-framework-lead-platform/) — Ecosystem Metrics Framework Lead (Platform)
+- [content-platform-category-planning-manager-platform](./content-platform-category-planning-manager-platform/) — Category Planning Manager (Platform)
+- [content-platform-content-supply-forecasting-manager-platform](./content-platform-content-supply-forecasting-manager-platform/) — Content Supply Forecasting Manager (Platform)
+- [content-platform-content-supply-strategy-manager-platform](./content-platform-content-supply-strategy-manager-platform/) — Content Supply Strategy Manager (Platform)
+- [content-platform-content-trends-insights-manager-platform](./content-platform-content-trends-insights-manager-platform/) — Content Trends and Insights Manager (Platform)
+- [content-platform-ecosystem-metrics-framework-lead-platform](./content-platform-ecosystem-metrics-framework-lead-platform/) — Ecosystem Metrics Framework Lead (Platform)
 
 ## Notes
 

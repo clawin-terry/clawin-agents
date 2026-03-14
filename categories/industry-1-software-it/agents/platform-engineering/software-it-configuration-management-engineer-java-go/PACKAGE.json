@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-configuration-management-engineer-java-go",
+    "roleTitle":  "Configuration Management Engineer (Java/Go)",
+    "personaSummary":  "Builds configuration management capabilities that keep distributed systems consistent, observable, and safe to change.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "platform-engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "healthcheck"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-configuration-management-engineer-java-go",
+                    "workspace":  "~/.openclaw/agents/software-it-configuration-management-engineer-java-go/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-configuration-management-engineer-java-go/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-configuration-management-engineer-java-go.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-configuration-management-engineer-java-go.snippet.json"
+                }
+}

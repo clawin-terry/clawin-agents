@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "software-it-training-delivery-coordinator",
+                                    "default":  false,
+                                    "name":  "Training Delivery Coordinator",
+                                    "workspace":  "~/.openclaw/agents/software-it-training-delivery-coordinator/workspace",
+                                    "agentDir":  "~/.openclaw/agents/software-it-training-delivery-coordinator/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

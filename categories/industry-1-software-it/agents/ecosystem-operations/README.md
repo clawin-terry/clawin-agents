@@ -4,11 +4,11 @@ Install-ready ecosystem-operations-focused OpenClaw agents for `industry-1-softw
 
 ## Included agents
 
-- [i1-community-operations-manager](./i1-community-operations-manager/) — Community Operations Manager
-- [i1-developer-relations-manager](./i1-developer-relations-manager/) — Developer Relations Manager
-- [i1-ecosystem-events-manager](./i1-ecosystem-events-manager/) — Ecosystem Events Manager
-- [i1-technical-content-writer](./i1-technical-content-writer/) — Technical Content Writer
-- [i1-technical-evangelist](./i1-technical-evangelist/) — Technical Evangelist
+- [software-it-community-operations-manager](./software-it-community-operations-manager/) — Community Operations Manager
+- [software-it-developer-relations-manager](./software-it-developer-relations-manager/) — Developer Relations Manager
+- [software-it-ecosystem-events-manager](./software-it-ecosystem-events-manager/) — Ecosystem Events Manager
+- [software-it-technical-content-writer](./software-it-technical-content-writer/) — Technical Content Writer
+- [software-it-technical-evangelist](./software-it-technical-evangelist/) — Technical Evangelist
 
 ## Notes
 

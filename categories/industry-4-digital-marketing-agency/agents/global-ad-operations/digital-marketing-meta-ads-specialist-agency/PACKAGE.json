@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "digital-marketing-meta-ads-specialist-agency",
+    "roleTitle":  "Meta Ads Specialist (Agency)",
+    "personaSummary":  "Operates Meta advertising so agency international campaigns can manage paid social reach, targeting, and conversion delivery with better control.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "global-ad-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/digital-marketing-meta-ads-specialist-agency",
+                    "workspace":  "~/.openclaw/agents/digital-marketing-meta-ads-specialist-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/digital-marketing-meta-ads-specialist-agency/agent",
+                    "configEntry":  "config/openclaw.agent.digital-marketing-meta-ads-specialist-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.digital-marketing-meta-ads-specialist-agency.snippet.json"
+                }
+}

@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "marketplace-ecommerce-payment-fee-negotiation-support-manager",
+        "default": false,
+        "name": "Payment Fee Negotiation Support Manager",
+        "workspace": "~/.openclaw/agents/marketplace-ecommerce-payment-fee-negotiation-support-manager/workspace",
+        "agentDir": "~/.openclaw/agents/marketplace-ecommerce-payment-fee-negotiation-support-manager/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

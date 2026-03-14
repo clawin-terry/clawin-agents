@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-chief-product-officer",
+    "roleTitle":  "Chief Product Officer",
+    "personaSummary":  "Leads product strategy, portfolio direction, and product organization alignment so the company ships products that match user needs and business goals.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "product-management",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-chief-product-officer",
+                    "workspace":  "~/.openclaw/agents/software-it-chief-product-officer/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-chief-product-officer/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-chief-product-officer.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-chief-product-officer.snippet.json"
+                }
+}

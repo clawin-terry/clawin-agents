@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "software-it-ux-designer",
+                                    "default":  false,
+                                    "name":  "UX Designer",
+                                    "workspace":  "~/.openclaw/agents/software-it-ux-designer/workspace",
+                                    "agentDir":  "~/.openclaw/agents/software-it-ux-designer/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

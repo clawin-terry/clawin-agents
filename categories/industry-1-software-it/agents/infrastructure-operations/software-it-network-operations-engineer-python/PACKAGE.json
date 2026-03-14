@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-network-operations-engineer-python",
+    "roleTitle":  "Network Operations Engineer (Python)",
+    "personaSummary":  "Operates network infrastructure with Python-based automation and diagnostics, strengthening availability, performance visibility, and incident response efficiency.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "infrastructure-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "healthcheck"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-network-operations-engineer-python",
+                    "workspace":  "~/.openclaw/agents/software-it-network-operations-engineer-python/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-network-operations-engineer-python/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-network-operations-engineer-python.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-network-operations-engineer-python.snippet.json"
+                }
+}

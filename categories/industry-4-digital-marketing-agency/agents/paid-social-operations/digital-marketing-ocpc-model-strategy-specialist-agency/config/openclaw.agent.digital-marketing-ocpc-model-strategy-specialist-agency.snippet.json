@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "digital-marketing-ocpc-model-strategy-specialist-agency",
+        "default": false,
+        "name": "OCPC and Model Strategy Specialist (Agency)",
+        "workspace": "~/.openclaw/agents/digital-marketing-ocpc-model-strategy-specialist-agency/workspace",
+        "agentDir": "~/.openclaw/agents/digital-marketing-ocpc-model-strategy-specialist-agency/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

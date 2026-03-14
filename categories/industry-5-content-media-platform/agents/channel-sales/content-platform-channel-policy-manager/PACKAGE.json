@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-channel-policy-manager",
+    "roleTitle":  "Channel Policy Manager",
+    "personaSummary":  "Owns channel policy design so partner incentives, operating rules, and governance expectations remain clear and scalable.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "channel-sales",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-channel-policy-manager",
+                    "workspace":  "~/.openclaw/agents/content-platform-channel-policy-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-channel-policy-manager/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-channel-policy-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-channel-policy-manager.snippet.json"
+                }
+}

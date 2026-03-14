@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-docs-ux-editor",
+    "roleTitle":  "Docs UX Editor",
+    "personaSummary":  "Improves documentation experience so technical content is easier to navigate, understand, and apply in real product workflows.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "content-experience",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "ui-ux-pro-max"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-docs-ux-editor",
+                    "workspace":  "~/.openclaw/agents/software-it-docs-ux-editor/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-docs-ux-editor/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-docs-ux-editor.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-docs-ux-editor.snippet.json"
+                }
+}

@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-chief-information-security-officer",
+    "roleTitle":  "Chief Information Security Officer (CISO)",
+    "personaSummary":  "Leads enterprise information security strategy, governance, and risk alignment so protection priorities, control programs, and leadership decisions stay coherent and actionable.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "security-governance",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "healthcheck"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-chief-information-security-officer",
+                    "workspace":  "~/.openclaw/agents/software-it-chief-information-security-officer/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-chief-information-security-officer/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-chief-information-security-officer.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-chief-information-security-officer.snippet.json"
+                }
+}

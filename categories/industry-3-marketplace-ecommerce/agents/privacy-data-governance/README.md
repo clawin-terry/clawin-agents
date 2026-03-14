@@ -4,10 +4,10 @@ Install-ready privacy-data-governance-focused OpenClaw agents for `industry-3-ma
 
 ## Included agents
 
-- [i3-compliance-audit-coordination-specialist-marketplace](./i3-compliance-audit-coordination-specialist-marketplace/) — Compliance Audit Coordination Specialist (Marketplace)
-- [i3-compliance-training-specialist-marketplace](./i3-compliance-training-specialist-marketplace/) — Compliance Training Specialist (Marketplace)
-- [i3-cross-border-data-assessment-coordination-specialist](./i3-cross-border-data-assessment-coordination-specialist/) — Cross-Border Data Assessment Coordination Specialist
-- [i3-privacy-compliance-officer-marketplace](./i3-privacy-compliance-officer-marketplace/) — Privacy Compliance Officer (Marketplace)
+- [marketplace-ecommerce-compliance-audit-coordination-specialist-marketplace](./marketplace-ecommerce-compliance-audit-coordination-specialist-marketplace/) — Compliance Audit Coordination Specialist (Marketplace)
+- [marketplace-ecommerce-compliance-training-specialist-marketplace](./marketplace-ecommerce-compliance-training-specialist-marketplace/) — Compliance Training Specialist (Marketplace)
+- [marketplace-ecommerce-cross-border-data-assessment-coordination-specialist](./marketplace-ecommerce-cross-border-data-assessment-coordination-specialist/) — Cross-Border Data Assessment Coordination Specialist
+- [marketplace-ecommerce-privacy-compliance-officer-marketplace](./marketplace-ecommerce-privacy-compliance-officer-marketplace/) — Privacy Compliance Officer (Marketplace)
 
 ## Notes
 

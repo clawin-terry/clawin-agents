@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "marketplace-ecommerce-appeals-guidance-specialist",
+        "default": false,
+        "name": "Appeals Guidance Specialist",
+        "workspace": "~/.openclaw/agents/marketplace-ecommerce-appeals-guidance-specialist/workspace",
+        "agentDir": "~/.openclaw/agents/marketplace-ecommerce-appeals-guidance-specialist/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

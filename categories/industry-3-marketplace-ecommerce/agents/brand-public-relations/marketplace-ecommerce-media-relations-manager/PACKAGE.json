@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-media-relations-manager",
+    "roleTitle":  "Media Relations Manager",
+    "personaSummary":  "Manages media relations so marketplace announcements, narratives, and press coordination strengthen external visibility and credibility.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "brand-public-relations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-media-relations-manager",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-media-relations-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-media-relations-manager/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-media-relations-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-media-relations-manager.snippet.json"
+                }
+}

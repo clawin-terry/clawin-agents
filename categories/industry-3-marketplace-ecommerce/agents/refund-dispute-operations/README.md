@@ -4,9 +4,9 @@ Install-ready refund-dispute-operations-focused OpenClaw agents for `industry-3-
 
 ## Included agents
 
-- [i3-chargeback-coordination-manager](./i3-chargeback-coordination-manager/) — Chargeback Coordination Manager
-- [i3-disputed-funds-resolution-specialist](./i3-disputed-funds-resolution-specialist/) — Disputed Funds Resolution Specialist
-- [i3-refund-strategy-operations-manager](./i3-refund-strategy-operations-manager/) — Refund Strategy Operations Manager
+- [marketplace-ecommerce-chargeback-coordination-manager](./marketplace-ecommerce-chargeback-coordination-manager/) — Chargeback Coordination Manager
+- [marketplace-ecommerce-disputed-funds-resolution-specialist](./marketplace-ecommerce-disputed-funds-resolution-specialist/) — Disputed Funds Resolution Specialist
+- [marketplace-ecommerce-refund-strategy-operations-manager](./marketplace-ecommerce-refund-strategy-operations-manager/) — Refund Strategy Operations Manager
 
 ## Notes
 

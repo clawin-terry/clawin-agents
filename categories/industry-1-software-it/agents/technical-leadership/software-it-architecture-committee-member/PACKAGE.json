@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-architecture-committee-member",
+    "roleTitle":  "Architecture Committee Member",
+    "personaSummary":  "Participates in architecture governance so major technical decisions are reviewed consistently with shared standards, risk awareness, and cross-team alignment.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "technical-leadership",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-architecture-committee-member",
+                    "workspace":  "~/.openclaw/agents/software-it-architecture-committee-member/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-architecture-committee-member/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-architecture-committee-member.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-architecture-committee-member.snippet.json"
+                }
+}

@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "software-it-post-investment-management-manager",
+                                    "default":  false,
+                                    "name":  "Post-Investment Management Manager",
+                                    "workspace":  "~/.openclaw/agents/software-it-post-investment-management-manager/workspace",
+                                    "agentDir":  "~/.openclaw/agents/software-it-post-investment-management-manager/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

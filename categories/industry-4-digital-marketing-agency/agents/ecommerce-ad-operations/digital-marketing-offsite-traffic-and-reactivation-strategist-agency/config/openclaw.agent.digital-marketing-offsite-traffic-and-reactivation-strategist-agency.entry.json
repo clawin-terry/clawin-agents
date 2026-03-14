@@ -1,0 +1,13 @@
+{
+  "id": "digital-marketing-offsite-traffic-and-reactivation-strategist-agency",
+  "default": false,
+  "name": "Offsite Traffic and Reactivation Strategist (Agency)",
+  "workspace": "~/.openclaw/agents/digital-marketing-offsite-traffic-and-reactivation-strategist-agency/workspace",
+  "agentDir": "~/.openclaw/agents/digital-marketing-offsite-traffic-and-reactivation-strategist-agency/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

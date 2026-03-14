@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "digital-marketing-keyword-and-account-structure-optimizer-agency",
+        "default": false,
+        "name": "Keyword and Account Structure Optimizer (Agency)",
+        "workspace": "~/.openclaw/agents/digital-marketing-keyword-and-account-structure-optimizer-agency/workspace",
+        "agentDir": "~/.openclaw/agents/digital-marketing-keyword-and-account-structure-optimizer-agency/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

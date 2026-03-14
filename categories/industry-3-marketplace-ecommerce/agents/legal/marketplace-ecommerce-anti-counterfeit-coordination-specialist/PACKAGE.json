@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-anti-counterfeit-coordination-specialist",
+    "roleTitle":  "Anti-Counterfeit Coordination Specialist",
+    "personaSummary":  "Coordinates anti-counterfeit work so marketplace investigations, evidence handling, and partner actions stay aligned against infringement risk.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "legal",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-anti-counterfeit-coordination-specialist",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-anti-counterfeit-coordination-specialist/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-anti-counterfeit-coordination-specialist/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-anti-counterfeit-coordination-specialist.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-anti-counterfeit-coordination-specialist.snippet.json"
+                }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "digital-marketing-case-library-ops-manager-agency",
+    "roleTitle":  "Case Library and Battlecard Operations Manager (Agency)",
+    "personaSummary":  "Runs case library and battlecard operations so agency teams can reuse proven examples, references, and go-to-market knowledge more efficiently.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "training-enablement",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/digital-marketing-case-library-ops-manager-agency",
+                    "workspace":  "~/.openclaw/agents/digital-marketing-case-library-ops-manager-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/digital-marketing-case-library-ops-manager-agency/agent",
+                    "configEntry":  "config/openclaw.agent.digital-marketing-case-library-ops-manager-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.digital-marketing-case-library-ops-manager-agency.snippet.json"
+                }
+}

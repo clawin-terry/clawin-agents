@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-enterprise-chief-architect",
+    "default":  false,
+    "name":  "Enterprise Chief Architect",
+    "workspace":  "~/.openclaw/agents/software-it-enterprise-chief-architect/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-enterprise-chief-architect/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

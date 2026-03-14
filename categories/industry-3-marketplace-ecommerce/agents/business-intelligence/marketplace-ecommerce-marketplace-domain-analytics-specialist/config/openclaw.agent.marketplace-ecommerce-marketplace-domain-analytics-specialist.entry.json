@@ -1,0 +1,13 @@
+{
+    "id":  "marketplace-ecommerce-marketplace-domain-analytics-specialist",
+    "default":  false,
+    "name":  "Marketplace Domain Analytics Specialist",
+    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-marketplace-domain-analytics-specialist/workspace",
+    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-marketplace-domain-analytics-specialist/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

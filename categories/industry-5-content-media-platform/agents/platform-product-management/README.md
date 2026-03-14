@@ -4,11 +4,11 @@ Install-ready platform-product-management-focused OpenClaw agents for `industry-
 
 ## Included agents
 
-- [i5-evidence-retention-audit-product-manager](./i5-evidence-retention-audit-product-manager/) — Evidence Retention and Audit Product Manager
-- [i5-penalties-and-appeals-product-manager](./i5-penalties-and-appeals-product-manager/) — Penalties and Appeals Product Manager
-- [i5-review-workbench-product-manager](./i5-review-workbench-product-manager/) — Review Workbench Product Manager
-- [i5-risk-dashboard-product-manager](./i5-risk-dashboard-product-manager/) — Risk Dashboard Product Manager
-- [i5-rules-configuration-platform-product-manager](./i5-rules-configuration-platform-product-manager/) — Rules Configuration Platform Product Manager
+- [content-platform-evidence-retention-audit-product-manager](./content-platform-evidence-retention-audit-product-manager/) — Evidence Retention and Audit Product Manager
+- [content-platform-penalties-and-appeals-product-manager](./content-platform-penalties-and-appeals-product-manager/) — Penalties and Appeals Product Manager
+- [content-platform-review-workbench-product-manager](./content-platform-review-workbench-product-manager/) — Review Workbench Product Manager
+- [content-platform-risk-dashboard-product-manager](./content-platform-risk-dashboard-product-manager/) — Risk Dashboard Product Manager
+- [content-platform-rules-configuration-platform-product-manager](./content-platform-rules-configuration-platform-product-manager/) — Rules Configuration Platform Product Manager
 
 ## Notes
 

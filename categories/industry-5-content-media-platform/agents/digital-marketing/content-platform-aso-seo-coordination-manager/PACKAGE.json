@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-aso-seo-coordination-manager",
+    "roleTitle":  "ASO and SEO Coordination Manager",
+    "personaSummary":  "Coordinates ASO and SEO programs so organic discovery improves across app stores, search surfaces, and cross-channel growth workflows.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "digital-marketing",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-aso-seo-coordination-manager",
+                    "workspace":  "~/.openclaw/agents/content-platform-aso-seo-coordination-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-aso-seo-coordination-manager/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-aso-seo-coordination-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-aso-seo-coordination-manager.snippet.json"
+                }
+}

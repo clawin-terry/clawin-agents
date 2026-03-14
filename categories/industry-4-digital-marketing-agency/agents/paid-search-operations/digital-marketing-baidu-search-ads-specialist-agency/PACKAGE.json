@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "digital-marketing-baidu-search-ads-specialist-agency",
+    "roleTitle":  "Baidu Search Ads Specialist (Agency)",
+    "personaSummary":  "Runs Baidu search ads so agency clients can manage search visibility, bid execution, and demand capture with stronger platform discipline.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "paid-search-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/digital-marketing-baidu-search-ads-specialist-agency",
+                    "workspace":  "~/.openclaw/agents/digital-marketing-baidu-search-ads-specialist-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/digital-marketing-baidu-search-ads-specialist-agency/agent",
+                    "configEntry":  "config/openclaw.agent.digital-marketing-baidu-search-ads-specialist-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.digital-marketing-baidu-search-ads-specialist-agency.snippet.json"
+                }
+}

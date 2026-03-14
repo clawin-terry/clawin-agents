@@ -4,25 +4,25 @@ Install-ready engineering-focused OpenClaw agents for `industry-1-software-it`.
 
 ## Included agents
 
-- [i1-accessibility-usability-engineer-js-ts](./i1-accessibility-usability-engineer-js-ts/) — Accessibility and Usability Engineer (JS/TS)
-- [i1-android-engineer-kotlin-java](./i1-android-engineer-kotlin-java/) — Android Engineer (Kotlin/Java)
-- [i1-api-gateway-engineer-go-java](./i1-api-gateway-engineer-go-java/) — API Gateway Engineer (Go/Java)
-- [i1-audio-video-engineer-c-cpp](./i1-audio-video-engineer-c-cpp/) — Audio and Video Engineer (C/C++)
-- [i1-backend-engineer-go](./i1-backend-engineer-go/) — Backend Engineer (Go)
-- [i1-backend-engineer-java](./i1-backend-engineer-java/) — Backend Engineer (Java)
-- [i1-backend-engineer-python](./i1-backend-engineer-python/) — Backend Engineer (Python)
-- [i1-backend-lead](./i1-backend-lead/) — Backend Lead
-- [i1-cross-platform-engineer-flutter-dart](./i1-cross-platform-engineer-flutter-dart/) — Cross-Platform Engineer (Flutter/Dart)
-- [i1-data-visualization-engineer-js-ts](./i1-data-visualization-engineer-js-ts/) — Data Visualization Engineer (JS/TS)
-- [i1-desktop-client-engineer-cpp-csharp](./i1-desktop-client-engineer-cpp-csharp/) — Desktop Client Engineer (C++/C#)
-- [i1-electron-engineer-js-ts](./i1-electron-engineer-js-ts/) — Electron Engineer (JS/TS)
-- [i1-frontend-engineer-js-ts](./i1-frontend-engineer-js-ts/) — Frontend Engineer (JS/TS)
-- [i1-frontend-lead](./i1-frontend-lead/) — Frontend Lead
-- [i1-ios-engineer-swift-objc](./i1-ios-engineer-swift-objc/) — iOS Engineer (Swift/Objective-C)
-- [i1-middleware-engineer-java-go](./i1-middleware-engineer-java-go/) — Middleware Engineer (Java/Go)
-- [i1-mobile-architect-kotlin-swift](./i1-mobile-architect-kotlin-swift/) — Mobile Architect (Kotlin/Swift)
-- [i1-mobile-engineering-lead](./i1-mobile-engineering-lead/) — Mobile Engineering Lead
-- [i1-web-performance-engineer-js-ts](./i1-web-performance-engineer-js-ts/) — Web Performance Engineer (JS/TS)
+- [software-it-accessibility-usability-engineer-js-ts](./software-it-accessibility-usability-engineer-js-ts/) — Accessibility and Usability Engineer (JS/TS)
+- [software-it-android-engineer-kotlin-java](./software-it-android-engineer-kotlin-java/) — Android Engineer (Kotlin/Java)
+- [software-it-api-gateway-engineer-go-java](./software-it-api-gateway-engineer-go-java/) — API Gateway Engineer (Go/Java)
+- [software-it-audio-video-engineer-c-cpp](./software-it-audio-video-engineer-c-cpp/) — Audio and Video Engineer (C/C++)
+- [software-it-backend-engineer-go](./software-it-backend-engineer-go/) — Backend Engineer (Go)
+- [software-it-backend-engineer-java](./software-it-backend-engineer-java/) — Backend Engineer (Java)
+- [software-it-backend-engineer-python](./software-it-backend-engineer-python/) — Backend Engineer (Python)
+- [software-it-backend-lead](./software-it-backend-lead/) — Backend Lead
+- [software-it-cross-platform-engineer-flutter-dart](./software-it-cross-platform-engineer-flutter-dart/) — Cross-Platform Engineer (Flutter/Dart)
+- [software-it-data-visualization-engineer-js-ts](./software-it-data-visualization-engineer-js-ts/) — Data Visualization Engineer (JS/TS)
+- [software-it-desktop-client-engineer-cpp-csharp](./software-it-desktop-client-engineer-cpp-csharp/) — Desktop Client Engineer (C++/C#)
+- [software-it-electron-engineer-js-ts](./software-it-electron-engineer-js-ts/) — Electron Engineer (JS/TS)
+- [software-it-frontend-engineer-js-ts](./software-it-frontend-engineer-js-ts/) — Frontend Engineer (JS/TS)
+- [software-it-frontend-lead](./software-it-frontend-lead/) — Frontend Lead
+- [software-it-ios-engineer-swift-objc](./software-it-ios-engineer-swift-objc/) — iOS Engineer (Swift/Objective-C)
+- [software-it-middleware-engineer-java-go](./software-it-middleware-engineer-java-go/) — Middleware Engineer (Java/Go)
+- [software-it-mobile-architect-kotlin-swift](./software-it-mobile-architect-kotlin-swift/) — Mobile Architect (Kotlin/Swift)
+- [software-it-mobile-engineering-lead](./software-it-mobile-engineering-lead/) — Mobile Engineering Lead
+- [software-it-web-performance-engineer-js-ts](./software-it-web-performance-engineer-js-ts/) — Web Performance Engineer (JS/TS)
 
 ## Notes
 

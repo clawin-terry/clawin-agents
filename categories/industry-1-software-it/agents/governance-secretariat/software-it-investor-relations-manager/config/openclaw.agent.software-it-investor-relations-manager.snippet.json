@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "software-it-investor-relations-manager",
+                                    "default":  false,
+                                    "name":  "Investor Relations Manager",
+                                    "workspace":  "~/.openclaw/agents/software-it-investor-relations-manager/workspace",
+                                    "agentDir":  "~/.openclaw/agents/software-it-investor-relations-manager/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

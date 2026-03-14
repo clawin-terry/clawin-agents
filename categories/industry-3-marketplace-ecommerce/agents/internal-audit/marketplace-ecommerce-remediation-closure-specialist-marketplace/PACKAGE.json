@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-remediation-closure-specialist-marketplace",
+    "roleTitle":  "Remediation Closure Specialist (Marketplace)",
+    "personaSummary":  "Tracks marketplace remediation closure so audit findings, action ownership, and evidence of completion stay current and verifiable.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "internal-audit",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-remediation-closure-specialist-marketplace",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-remediation-closure-specialist-marketplace/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-remediation-closure-specialist-marketplace/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-remediation-closure-specialist-marketplace.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-remediation-closure-specialist-marketplace.snippet.json"
+                }
+}

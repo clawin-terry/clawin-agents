@@ -4,10 +4,10 @@ Install-ready product-quality-governance-focused OpenClaw agents for `industry-3
 
 ## Included agents
 
-- [i3-product-information-governance-manager](./i3-product-information-governance-manager/) — Product Information Governance Manager
-- [i3-product-quality-management-manager](./i3-product-quality-management-manager/) — Product Quality Management Manager
-- [i3-sampling-inspection-operations-manager](./i3-sampling-inspection-operations-manager/) — Sampling Inspection Operations Manager
-- [i3-title-attribute-standards-specialist](./i3-title-attribute-standards-specialist/) — Title and Attribute Standards Specialist
+- [marketplace-ecommerce-product-information-governance-manager](./marketplace-ecommerce-product-information-governance-manager/) — Product Information Governance Manager
+- [marketplace-ecommerce-product-quality-management-manager](./marketplace-ecommerce-product-quality-management-manager/) — Product Quality Management Manager
+- [marketplace-ecommerce-sampling-inspection-operations-manager](./marketplace-ecommerce-sampling-inspection-operations-manager/) — Sampling Inspection Operations Manager
+- [marketplace-ecommerce-title-attribute-standards-specialist](./marketplace-ecommerce-title-attribute-standards-specialist/) — Title and Attribute Standards Specialist
 
 ## Notes
 

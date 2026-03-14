@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-key-account-manager",
+    "roleTitle":  "Key Account Manager",
+    "personaSummary":  "Manages strategic customer accounts, balancing relationship depth, commercial outcomes, and long-term account growth.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "sales",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-key-account-manager",
+                    "workspace":  "~/.openclaw/agents/software-it-key-account-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-key-account-manager/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-key-account-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-key-account-manager.snippet.json"
+                }
+}

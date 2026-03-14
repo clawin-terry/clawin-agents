@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-investment-and-financing-counsel-platform",
+    "roleTitle":  "Investment and Financing Counsel (Platform)",
+    "personaSummary":  "Supports investment and financing legal matters so platform fundraising, transaction documentation, and deal coordination proceed with clearer legal structure.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "legal",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-investment-and-financing-counsel-platform",
+                    "workspace":  "~/.openclaw/agents/content-platform-investment-and-financing-counsel-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-investment-and-financing-counsel-platform/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-investment-and-financing-counsel-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-investment-and-financing-counsel-platform.snippet.json"
+                }
+}

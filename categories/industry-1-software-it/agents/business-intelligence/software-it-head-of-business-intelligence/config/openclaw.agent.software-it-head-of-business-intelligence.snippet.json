@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "software-it-head-of-business-intelligence",
+                                    "default":  false,
+                                    "name":  "Head of Business Intelligence",
+                                    "workspace":  "~/.openclaw/agents/software-it-head-of-business-intelligence/workspace",
+                                    "agentDir":  "~/.openclaw/agents/software-it-head-of-business-intelligence/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

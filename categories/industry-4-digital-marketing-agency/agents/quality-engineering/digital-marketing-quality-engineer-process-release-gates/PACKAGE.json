@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "digital-marketing-quality-engineer-process-release-gates",
+    "roleTitle":  "Quality Engineer (Process and Release Gates)",
+    "personaSummary":  "Owns process and release-gate quality practices so MarTech changes meet entry criteria, delivery standards, and cross-team readiness expectations.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "quality-engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/digital-marketing-quality-engineer-process-release-gates",
+                    "workspace":  "~/.openclaw/agents/digital-marketing-quality-engineer-process-release-gates/workspace",
+                    "agentDir":  "~/.openclaw/agents/digital-marketing-quality-engineer-process-release-gates/agent",
+                    "configEntry":  "config/openclaw.agent.digital-marketing-quality-engineer-process-release-gates.entry.json",
+                    "configSnippet":  "config/openclaw.agent.digital-marketing-quality-engineer-process-release-gates.snippet.json"
+                }
+}

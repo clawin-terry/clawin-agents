@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "content-platform-guild-incentives-and-settlement-coordination-manager",
+        "default": false,
+        "name": "Guild Incentives and Settlement Coordination Manager",
+        "workspace": "~/.openclaw/agents/content-platform-guild-incentives-and-settlement-coordination-manager/workspace",
+        "agentDir": "~/.openclaw/agents/content-platform-guild-incentives-and-settlement-coordination-manager/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

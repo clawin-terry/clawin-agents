@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "content-platform-minor-content-compliance-specialist-platform",
+        "default": false,
+        "name": "Minor Content Compliance Specialist (Platform)",
+        "workspace": "~/.openclaw/agents/content-platform-minor-content-compliance-specialist-platform/workspace",
+        "agentDir": "~/.openclaw/agents/content-platform-minor-content-compliance-specialist-platform/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "software-it-model-training-platform-engineer-python",
+                                    "default":  false,
+                                    "name":  "Model Training Platform Engineer (Python)",
+                                    "workspace":  "~/.openclaw/agents/software-it-model-training-platform-engineer-python/workspace",
+                                    "agentDir":  "~/.openclaw/agents/software-it-model-training-platform-engineer-python/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

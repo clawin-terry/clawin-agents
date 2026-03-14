@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-cache-redis-engineer-go",
+    "roleTitle":  "Cache and Redis Engineer (Go)",
+    "personaSummary":  "Builds and operates cache and Redis infrastructure with a Go-centric toolchain, focusing on latency, resilience, and operational safety.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "infrastructure",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "healthcheck"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-cache-redis-engineer-go",
+                    "workspace":  "~/.openclaw/agents/software-it-cache-redis-engineer-go/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-cache-redis-engineer-go/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-cache-redis-engineer-go.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-cache-redis-engineer-go.snippet.json"
+                }
+}

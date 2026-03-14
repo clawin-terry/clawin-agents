@@ -1,0 +1,13 @@
+{
+  "id": "marketplace-ecommerce-category-and-product-catalog-product-manager",
+  "default": false,
+  "name": "Category and Product Catalog Product Manager",
+  "workspace": "~/.openclaw/agents/marketplace-ecommerce-category-and-product-catalog-product-manager/workspace",
+  "agentDir": "~/.openclaw/agents/marketplace-ecommerce-category-and-product-catalog-product-manager/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-content-product-manager",
+    "roleTitle":  "Content Product Manager",
+    "personaSummary":  "Owns content product strategy so marketplace content experiences support discovery, engagement, and commercial outcomes with clear product direction.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "platform-product-management",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-content-product-manager",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-content-product-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-content-product-manager/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-content-product-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-content-product-manager.snippet.json"
+                }
+}

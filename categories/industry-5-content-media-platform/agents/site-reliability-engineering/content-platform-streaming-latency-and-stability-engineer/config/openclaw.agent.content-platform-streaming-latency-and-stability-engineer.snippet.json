@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "content-platform-streaming-latency-and-stability-engineer",
+                                    "default":  false,
+                                    "name":  "Streaming Latency and Stability Engineer",
+                                    "workspace":  "~/.openclaw/agents/content-platform-streaming-latency-and-stability-engineer/workspace",
+                                    "agentDir":  "~/.openclaw/agents/content-platform-streaming-latency-and-stability-engineer/agent",
+                                    "model":  {
+                                                  "primary":  "mycodex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

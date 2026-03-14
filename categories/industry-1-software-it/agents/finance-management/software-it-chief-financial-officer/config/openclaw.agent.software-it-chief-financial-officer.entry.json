@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-chief-financial-officer",
+    "default":  false,
+    "name":  "Chief Financial Officer",
+    "workspace":  "~/.openclaw/agents/software-it-chief-financial-officer/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-chief-financial-officer/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "digital-marketing-delivery-director-agency",
+  "default": false,
+  "name": "Delivery Director (Agency)",
+  "workspace": "~/.openclaw/agents/digital-marketing-delivery-director-agency/workspace",
+  "agentDir": "~/.openclaw/agents/digital-marketing-delivery-director-agency/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

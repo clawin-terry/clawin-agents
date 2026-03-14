@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-observability-engineer-go-python",
+    "roleTitle":  "Observability Engineer (Go/Python)",
+    "personaSummary":  "Builds observability platforms and telemetry workflows with Go and Python to improve visibility, diagnosis speed, and service reliability.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "site-reliability-engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "healthcheck"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-observability-engineer-go-python",
+                    "workspace":  "~/.openclaw/agents/software-it-observability-engineer-go-python/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-observability-engineer-go-python/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-observability-engineer-go-python.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-observability-engineer-go-python.snippet.json"
+                }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-head-of-machine-learning",
+    "roleTitle":  "Head of Machine Learning",
+    "personaSummary":  "Leads machine learning strategy, technical direction, and team execution for practical model delivery aligned with product and business outcomes.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "machine-learning",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-head-of-machine-learning",
+                    "workspace":  "~/.openclaw/agents/software-it-head-of-machine-learning/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-head-of-machine-learning/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-head-of-machine-learning.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-head-of-machine-learning.snippet.json"
+                }
+}

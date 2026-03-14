@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-leadership-development-manager-marketplace",
+    "roleTitle":  "Leadership Development Manager (Marketplace)",
+    "personaSummary":  "Leads leadership-development programs so marketplace managers and emerging leaders build stronger capability pipelines and succession readiness.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "hrbp-organization-development",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-leadership-development-manager-marketplace",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-leadership-development-manager-marketplace/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-leadership-development-manager-marketplace/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-leadership-development-manager-marketplace.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-leadership-development-manager-marketplace.snippet.json"
+                }
+}

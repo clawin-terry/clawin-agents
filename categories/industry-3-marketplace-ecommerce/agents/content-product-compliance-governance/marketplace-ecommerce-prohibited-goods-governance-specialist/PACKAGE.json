@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-prohibited-goods-governance-specialist",
+    "roleTitle":  "Prohibited Goods Governance Specialist",
+    "personaSummary":  "Governs prohibited goods cases so restricted products are detected, removed, and escalated in line with platform compliance rules.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "content-product-compliance-governance",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-prohibited-goods-governance-specialist",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-prohibited-goods-governance-specialist/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-prohibited-goods-governance-specialist/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-prohibited-goods-governance-specialist.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-prohibited-goods-governance-specialist.snippet.json"
+                }
+}

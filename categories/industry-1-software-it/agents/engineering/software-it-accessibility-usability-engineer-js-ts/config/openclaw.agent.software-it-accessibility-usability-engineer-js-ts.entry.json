@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-accessibility-usability-engineer-js-ts",
+    "default":  false,
+    "name":  "Accessibility and Usability Engineer (JS/TS)",
+    "workspace":  "~/.openclaw/agents/software-it-accessibility-usability-engineer-js-ts/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-accessibility-usability-engineer-js-ts/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

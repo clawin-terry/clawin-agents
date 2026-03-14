@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-editorial-policy-and-prepublication-review-manager-platform",
+    "roleTitle":  "Editorial Policy and Prepublication Review Manager (Platform)",
+    "personaSummary":  "Owns prepublication editorial review so content submissions are checked against publishing norms, style guidance, and operating standards before release.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "editorial-content-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-editorial-policy-and-prepublication-review-manager-platform",
+                    "workspace":  "~/.openclaw/agents/content-platform-editorial-policy-and-prepublication-review-manager-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-editorial-policy-and-prepublication-review-manager-platform/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-editorial-policy-and-prepublication-review-manager-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-editorial-policy-and-prepublication-review-manager-platform.snippet.json"
+                }
+}

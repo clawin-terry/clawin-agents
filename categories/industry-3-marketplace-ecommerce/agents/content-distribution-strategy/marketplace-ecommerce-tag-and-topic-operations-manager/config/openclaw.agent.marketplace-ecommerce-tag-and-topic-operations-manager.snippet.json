@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "marketplace-ecommerce-tag-and-topic-operations-manager",
+                                    "default":  false,
+                                    "name":  "Tag and Topic Operations Manager",
+                                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-tag-and-topic-operations-manager/workspace",
+                                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-tag-and-topic-operations-manager/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

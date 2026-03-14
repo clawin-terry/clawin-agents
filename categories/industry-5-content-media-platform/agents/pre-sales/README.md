@@ -4,7 +4,7 @@ Install-ready pre-sales-focused OpenClaw agents for `industry-5-content-media-pl
 
 ## Included agents
 
-- [i5-advertising-solutions-sales-manager](./i5-advertising-solutions-sales-manager/) — Advertising Solutions Sales Manager
+- [content-platform-advertising-solutions-sales-manager](./content-platform-advertising-solutions-sales-manager/) — Advertising Solutions Sales Manager
 
 ## Notes
 

@@ -1,0 +1,13 @@
+{
+  "id": "digital-marketing-reporting-systems-lead",
+  "default": false,
+  "name": "Reporting Systems Lead",
+  "workspace": "~/.openclaw/agents/digital-marketing-reporting-systems-lead/workspace",
+  "agentDir": "~/.openclaw/agents/digital-marketing-reporting-systems-lead/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

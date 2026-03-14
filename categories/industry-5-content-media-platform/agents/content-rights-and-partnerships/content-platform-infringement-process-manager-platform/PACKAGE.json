@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-infringement-process-manager-platform",
+    "roleTitle":  "Infringement Process Manager (Platform)",
+    "personaSummary":  "Builds infringement complaint handling workflows so copyright claims, escalations, and platform response timelines stay consistent and defensible.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "content-rights-and-partnerships",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-infringement-process-manager-platform",
+                    "workspace":  "~/.openclaw/agents/content-platform-infringement-process-manager-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-infringement-process-manager-platform/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-infringement-process-manager-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-infringement-process-manager-platform.snippet.json"
+                }
+}

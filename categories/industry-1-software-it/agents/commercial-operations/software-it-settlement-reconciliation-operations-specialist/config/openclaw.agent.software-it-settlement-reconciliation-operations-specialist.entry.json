@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-settlement-reconciliation-operations-specialist",
+    "default":  false,
+    "name":  "Settlement and Reconciliation Operations Specialist",
+    "workspace":  "~/.openclaw/agents/software-it-settlement-reconciliation-operations-specialist/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-settlement-reconciliation-operations-specialist/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

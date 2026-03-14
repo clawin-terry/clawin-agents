@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "content-platform-model-and-strategy-effectiveness-analyst-platform",
+        "default": false,
+        "name": "Model and Strategy Effectiveness Analyst (Platform)",
+        "workspace": "~/.openclaw/agents/content-platform-model-and-strategy-effectiveness-analyst-platform/workspace",
+        "agentDir": "~/.openclaw/agents/content-platform-model-and-strategy-effectiveness-analyst-platform/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

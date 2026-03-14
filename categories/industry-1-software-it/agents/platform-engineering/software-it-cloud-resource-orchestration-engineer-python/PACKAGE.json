@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-cloud-resource-orchestration-engineer-python",
+    "roleTitle":  "Cloud Resource Orchestration Engineer (Python)",
+    "personaSummary":  "Builds cloud resource orchestration capabilities that provision, coordinate, and govern infrastructure with Python automation.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "platform-engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "healthcheck"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-cloud-resource-orchestration-engineer-python",
+                    "workspace":  "~/.openclaw/agents/software-it-cloud-resource-orchestration-engineer-python/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-cloud-resource-orchestration-engineer-python/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-cloud-resource-orchestration-engineer-python.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-cloud-resource-orchestration-engineer-python.snippet.json"
+                }
+}

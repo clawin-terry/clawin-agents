@@ -4,11 +4,11 @@ Install-ready creator-incentives-rights-focused OpenClaw agents for `industry-5-
 
 ## Included agents
 
-- [i5-creator-incentive-policy-manager-platform](./i5-creator-incentive-policy-manager-platform/) — Creator Incentive Policy Manager (Platform)
-- [i5-creator-incentive-risk-coordination-manager-platform](./i5-creator-incentive-risk-coordination-manager-platform/) — Creator Incentive Risk Coordination Manager (Platform)
-- [i5-creator-revenue-share-policy-coordinator-platform](./i5-creator-revenue-share-policy-coordinator-platform/) — Creator Revenue Share Policy Coordinator (Platform)
-- [i5-creator-subsidy-campaign-budget-manager-platform](./i5-creator-subsidy-campaign-budget-manager-platform/) — Creator Subsidy and Campaign Budget Manager (Platform)
-- [i5-traffic-benefits-design-manager-platform](./i5-traffic-benefits-design-manager-platform/) — Traffic Benefits Design Manager (Platform)
+- [content-platform-creator-incentive-policy-manager-platform](./content-platform-creator-incentive-policy-manager-platform/) — Creator Incentive Policy Manager (Platform)
+- [content-platform-creator-incentive-risk-coordination-manager-platform](./content-platform-creator-incentive-risk-coordination-manager-platform/) — Creator Incentive Risk Coordination Manager (Platform)
+- [content-platform-creator-revenue-share-policy-coordinator-platform](./content-platform-creator-revenue-share-policy-coordinator-platform/) — Creator Revenue Share Policy Coordinator (Platform)
+- [content-platform-creator-subsidy-and-campaign-budget-manager-platform](./content-platform-creator-subsidy-and-campaign-budget-manager-platform/) — Creator Subsidy and Campaign Budget Manager (Platform)
+- [content-platform-traffic-benefits-design-manager-platform](./content-platform-traffic-benefits-design-manager-platform/) — Traffic Benefits Design Manager (Platform)
 
 ## Notes
 

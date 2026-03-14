@@ -4,11 +4,11 @@ Install-ready facilities-logistics-focused OpenClaw agents for `industry-1-softw
 
 ## Included agents
 
-- [i1-ehs-specialist](./i1-ehs-specialist/) — EHS Specialist
-- [i1-emergency-and-bcp-liaison](./i1-emergency-and-bcp-liaison/) — Emergency and BCP Liaison
-- [i1-facilities-manager](./i1-facilities-manager/) — Facilities Manager
-- [i1-property-coordination-specialist](./i1-property-coordination-specialist/) — Property Coordination Specialist
-- [i1-security-supervisor](./i1-security-supervisor/) — Security Supervisor
+- [software-it-ehs-specialist](./software-it-ehs-specialist/) — EHS Specialist
+- [software-it-emergency-and-bcp-liaison](./software-it-emergency-and-bcp-liaison/) — Emergency and BCP Liaison
+- [software-it-facilities-manager](./software-it-facilities-manager/) — Facilities Manager
+- [software-it-property-coordination-specialist](./software-it-property-coordination-specialist/) — Property Coordination Specialist
+- [software-it-security-supervisor](./software-it-security-supervisor/) — Security Supervisor
 
 ## Notes
 

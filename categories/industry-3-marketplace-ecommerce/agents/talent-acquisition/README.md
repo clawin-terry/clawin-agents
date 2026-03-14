@@ -4,10 +4,10 @@ Install-ready talent-acquisition-focused OpenClaw agents for `industry-3-marketp
 
 ## Included agents
 
-- [i3-campus-and-experienced-hiring-specialist](./i3-campus-and-experienced-hiring-specialist/) — Campus and Experienced Hiring Specialist
-- [i3-employer-brand-manager-marketplace](./i3-employer-brand-manager-marketplace/) — Employer Brand Manager (Marketplace)
-- [i3-recruiting-manager-marketplace](./i3-recruiting-manager-marketplace/) — Recruiting Manager (Marketplace)
-- [i3-talent-mapping-specialist-marketplace](./i3-talent-mapping-specialist-marketplace/) — Talent Mapping Specialist (Marketplace)
+- [marketplace-ecommerce-campus-and-experienced-hiring-specialist](./marketplace-ecommerce-campus-and-experienced-hiring-specialist/) — Campus and Experienced Hiring Specialist
+- [marketplace-ecommerce-employer-brand-manager-marketplace](./marketplace-ecommerce-employer-brand-manager-marketplace/) — Employer Brand Manager (Marketplace)
+- [marketplace-ecommerce-recruiting-manager-marketplace](./marketplace-ecommerce-recruiting-manager-marketplace/) — Recruiting Manager (Marketplace)
+- [marketplace-ecommerce-talent-mapping-specialist-marketplace](./marketplace-ecommerce-talent-mapping-specialist-marketplace/) — Talent Mapping Specialist (Marketplace)
 
 ## Notes
 

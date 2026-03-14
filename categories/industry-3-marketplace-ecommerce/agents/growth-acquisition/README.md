@@ -4,10 +4,10 @@ Install-ready growth-acquisition-focused OpenClaw agents for `industry-3-marketp
 
 ## Included agents
 
-- [i3-channel-operations-manager](./i3-channel-operations-manager/) — Channel Operations Manager
-- [i3-growth-analytics-manager](./i3-growth-analytics-manager/) — Growth Analytics Manager
-- [i3-media-buying-strategy-manager](./i3-media-buying-strategy-manager/) — Media Buying Strategy Manager
-- [i3-referral-growth-manager](./i3-referral-growth-manager/) — Referral Growth Manager
+- [marketplace-ecommerce-channel-operations-manager](./marketplace-ecommerce-channel-operations-manager/) — Channel Operations Manager
+- [marketplace-ecommerce-growth-analytics-manager](./marketplace-ecommerce-growth-analytics-manager/) — Growth Analytics Manager
+- [marketplace-ecommerce-media-buying-strategy-manager](./marketplace-ecommerce-media-buying-strategy-manager/) — Media Buying Strategy Manager
+- [marketplace-ecommerce-referral-growth-manager](./marketplace-ecommerce-referral-growth-manager/) — Referral Growth Manager
 
 ## Notes
 

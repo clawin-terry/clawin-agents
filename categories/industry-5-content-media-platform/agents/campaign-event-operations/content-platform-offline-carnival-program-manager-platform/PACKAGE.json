@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-offline-carnival-program-manager-platform",
+    "roleTitle":  "Offline Carnival Program Manager (Platform)",
+    "personaSummary":  "Leads offline carnival programs so large-format fan events, experiential activities, and operational details create stronger real-world platform engagement.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "campaign-event-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-offline-carnival-program-manager-platform",
+                    "workspace":  "~/.openclaw/agents/content-platform-offline-carnival-program-manager-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-offline-carnival-program-manager-platform/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-offline-carnival-program-manager-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-offline-carnival-program-manager-platform.snippet.json"
+                }
+}

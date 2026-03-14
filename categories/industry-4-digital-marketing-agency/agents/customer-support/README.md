@@ -4,10 +4,10 @@ Install-ready customer-support-focused OpenClaw agents for `industry-4-digital-m
 
 ## Included agents
 
-- [i4-customer-support-supervisor-agency](./i4-customer-support-supervisor-agency/) — Customer Support Supervisor (Agency)
-- [i4-frontline-customer-support-specialist-agency](./i4-frontline-customer-support-specialist-agency/) — Frontline Customer Support Specialist (Agency)
-- [i4-knowledge-base-operations-specialist-agency](./i4-knowledge-base-operations-specialist-agency/) — Knowledge Base Operations Specialist (Agency)
-- [i4-tier-2-support-coordinator-technical-data-agency](./i4-tier-2-support-coordinator-technical-data-agency/) — Tier 2 Support Coordinator, Technical and Data Liaison (Agency)
+- [digital-marketing-customer-support-supervisor-agency](./digital-marketing-customer-support-supervisor-agency/) — Customer Support Supervisor (Agency)
+- [digital-marketing-frontline-customer-support-specialist-agency](./digital-marketing-frontline-customer-support-specialist-agency/) — Frontline Customer Support Specialist (Agency)
+- [digital-marketing-knowledge-base-operations-specialist-agency](./digital-marketing-knowledge-base-operations-specialist-agency/) — Knowledge Base Operations Specialist (Agency)
+- [digital-marketing-tier-2-support-coordinator-technical-data-agency](./digital-marketing-tier-2-support-coordinator-technical-data-agency/) — Tier 2 Support Coordinator, Technical and Data Liaison (Agency)
 
 ## Notes
 

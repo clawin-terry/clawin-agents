@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-order-operations-specialist",
+    "default":  false,
+    "name":  "Order Operations Specialist",
+    "workspace":  "~/.openclaw/agents/software-it-order-operations-specialist/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-order-operations-specialist/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-sales-data-analyst",
+    "default":  false,
+    "name":  "Sales Data Analyst",
+    "workspace":  "~/.openclaw/agents/software-it-sales-data-analyst/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-sales-data-analyst/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

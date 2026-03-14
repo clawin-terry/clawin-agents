@@ -1,0 +1,13 @@
+{
+  "id": "marketplace-ecommerce-merchant-acquisition-product-manager",
+  "default": false,
+  "name": "Merchant Acquisition Product Manager",
+  "workspace": "~/.openclaw/agents/marketplace-ecommerce-merchant-acquisition-product-manager/workspace",
+  "agentDir": "~/.openclaw/agents/marketplace-ecommerce-merchant-acquisition-product-manager/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

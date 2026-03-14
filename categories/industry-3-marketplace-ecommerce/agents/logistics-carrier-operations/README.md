@@ -4,10 +4,10 @@ Install-ready logistics-carrier-operations-focused OpenClaw agents for `industry
 
 ## Included agents
 
-- [i3-carrier-management-manager](./i3-carrier-management-manager/) — Carrier Management Manager
-- [i3-compensation-coordination-manager](./i3-compensation-coordination-manager/) — Compensation Coordination Manager
-- [i3-delivery-timeliness-and-delivery-rate-operations-manager](./i3-delivery-timeliness-and-delivery-rate-operations-manager/) — Delivery Timeliness and Delivery Rate Operations Manager
-- [i3-shipment-exception-governance-manager](./i3-shipment-exception-governance-manager/) — Shipment Exception Governance Manager
+- [marketplace-ecommerce-carrier-management-manager](./marketplace-ecommerce-carrier-management-manager/) — Carrier Management Manager
+- [marketplace-ecommerce-compensation-coordination-manager](./marketplace-ecommerce-compensation-coordination-manager/) — Compensation Coordination Manager
+- [marketplace-ecommerce-delivery-timeliness-and-delivery-rate-operations-manager](./marketplace-ecommerce-delivery-timeliness-and-delivery-rate-operations-manager/) — Delivery Timeliness and Delivery Rate Operations Manager
+- [marketplace-ecommerce-shipment-exception-governance-manager](./marketplace-ecommerce-shipment-exception-governance-manager/) — Shipment Exception Governance Manager
 
 ## Notes
 

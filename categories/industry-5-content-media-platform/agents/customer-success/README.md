@@ -4,10 +4,10 @@ Install-ready customer-success-focused OpenClaw agents for `industry-5-content-m
 
 ## Included agents
 
-- [i5-advertiser-operations-manager](./i5-advertiser-operations-manager/) — Advertiser Operations Manager
-- [i5-campaign-diagnostics-manager](./i5-campaign-diagnostics-manager/) — Campaign Diagnostics Manager
-- [i5-merchant-growth-advisor](./i5-merchant-growth-advisor/) — Merchant Growth Advisor
-- [i5-performance-review-manager](./i5-performance-review-manager/) — Performance Review Manager
+- [content-platform-advertiser-operations-manager](./content-platform-advertiser-operations-manager/) — Advertiser Operations Manager
+- [content-platform-campaign-diagnostics-manager](./content-platform-campaign-diagnostics-manager/) — Campaign Diagnostics Manager
+- [content-platform-merchant-growth-advisor](./content-platform-merchant-growth-advisor/) — Merchant Growth Advisor
+- [content-platform-performance-review-manager](./content-platform-performance-review-manager/) — Performance Review Manager
 
 ## Notes
 

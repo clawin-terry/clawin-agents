@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "marketplace-ecommerce-benefits-design-operations-manager",
+        "default": false,
+        "name": "Benefits Design Operations Manager",
+        "workspace": "~/.openclaw/agents/marketplace-ecommerce-benefits-design-operations-manager/workspace",
+        "agentDir": "~/.openclaw/agents/marketplace-ecommerce-benefits-design-operations-manager/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

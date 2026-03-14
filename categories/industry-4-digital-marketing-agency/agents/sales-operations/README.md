@@ -4,11 +4,11 @@ Install-ready sales-operations-focused OpenClaw agents for `industry-4-digital-m
 
 ## Included agents
 
-- [i4-crm-administrator-agency](./i4-crm-administrator-agency/) — CRM Administrator (Agency)
-- [i4-lead-routing-and-scoring-specialist-agency](./i4-lead-routing-and-scoring-specialist-agency/) — Lead Routing and Scoring Specialist (Agency)
-- [i4-pricing-and-discount-operations-manager-agency](./i4-pricing-and-discount-operations-manager-agency/) — Pricing and Discount Operations Manager (Agency)
-- [i4-sales-data-analyst-agency](./i4-sales-data-analyst-agency/) — Sales Data Analyst (Agency)
-- [i4-sales-training-and-playbook-operations-manager-agency](./i4-sales-training-and-playbook-operations-manager-agency/) — Sales Training and Playbook Operations Manager (Agency)
+- [digital-marketing-crm-administrator-agency](./digital-marketing-crm-administrator-agency/) — CRM Administrator (Agency)
+- [digital-marketing-lead-routing-and-scoring-specialist-agency](./digital-marketing-lead-routing-and-scoring-specialist-agency/) — Lead Routing and Scoring Specialist (Agency)
+- [digital-marketing-pricing-and-discount-operations-manager-agency](./digital-marketing-pricing-and-discount-operations-manager-agency/) — Pricing and Discount Operations Manager (Agency)
+- [digital-marketing-sales-data-analyst-agency](./digital-marketing-sales-data-analyst-agency/) — Sales Data Analyst (Agency)
+- [digital-marketing-sales-training-and-playbook-operations-manager-agency](./digital-marketing-sales-training-and-playbook-operations-manager-agency/) — Sales Training and Playbook Operations Manager (Agency)
 
 ## Notes
 

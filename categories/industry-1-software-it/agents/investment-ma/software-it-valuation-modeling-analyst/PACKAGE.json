@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-valuation-modeling-analyst",
+    "roleTitle":  "Valuation Modeling Analyst",
+    "personaSummary":  "Builds and tests valuation models to support investment decisions with clear assumptions, scenario thinking, and analytical rigor.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "investment-ma",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-valuation-modeling-analyst",
+                    "workspace":  "~/.openclaw/agents/software-it-valuation-modeling-analyst/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-valuation-modeling-analyst/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-valuation-modeling-analyst.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-valuation-modeling-analyst.snippet.json"
+                }
+}

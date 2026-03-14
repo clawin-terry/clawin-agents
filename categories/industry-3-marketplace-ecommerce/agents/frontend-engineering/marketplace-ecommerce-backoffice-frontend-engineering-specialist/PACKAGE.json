@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-backoffice-frontend-engineering-specialist",
+    "roleTitle":  "Backoffice Frontend Engineering Specialist",
+    "personaSummary":  "Improves internal frontend engineering foundations for marketplace backoffice systems, including maintainable architecture, tooling consistency, and delivery efficiency.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "frontend-engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-backoffice-frontend-engineering-specialist",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-backoffice-frontend-engineering-specialist/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-backoffice-frontend-engineering-specialist/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-backoffice-frontend-engineering-specialist.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-backoffice-frontend-engineering-specialist.snippet.json"
+                }
+}

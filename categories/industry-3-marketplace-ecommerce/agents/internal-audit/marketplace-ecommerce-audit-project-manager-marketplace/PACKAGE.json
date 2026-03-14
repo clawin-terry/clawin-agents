@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-audit-project-manager-marketplace",
+    "roleTitle":  "Audit Project Manager (Marketplace)",
+    "personaSummary":  "Runs marketplace audit projects so scope, fieldwork coordination, and reporting progress remain visible and well controlled.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "internal-audit",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-audit-project-manager-marketplace",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-audit-project-manager-marketplace/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-audit-project-manager-marketplace/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-audit-project-manager-marketplace.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-audit-project-manager-marketplace.snippet.json"
+                }
+}

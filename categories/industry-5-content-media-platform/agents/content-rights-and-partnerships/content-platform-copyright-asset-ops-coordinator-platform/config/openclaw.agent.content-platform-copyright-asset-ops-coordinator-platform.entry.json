@@ -1,0 +1,13 @@
+{
+  "id": "content-platform-copyright-asset-ops-coordinator-platform",
+  "default": false,
+  "name": "Copyright Asset Operations Coordinator (Platform)",
+  "workspace": "~/.openclaw/agents/content-platform-copyright-asset-ops-coordinator-platform/workspace",
+  "agentDir": "~/.openclaw/agents/content-platform-copyright-asset-ops-coordinator-platform/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

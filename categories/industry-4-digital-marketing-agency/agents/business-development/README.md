@@ -4,10 +4,10 @@ Install-ready business-development-focused OpenClaw agents for `industry-4-digit
 
 ## Included agents
 
-- [i4-business-development-director-agency](./i4-business-development-director-agency/) — Business Development Director (Agency)
-- [i4-channel-sales-manager-agency](./i4-channel-sales-manager-agency/) — Channel Sales Manager (Agency)
-- [i4-industry-sales-manager-agency](./i4-industry-sales-manager-agency/) — Industry Sales Manager (Agency)
-- [i4-key-account-expansion-manager-agency](./i4-key-account-expansion-manager-agency/) — Key Account Expansion Manager (Agency)
+- [digital-marketing-bd-director-agency](./digital-marketing-bd-director-agency/) — Business Development Director (Agency)
+- [digital-marketing-channel-sales-manager-agency](./digital-marketing-channel-sales-manager-agency/) — Channel Sales Manager (Agency)
+- [digital-marketing-industry-sales-manager-agency](./digital-marketing-industry-sales-manager-agency/) — Industry Sales Manager (Agency)
+- [digital-marketing-key-account-expansion-manager-agency](./digital-marketing-key-account-expansion-manager-agency/) — Key Account Expansion Manager (Agency)
 
 ## Notes
 

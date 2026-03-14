@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-hrbp-director",
+    "roleTitle":  "HRBP Director",
+    "personaSummary":  "Leads the HR business partnering function so business leaders receive structured people support on organization, talent, and performance matters.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "hrbp-organization-development",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-hrbp-director",
+                    "workspace":  "~/.openclaw/agents/software-it-hrbp-director/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-hrbp-director/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-hrbp-director.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-hrbp-director.snippet.json"
+                }
+}

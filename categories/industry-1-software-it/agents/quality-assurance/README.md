@@ -4,11 +4,11 @@ Install-ready quality-assurance-focused OpenClaw agents for `industry-1-software
 
 ## Included agents
 
-- [i1-defect-management-specialist](./i1-defect-management-specialist/) — Defect Management Specialist
-- [i1-qa-director](./i1-qa-director/) — QA Director
-- [i1-quality-gate-manager](./i1-quality-gate-manager/) — Quality Gate Manager
-- [i1-quality-management-system-manager](./i1-quality-management-system-manager/) — Quality Management System Manager
-- [i1-test-manager](./i1-test-manager/) — Test Manager
+- [software-it-defect-management-specialist](./software-it-defect-management-specialist/) — Defect Management Specialist
+- [software-it-qa-director](./software-it-qa-director/) — QA Director
+- [software-it-quality-gate-manager](./software-it-quality-gate-manager/) — Quality Gate Manager
+- [software-it-quality-management-system-manager](./software-it-quality-management-system-manager/) — Quality Management System Manager
+- [software-it-test-manager](./software-it-test-manager/) — Test Manager
 
 ## Notes
 

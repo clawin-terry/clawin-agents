@@ -1,0 +1,13 @@
+{
+    "id":  "marketplace-ecommerce-etl-elt-engineer",
+    "default":  false,
+    "name":  "ETL and ELT Engineer",
+    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-etl-elt-engineer/workspace",
+    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-etl-elt-engineer/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

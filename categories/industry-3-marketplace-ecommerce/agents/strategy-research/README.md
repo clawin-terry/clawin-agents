@@ -4,10 +4,10 @@ Install-ready strategy-research-focused OpenClaw agents for `industry-3-marketpl
 
 ## Included agents
 
-- [i3-annual-okr-program-manager-marketplace](./i3-annual-okr-program-manager-marketplace/) — Annual OKR Program Manager (Marketplace)
-- [i3-operating-review-program-manager-marketplace](./i3-operating-review-program-manager-marketplace/) — Operating Review Program Manager (Marketplace)
-- [i3-strategic-initiatives-manager-marketplace](./i3-strategic-initiatives-manager-marketplace/) — Strategic Initiatives Manager (Marketplace)
-- [i3-strategic-planning-manager-marketplace](./i3-strategic-planning-manager-marketplace/) — Strategic Planning Manager (Marketplace)
+- [marketplace-ecommerce-annual-okr-program-manager-marketplace](./marketplace-ecommerce-annual-okr-program-manager-marketplace/) — Annual OKR Program Manager (Marketplace)
+- [marketplace-ecommerce-operating-review-program-manager-marketplace](./marketplace-ecommerce-operating-review-program-manager-marketplace/) — Operating Review Program Manager (Marketplace)
+- [marketplace-ecommerce-strategic-initiatives-manager-marketplace](./marketplace-ecommerce-strategic-initiatives-manager-marketplace/) — Strategic Initiatives Manager (Marketplace)
+- [marketplace-ecommerce-strategic-planning-manager-marketplace](./marketplace-ecommerce-strategic-planning-manager-marketplace/) — Strategic Planning Manager (Marketplace)
 
 ## Notes
 

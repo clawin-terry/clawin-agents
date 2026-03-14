@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "digital-marketing-joint-case-study-and-certification-manager-agency",
+    "roleTitle":  "Joint Case Study and Certification Manager (Agency)",
+    "personaSummary":  "Coordinates joint case studies and certification work so agency teams can turn proven platform results into reusable proof points and partner-recognized credentials.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "media-business",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/digital-marketing-joint-case-study-and-certification-manager-agency",
+                    "workspace":  "~/.openclaw/agents/digital-marketing-joint-case-study-and-certification-manager-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/digital-marketing-joint-case-study-and-certification-manager-agency/agent",
+                    "configEntry":  "config/openclaw.agent.digital-marketing-joint-case-study-and-certification-manager-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.digital-marketing-joint-case-study-and-certification-manager-agency.snippet.json"
+                }
+}

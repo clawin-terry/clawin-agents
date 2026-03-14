@@ -1,0 +1,23 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-api-gateway-engineer-go-java",
+    "roleTitle":  "API Gateway Engineer (Go/Java)",
+    "personaSummary":  "Designs and operates API gateway layers, traffic controls, and edge integration patterns with Go and Java systems.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "clawin-backend-service-engineering",
+                          "clawin-middleware-distributed-systems"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-api-gateway-engineer-go-java",
+                    "workspace":  "~/.openclaw/agents/software-it-api-gateway-engineer-go-java/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-api-gateway-engineer-go-java/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-api-gateway-engineer-go-java.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-api-gateway-engineer-go-java.snippet.json"
+                }
+}

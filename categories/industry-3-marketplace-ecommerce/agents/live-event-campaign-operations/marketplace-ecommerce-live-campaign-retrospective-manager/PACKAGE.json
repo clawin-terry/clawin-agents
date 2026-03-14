@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-live-campaign-retrospective-manager",
+    "roleTitle":  "Live Campaign Retrospective Manager",
+    "personaSummary":  "Leads live campaign retrospectives so marketplace streaming events produce clear lessons, issue analysis, and next-cycle improvements.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "live-event-campaign-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-live-campaign-retrospective-manager",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-live-campaign-retrospective-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-live-campaign-retrospective-manager/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-live-campaign-retrospective-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-live-campaign-retrospective-manager.snippet.json"
+                }
+}

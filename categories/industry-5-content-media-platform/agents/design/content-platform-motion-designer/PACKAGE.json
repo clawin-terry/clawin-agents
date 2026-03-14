@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-motion-designer",
+    "roleTitle":  "Motion Designer",
+    "personaSummary":  "Designs motion behaviors and transitions so feedback, delight, and interface clarity improve across content playback, creation, and live interaction experiences.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "design",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "ui-ux-pro-max"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-motion-designer",
+                    "workspace":  "~/.openclaw/agents/content-platform-motion-designer/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-motion-designer/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-motion-designer.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-motion-designer.snippet.json"
+                }
+}

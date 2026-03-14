@@ -4,7 +4,7 @@ Install-ready ad-operations-support-focused OpenClaw agents for `industry-5-cont
 
 ## Included agents
 
-- [i5-creative-review-coordination-manager](./i5-creative-review-coordination-manager/) — Creative Review Coordination Manager
+- [content-platform-creative-review-coordination-manager](./content-platform-creative-review-coordination-manager/) — Creative Review Coordination Manager
 
 ## Notes
 

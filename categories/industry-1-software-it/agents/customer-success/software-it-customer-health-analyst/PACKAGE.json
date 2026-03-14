@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-customer-health-analyst",
+    "roleTitle":  "Customer Health Analyst",
+    "personaSummary":  "Analyzes customer health signals so risk, expansion opportunity, and lifecycle priorities become visible for the success organization.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "customer-success",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-customer-health-analyst",
+                    "workspace":  "~/.openclaw/agents/software-it-customer-health-analyst/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-customer-health-analyst/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-customer-health-analyst.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-customer-health-analyst.snippet.json"
+                }
+}

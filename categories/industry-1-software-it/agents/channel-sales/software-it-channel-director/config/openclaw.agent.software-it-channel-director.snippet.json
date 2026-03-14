@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "software-it-channel-director",
+                                    "default":  false,
+                                    "name":  "Channel Director",
+                                    "workspace":  "~/.openclaw/agents/software-it-channel-director/workspace",
+                                    "agentDir":  "~/.openclaw/agents/software-it-channel-director/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-data-retention-and-deletion-policy-specialist",
+    "default":  false,
+    "name":  "Data Retention and Deletion Policy Specialist",
+    "workspace":  "~/.openclaw/agents/software-it-data-retention-and-deletion-policy-specialist/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-data-retention-and-deletion-policy-specialist/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

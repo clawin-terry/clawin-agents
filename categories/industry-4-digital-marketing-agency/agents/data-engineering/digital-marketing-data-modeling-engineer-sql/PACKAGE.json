@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "digital-marketing-data-modeling-engineer-sql",
+    "roleTitle":  "Data Modeling Engineer (SQL)",
+    "personaSummary":  "Designs agency data models with SQL so analytical entities, attribution datasets, and reporting outputs stay consistent and easier to maintain.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "data-engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/digital-marketing-data-modeling-engineer-sql",
+                    "workspace":  "~/.openclaw/agents/digital-marketing-data-modeling-engineer-sql/workspace",
+                    "agentDir":  "~/.openclaw/agents/digital-marketing-data-modeling-engineer-sql/agent",
+                    "configEntry":  "config/openclaw.agent.digital-marketing-data-modeling-engineer-sql.entry.json",
+                    "configSnippet":  "config/openclaw.agent.digital-marketing-data-modeling-engineer-sql.snippet.json"
+                }
+}

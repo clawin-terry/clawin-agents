@@ -1,0 +1,23 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-ui-designer",
+    "roleTitle":  "UI Designer",
+    "personaSummary":  "Designs interface systems, visual patterns, and screen-level details so products feel clear, polished, and consistent.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "design",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "ui-ux-pro-max",
+                          "frontend-design"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-ui-designer",
+                    "workspace":  "~/.openclaw/agents/software-it-ui-designer/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-ui-designer/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-ui-designer.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-ui-designer.snippet.json"
+                }
+}

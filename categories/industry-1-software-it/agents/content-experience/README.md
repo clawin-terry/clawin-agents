@@ -4,10 +4,10 @@ Install-ready content-experience-focused OpenClaw agents for `industry-1-softwar
 
 ## Included agents
 
-- [i1-content-strategy-manager](./i1-content-strategy-manager/) — Content Strategy Manager
-- [i1-copywriter-content-planner](./i1-copywriter-content-planner/) — Copywriter and Content Planner
-- [i1-docs-ux-editor](./i1-docs-ux-editor/) — Docs UX Editor
-- [i1-video-multimedia-producer](./i1-video-multimedia-producer/) — Video and Multimedia Producer
+- [software-it-content-strategy-manager](./software-it-content-strategy-manager/) — Content Strategy Manager
+- [software-it-copywriter-planner](./software-it-copywriter-planner/) — Copywriter and Content Planner
+- [software-it-docs-ux-editor](./software-it-docs-ux-editor/) — Docs UX Editor
+- [software-it-video-multimedia-producer](./software-it-video-multimedia-producer/) — Video and Multimedia Producer
 
 ## Notes
 

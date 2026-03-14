@@ -1,0 +1,13 @@
+{
+  "id": "content-platform-knowledge-base-operations-specialist-platform",
+  "default": false,
+  "name": "Knowledge Base Operations Specialist (Platform)",
+  "workspace": "~/.openclaw/agents/content-platform-knowledge-base-operations-specialist-platform/workspace",
+  "agentDir": "~/.openclaw/agents/content-platform-knowledge-base-operations-specialist-platform/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

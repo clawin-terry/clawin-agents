@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "digital-marketing-editor-and-staff-writer-agency",
+    "roleTitle":  "Editor and Staff Writer (Agency)",
+    "personaSummary":  "Edits and writes campaign content so agency deliverables maintain clarity, consistency, and audience-appropriate structure across channels.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "content-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/digital-marketing-editor-and-staff-writer-agency",
+                    "workspace":  "~/.openclaw/agents/digital-marketing-editor-and-staff-writer-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/digital-marketing-editor-and-staff-writer-agency/agent",
+                    "configEntry":  "config/openclaw.agent.digital-marketing-editor-and-staff-writer-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.digital-marketing-editor-and-staff-writer-agency.snippet.json"
+                }
+}

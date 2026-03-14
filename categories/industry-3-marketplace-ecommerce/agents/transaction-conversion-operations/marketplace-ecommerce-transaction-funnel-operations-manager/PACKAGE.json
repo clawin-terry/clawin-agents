@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-transaction-funnel-operations-manager",
+    "roleTitle":  "Transaction Funnel Operations Manager",
+    "personaSummary":  "Operates the transaction funnel so buyers move from browsing to ordering with fewer drop-offs and clearer operational control points.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "transaction-conversion-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-transaction-funnel-operations-manager",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-transaction-funnel-operations-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-transaction-funnel-operations-manager/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-transaction-funnel-operations-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-transaction-funnel-operations-manager.snippet.json"
+                }
+}

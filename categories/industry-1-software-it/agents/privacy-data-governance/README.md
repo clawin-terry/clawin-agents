@@ -4,12 +4,12 @@ Install-ready privacy-data-governance-focused OpenClaw agents for `industry-1-so
 
 ## Included agents
 
-- [i1-data-assets-and-catalog-administrator](./i1-data-assets-and-catalog-administrator/) — Data Assets and Catalog Administrator
-- [i1-data-classification-and-tiering-manager](./i1-data-classification-and-tiering-manager/) — Data Classification and Tiering Manager
-- [i1-data-protection-officer](./i1-data-protection-officer/) — Data Protection Officer (DPO)
-- [i1-data-retention-and-deletion-policy-specialist](./i1-data-retention-and-deletion-policy-specialist/) — Data Retention and Deletion Policy Specialist
-- [i1-data-sharing-approval-specialist](./i1-data-sharing-approval-specialist/) — Data Sharing Approval Specialist
-- [i1-privacy-compliance-manager-pipl-gdpr](./i1-privacy-compliance-manager-pipl-gdpr/) — Privacy Compliance Manager (PIPL / GDPR)
+- [software-it-data-assets-and-catalog-administrator](./software-it-data-assets-and-catalog-administrator/) — Data Assets and Catalog Administrator
+- [software-it-data-classification-and-tiering-manager](./software-it-data-classification-and-tiering-manager/) — Data Classification and Tiering Manager
+- [software-it-data-protection-officer](./software-it-data-protection-officer/) — Data Protection Officer (DPO)
+- [software-it-data-retention-and-deletion-policy-specialist](./software-it-data-retention-and-deletion-policy-specialist/) — Data Retention and Deletion Policy Specialist
+- [software-it-data-sharing-approval-specialist](./software-it-data-sharing-approval-specialist/) — Data Sharing Approval Specialist
+- [software-it-privacy-compliance-manager-pipl-gdpr](./software-it-privacy-compliance-manager-pipl-gdpr/) — Privacy Compliance Manager (PIPL / GDPR)
 
 ## Notes
 

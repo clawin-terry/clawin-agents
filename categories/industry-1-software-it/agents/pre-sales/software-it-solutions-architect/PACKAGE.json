@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-solutions-architect",
+    "roleTitle":  "Solutions Architect",
+    "personaSummary":  "Designs practical solution architectures that connect customer needs, product capabilities, and delivery feasibility during the pre-sales cycle.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "pre-sales",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-solutions-architect",
+                    "workspace":  "~/.openclaw/agents/software-it-solutions-architect/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-solutions-architect/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-solutions-architect.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-solutions-architect.snippet.json"
+                }
+}

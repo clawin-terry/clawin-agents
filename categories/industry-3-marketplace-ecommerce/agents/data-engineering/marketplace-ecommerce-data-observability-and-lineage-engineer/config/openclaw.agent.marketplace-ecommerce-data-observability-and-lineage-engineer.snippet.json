@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "marketplace-ecommerce-data-observability-and-lineage-engineer",
+                                    "default":  false,
+                                    "name":  "Data Observability and Lineage Engineer",
+                                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-data-observability-and-lineage-engineer/workspace",
+                                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-data-observability-and-lineage-engineer/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "software-it-candidate-experience-specialist",
+                                    "default":  false,
+                                    "name":  "Candidate Experience Specialist",
+                                    "workspace":  "~/.openclaw/agents/software-it-candidate-experience-specialist/workspace",
+                                    "agentDir":  "~/.openclaw/agents/software-it-candidate-experience-specialist/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

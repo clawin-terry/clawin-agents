@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "software-it-administrative-receptionist",
+                                    "default":  false,
+                                    "name":  "Administrative Receptionist",
+                                    "workspace":  "~/.openclaw/agents/software-it-administrative-receptionist/workspace",
+                                    "agentDir":  "~/.openclaw/agents/software-it-administrative-receptionist/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

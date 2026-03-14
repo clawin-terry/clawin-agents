@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "marketplace-ecommerce-device-fingerprinting-and-identity-risk-engineer",
+        "default": false,
+        "name": "Device Fingerprinting and Identity Risk Engineer",
+        "workspace": "~/.openclaw/agents/marketplace-ecommerce-device-fingerprinting-and-identity-risk-engineer/workspace",
+        "agentDir": "~/.openclaw/agents/marketplace-ecommerce-device-fingerprinting-and-identity-risk-engineer/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

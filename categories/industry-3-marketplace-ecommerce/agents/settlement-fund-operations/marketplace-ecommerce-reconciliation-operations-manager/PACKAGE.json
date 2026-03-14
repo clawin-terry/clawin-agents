@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-reconciliation-operations-manager",
+    "roleTitle":  "Reconciliation Operations Manager",
+    "personaSummary":  "Operates reconciliation workflows so transaction, payment, and settlement records stay aligned and financially reliable.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "settlement-fund-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-reconciliation-operations-manager",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-reconciliation-operations-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-reconciliation-operations-manager/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-reconciliation-operations-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-reconciliation-operations-manager.snippet.json"
+                }
+}

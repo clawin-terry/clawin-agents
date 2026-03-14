@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "marketplace-ecommerce-cost-timeliness-modeling-analyst",
+                                    "default":  false,
+                                    "name":  "Cost and Timeliness Modeling Analyst",
+                                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-cost-timeliness-modeling-analyst/workspace",
+                                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-cost-timeliness-modeling-analyst/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

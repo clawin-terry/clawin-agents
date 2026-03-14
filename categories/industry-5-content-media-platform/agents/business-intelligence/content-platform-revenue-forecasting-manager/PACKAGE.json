@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-revenue-forecasting-manager",
+    "roleTitle":  "Revenue Forecasting Manager",
+    "personaSummary":  "Builds revenue forecasting models so commercialization teams can plan inventory, targets, and investment decisions with stronger financial visibility.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "business-intelligence",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-revenue-forecasting-manager",
+                    "workspace":  "~/.openclaw/agents/content-platform-revenue-forecasting-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-revenue-forecasting-manager/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-revenue-forecasting-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-revenue-forecasting-manager.snippet.json"
+                }
+}

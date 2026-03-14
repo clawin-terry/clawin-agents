@@ -4,7 +4,7 @@ Install-ready commercial-growth-focused OpenClaw agents for `industry-5-content-
 
 ## Included agents
 
-- [i5-commercialization-strategy-manager](./i5-commercialization-strategy-manager/) — Commercialization Strategy Manager
+- [content-platform-commercialization-strategy-manager](./content-platform-commercialization-strategy-manager/) — Commercialization Strategy Manager
 
 ## Notes
 

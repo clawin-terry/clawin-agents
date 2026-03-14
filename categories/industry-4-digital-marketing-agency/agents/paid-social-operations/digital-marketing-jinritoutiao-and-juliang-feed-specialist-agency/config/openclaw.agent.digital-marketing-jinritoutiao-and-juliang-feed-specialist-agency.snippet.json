@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "digital-marketing-jinritoutiao-and-juliang-feed-specialist-agency",
+        "default": false,
+        "name": "Jinri Toutiao and Ocean Engine Feed Ads Specialist (Agency)",
+        "workspace": "~/.openclaw/agents/digital-marketing-jinritoutiao-and-juliang-feed-specialist-agency/workspace",
+        "agentDir": "~/.openclaw/agents/digital-marketing-jinritoutiao-and-juliang-feed-specialist-agency/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

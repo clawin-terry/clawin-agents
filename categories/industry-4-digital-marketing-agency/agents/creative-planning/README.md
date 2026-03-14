@@ -4,10 +4,10 @@ Install-ready creative-planning-focused OpenClaw agents for `industry-4-digital-
 
 ## Included agents
 
-- [i4-creative-concept-and-script-planner-agency](./i4-creative-concept-and-script-planner-agency/) — Creative Concept and Script Planner (Agency)
-- [i4-creative-director-agency](./i4-creative-director-agency/) — Creative Director (Agency)
-- [i4-creative-presentation-packaging-specialist-agency](./i4-creative-presentation-packaging-specialist-agency/) — Creative Presentation Packaging Specialist (Agency)
-- [i4-creative-strategy-manager-data-collaboration-agency](./i4-creative-strategy-manager-data-collaboration-agency/) — Creative Strategy Manager, Data Collaboration (Agency)
+- [digital-marketing-creative-concept-and-script-planner-agency](./digital-marketing-creative-concept-and-script-planner-agency/) — Creative Concept and Script Planner (Agency)
+- [digital-marketing-creative-director-agency](./digital-marketing-creative-director-agency/) — Creative Director (Agency)
+- [digital-marketing-creative-presentation-packaging-specialist-agency](./digital-marketing-creative-presentation-packaging-specialist-agency/) — Creative Presentation Packaging Specialist (Agency)
+- [digital-marketing-creative-strategy-manager-data-collaboration-agency](./digital-marketing-creative-strategy-manager-data-collaboration-agency/) — Creative Strategy Manager, Data Collaboration (Agency)
 
 ## Notes
 

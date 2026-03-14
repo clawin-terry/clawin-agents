@@ -4,8 +4,8 @@ Install-ready sales-focused OpenClaw agents for `industry-5-content-media-platfo
 
 ## Included agents
 
-- [i5-industry-key-account-manager](./i5-industry-key-account-manager/) — Industry Key Account Manager
-- [i5-key-account-sales-manager](./i5-key-account-sales-manager/) — Key Account Sales Manager
+- [content-platform-industry-key-account-manager](./content-platform-industry-key-account-manager/) — Industry Key Account Manager
+- [content-platform-key-account-sales-manager](./content-platform-key-account-sales-manager/) — Key Account Sales Manager
 
 ## Notes
 

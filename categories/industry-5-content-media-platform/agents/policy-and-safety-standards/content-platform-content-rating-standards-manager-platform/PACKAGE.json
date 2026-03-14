@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-content-rating-standards-manager-platform",
+    "roleTitle":  "Content Rating Standards Manager (Platform)",
+    "personaSummary":  "Owns content rating standards so content can be classified with clearer tiers, safer handling rules, and more consistent downstream operations.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "policy-and-safety-standards",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-content-rating-standards-manager-platform",
+                    "workspace":  "~/.openclaw/agents/content-platform-content-rating-standards-manager-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-content-rating-standards-manager-platform/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-content-rating-standards-manager-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-content-rating-standards-manager-platform.snippet.json"
+                }
+}

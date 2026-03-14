@@ -1,0 +1,13 @@
+{
+  "id": "digital-marketing-channel-mix-strategist-agency",
+  "default": false,
+  "name": "Channel Mix Strategist (Agency)",
+  "workspace": "~/.openclaw/agents/digital-marketing-channel-mix-strategist-agency/workspace",
+  "agentDir": "~/.openclaw/agents/digital-marketing-channel-mix-strategist-agency/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

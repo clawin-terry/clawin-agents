@@ -4,10 +4,10 @@ Install-ready app-growth-operations-focused OpenClaw agents for `industry-4-digi
 
 ## Included agents
 
-- [i4-activation-to-payment-funnel-operator](./i4-activation-to-payment-funnel-operator/) — Activation to Payment Funnel Operator (Agency)
-- [i4-android-channel-acquisition-specialist](./i4-android-channel-acquisition-specialist/) — Android Channel Acquisition Specialist (Agency)
-- [i4-apple-search-ads-specialist-agency](./i4-apple-search-ads-specialist-agency/) — Apple Search Ads Specialist (Agency)
-- [i4-aso-coordination-specialist-agency](./i4-aso-coordination-specialist-agency/) — ASO Coordination Specialist (Agency)
+- [digital-marketing-activation-to-payment-funnel-operator-agency](./digital-marketing-activation-to-payment-funnel-operator-agency/) — Activation to Payment Funnel Operator (Agency)
+- [digital-marketing-android-channel-acquisition-specialist-agency](./digital-marketing-android-channel-acquisition-specialist-agency/) — Android Channel Acquisition Specialist (Agency)
+- [digital-marketing-apple-search-ads-specialist-agency](./digital-marketing-apple-search-ads-specialist-agency/) — Apple Search Ads Specialist (Agency)
+- [digital-marketing-aso-coordination-specialist-agency](./digital-marketing-aso-coordination-specialist-agency/) — ASO Coordination Specialist (Agency)
 
 ## Notes
 

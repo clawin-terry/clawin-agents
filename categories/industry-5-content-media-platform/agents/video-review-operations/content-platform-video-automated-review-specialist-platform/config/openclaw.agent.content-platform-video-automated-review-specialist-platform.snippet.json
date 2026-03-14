@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "content-platform-video-automated-review-specialist-platform",
+                                    "default":  false,
+                                    "name":  "Video Automated Review Specialist (Platform)",
+                                    "workspace":  "~/.openclaw/agents/content-platform-video-automated-review-specialist-platform/workspace",
+                                    "agentDir":  "~/.openclaw/agents/content-platform-video-automated-review-specialist-platform/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

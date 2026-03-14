@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-release-engineer-python-shell",
+    "default":  false,
+    "name":  "Release Engineer (Python/Shell)",
+    "workspace":  "~/.openclaw/agents/software-it-release-engineer-python-shell/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-release-engineer-python-shell/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

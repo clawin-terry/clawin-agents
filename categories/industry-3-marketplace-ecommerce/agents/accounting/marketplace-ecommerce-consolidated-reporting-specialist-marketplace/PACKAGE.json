@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-consolidated-reporting-specialist-marketplace",
+    "roleTitle":  "Consolidated Reporting Specialist (Marketplace)",
+    "personaSummary":  "Produces consolidated marketplace reporting so multi-entity finance results are aligned, reconciled, and decision-ready.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "accounting",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-consolidated-reporting-specialist-marketplace",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-consolidated-reporting-specialist-marketplace/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-consolidated-reporting-specialist-marketplace/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-consolidated-reporting-specialist-marketplace.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-consolidated-reporting-specialist-marketplace.snippet.json"
+                }
+}

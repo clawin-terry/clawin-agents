@@ -4,10 +4,10 @@ Install-ready frontend-engineering-focused OpenClaw agents for `industry-5-conte
 
 ## Included agents
 
-- [i5-growth-tools-engineer-typescript](./i5-growth-tools-engineer-typescript/) — Growth Tools Engineer (TypeScript)
-- [i5-internal-tools-engineer-typescript](./i5-internal-tools-engineer-typescript/) — Internal Tools Engineer (TypeScript)
-- [i5-review-operations-workbench-frontend-engineer-typescript](./i5-review-operations-workbench-frontend-engineer-typescript/) — Review and Operations Workbench Frontend Engineer (TypeScript)
-- [i5-web-h5-engineer-typescript](./i5-web-h5-engineer-typescript/) — Web and H5 Engineer (TypeScript)
+- [content-platform-growth-tools-engineer-typescript](./content-platform-growth-tools-engineer-typescript/) — Growth Tools Engineer (TypeScript)
+- [content-platform-internal-tools-engineer-typescript](./content-platform-internal-tools-engineer-typescript/) — Internal Tools Engineer (TypeScript)
+- [content-platform-review-and-operations-workbench-frontend-engineer-typescript](./content-platform-review-and-operations-workbench-frontend-engineer-typescript/) — Review and Operations Workbench Frontend Engineer (TypeScript)
+- [content-platform-web-h5-engineer-typescript](./content-platform-web-h5-engineer-typescript/) — Web and H5 Engineer (TypeScript)
 
 ## Notes
 

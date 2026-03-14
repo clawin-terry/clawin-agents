@@ -4,11 +4,11 @@ Install-ready private-domain-operations-focused OpenClaw agents for `industry-4-
 
 ## Included agents
 
-- [i4-community-operations-specialist-agency](./i4-community-operations-specialist-agency/) — Community Operations Specialist (Agency)
-- [i4-enterprise-wechat-sop-operator-agency](./i4-enterprise-wechat-sop-operator-agency/) — Enterprise WeChat SOP Operator (Agency)
-- [i4-private-domain-operations-lead-agency](./i4-private-domain-operations-lead-agency/) — Private-Domain Operations Lead (Agency)
-- [i4-shopping-guide-and-service-coordination-specialist-agency](./i4-shopping-guide-and-service-coordination-specialist-agency/) — Shopping Guide and Service Coordination Specialist (Agency)
-- [i4-user-growth-operator-acquisition-and-activation-agency](./i4-user-growth-operator-acquisition-and-activation-agency/) — User Growth Operator, Acquisition and Activation (Agency)
+- [digital-marketing-community-operations-specialist-agency](./digital-marketing-community-operations-specialist-agency/) — Community Operations Specialist (Agency)
+- [digital-marketing-enterprise-wechat-sop-operator-agency](./digital-marketing-enterprise-wechat-sop-operator-agency/) — Enterprise WeChat SOP Operator (Agency)
+- [digital-marketing-private-domain-operations-lead-agency](./digital-marketing-private-domain-operations-lead-agency/) — Private-Domain Operations Lead (Agency)
+- [digital-marketing-shopping-guide-and-service-coordination-specialist-agency](./digital-marketing-shopping-guide-and-service-coordination-specialist-agency/) — Shopping Guide and Service Coordination Specialist (Agency)
+- [digital-marketing-user-growth-operator-acquisition-and-activation-agency](./digital-marketing-user-growth-operator-acquisition-and-activation-agency/) — User Growth Operator, Acquisition and Activation (Agency)
 
 ## Notes
 

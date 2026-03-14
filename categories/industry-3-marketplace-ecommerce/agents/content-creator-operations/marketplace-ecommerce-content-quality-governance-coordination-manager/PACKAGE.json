@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-content-quality-governance-coordination-manager",
+    "roleTitle":  "Content Quality Governance Coordination Manager",
+    "personaSummary":  "Coordinates content quality governance so marketplace content standards, review partners, and improvement actions stay aligned across teams.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "content-creator-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-content-quality-governance-coordination-manager",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-content-quality-governance-coordination-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-content-quality-governance-coordination-manager/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-content-quality-governance-coordination-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-content-quality-governance-coordination-manager.snippet.json"
+                }
+}

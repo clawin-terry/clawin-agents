@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-customer-support-supervisor",
+    "roleTitle":  "Customer Support Supervisor",
+    "personaSummary":  "Leads frontline customer support operations so queue health, service consistency, and agent execution stay aligned with support standards.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "customer-support",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-customer-support-supervisor",
+                    "workspace":  "~/.openclaw/agents/software-it-customer-support-supervisor/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-customer-support-supervisor/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-customer-support-supervisor.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-customer-support-supervisor.snippet.json"
+                }
+}

@@ -4,10 +4,10 @@ Install-ready merchant-fulfillment-coordination-focused OpenClaw agents for `ind
 
 ## Included agents
 
-- [i3-fulfillment-quality-operations-manager](./i3-fulfillment-quality-operations-manager/) — Fulfillment Quality Operations Manager
-- [i3-merchant-customer-service-coordination-manager](./i3-merchant-customer-service-coordination-manager/) — Merchant Customer Service Coordination Manager
-- [i3-shipping-timeliness-improvement-manager](./i3-shipping-timeliness-improvement-manager/) — Shipping Timeliness Improvement Manager
-- [i3-stockout-governance-manager](./i3-stockout-governance-manager/) — Stockout Governance Manager
+- [marketplace-ecommerce-fulfillment-quality-operations-manager](./marketplace-ecommerce-fulfillment-quality-operations-manager/) — Fulfillment Quality Operations Manager
+- [marketplace-ecommerce-merchant-customer-service-coordination-manager](./marketplace-ecommerce-merchant-customer-service-coordination-manager/) — Merchant Customer Service Coordination Manager
+- [marketplace-ecommerce-shipping-timeliness-improvement-manager](./marketplace-ecommerce-shipping-timeliness-improvement-manager/) — Shipping Timeliness Improvement Manager
+- [marketplace-ecommerce-stockout-governance-manager](./marketplace-ecommerce-stockout-governance-manager/) — Stockout Governance Manager
 
 ## Notes
 

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-performance-manager",
+    "roleTitle":  "Performance Manager",
+    "personaSummary":  "Runs performance-management programs so goals, review cycles, and manager practices support clearer accountability and talent development.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "compensation-benefits-performance",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-performance-manager",
+                    "workspace":  "~/.openclaw/agents/software-it-performance-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-performance-manager/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-performance-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-performance-manager.snippet.json"
+                }
+}

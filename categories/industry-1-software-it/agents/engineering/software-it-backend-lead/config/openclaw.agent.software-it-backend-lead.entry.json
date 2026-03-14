@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-backend-lead",
+    "default":  false,
+    "name":  "Backend Lead",
+    "workspace":  "~/.openclaw/agents/software-it-backend-lead/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-backend-lead/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

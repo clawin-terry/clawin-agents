@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "content-platform-correction-and-rollback-process-manager-platform",
+                                    "default":  false,
+                                    "name":  "Correction and Rollback Process Manager (Platform)",
+                                    "workspace":  "~/.openclaw/agents/content-platform-correction-and-rollback-process-manager-platform/workspace",
+                                    "agentDir":  "~/.openclaw/agents/content-platform-correction-and-rollback-process-manager-platform/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

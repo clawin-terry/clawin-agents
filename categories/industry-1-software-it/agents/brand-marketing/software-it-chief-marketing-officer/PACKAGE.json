@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-chief-marketing-officer",
+    "roleTitle":  "Chief Marketing Officer",
+    "personaSummary":  "Leads brand and marketing strategy, aligning market positioning, demand creation, and organizational storytelling with company growth priorities.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "brand-marketing",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-chief-marketing-officer",
+                    "workspace":  "~/.openclaw/agents/software-it-chief-marketing-officer/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-chief-marketing-officer/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-chief-marketing-officer.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-chief-marketing-officer.snippet.json"
+                }
+}

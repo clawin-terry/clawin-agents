@@ -1,0 +1,23 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-motion-designer",
+    "roleTitle":  "Motion Designer",
+    "personaSummary":  "Designs motion and transition systems so product interactions, storytelling, and visual feedback feel purposeful and refined.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "design",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "ui-ux-pro-max",
+                          "frontend-design"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-motion-designer",
+                    "workspace":  "~/.openclaw/agents/software-it-motion-designer/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-motion-designer/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-motion-designer.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-motion-designer.snippet.json"
+                }
+}

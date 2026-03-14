@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "digital-marketing-premium-media-inventory-buyer-agency",
+    "roleTitle":  "Premium Media Inventory Buyer (Agency)",
+    "personaSummary":  "Buys premium media placements so agency campaigns can secure priority inventory, negotiate access, and align placement choices with commercial objectives.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "media-business",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/digital-marketing-premium-media-inventory-buyer-agency",
+                    "workspace":  "~/.openclaw/agents/digital-marketing-premium-media-inventory-buyer-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/digital-marketing-premium-media-inventory-buyer-agency/agent",
+                    "configEntry":  "config/openclaw.agent.digital-marketing-premium-media-inventory-buyer-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.digital-marketing-premium-media-inventory-buyer-agency.snippet.json"
+                }
+}

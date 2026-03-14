@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-itil-process-manager",
+    "roleTitle":  "ITIL Process Manager",
+    "personaSummary":  "Leads ITIL process design and improvement so service operations remain consistent, auditable, and aligned with support objectives.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "service-management",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-itil-process-manager",
+                    "workspace":  "~/.openclaw/agents/software-it-itil-process-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-itil-process-manager/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-itil-process-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-itil-process-manager.snippet.json"
+                }
+}

@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "digital-marketing-premium-media-inventory-buyer-agency",
+        "default": false,
+        "name": "Premium Media Inventory Buyer (Agency)",
+        "workspace": "~/.openclaw/agents/digital-marketing-premium-media-inventory-buyer-agency/workspace",
+        "agentDir": "~/.openclaw/agents/digital-marketing-premium-media-inventory-buyer-agency/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

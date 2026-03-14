@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-cross-platform-framework-engineer-dart",
+    "roleTitle":  "Cross-Platform Framework Engineer (Dart)",
+    "personaSummary":  "Builds shared Dart frameworks and UI components so cross-platform client development becomes faster, more consistent, and easier to scale across app surfaces.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "mobile-engineering",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "clawin-mobile-engineering"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-cross-platform-framework-engineer-dart",
+                    "workspace":  "~/.openclaw/agents/content-platform-cross-platform-framework-engineer-dart/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-cross-platform-framework-engineer-dart/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-cross-platform-framework-engineer-dart.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-cross-platform-framework-engineer-dart.snippet.json"
+                }
+}

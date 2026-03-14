@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-live-connection-pk-risk-specialist-platform",
+    "roleTitle":  "Live Connection and PK Risk Specialist (Platform)",
+    "personaSummary":  "Handles live-connection and PK risks so fast-moving interactive sessions stay within policy and receive timely intervention when needed.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "livestream-review-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-live-connection-pk-risk-specialist-platform",
+                    "workspace":  "~/.openclaw/agents/content-platform-live-connection-pk-risk-specialist-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-live-connection-pk-risk-specialist-platform/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-live-connection-pk-risk-specialist-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-live-connection-pk-risk-specialist-platform.snippet.json"
+                }
+}

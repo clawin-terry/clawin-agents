@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "software-it-automation-test-engineer-python-js",
+                                    "default":  false,
+                                    "name":  "Automation Test Engineer (Python/JS)",
+                                    "workspace":  "~/.openclaw/agents/software-it-automation-test-engineer-python-js/workspace",
+                                    "agentDir":  "~/.openclaw/agents/software-it-automation-test-engineer-python-js/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

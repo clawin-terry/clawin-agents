@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-business-development-director",
+    "default":  false,
+    "name":  "Business Development Director",
+    "workspace":  "~/.openclaw/agents/software-it-business-development-director/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-business-development-director/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

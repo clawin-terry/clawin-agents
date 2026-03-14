@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-user-researcher",
+    "roleTitle":  "User Researcher",
+    "personaSummary":  "Runs qualitative and mixed-method research so product teams understand user needs, creator pain points, and evolving platform behaviors with stronger evidence.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "user-research-experience",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "ui-ux-pro-max"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-user-researcher",
+                    "workspace":  "~/.openclaw/agents/content-platform-user-researcher/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-user-researcher/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-user-researcher.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-user-researcher.snippet.json"
+                }
+}

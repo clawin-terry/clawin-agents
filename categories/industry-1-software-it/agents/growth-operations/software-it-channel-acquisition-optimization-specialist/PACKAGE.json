@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-channel-acquisition-optimization-specialist",
+    "roleTitle":  "Channel Acquisition Optimization Specialist",
+    "personaSummary":  "Optimizes paid and partner acquisition channels through budget discipline, conversion analysis, and continuous channel performance tuning.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "growth-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-channel-acquisition-optimization-specialist",
+                    "workspace":  "~/.openclaw/agents/software-it-channel-acquisition-optimization-specialist/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-channel-acquisition-optimization-specialist/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-channel-acquisition-optimization-specialist.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-channel-acquisition-optimization-specialist.snippet.json"
+                }
+}

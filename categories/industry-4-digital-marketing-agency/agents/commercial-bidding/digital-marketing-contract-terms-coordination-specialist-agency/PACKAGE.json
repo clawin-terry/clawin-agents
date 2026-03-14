@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "digital-marketing-contract-terms-coordination-specialist-agency",
+    "roleTitle":  "Contract Terms Coordination Specialist (Agency)",
+    "personaSummary":  "Coordinates contract-term reviews so agency commercial teams and legal partners can close issues with better traceability.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "commercial-bidding",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/digital-marketing-contract-terms-coordination-specialist-agency",
+                    "workspace":  "~/.openclaw/agents/digital-marketing-contract-terms-coordination-specialist-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/digital-marketing-contract-terms-coordination-specialist-agency/agent",
+                    "configEntry":  "config/openclaw.agent.digital-marketing-contract-terms-coordination-specialist-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.digital-marketing-contract-terms-coordination-specialist-agency.snippet.json"
+                }
+}

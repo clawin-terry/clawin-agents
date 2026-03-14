@@ -4,12 +4,12 @@ Install-ready accounting-focused OpenClaw agents for `industry-1-software-it`.
 
 ## Included agents
 
-- [i1-accounts-payable-accountant](./i1-accounts-payable-accountant/) — Accounts Payable Accountant
-- [i1-accounts-receivable-accountant](./i1-accounts-receivable-accountant/) — Accounts Receivable Accountant
-- [i1-consolidated-reporting-manager](./i1-consolidated-reporting-manager/) — Consolidated Reporting Manager
-- [i1-fixed-asset-accountant](./i1-fixed-asset-accountant/) — Fixed Asset Accountant
-- [i1-general-ledger-accountant](./i1-general-ledger-accountant/) — General Ledger Accountant
-- [i1-revenue-recognition-accountant-subscription-project-based](./i1-revenue-recognition-accountant-subscription-project-based/) — Revenue Recognition Accountant (Subscription / Project-Based)
+- [software-it-accounts-payable-accountant](./software-it-accounts-payable-accountant/) — Accounts Payable Accountant
+- [software-it-accounts-receivable-accountant](./software-it-accounts-receivable-accountant/) — Accounts Receivable Accountant
+- [software-it-consolidated-reporting-manager](./software-it-consolidated-reporting-manager/) — Consolidated Reporting Manager
+- [software-it-fixed-asset-accountant](./software-it-fixed-asset-accountant/) — Fixed Asset Accountant
+- [software-it-general-ledger-accountant](./software-it-general-ledger-accountant/) — General Ledger Accountant
+- [software-it-revenue-recognition-accountant](./software-it-revenue-recognition-accountant/) — Revenue Recognition Accountant (Subscription / Project-Based)
 
 ## Notes
 

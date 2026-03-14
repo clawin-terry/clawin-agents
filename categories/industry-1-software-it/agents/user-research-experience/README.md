@@ -4,12 +4,12 @@ Install-ready user-research-experience-focused OpenClaw agents for `industry-1-s
 
 ## Included agents
 
-- [i1-experience-strategy-specialist](./i1-experience-strategy-specialist/) — Experience Strategy Specialist
-- [i1-head-of-user-research](./i1-head-of-user-research/) — Head of User Research
-- [i1-nps-voc-analyst](./i1-nps-voc-analyst/) — NPS and VoC Analyst
-- [i1-qualitative-researcher](./i1-qualitative-researcher/) — Qualitative Researcher
-- [i1-quantitative-researcher](./i1-quantitative-researcher/) — Quantitative Researcher
-- [i1-usability-testing-specialist](./i1-usability-testing-specialist/) — Usability Testing Specialist
+- [software-it-experience-strategy-specialist](./software-it-experience-strategy-specialist/) — Experience Strategy Specialist
+- [software-it-head-of-user-research](./software-it-head-of-user-research/) — Head of User Research
+- [software-it-nps-voc-analyst](./software-it-nps-voc-analyst/) — NPS and VoC Analyst
+- [software-it-qualitative-researcher](./software-it-qualitative-researcher/) — Qualitative Researcher
+- [software-it-quantitative-researcher](./software-it-quantitative-researcher/) — Quantitative Researcher
+- [software-it-usability-testing-specialist](./software-it-usability-testing-specialist/) — Usability Testing Specialist
 
 ## Notes
 

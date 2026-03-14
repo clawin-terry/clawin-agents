@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "marketplace-ecommerce-budget-and-rolling-forecast-manager-marketplace",
+                                    "default":  false,
+                                    "name":  "Budget and Rolling Forecast Manager (Marketplace)",
+                                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-budget-and-rolling-forecast-manager-marketplace/workspace",
+                                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-budget-and-rolling-forecast-manager-marketplace/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

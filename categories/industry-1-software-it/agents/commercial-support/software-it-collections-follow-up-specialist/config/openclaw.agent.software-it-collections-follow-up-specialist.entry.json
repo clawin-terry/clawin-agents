@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-collections-follow-up-specialist",
+    "default":  false,
+    "name":  "Collections Follow-Up Specialist",
+    "workspace":  "~/.openclaw/agents/software-it-collections-follow-up-specialist/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-collections-follow-up-specialist/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

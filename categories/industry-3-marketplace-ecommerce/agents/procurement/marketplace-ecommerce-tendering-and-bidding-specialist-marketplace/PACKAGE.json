@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-tendering-and-bidding-specialist-marketplace",
+    "roleTitle":  "Tendering and Bidding Specialist (Marketplace)",
+    "personaSummary":  "Runs tendering and bidding workflows so marketplace supplier selection, bid evaluation, and sourcing documentation remain structured and fair.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "procurement",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-tendering-and-bidding-specialist-marketplace",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-tendering-and-bidding-specialist-marketplace/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-tendering-and-bidding-specialist-marketplace/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-tendering-and-bidding-specialist-marketplace.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-tendering-and-bidding-specialist-marketplace.snippet.json"
+                }
+}

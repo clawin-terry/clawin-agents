@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-media-relations-manager",
+    "default":  false,
+    "name":  "Media Relations Manager",
+    "workspace":  "~/.openclaw/agents/software-it-media-relations-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-media-relations-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

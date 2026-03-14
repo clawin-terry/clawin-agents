@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "content-platform-command-center-duty-manager-platform",
+                                    "default":  false,
+                                    "name":  "Command Center Duty Manager (Platform)",
+                                    "workspace":  "~/.openclaw/agents/content-platform-command-center-duty-manager-platform/workspace",
+                                    "agentDir":  "~/.openclaw/agents/content-platform-command-center-duty-manager-platform/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-design-operations-manager",
+    "default":  false,
+    "name":  "Design Operations Manager",
+    "workspace":  "~/.openclaw/agents/software-it-design-operations-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-design-operations-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

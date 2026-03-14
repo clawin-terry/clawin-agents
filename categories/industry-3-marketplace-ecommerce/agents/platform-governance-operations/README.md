@@ -4,10 +4,10 @@ Install-ready platform-governance-operations-focused OpenClaw agents for `indust
 
 ## Included agents
 
-- [i3-appeals-review-specialist](./i3-appeals-review-specialist/) — Appeals Review Specialist
-- [i3-inspection-and-sampling-specialist](./i3-inspection-and-sampling-specialist/) — Inspection and Sampling Specialist
-- [i3-penalty-enforcement-specialist](./i3-penalty-enforcement-specialist/) — Penalty Enforcement Specialist
-- [i3-policy-design-manager](./i3-policy-design-manager/) — Policy Design Manager
+- [marketplace-ecommerce-appeals-review-specialist](./marketplace-ecommerce-appeals-review-specialist/) — Appeals Review Specialist
+- [marketplace-ecommerce-inspection-and-sampling-specialist](./marketplace-ecommerce-inspection-and-sampling-specialist/) — Inspection and Sampling Specialist
+- [marketplace-ecommerce-penalty-enforcement-specialist](./marketplace-ecommerce-penalty-enforcement-specialist/) — Penalty Enforcement Specialist
+- [marketplace-ecommerce-policy-design-manager](./marketplace-ecommerce-policy-design-manager/) — Policy Design Manager
 
 ## Notes
 

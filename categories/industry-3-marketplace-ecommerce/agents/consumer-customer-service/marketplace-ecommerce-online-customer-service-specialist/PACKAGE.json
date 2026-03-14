@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-online-customer-service-specialist",
+    "roleTitle":  "Online Customer Service Specialist",
+    "personaSummary":  "Handles online customer service so buyer issues are resolved quickly through digital service channels.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "consumer-customer-service",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-online-customer-service-specialist",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-online-customer-service-specialist/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-online-customer-service-specialist/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-online-customer-service-specialist.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-online-customer-service-specialist.snippet.json"
+                }
+}

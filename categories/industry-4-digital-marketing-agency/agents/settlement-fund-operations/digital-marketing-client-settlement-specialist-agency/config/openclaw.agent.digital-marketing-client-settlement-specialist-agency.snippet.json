@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "digital-marketing-client-settlement-specialist-agency",
+        "default": false,
+        "name": "Client Settlement Specialist",
+        "workspace": "~/.openclaw/agents/digital-marketing-client-settlement-specialist-agency/workspace",
+        "agentDir": "~/.openclaw/agents/digital-marketing-client-settlement-specialist-agency/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

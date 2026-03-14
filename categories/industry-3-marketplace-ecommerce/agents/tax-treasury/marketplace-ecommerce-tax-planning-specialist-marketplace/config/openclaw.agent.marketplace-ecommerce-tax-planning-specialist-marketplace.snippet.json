@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "marketplace-ecommerce-tax-planning-specialist-marketplace",
+        "default": false,
+        "name": "Tax Planning Specialist (Marketplace)",
+        "workspace": "~/.openclaw/agents/marketplace-ecommerce-tax-planning-specialist-marketplace/workspace",
+        "agentDir": "~/.openclaw/agents/marketplace-ecommerce-tax-planning-specialist-marketplace/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

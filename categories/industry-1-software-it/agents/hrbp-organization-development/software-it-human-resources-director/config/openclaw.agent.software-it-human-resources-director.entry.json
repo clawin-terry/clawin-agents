@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-human-resources-director",
+    "default":  false,
+    "name":  "Human Resources Director",
+    "workspace":  "~/.openclaw/agents/software-it-human-resources-director/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-human-resources-director/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

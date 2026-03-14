@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-data-quality-and-lineage-engineer",
+    "roleTitle":  "Data Quality and Lineage Engineer",
+    "personaSummary":  "Builds data quality and lineage capabilities so marketplace datasets stay trustworthy, explainable, and easier to govern across the platform.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "data-engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-data-quality-and-lineage-engineer",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-data-quality-and-lineage-engineer/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-data-quality-and-lineage-engineer/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-data-quality-and-lineage-engineer.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-data-quality-and-lineage-engineer.snippet.json"
+                }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-process-specialist",
+    "roleTitle":  "Process Specialist",
+    "personaSummary":  "Designs and improves operational processes so teams can execute work with clearer handoffs, stronger consistency, and measurable control.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "methodology-process",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-process-specialist",
+                    "workspace":  "~/.openclaw/agents/software-it-process-specialist/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-process-specialist/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-process-specialist.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-process-specialist.snippet.json"
+                }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "content-platform-creator-incentive-policy-manager-platform",
+  "default": false,
+  "name": "Creator Incentive Policy Manager (Platform)",
+  "workspace": "~/.openclaw/agents/content-platform-creator-incentive-policy-manager-platform/workspace",
+  "agentDir": "~/.openclaw/agents/content-platform-creator-incentive-policy-manager-platform/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

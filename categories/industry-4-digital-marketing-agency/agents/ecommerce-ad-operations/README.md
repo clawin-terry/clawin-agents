@@ -4,10 +4,10 @@ Install-ready ecommerce-ad-operations-focused OpenClaw agents for `industry-4-di
 
 ## Included agents
 
-- [i4-jd-jingzhuntong-specialist-agency](./i4-jd-jingzhuntong-specialist-agency/) — JD Jingzhuntong Specialist (Agency)
-- [i4-offsite-traffic-and-reactivation-strategist](./i4-offsite-traffic-and-reactivation-strategist/) — Offsite Traffic and Reactivation Strategist (Agency)
-- [i4-pinduoduo-ads-specialist-agency](./i4-pinduoduo-ads-specialist-agency/) — Pinduoduo Ads Specialist (Agency)
-- [i4-tmall-taobao-wanxiangtai-specialist](./i4-tmall-taobao-wanxiangtai-specialist/) — Tmall and Taobao Wanxiangtai Specialist (Agency)
+- [digital-marketing-jd-jingzhuntong-specialist-agency](./digital-marketing-jd-jingzhuntong-specialist-agency/) — JD Jingzhuntong Specialist (Agency)
+- [digital-marketing-offsite-traffic-and-reactivation-strategist-agency](./digital-marketing-offsite-traffic-and-reactivation-strategist-agency/) — Offsite Traffic and Reactivation Strategist (Agency)
+- [digital-marketing-pinduoduo-ads-specialist-agency](./digital-marketing-pinduoduo-ads-specialist-agency/) — Pinduoduo Ads Specialist (Agency)
+- [digital-marketing-tmall-taobao-wanxiangtai-specialist-agency](./digital-marketing-tmall-taobao-wanxiangtai-specialist-agency/) — Tmall and Taobao Wanxiangtai Specialist (Agency)
 
 ## Notes
 

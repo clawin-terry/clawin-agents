@@ -1,0 +1,13 @@
+{
+    "id":  "marketplace-ecommerce-business-analysis-specialist",
+    "default":  false,
+    "name":  "Business Analysis Specialist",
+    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-business-analysis-specialist/workspace",
+    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-business-analysis-specialist/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

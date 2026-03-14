@@ -4,11 +4,11 @@ Install-ready procurement-focused OpenClaw agents for `industry-1-software-it`.
 
 ## Included agents
 
-- [i1-it-procurement-specialist](./i1-it-procurement-specialist/) — IT Procurement Specialist
-- [i1-price-comparison-and-tendering-specialist](./i1-price-comparison-and-tendering-specialist/) — Price Comparison and Tendering Specialist
-- [i1-procurement-compliance-specialist](./i1-procurement-compliance-specialist/) — Procurement Compliance Specialist
-- [i1-procurement-director](./i1-procurement-director/) — Procurement Director
-- [i1-services-procurement-specialist](./i1-services-procurement-specialist/) — Services Procurement Specialist
+- [software-it-it-procurement-specialist](./software-it-it-procurement-specialist/) — IT Procurement Specialist
+- [software-it-price-comparison-and-tendering-specialist](./software-it-price-comparison-and-tendering-specialist/) — Price Comparison and Tendering Specialist
+- [software-it-procurement-compliance-specialist](./software-it-procurement-compliance-specialist/) — Procurement Compliance Specialist
+- [software-it-procurement-director](./software-it-procurement-director/) — Procurement Director
+- [software-it-services-procurement-specialist](./software-it-services-procurement-specialist/) — Services Procurement Specialist
 
 ## Notes
 

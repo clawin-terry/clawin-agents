@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-service-experience-improvement-manager",
+    "roleTitle":  "Service Experience Improvement Manager",
+    "personaSummary":  "Improves merchant service experience so buyers receive more reliable support and merchants can raise platform service quality consistently.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "merchant-performance-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-service-experience-improvement-manager",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-service-experience-improvement-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-service-experience-improvement-manager/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-service-experience-improvement-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-service-experience-improvement-manager.snippet.json"
+                }
+}

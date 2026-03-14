@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-lifecycle-operations-manager",
+    "roleTitle":  "Lifecycle Operations Manager",
+    "personaSummary":  "Runs lifecycle operations so marketplace users receive stage-appropriate engagement, incentives, and follow-through across the user journey.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "crm-private-domain-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-lifecycle-operations-manager",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-lifecycle-operations-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-lifecycle-operations-manager/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-lifecycle-operations-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-lifecycle-operations-manager.snippet.json"
+                }
+}

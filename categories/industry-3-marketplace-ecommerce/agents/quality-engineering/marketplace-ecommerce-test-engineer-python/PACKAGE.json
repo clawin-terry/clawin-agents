@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-test-engineer-python",
+    "roleTitle":  "Test Engineer (Python)",
+    "personaSummary":  "Designs and executes marketplace test coverage with Python-based tooling so releases remain reliable, traceable, and production-ready.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "quality-engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-test-engineer-python",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-test-engineer-python/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-test-engineer-python/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-test-engineer-python.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-test-engineer-python.snippet.json"
+                }
+}

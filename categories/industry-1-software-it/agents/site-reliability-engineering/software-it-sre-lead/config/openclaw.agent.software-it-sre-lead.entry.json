@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-sre-lead",
+    "default":  false,
+    "name":  "SRE Lead",
+    "workspace":  "~/.openclaw/agents/software-it-sre-lead/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-sre-lead/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

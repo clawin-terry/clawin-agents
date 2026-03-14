@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-content-trends-insights-manager-platform",
+    "roleTitle":  "Content Trends and Insights Manager (Platform)",
+    "personaSummary":  "Tracks content trends and ecosystem signals so editorial, creator, and platform teams can act earlier on emerging audience interests and format shifts.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "content-ecosystem-strategy",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-content-trends-insights-manager-platform",
+                    "workspace":  "~/.openclaw/agents/content-platform-content-trends-insights-manager-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-content-trends-insights-manager-platform/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-content-trends-insights-manager-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-content-trends-insights-manager-platform.snippet.json"
+                }
+}

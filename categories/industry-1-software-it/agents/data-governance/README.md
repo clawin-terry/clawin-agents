@@ -4,11 +4,11 @@ Install-ready data-governance-focused OpenClaw agents for `industry-1-software-i
 
 ## Included agents
 
-- [i1-data-asset-operations-manager](./i1-data-asset-operations-manager/) — Data Asset Operations Manager
-- [i1-data-governance-manager](./i1-data-governance-manager/) — Data Governance Manager
-- [i1-data-quality-engineer-python-sql](./i1-data-quality-engineer-python-sql/) — Data Quality Engineer (Python/SQL)
-- [i1-data-standards-specialist](./i1-data-standards-specialist/) — Data Standards Specialist
-- [i1-master-data-manager](./i1-master-data-manager/) — Master Data Manager
+- [software-it-data-asset-operations-manager](./software-it-data-asset-operations-manager/) — Data Asset Operations Manager
+- [software-it-data-governance-manager](./software-it-data-governance-manager/) — Data Governance Manager
+- [software-it-data-quality-engineer-python-sql](./software-it-data-quality-engineer-python-sql/) — Data Quality Engineer (Python/SQL)
+- [software-it-data-standards-specialist](./software-it-data-standards-specialist/) — Data Standards Specialist
+- [software-it-master-data-manager](./software-it-master-data-manager/) — Master Data Manager
 
 ## Notes
 

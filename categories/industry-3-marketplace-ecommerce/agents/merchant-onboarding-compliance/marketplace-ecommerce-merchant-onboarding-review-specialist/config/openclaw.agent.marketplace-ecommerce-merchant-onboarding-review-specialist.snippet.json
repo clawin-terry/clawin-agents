@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "marketplace-ecommerce-merchant-onboarding-review-specialist",
+        "default": false,
+        "name": "Merchant Onboarding Review Specialist",
+        "workspace": "~/.openclaw/agents/marketplace-ecommerce-merchant-onboarding-review-specialist/workspace",
+        "agentDir": "~/.openclaw/agents/marketplace-ecommerce-merchant-onboarding-review-specialist/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

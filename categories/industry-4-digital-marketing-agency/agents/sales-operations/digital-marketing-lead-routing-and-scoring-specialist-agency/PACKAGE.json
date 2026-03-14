@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "digital-marketing-lead-routing-and-scoring-specialist-agency",
+    "roleTitle":  "Lead Routing and Scoring Specialist (Agency)",
+    "personaSummary":  "Runs lead routing and scoring so agency opportunities reach the right owners with clearer prioritization and follow-up speed.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "sales-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/digital-marketing-lead-routing-and-scoring-specialist-agency",
+                    "workspace":  "~/.openclaw/agents/digital-marketing-lead-routing-and-scoring-specialist-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/digital-marketing-lead-routing-and-scoring-specialist-agency/agent",
+                    "configEntry":  "config/openclaw.agent.digital-marketing-lead-routing-and-scoring-specialist-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.digital-marketing-lead-routing-and-scoring-specialist-agency.snippet.json"
+                }
+}

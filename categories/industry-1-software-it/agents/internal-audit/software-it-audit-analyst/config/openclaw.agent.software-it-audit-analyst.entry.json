@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-audit-analyst",
+    "default":  false,
+    "name":  "Audit Analyst",
+    "workspace":  "~/.openclaw/agents/software-it-audit-analyst/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-audit-analyst/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

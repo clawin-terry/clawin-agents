@@ -4,10 +4,10 @@ Install-ready campaign-program-management-focused OpenClaw agents for `industry-
 
 ## Included agents
 
-- [i3-campaign-command-manager](./i3-campaign-command-manager/) — Campaign Command Manager
-- [i3-cross-functional-scheduling-manager](./i3-cross-functional-scheduling-manager/) — Cross-Functional Scheduling Manager
-- [i3-supply-side-mobilization-manager](./i3-supply-side-mobilization-manager/) — Supply-Side Mobilization Manager
-- [i3-user-atmosphere-operations-manager](./i3-user-atmosphere-operations-manager/) — User Atmosphere Operations Manager
+- [marketplace-ecommerce-campaign-command-manager](./marketplace-ecommerce-campaign-command-manager/) — Campaign Command Manager
+- [marketplace-ecommerce-cross-functional-scheduling-manager](./marketplace-ecommerce-cross-functional-scheduling-manager/) — Cross-Functional Scheduling Manager
+- [marketplace-ecommerce-supply-side-mobilization-manager](./marketplace-ecommerce-supply-side-mobilization-manager/) — Supply-Side Mobilization Manager
+- [marketplace-ecommerce-user-atmosphere-operations-manager](./marketplace-ecommerce-user-atmosphere-operations-manager/) — User Atmosphere Operations Manager
 
 ## Notes
 

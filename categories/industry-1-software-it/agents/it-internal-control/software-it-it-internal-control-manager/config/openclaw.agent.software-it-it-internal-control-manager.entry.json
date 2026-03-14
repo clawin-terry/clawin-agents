@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-it-internal-control-manager",
+    "default":  false,
+    "name":  "IT Internal Control Manager",
+    "workspace":  "~/.openclaw/agents/software-it-it-internal-control-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-it-internal-control-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

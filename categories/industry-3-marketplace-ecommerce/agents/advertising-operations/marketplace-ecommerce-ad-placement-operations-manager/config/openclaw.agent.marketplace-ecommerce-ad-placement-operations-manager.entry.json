@@ -1,0 +1,13 @@
+{
+    "id":  "marketplace-ecommerce-ad-placement-operations-manager",
+    "default":  false,
+    "name":  "Ad Placement Operations Manager",
+    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-ad-placement-operations-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-ad-placement-operations-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-compliance-process-specialist",
+    "default":  false,
+    "name":  "Compliance Process Specialist",
+    "workspace":  "~/.openclaw/agents/software-it-compliance-process-specialist/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-compliance-process-specialist/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

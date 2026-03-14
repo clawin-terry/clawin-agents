@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-returns-collection-operations-manager",
+    "roleTitle":  "Returns Collection Operations Manager",
+    "personaSummary":  "Runs returns collection operations so buyer return pickup workflows stay efficient, trackable, and service-consistent.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "reverse-logistics-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-returns-collection-operations-manager",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-returns-collection-operations-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-returns-collection-operations-manager/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-returns-collection-operations-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-returns-collection-operations-manager.snippet.json"
+                }
+}

@@ -4,7 +4,7 @@ Install-ready digital-marketing-focused OpenClaw agents for `industry-5-content-
 
 ## Included agents
 
-- [i5-aso-seo-coordination-manager](./i5-aso-seo-coordination-manager/) — ASO and SEO Coordination Manager
+- [content-platform-aso-seo-coordination-manager](./content-platform-aso-seo-coordination-manager/) — ASO and SEO Coordination Manager
 
 ## Notes
 

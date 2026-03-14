@@ -1,0 +1,13 @@
+{
+  "id": "content-platform-cross-cultural-rules-localization-manager-platform",
+  "default": false,
+  "name": "Cross-Cultural Rules Localization Manager (Platform)",
+  "workspace": "~/.openclaw/agents/content-platform-cross-cultural-rules-localization-manager-platform/workspace",
+  "agentDir": "~/.openclaw/agents/content-platform-cross-cultural-rules-localization-manager-platform/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

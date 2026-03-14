@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "software-it-architecture-committee-member",
+                                    "default":  false,
+                                    "name":  "Architecture Committee Member",
+                                    "workspace":  "~/.openclaw/agents/software-it-architecture-committee-member/workspace",
+                                    "agentDir":  "~/.openclaw/agents/software-it-architecture-committee-member/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

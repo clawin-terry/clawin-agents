@@ -4,12 +4,12 @@ Install-ready delivery-implementation-focused OpenClaw agents for `industry-1-so
 
 ## Included agents
 
-- [i1-business-consultant-delivery](./i1-business-consultant-delivery/) — Business Consultant
-- [i1-configuration-implementation-engineer-java-sql](./i1-configuration-implementation-engineer-java-sql/) — Configuration Implementation Engineer (Java/SQL)
-- [i1-data-migration-engineer-python-sql](./i1-data-migration-engineer-python-sql/) — Data Migration Engineer (Python/SQL)
-- [i1-delivery-director](./i1-delivery-director/) — Delivery Director
-- [i1-implementation-consultant](./i1-implementation-consultant/) — Implementation Consultant
-- [i1-project-manager-delivery](./i1-project-manager-delivery/) — Project Manager
+- [software-it-business-consultant-delivery](./software-it-business-consultant-delivery/) — Business Consultant
+- [software-it-configuration-implementation-engineer-java-sql](./software-it-configuration-implementation-engineer-java-sql/) — Configuration Implementation Engineer (Java/SQL)
+- [software-it-data-migration-engineer-python-sql](./software-it-data-migration-engineer-python-sql/) — Data Migration Engineer (Python/SQL)
+- [software-it-delivery-director](./software-it-delivery-director/) — Delivery Director
+- [software-it-implementation-consultant](./software-it-implementation-consultant/) — Implementation Consultant
+- [software-it-project-manager-delivery](./software-it-project-manager-delivery/) — Project Manager
 
 ## Notes
 

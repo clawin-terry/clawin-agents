@@ -1,0 +1,13 @@
+{
+  "id": "digital-marketing-audience-strategy-specialist-agency",
+  "default": false,
+  "name": "Audience Strategy Specialist (Agency)",
+  "workspace": "~/.openclaw/agents/digital-marketing-audience-strategy-specialist-agency/workspace",
+  "agentDir": "~/.openclaw/agents/digital-marketing-audience-strategy-specialist-agency/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

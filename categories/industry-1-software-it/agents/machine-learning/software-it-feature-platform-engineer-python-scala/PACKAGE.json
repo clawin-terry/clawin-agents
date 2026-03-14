@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-feature-platform-engineer-python-scala",
+    "roleTitle":  "Feature Platform Engineer (Python/Scala)",
+    "personaSummary":  "Builds feature platform capabilities with Python and Scala so training and serving workflows use consistent, reusable, and trustworthy feature data.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "machine-learning",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-feature-platform-engineer-python-scala",
+                    "workspace":  "~/.openclaw/agents/software-it-feature-platform-engineer-python-scala/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-feature-platform-engineer-python-scala/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-feature-platform-engineer-python-scala.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-feature-platform-engineer-python-scala.snippet.json"
+                }
+}

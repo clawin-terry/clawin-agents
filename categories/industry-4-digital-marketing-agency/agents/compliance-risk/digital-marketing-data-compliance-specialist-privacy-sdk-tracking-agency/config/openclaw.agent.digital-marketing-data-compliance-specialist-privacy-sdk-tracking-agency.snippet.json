@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "digital-marketing-data-compliance-specialist-privacy-sdk-tracking-agency",
+        "default": false,
+        "name": "Data Compliance Specialist (Privacy, SDK, and Tracking)",
+        "workspace": "~/.openclaw/agents/digital-marketing-data-compliance-specialist-privacy-sdk-tracking-agency/workspace",
+        "agentDir": "~/.openclaw/agents/digital-marketing-data-compliance-specialist-privacy-sdk-tracking-agency/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

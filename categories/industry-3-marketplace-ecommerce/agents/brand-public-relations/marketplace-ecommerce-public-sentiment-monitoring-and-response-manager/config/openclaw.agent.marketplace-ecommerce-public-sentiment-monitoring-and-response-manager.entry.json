@@ -1,0 +1,13 @@
+{
+    "id":  "marketplace-ecommerce-public-sentiment-monitoring-and-response-manager",
+    "default":  false,
+    "name":  "Public Sentiment Monitoring and Response Manager",
+    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-public-sentiment-monitoring-and-response-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-public-sentiment-monitoring-and-response-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

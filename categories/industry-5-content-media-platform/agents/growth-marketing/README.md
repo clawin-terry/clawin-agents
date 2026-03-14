@@ -4,10 +4,10 @@ Install-ready growth-marketing-focused OpenClaw agents for `industry-5-content-m
 
 ## Included agents
 
-- [i5-channel-operations-manager](./i5-channel-operations-manager/) — Channel Operations Manager
-- [i5-creative-production-and-testing-manager](./i5-creative-production-and-testing-manager/) — Creative Production and Testing Manager
-- [i5-livestream-paid-conversion-manager](./i5-livestream-paid-conversion-manager/) — Livestream Paid Conversion Manager
-- [i5-paid-acquisition-manager](./i5-paid-acquisition-manager/) — Paid Acquisition Manager
+- [content-platform-channel-operations-manager](./content-platform-channel-operations-manager/) — Channel Operations Manager
+- [content-platform-creative-production-and-testing-manager](./content-platform-creative-production-and-testing-manager/) — Creative Production and Testing Manager
+- [content-platform-livestream-paid-conversion-manager](./content-platform-livestream-paid-conversion-manager/) — Livestream Paid Conversion Manager
+- [content-platform-paid-acquisition-manager](./content-platform-paid-acquisition-manager/) — Paid Acquisition Manager
 
 ## Notes
 

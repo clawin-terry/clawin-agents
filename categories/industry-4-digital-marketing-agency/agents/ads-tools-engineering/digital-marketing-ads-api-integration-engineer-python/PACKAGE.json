@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "digital-marketing-ads-api-integration-engineer-python",
+    "roleTitle":  "Ads API Integration Engineer (Python)",
+    "personaSummary":  "Integrates advertising platform APIs with Python so campaign data access, operational tooling, and reporting workflows remain connected and usable.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "ads-tools-engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/digital-marketing-ads-api-integration-engineer-python",
+                    "workspace":  "~/.openclaw/agents/digital-marketing-ads-api-integration-engineer-python/workspace",
+                    "agentDir":  "~/.openclaw/agents/digital-marketing-ads-api-integration-engineer-python/agent",
+                    "configEntry":  "config/openclaw.agent.digital-marketing-ads-api-integration-engineer-python.entry.json",
+                    "configSnippet":  "config/openclaw.agent.digital-marketing-ads-api-integration-engineer-python.snippet.json"
+                }
+}

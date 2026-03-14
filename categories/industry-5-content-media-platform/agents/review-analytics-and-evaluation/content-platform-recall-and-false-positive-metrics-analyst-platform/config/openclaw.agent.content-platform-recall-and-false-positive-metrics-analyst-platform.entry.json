@@ -1,0 +1,13 @@
+{
+  "id": "content-platform-recall-and-false-positive-metrics-analyst-platform",
+  "default": false,
+  "name": "Recall and False Positive Metrics Analyst (Platform)",
+  "workspace": "~/.openclaw/agents/content-platform-recall-and-false-positive-metrics-analyst-platform/workspace",
+  "agentDir": "~/.openclaw/agents/content-platform-recall-and-false-positive-metrics-analyst-platform/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

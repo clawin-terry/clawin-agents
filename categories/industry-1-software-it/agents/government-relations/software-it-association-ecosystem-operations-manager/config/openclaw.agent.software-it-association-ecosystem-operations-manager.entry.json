@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-association-ecosystem-operations-manager",
+    "default":  false,
+    "name":  "Association and Ecosystem Operations Manager",
+    "workspace":  "~/.openclaw/agents/software-it-association-ecosystem-operations-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-association-ecosystem-operations-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

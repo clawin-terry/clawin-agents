@@ -1,0 +1,13 @@
+{
+  "id": "digital-marketing-automation-test-engineer-python",
+  "default": false,
+  "name": "Automation Test Engineer (Python)",
+  "workspace": "~/.openclaw/agents/digital-marketing-automation-test-engineer-python/workspace",
+  "agentDir": "~/.openclaw/agents/digital-marketing-automation-test-engineer-python/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

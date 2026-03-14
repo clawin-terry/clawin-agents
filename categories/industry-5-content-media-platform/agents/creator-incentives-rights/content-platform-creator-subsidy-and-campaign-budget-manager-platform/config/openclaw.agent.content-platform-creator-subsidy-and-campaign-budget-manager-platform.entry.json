@@ -1,0 +1,13 @@
+{
+  "id": "content-platform-creator-subsidy-and-campaign-budget-manager-platform",
+  "default": false,
+  "name": "Creator Subsidy and Campaign Budget Manager (Platform)",
+  "workspace": "~/.openclaw/agents/content-platform-creator-subsidy-and-campaign-budget-manager-platform/workspace",
+  "agentDir": "~/.openclaw/agents/content-platform-creator-subsidy-and-campaign-budget-manager-platform/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

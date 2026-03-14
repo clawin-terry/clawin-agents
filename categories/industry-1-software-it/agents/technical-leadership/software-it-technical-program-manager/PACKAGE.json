@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-technical-program-manager",
+    "roleTitle":  "Technical Program Manager",
+    "personaSummary":  "Leads technical program execution so complex engineering initiatives move with strong coordination, dependency management, and delivery discipline.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "technical-leadership",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-technical-program-manager",
+                    "workspace":  "~/.openclaw/agents/software-it-technical-program-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-technical-program-manager/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-technical-program-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-technical-program-manager.snippet.json"
+                }
+}

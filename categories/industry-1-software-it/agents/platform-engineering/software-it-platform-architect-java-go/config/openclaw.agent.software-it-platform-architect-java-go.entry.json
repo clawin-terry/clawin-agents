@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-platform-architect-java-go",
+    "default":  false,
+    "name":  "Platform Architect (Java/Go)",
+    "workspace":  "~/.openclaw/agents/software-it-platform-architect-java-go/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-platform-architect-java-go/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

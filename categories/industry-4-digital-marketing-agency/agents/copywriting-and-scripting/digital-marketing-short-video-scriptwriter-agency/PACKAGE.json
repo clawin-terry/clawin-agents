@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "digital-marketing-short-video-scriptwriter-agency",
+    "roleTitle":  "Short Video Scriptwriter (Agency)",
+    "personaSummary":  "Develops short-video scripts so agency teams can turn campaign goals into tighter narratives, scene logic, and creator-friendly execution briefs.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "copywriting-and-scripting",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/digital-marketing-short-video-scriptwriter-agency",
+                    "workspace":  "~/.openclaw/agents/digital-marketing-short-video-scriptwriter-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/digital-marketing-short-video-scriptwriter-agency/agent",
+                    "configEntry":  "config/openclaw.agent.digital-marketing-short-video-scriptwriter-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.digital-marketing-short-video-scriptwriter-agency.snippet.json"
+                }
+}

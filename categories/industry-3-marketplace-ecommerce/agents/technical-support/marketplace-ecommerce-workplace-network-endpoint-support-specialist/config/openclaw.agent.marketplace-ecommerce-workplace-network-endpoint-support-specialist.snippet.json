@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "marketplace-ecommerce-workplace-network-endpoint-support-specialist",
+        "default": false,
+        "name": "Workplace Network and Endpoint Support Specialist",
+        "workspace": "~/.openclaw/agents/marketplace-ecommerce-workplace-network-endpoint-support-specialist/workspace",
+        "agentDir": "~/.openclaw/agents/marketplace-ecommerce-workplace-network-endpoint-support-specialist/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

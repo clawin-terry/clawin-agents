@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-transaction-performance-optimization-engineer",
+    "roleTitle":  "Transaction Performance Optimization Engineer",
+    "personaSummary":  "Optimizes transaction performance so marketplace ordering flows remain fast, stable, and cost-efficient during peak demand.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "backend-engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "clawin-backend-service-engineering"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-transaction-performance-optimization-engineer",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-transaction-performance-optimization-engineer/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-transaction-performance-optimization-engineer/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-transaction-performance-optimization-engineer.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-transaction-performance-optimization-engineer.snippet.json"
+                }
+}

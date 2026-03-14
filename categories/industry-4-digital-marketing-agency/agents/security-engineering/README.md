@@ -4,7 +4,7 @@ Install-ready security-engineering-focused OpenClaw agents for `industry-4-digit
 
 ## Included agents
 
-- [i4-security-engineer-python-agency](./i4-security-engineer-python-agency/) — Security Engineer (Python, Agency)
+- [digital-marketing-security-engineer-python-agency](./digital-marketing-security-engineer-python-agency/) — Security Engineer (Python, Agency)
 
 ## Notes
 

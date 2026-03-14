@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "marketplace-ecommerce-internal-control-manager-marketplace",
+                                    "default":  false,
+                                    "name":  "Internal Control Manager (Marketplace)",
+                                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-internal-control-manager-marketplace/workspace",
+                                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-internal-control-manager-marketplace/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

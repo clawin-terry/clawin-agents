@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-interaction-designer",
+    "roleTitle":  "Interaction Designer",
+    "personaSummary":  "Designs interaction patterns and user flows so complex marketplace journeys feel clearer, more efficient, and easier to execute.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "design",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "frontend-design"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-interaction-designer",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-interaction-designer/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-interaction-designer/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-interaction-designer.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-interaction-designer.snippet.json"
+                }
+}

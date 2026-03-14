@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-subscription-operations-manager",
+    "roleTitle":  "Subscription Operations Manager",
+    "personaSummary":  "Runs membership and subscription operations to improve renewal health, plan performance, and value realization across recurring revenue programs.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "growth-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-subscription-operations-manager",
+                    "workspace":  "~/.openclaw/agents/software-it-subscription-operations-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-subscription-operations-manager/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-subscription-operations-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-subscription-operations-manager.snippet.json"
+                }
+}

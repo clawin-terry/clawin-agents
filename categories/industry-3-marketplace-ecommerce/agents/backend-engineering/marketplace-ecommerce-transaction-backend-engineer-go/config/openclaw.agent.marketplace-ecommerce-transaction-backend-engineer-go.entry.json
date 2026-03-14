@@ -1,0 +1,13 @@
+{
+    "id":  "marketplace-ecommerce-transaction-backend-engineer-go",
+    "default":  false,
+    "name":  "Transaction Backend Engineer (Go)",
+    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-transaction-backend-engineer-go/workspace",
+    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-transaction-backend-engineer-go/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

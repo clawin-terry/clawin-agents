@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-merchant-acquisition-product-manager",
+    "roleTitle":  "Merchant Acquisition Product Manager",
+    "personaSummary":  "Owns merchant acquisition product workflows so seller onboarding, application routing, and lead conversion move with less friction and stronger operating clarity.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "platform-product-management",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-merchant-acquisition-product-manager",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-merchant-acquisition-product-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-merchant-acquisition-product-manager/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-merchant-acquisition-product-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-merchant-acquisition-product-manager.snippet.json"
+                }
+}

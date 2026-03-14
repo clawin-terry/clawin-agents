@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-data-observability-and-lineage-engineer",
+    "roleTitle":  "Data Observability and Lineage Engineer",
+    "personaSummary":  "Builds marketplace data observability and lineage capabilities so datasets stay traceable, diagnosable, and easier to trust across analytics and platform workflows.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "data-engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-data-observability-and-lineage-engineer",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-data-observability-and-lineage-engineer/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-data-observability-and-lineage-engineer/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-data-observability-and-lineage-engineer.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-data-observability-and-lineage-engineer.snippet.json"
+                }
+}

@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "marketplace-ecommerce-fraud-investigation-coordination-specialist-marketplace",
+        "default": false,
+        "name": "Fraud Investigation Coordination Specialist (Marketplace)",
+        "workspace": "~/.openclaw/agents/marketplace-ecommerce-fraud-investigation-coordination-specialist-marketplace/workspace",
+        "agentDir": "~/.openclaw/agents/marketplace-ecommerce-fraud-investigation-coordination-specialist-marketplace/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

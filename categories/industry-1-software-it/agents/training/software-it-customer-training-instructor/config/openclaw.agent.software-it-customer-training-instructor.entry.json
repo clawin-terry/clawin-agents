@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-customer-training-instructor",
+    "default":  false,
+    "name":  "Customer Training Instructor",
+    "workspace":  "~/.openclaw/agents/software-it-customer-training-instructor/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-customer-training-instructor/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

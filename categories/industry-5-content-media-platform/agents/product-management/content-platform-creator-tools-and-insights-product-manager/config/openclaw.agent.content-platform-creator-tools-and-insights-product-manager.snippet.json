@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "content-platform-creator-tools-and-insights-product-manager",
+                                    "default":  false,
+                                    "name":  "Creator Tools and Insights Product Manager",
+                                    "workspace":  "~/.openclaw/agents/content-platform-creator-tools-and-insights-product-manager/workspace",
+                                    "agentDir":  "~/.openclaw/agents/content-platform-creator-tools-and-insights-product-manager/agent",
+                                    "model":  {
+                                                  "primary":  "mycodex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

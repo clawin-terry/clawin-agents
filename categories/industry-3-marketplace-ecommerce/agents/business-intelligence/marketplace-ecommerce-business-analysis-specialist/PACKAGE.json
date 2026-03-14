@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-business-analysis-specialist",
+    "roleTitle":  "Business Analysis Specialist",
+    "personaSummary":  "Produces business analysis for marketplace operations so leaders can evaluate growth, efficiency, and structural performance tradeoffs with clearer evidence.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "business-intelligence",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-business-analysis-specialist",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-business-analysis-specialist/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-business-analysis-specialist/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-business-analysis-specialist.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-business-analysis-specialist.snippet.json"
+                }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-sales-recruiter",
+    "roleTitle":  "Sales Recruiter",
+    "personaSummary":  "Recruits sales talent so frontline hiring demand is met with better sourcing focus, process coordination, and closing support.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "talent-acquisition",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-sales-recruiter",
+                    "workspace":  "~/.openclaw/agents/software-it-sales-recruiter/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-sales-recruiter/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-sales-recruiter.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-sales-recruiter.snippet.json"
+                }
+}

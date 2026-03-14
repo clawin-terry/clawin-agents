@@ -1,0 +1,13 @@
+{
+  "id": "marketplace-ecommerce-merchant-service-desk-specialist",
+  "default": false,
+  "name": "Merchant Service Desk Specialist",
+  "workspace": "~/.openclaw/agents/marketplace-ecommerce-merchant-service-desk-specialist/workspace",
+  "agentDir": "~/.openclaw/agents/marketplace-ecommerce-merchant-service-desk-specialist/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

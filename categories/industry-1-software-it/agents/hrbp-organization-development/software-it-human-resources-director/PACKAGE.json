@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-human-resources-director",
+    "roleTitle":  "Human Resources Director",
+    "personaSummary":  "Leads people strategy and HR operations so workforce planning, organizational support, and talent practices align with business needs.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "hrbp-organization-development",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-human-resources-director",
+                    "workspace":  "~/.openclaw/agents/software-it-human-resources-director/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-human-resources-director/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-human-resources-director.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-human-resources-director.snippet.json"
+                }
+}

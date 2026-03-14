@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-nps-and-satisfaction-operations-manager",
+    "roleTitle":  "NPS and Satisfaction Operations Manager",
+    "personaSummary":  "Runs NPS and satisfaction operations so buyer sentiment is measured consistently and linked to operational improvement programs.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "customer-experience-insights-and-improvement",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-nps-and-satisfaction-operations-manager",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-nps-and-satisfaction-operations-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-nps-and-satisfaction-operations-manager/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-nps-and-satisfaction-operations-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-nps-and-satisfaction-operations-manager.snippet.json"
+                }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "digital-marketing-insights-researcher",
+    "roleTitle":  "Insights Researcher",
+    "personaSummary":  "Develops audience, market, and performance insights so agency teams can shape strategy, creative direction, and optimization plans with stronger evidence.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "business-intelligence",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/digital-marketing-insights-researcher",
+                    "workspace":  "~/.openclaw/agents/digital-marketing-insights-researcher/workspace",
+                    "agentDir":  "~/.openclaw/agents/digital-marketing-insights-researcher/agent",
+                    "configEntry":  "config/openclaw.agent.digital-marketing-insights-researcher.entry.json",
+                    "configSnippet":  "config/openclaw.agent.digital-marketing-insights-researcher.snippet.json"
+                }
+}

@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-soc-analyst",
+    "roleTitle":  "Security Operations Center Analyst",
+    "personaSummary":  "Monitors and analyzes security operations activity, improving alert triage, incident handling, and operational visibility across the environment.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "security-engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "healthcheck"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-soc-analyst",
+                    "workspace":  "~/.openclaw/agents/software-it-soc-analyst/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-soc-analyst/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-soc-analyst.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-soc-analyst.snippet.json"
+                }
+}

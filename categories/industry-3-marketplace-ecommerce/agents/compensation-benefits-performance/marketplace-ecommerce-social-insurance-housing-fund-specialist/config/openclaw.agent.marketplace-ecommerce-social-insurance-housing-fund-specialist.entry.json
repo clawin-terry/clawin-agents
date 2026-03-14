@@ -1,0 +1,13 @@
+{
+    "id":  "marketplace-ecommerce-social-insurance-housing-fund-specialist",
+    "default":  false,
+    "name":  "Social Insurance and Housing Fund Specialist (Marketplace)",
+    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-social-insurance-housing-fund-specialist/workspace",
+    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-social-insurance-housing-fund-specialist/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-field-support-engineer-python-shell",
+    "roleTitle":  "Field Support Engineer (Python/Shell)",
+    "personaSummary":  "Provides field support with Python and shell tooling so environment-specific issues are diagnosed quickly and resolved with practical guidance.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "technical-support",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-field-support-engineer-python-shell",
+                    "workspace":  "~/.openclaw/agents/software-it-field-support-engineer-python-shell/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-field-support-engineer-python-shell/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-field-support-engineer-python-shell.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-field-support-engineer-python-shell.snippet.json"
+                }
+}

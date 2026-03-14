@@ -4,11 +4,11 @@ Install-ready administration-focused OpenClaw agents for `industry-1-software-it
 
 ## Included agents
 
-- [i1-administration-manager](./i1-administration-manager/) — Administration Manager
-- [i1-administrative-fixed-assets-administrator](./i1-administrative-fixed-assets-administrator/) — Administrative Fixed Assets Administrator
-- [i1-administrative-receptionist](./i1-administrative-receptionist/) — Administrative Receptionist
-- [i1-meetings-and-reception-specialist](./i1-meetings-and-reception-specialist/) — Meetings and Reception Specialist
-- [i1-office-space-workstation-manager](./i1-office-space-workstation-manager/) — Office Space and Workstation Manager
+- [software-it-administration-manager](./software-it-administration-manager/) — Administration Manager
+- [software-it-administrative-fixed-assets-administrator](./software-it-administrative-fixed-assets-administrator/) — Administrative Fixed Assets Administrator
+- [software-it-administrative-receptionist](./software-it-administrative-receptionist/) — Administrative Receptionist
+- [software-it-meetings-and-reception-specialist](./software-it-meetings-and-reception-specialist/) — Meetings and Reception Specialist
+- [software-it-office-space-workstation-manager](./software-it-office-space-workstation-manager/) — Office Space and Workstation Manager
 
 ## Notes
 

@@ -4,11 +4,11 @@ Install-ready it-internal-control-focused OpenClaw agents for `industry-1-softwa
 
 ## Included agents
 
-- [i1-access-and-change-audit-specialist](./i1-access-and-change-audit-specialist/) — Access and Change Audit Specialist
-- [i1-configuration-baseline-audit-specialist](./i1-configuration-baseline-audit-specialist/) — Configuration Baseline Audit Specialist
-- [i1-itgc-audit-specialist](./i1-itgc-audit-specialist/) — ITGC Audit Specialist
-- [i1-it-internal-control-manager](./i1-it-internal-control-manager/) — IT Internal Control Manager
-- [i1-logging-and-audit-trail-specialist](./i1-logging-and-audit-trail-specialist/) — Logging and Audit Trail Specialist
+- [software-it-access-and-change-audit-specialist](./software-it-access-and-change-audit-specialist/) — Access and Change Audit Specialist
+- [software-it-configuration-baseline-audit-specialist](./software-it-configuration-baseline-audit-specialist/) — Configuration Baseline Audit Specialist
+- [software-it-itgc-audit-specialist](./software-it-itgc-audit-specialist/) — ITGC Audit Specialist
+- [software-it-it-internal-control-manager](./software-it-it-internal-control-manager/) — IT Internal Control Manager
+- [software-it-logging-and-audit-trail-specialist](./software-it-logging-and-audit-trail-specialist/) — Logging and Audit Trail Specialist
 
 ## Notes
 

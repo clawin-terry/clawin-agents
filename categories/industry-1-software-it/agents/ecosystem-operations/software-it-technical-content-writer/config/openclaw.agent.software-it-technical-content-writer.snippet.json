@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "software-it-technical-content-writer",
+                                    "default":  false,
+                                    "name":  "Technical Content Writer",
+                                    "workspace":  "~/.openclaw/agents/software-it-technical-content-writer/workspace",
+                                    "agentDir":  "~/.openclaw/agents/software-it-technical-content-writer/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

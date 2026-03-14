@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-knowledge-base-operations-manager",
+    "roleTitle":  "Knowledge Base Operations Manager",
+    "personaSummary":  "Operates the merchant knowledge base so support content remains current, searchable, and useful for issue prevention.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "merchant-service-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-knowledge-base-operations-manager",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-knowledge-base-operations-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-knowledge-base-operations-manager/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-knowledge-base-operations-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-knowledge-base-operations-manager.snippet.json"
+                }
+}

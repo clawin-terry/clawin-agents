@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-major-customer-complaint-response-lead",
+    "default":  false,
+    "name":  "Major Customer Complaint Response Lead",
+    "workspace":  "~/.openclaw/agents/software-it-major-customer-complaint-response-lead/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-major-customer-complaint-response-lead/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

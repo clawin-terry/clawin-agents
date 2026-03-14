@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-dispute-resolution-counsel-platform",
+    "roleTitle":  "Dispute Resolution Counsel (Platform)",
+    "personaSummary":  "Handles dispute-related legal work so platform escalations, claims, and resolution strategies remain documented, coordinated, and supportable.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "legal",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-dispute-resolution-counsel-platform",
+                    "workspace":  "~/.openclaw/agents/content-platform-dispute-resolution-counsel-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-dispute-resolution-counsel-platform/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-dispute-resolution-counsel-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-dispute-resolution-counsel-platform.snippet.json"
+                }
+}

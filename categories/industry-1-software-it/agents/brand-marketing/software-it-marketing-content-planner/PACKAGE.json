@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-marketing-content-planner",
+    "roleTitle":  "Marketing Content Planner",
+    "personaSummary":  "Plans marketing content that supports brand narratives, campaign timing, and audience education across channels and formats.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "brand-marketing",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-marketing-content-planner",
+                    "workspace":  "~/.openclaw/agents/software-it-marketing-content-planner/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-marketing-content-planner/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-marketing-content-planner.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-marketing-content-planner.snippet.json"
+                }
+}

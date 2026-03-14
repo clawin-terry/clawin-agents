@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-emergency-and-bcp-liaison",
+    "roleTitle":  "Emergency and BCP Liaison",
+    "personaSummary":  "Coordinates emergency response and business continuity liaison work so preparedness plans, contacts, and response handoffs remain current and actionable.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "facilities-logistics",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-emergency-and-bcp-liaison",
+                    "workspace":  "~/.openclaw/agents/software-it-emergency-and-bcp-liaison/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-emergency-and-bcp-liaison/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-emergency-and-bcp-liaison.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-emergency-and-bcp-liaison.snippet.json"
+                }
+}

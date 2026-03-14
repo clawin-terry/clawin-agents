@@ -4,10 +4,10 @@ Install-ready data-governance-focused OpenClaw agents for `industry-4-digital-ma
 
 ## Included agents
 
-- [i4-data-access-and-compliance-coordinator](./i4-data-access-and-compliance-coordinator/) — Data Access and Compliance Coordinator
-- [i4-data-quality-manager](./i4-data-quality-manager/) — Data Quality Manager
-- [i4-metrics-definition-manager](./i4-metrics-definition-manager/) — Metrics Definition Manager
-- [i4-tracking-specification-owner](./i4-tracking-specification-owner/) — Tracking Specification Owner
+- [digital-marketing-data-access-and-compliance-coordinator](./digital-marketing-data-access-and-compliance-coordinator/) — Data Access and Compliance Coordinator
+- [digital-marketing-data-quality-manager](./digital-marketing-data-quality-manager/) — Data Quality Manager
+- [digital-marketing-metrics-definition-manager](./digital-marketing-metrics-definition-manager/) — Metrics Definition Manager
+- [digital-marketing-tracking-specification-owner](./digital-marketing-tracking-specification-owner/) — Tracking Specification Owner
 
 ## Notes
 

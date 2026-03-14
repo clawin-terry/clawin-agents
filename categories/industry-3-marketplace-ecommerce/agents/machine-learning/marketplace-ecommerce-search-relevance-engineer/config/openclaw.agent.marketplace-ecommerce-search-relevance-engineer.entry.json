@@ -1,0 +1,13 @@
+{
+  "id": "marketplace-ecommerce-search-relevance-engineer",
+  "default": false,
+  "name": "Search Relevance Engineer",
+  "workspace": "~/.openclaw/agents/marketplace-ecommerce-search-relevance-engineer/workspace",
+  "agentDir": "~/.openclaw/agents/marketplace-ecommerce-search-relevance-engineer/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-data-architect",
+    "default":  false,
+    "name":  "Data Architect",
+    "workspace":  "~/.openclaw/agents/software-it-data-architect/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-data-architect/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

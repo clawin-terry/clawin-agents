@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "digital-marketing-feed-and-ecommerce-key-visual-designer-agency",
+        "default": false,
+        "name": "Feed and Ecommerce Key Visual Designer (Agency)",
+        "workspace": "~/.openclaw/agents/digital-marketing-feed-and-ecommerce-key-visual-designer-agency/workspace",
+        "agentDir": "~/.openclaw/agents/digital-marketing-feed-and-ecommerce-key-visual-designer-agency/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

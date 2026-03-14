@@ -4,12 +4,12 @@ Install-ready channel-sales-focused OpenClaw agents for `industry-1-software-it`
 
 ## Included agents
 
-- [i1-channel-director](./i1-channel-director/) — Channel Director
-- [i1-channel-manager](./i1-channel-manager/) — Channel Manager
-- [i1-channel-policy-rebate-operations-manager](./i1-channel-policy-rebate-operations-manager/) — Channel Policy and Rebate Operations Manager
-- [i1-distribution-management-specialist](./i1-distribution-management-specialist/) — Distribution Management Specialist
-- [i1-partner-enablement-manager](./i1-partner-enablement-manager/) — Partner Enablement Manager
-- [i1-partner-recruitment-manager](./i1-partner-recruitment-manager/) — Partner Recruitment Manager
+- [software-it-channel-director](./software-it-channel-director/) — Channel Director
+- [software-it-channel-manager](./software-it-channel-manager/) — Channel Manager
+- [software-it-channel-policy-rebate-operations-manager](./software-it-channel-policy-rebate-operations-manager/) — Channel Policy and Rebate Operations Manager
+- [software-it-distribution-management-specialist](./software-it-distribution-management-specialist/) — Distribution Management Specialist
+- [software-it-partner-enablement-manager](./software-it-partner-enablement-manager/) — Partner Enablement Manager
+- [software-it-partner-recruitment-manager](./software-it-partner-recruitment-manager/) — Partner Recruitment Manager
 
 ## Notes
 

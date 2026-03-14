@@ -4,15 +4,15 @@ Install-ready security-engineering-focused OpenClaw agents for `industry-1-softw
 
 ## Included agents
 
-- [i1-blue-team-engineer-python](./i1-blue-team-engineer-python/) — Blue Team Engineer (Python)
-- [i1-devsecops-engineer-python](./i1-devsecops-engineer-python/) — DevSecOps Engineer (Python)
-- [i1-penetration-tester-python](./i1-penetration-tester-python/) — Penetration Tester (Python)
-- [i1-red-team-engineer-python](./i1-red-team-engineer-python/) — Red Team Engineer (Python)
-- [i1-sast-dast-platform-engineer-java-python](./i1-sast-dast-platform-engineer-java-python/) — SAST and DAST Platform Engineer (Java/Python)
-- [i1-secure-software-engineer-go-python](./i1-secure-software-engineer-go-python/) — Secure Software Engineer (Go/Python)
-- [i1-security-operations-center-analyst](./i1-security-operations-center-analyst/) — Security Operations Center Analyst
-- [i1-threat-intelligence-analyst](./i1-threat-intelligence-analyst/) — Threat Intelligence Analyst
-- [i1-vulnerability-response-engineer-python](./i1-vulnerability-response-engineer-python/) — Vulnerability Response Engineer (Python)
+- [software-it-blue-team-engineer-python](./software-it-blue-team-engineer-python/) — Blue Team Engineer (Python)
+- [software-it-devsecops-engineer-python](./software-it-devsecops-engineer-python/) — DevSecOps Engineer (Python)
+- [software-it-penetration-tester-python](./software-it-penetration-tester-python/) — Penetration Tester (Python)
+- [software-it-red-team-engineer-python](./software-it-red-team-engineer-python/) — Red Team Engineer (Python)
+- [software-it-sast-dast-platform-engineer-java-python](./software-it-sast-dast-platform-engineer-java-python/) — SAST and DAST Platform Engineer (Java/Python)
+- [software-it-secure-software-engineer-go-python](./software-it-secure-software-engineer-go-python/) — Secure Software Engineer (Go/Python)
+- [software-it-soc-analyst](./software-it-soc-analyst/) — Security Operations Center Analyst
+- [software-it-threat-intelligence-analyst](./software-it-threat-intelligence-analyst/) — Threat Intelligence Analyst
+- [software-it-vulnerability-response-engineer-python](./software-it-vulnerability-response-engineer-python/) — Vulnerability Response Engineer (Python)
 
 ## Notes
 

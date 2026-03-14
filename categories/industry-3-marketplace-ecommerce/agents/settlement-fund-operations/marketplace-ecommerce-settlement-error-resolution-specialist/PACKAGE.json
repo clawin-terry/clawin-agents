@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-settlement-error-resolution-specialist",
+    "roleTitle":  "Settlement Error Resolution Specialist",
+    "personaSummary":  "Resolves settlement exceptions so payout discrepancies are corrected quickly and merchant financial operations remain stable.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "settlement-fund-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-settlement-error-resolution-specialist",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-settlement-error-resolution-specialist/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-settlement-error-resolution-specialist/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-settlement-error-resolution-specialist.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-settlement-error-resolution-specialist.snippet.json"
+                }
+}

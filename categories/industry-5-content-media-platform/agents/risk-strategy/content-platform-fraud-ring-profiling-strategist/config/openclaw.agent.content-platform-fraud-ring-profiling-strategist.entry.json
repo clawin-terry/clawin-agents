@@ -1,0 +1,13 @@
+{
+    "id":  "content-platform-fraud-ring-profiling-strategist",
+    "default":  false,
+    "name":  "Fraud Ring Profiling Strategist",
+    "workspace":  "~/.openclaw/agents/content-platform-fraud-ring-profiling-strategist/workspace",
+    "agentDir":  "~/.openclaw/agents/content-platform-fraud-ring-profiling-strategist/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

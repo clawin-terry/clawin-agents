@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "digital-marketing-account-manager-agency",
+    "roleTitle":  "Account Manager (Agency)",
+    "personaSummary":  "Manages client accounts so agency priorities, communications, and day-to-day coordination remain clear and dependable.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "account-management",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/digital-marketing-account-manager-agency",
+                    "workspace":  "~/.openclaw/agents/digital-marketing-account-manager-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/digital-marketing-account-manager-agency/agent",
+                    "configEntry":  "config/openclaw.agent.digital-marketing-account-manager-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.digital-marketing-account-manager-agency.snippet.json"
+                }
+}

@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-database-support-engineer-sql",
+    "default":  false,
+    "name":  "Database Support Engineer (SQL)",
+    "workspace":  "~/.openclaw/agents/software-it-database-support-engineer-sql/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-database-support-engineer-sql/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

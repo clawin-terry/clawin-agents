@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-intelligent-customer-service-operations-manager",
+    "roleTitle":  "Intelligent Customer Service Operations Manager",
+    "personaSummary":  "Runs intelligent customer service operations so automation, routing, and service efficiency improve without losing quality control.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "consumer-customer-service",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-intelligent-customer-service-operations-manager",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-intelligent-customer-service-operations-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-intelligent-customer-service-operations-manager/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-intelligent-customer-service-operations-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-intelligent-customer-service-operations-manager.snippet.json"
+                }
+}

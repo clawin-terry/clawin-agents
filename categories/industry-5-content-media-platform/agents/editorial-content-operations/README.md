@@ -4,11 +4,11 @@ Install-ready editorial-content-operations-focused OpenClaw agents for `industry
 
 ## Included agents
 
-- [i5-channel-editor-platform](./i5-channel-editor-platform/) — Channel Editor (Platform)
-- [i5-editorial-policy-prepublication-review-manager-platform](./i5-editorial-policy-prepublication-review-manager-platform/) — Editorial Policy and Prepublication Review Manager (Platform)
-- [i5-editor-in-chief-platform](./i5-editor-in-chief-platform/) — Editor-in-Chief (Platform)
-- [i5-special-project-curation-manager-platform](./i5-special-project-curation-manager-platform/) — Special Project Curation Manager (Platform)
-- [i5-story-planning-manager-platform](./i5-story-planning-manager-platform/) — Story Planning Manager (Platform)
+- [content-platform-channel-editor-platform](./content-platform-channel-editor-platform/) — Channel Editor (Platform)
+- [content-platform-editorial-policy-and-prepublication-review-manager-platform](./content-platform-editorial-policy-and-prepublication-review-manager-platform/) — Editorial Policy and Prepublication Review Manager (Platform)
+- [content-platform-editor-in-chief-platform](./content-platform-editor-in-chief-platform/) — Editor-in-Chief (Platform)
+- [content-platform-special-project-curation-manager-platform](./content-platform-special-project-curation-manager-platform/) — Special Project Curation Manager (Platform)
+- [content-platform-story-planning-manager-platform](./content-platform-story-planning-manager-platform/) — Story Planning Manager (Platform)
 
 ## Notes
 

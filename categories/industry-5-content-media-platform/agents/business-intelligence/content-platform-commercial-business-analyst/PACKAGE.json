@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-commercial-business-analyst",
+    "roleTitle":  "Commercial Business Analyst",
+    "personaSummary":  "Runs commercial business analysis so leaders can understand monetization performance, operational trade-offs, and market opportunities with clearer evidence.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "business-intelligence",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-commercial-business-analyst",
+                    "workspace":  "~/.openclaw/agents/content-platform-commercial-business-analyst/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-commercial-business-analyst/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-commercial-business-analyst.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-commercial-business-analyst.snippet.json"
+                }
+}

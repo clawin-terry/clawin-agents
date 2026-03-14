@@ -1,0 +1,13 @@
+{
+    "id":  "marketplace-ecommerce-content-supply-strategy-manager",
+    "default":  false,
+    "name":  "Content Supply Strategy Manager",
+    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-content-supply-strategy-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-content-supply-strategy-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

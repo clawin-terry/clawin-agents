@@ -1,0 +1,13 @@
+{
+    "id":  "marketplace-ecommerce-remediation-closure-specialist-marketplace",
+    "default":  false,
+    "name":  "Remediation Closure Specialist (Marketplace)",
+    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-remediation-closure-specialist-marketplace/workspace",
+    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-remediation-closure-specialist-marketplace/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

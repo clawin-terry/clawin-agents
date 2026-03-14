@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-roi-analytics-manager",
+    "roleTitle":  "ROI Analytics Manager",
+    "personaSummary":  "Leads ROI analytics so monetization initiatives, channel investments, and inventory decisions can be judged against clearer return signals.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "business-intelligence",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-roi-analytics-manager",
+                    "workspace":  "~/.openclaw/agents/content-platform-roi-analytics-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-roi-analytics-manager/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-roi-analytics-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-roi-analytics-manager.snippet.json"
+                }
+}

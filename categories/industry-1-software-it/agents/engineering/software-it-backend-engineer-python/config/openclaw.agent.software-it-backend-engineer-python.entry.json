@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-backend-engineer-python",
+    "default":  false,
+    "name":  "Backend Engineer (Python)",
+    "workspace":  "~/.openclaw/agents/software-it-backend-engineer-python/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-backend-engineer-python/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

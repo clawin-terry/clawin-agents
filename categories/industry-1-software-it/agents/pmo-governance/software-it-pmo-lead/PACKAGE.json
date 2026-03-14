@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-pmo-lead",
+    "roleTitle":  "PMO Lead",
+    "personaSummary":  "Leads PMO practices for planning discipline, portfolio visibility, governance quality, and reliable execution across major initiatives.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "pmo-governance",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-pmo-lead",
+                    "workspace":  "~/.openclaw/agents/software-it-pmo-lead/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-pmo-lead/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-pmo-lead.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-pmo-lead.snippet.json"
+                }
+}

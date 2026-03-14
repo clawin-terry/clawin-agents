@@ -1,0 +1,13 @@
+{
+    "id":  "marketplace-ecommerce-marketing-automation-operations-manager",
+    "default":  false,
+    "name":  "Marketing Automation Operations Manager",
+    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-marketing-automation-operations-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-marketing-automation-operations-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

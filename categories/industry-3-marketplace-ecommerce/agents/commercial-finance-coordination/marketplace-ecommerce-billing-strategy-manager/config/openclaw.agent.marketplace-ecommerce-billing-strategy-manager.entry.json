@@ -1,0 +1,13 @@
+{
+    "id":  "marketplace-ecommerce-billing-strategy-manager",
+    "default":  false,
+    "name":  "Billing Strategy Manager",
+    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-billing-strategy-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-billing-strategy-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

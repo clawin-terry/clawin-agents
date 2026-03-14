@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "marketplace-ecommerce-category-data-analyst",
+                                    "default":  false,
+                                    "name":  "Category Data Analyst",
+                                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-category-data-analyst/workspace",
+                                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-category-data-analyst/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

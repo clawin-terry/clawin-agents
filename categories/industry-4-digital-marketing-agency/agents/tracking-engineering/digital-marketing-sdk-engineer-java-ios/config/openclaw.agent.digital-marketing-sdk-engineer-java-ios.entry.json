@@ -1,0 +1,13 @@
+{
+  "id": "digital-marketing-sdk-engineer-java-ios",
+  "default": false,
+  "name": "SDK Engineer (Java, Objective-C, and Swift)",
+  "workspace": "~/.openclaw/agents/digital-marketing-sdk-engineer-java-ios/workspace",
+  "agentDir": "~/.openclaw/agents/digital-marketing-sdk-engineer-java-ios/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

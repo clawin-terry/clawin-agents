@@ -4,8 +4,8 @@ Install-ready membership-operations-focused OpenClaw agents for `industry-5-cont
 
 ## Included agents
 
-- [i5-benefits-and-customer-service-coordination-manager](./i5-benefits-and-customer-service-coordination-manager/) — Benefits and Customer Service Coordination Manager
-- [i5-renewal-and-churn-governance-manager](./i5-renewal-and-churn-governance-manager/) — Renewal and Churn Governance Manager
+- [content-platform-benefits-and-customer-service-coordination-manager](./content-platform-benefits-and-customer-service-coordination-manager/) — Benefits and Customer Service Coordination Manager
+- [content-platform-renewal-and-churn-governance-manager](./content-platform-renewal-and-churn-governance-manager/) — Renewal and Churn Governance Manager
 
 ## Notes
 

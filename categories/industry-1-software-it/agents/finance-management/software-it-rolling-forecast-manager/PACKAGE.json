@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-rolling-forecast-manager",
+    "roleTitle":  "Rolling Forecast Manager",
+    "personaSummary":  "Maintains rolling forecasts so leadership can adjust plans with current performance signals, changing assumptions, and clearer forward visibility.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "finance-management",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-rolling-forecast-manager",
+                    "workspace":  "~/.openclaw/agents/software-it-rolling-forecast-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-rolling-forecast-manager/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-rolling-forecast-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-rolling-forecast-manager.snippet.json"
+                }
+}

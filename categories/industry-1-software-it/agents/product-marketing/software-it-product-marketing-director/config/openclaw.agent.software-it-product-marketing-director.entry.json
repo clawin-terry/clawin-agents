@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-product-marketing-director",
+    "default":  false,
+    "name":  "Product Marketing Director",
+    "workspace":  "~/.openclaw/agents/software-it-product-marketing-director/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-product-marketing-director/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

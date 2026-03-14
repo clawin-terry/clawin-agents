@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "content-platform-compliance-audit-specialist-platform",
+                                    "default":  false,
+                                    "name":  "Compliance Audit Specialist (Platform)",
+                                    "workspace":  "~/.openclaw/agents/content-platform-compliance-audit-specialist-platform/workspace",
+                                    "agentDir":  "~/.openclaw/agents/content-platform-compliance-audit-specialist-platform/agent",
+                                    "model":  {
+                                                  "primary":  "mycodex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

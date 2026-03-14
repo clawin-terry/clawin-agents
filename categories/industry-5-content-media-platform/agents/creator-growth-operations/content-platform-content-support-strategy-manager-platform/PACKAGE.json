@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-content-support-strategy-manager-platform",
+    "roleTitle":  "Content Support Strategy Manager (Platform)",
+    "personaSummary":  "Shapes content support strategy so promising creators receive timely support, stronger momentum, and better alignment with platform supply goals.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "creator-growth-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-content-support-strategy-manager-platform",
+                    "workspace":  "~/.openclaw/agents/content-platform-content-support-strategy-manager-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-content-support-strategy-manager-platform/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-content-support-strategy-manager-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-content-support-strategy-manager-platform.snippet.json"
+                }
+}

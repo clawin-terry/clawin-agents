@@ -4,8 +4,8 @@ Install-ready public-relations-focused OpenClaw agents for `industry-5-content-m
 
 ## Included agents
 
-- [i5-crisis-communications-coordination-manager](./i5-crisis-communications-coordination-manager/) — Crisis Communications Coordination Manager
-- [i5-media-relations-manager](./i5-media-relations-manager/) — Media Relations Manager
+- [content-platform-crisis-communications-coordination-manager](./content-platform-crisis-communications-coordination-manager/) — Crisis Communications Coordination Manager
+- [content-platform-media-relations-manager](./content-platform-media-relations-manager/) — Media Relations Manager
 
 ## Notes
 

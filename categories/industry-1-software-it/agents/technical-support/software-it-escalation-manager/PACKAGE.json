@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-escalation-manager",
+    "roleTitle":  "Escalation Manager",
+    "personaSummary":  "Leads complex escalation handling so high-severity cases receive fast coordination, clear ownership, and disciplined resolution follow-through.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "technical-support",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-escalation-manager",
+                    "workspace":  "~/.openclaw/agents/software-it-escalation-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-escalation-manager/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-escalation-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-escalation-manager.snippet.json"
+                }
+}

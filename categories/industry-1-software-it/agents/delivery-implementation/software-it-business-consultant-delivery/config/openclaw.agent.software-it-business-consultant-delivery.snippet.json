@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "software-it-business-consultant-delivery",
+                                    "default":  false,
+                                    "name":  "Business Consultant",
+                                    "workspace":  "~/.openclaw/agents/software-it-business-consultant-delivery/workspace",
+                                    "agentDir":  "~/.openclaw/agents/software-it-business-consultant-delivery/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

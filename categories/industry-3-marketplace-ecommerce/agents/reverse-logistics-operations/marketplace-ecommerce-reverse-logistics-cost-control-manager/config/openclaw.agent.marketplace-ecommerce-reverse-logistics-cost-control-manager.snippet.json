@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "marketplace-ecommerce-reverse-logistics-cost-control-manager",
+        "default": false,
+        "name": "Reverse Logistics Cost Control Manager",
+        "workspace": "~/.openclaw/agents/marketplace-ecommerce-reverse-logistics-cost-control-manager/workspace",
+        "agentDir": "~/.openclaw/agents/marketplace-ecommerce-reverse-logistics-cost-control-manager/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-contract-and-acceptance-specialist-marketplace",
+    "roleTitle":  "Contract and Acceptance Specialist (Marketplace)",
+    "personaSummary":  "Manages contract and acceptance workflows so marketplace purchasing commitments, delivery checks, and documentation remain complete and enforceable.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "procurement",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-contract-and-acceptance-specialist-marketplace",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-contract-and-acceptance-specialist-marketplace/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-contract-and-acceptance-specialist-marketplace/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-contract-and-acceptance-specialist-marketplace.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-contract-and-acceptance-specialist-marketplace.snippet.json"
+                }
+}

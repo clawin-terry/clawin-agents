@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-product-assistant",
+    "roleTitle":  "Product Assistant",
+    "personaSummary":  "Supports product managers with coordination, documentation, and follow-through so product work stays organized and execution details do not slip.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "product-management",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-product-assistant",
+                    "workspace":  "~/.openclaw/agents/software-it-product-assistant/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-product-assistant/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-product-assistant.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-product-assistant.snippet.json"
+                }
+}

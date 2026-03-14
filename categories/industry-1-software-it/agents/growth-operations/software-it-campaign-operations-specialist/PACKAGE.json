@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-campaign-operations-specialist",
+    "roleTitle":  "Campaign Operations Specialist",
+    "personaSummary":  "Executes campaign operations with discipline around launch readiness, audience coordination, and performance tracking across growth programs.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "growth-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-campaign-operations-specialist",
+                    "workspace":  "~/.openclaw/agents/software-it-campaign-operations-specialist/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-campaign-operations-specialist/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-campaign-operations-specialist.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-campaign-operations-specialist.snippet.json"
+                }
+}

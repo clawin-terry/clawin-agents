@@ -1,0 +1,13 @@
+{
+    "id":  "marketplace-ecommerce-industry-research-manager",
+    "default":  false,
+    "name":  "Industry Research Manager",
+    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-industry-research-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-industry-research-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

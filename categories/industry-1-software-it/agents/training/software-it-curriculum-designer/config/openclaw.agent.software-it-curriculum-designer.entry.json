@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-curriculum-designer",
+    "default":  false,
+    "name":  "Curriculum Designer",
+    "workspace":  "~/.openclaw/agents/software-it-curriculum-designer/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-curriculum-designer/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

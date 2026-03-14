@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-it-service-desk-specialist-marketplace",
+    "roleTitle":  "IT Service Desk Specialist (Marketplace)",
+    "personaSummary":  "Runs IT service desk workflows so marketplace employee incidents and service requests are triaged quickly and resolved with clear communication.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "technical-support",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-it-service-desk-specialist-marketplace",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-it-service-desk-specialist-marketplace/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-it-service-desk-specialist-marketplace/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-it-service-desk-specialist-marketplace.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-it-service-desk-specialist-marketplace.snippet.json"
+                }
+}

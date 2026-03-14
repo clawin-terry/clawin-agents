@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-invoice-compliance-specialist-marketplace",
+    "roleTitle":  "Invoice Compliance Specialist (Marketplace)",
+    "personaSummary":  "Runs invoice compliance workflows so marketplace billing documents, tax evidence, and process controls stay policy-aligned and audit-ready.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "tax-treasury",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-invoice-compliance-specialist-marketplace",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-invoice-compliance-specialist-marketplace/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-invoice-compliance-specialist-marketplace/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-invoice-compliance-specialist-marketplace.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-invoice-compliance-specialist-marketplace.snippet.json"
+                }
+}

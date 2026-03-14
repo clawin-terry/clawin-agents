@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "content-platform-infringement-response-coordinator-platform",
+        "default": false,
+        "name": "Infringement Response Coordinator (Platform)",
+        "workspace": "~/.openclaw/agents/content-platform-infringement-response-coordinator-platform/workspace",
+        "agentDir": "~/.openclaw/agents/content-platform-infringement-response-coordinator-platform/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

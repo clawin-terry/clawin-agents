@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-low-quality-and-counterfeit-governance-manager",
+    "roleTitle":  "Low-Quality and Counterfeit Governance Manager",
+    "personaSummary":  "Leads low-quality and counterfeit governance so harmful listings are contained and marketplace trust is protected.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "content-product-compliance-governance",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-low-quality-and-counterfeit-governance-manager",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-low-quality-and-counterfeit-governance-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-low-quality-and-counterfeit-governance-manager/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-low-quality-and-counterfeit-governance-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-low-quality-and-counterfeit-governance-manager.snippet.json"
+                }
+}

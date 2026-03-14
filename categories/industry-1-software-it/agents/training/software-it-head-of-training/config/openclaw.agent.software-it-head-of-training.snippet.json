@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "software-it-head-of-training",
+                                    "default":  false,
+                                    "name":  "Head of Training",
+                                    "workspace":  "~/.openclaw/agents/software-it-head-of-training/workspace",
+                                    "agentDir":  "~/.openclaw/agents/software-it-head-of-training/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

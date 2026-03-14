@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-rebate-and-contract-rules-manager",
+    "roleTitle":  "Rebate and Contract Rules Manager",
+    "personaSummary":  "Defines rebate and contract rules so commercial terms, incentive logic, and agreement guardrails remain consistent across marketplace advertising programs.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "commercial-finance-coordination",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-rebate-and-contract-rules-manager",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-rebate-and-contract-rules-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-rebate-and-contract-rules-manager/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-rebate-and-contract-rules-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-rebate-and-contract-rules-manager.snippet.json"
+                }
+}

@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "digital-marketing-tier-2-support-coordinator-technical-data-agency",
+        "default": false,
+        "name": "Tier 2 Support Coordinator, Technical and Data Liaison (Agency)",
+        "workspace": "~/.openclaw/agents/digital-marketing-tier-2-support-coordinator-technical-data-agency/workspace",
+        "agentDir": "~/.openclaw/agents/digital-marketing-tier-2-support-coordinator-technical-data-agency/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

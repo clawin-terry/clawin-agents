@@ -1,0 +1,13 @@
+{
+    "id":  "content-platform-contract-and-collections-coordinator",
+    "default":  false,
+    "name":  "Contract and Collections Coordinator",
+    "workspace":  "~/.openclaw/agents/content-platform-contract-and-collections-coordinator/workspace",
+    "agentDir":  "~/.openclaw/agents/content-platform-contract-and-collections-coordinator/agent",
+    "model":  {
+                  "primary":  "mycodex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

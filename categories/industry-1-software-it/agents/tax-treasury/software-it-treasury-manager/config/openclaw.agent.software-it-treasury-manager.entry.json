@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-treasury-manager",
+    "default":  false,
+    "name":  "Treasury Manager",
+    "workspace":  "~/.openclaw/agents/software-it-treasury-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-treasury-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

@@ -4,12 +4,12 @@ Install-ready design-focused OpenClaw agents for `industry-1-software-it`.
 
 ## Included agents
 
-- [i1-brand-visual-designer](./i1-brand-visual-designer/) — Brand Visual Designer
-- [i1-design-director](./i1-design-director/) — Design Director
-- [i1-design-operations-manager](./i1-design-operations-manager/) — Design Operations Manager
-- [i1-motion-designer](./i1-motion-designer/) — Motion Designer
-- [i1-ui-designer](./i1-ui-designer/) — UI Designer
-- [i1-ux-designer](./i1-ux-designer/) — UX Designer
+- [software-it-brand-visual-designer](./software-it-brand-visual-designer/) — Brand Visual Designer
+- [software-it-design-director](./software-it-design-director/) — Design Director
+- [software-it-design-operations-manager](./software-it-design-operations-manager/) — Design Operations Manager
+- [software-it-motion-designer](./software-it-motion-designer/) — Motion Designer
+- [software-it-ui-designer](./software-it-ui-designer/) — UI Designer
+- [software-it-ux-designer](./software-it-ux-designer/) — UX Designer
 
 ## Notes
 

@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "content-platform-messaging-and-notification-services-engineer-go",
+        "default": false,
+        "name": "Messaging and Notification Services Engineer (Go)",
+        "workspace": "~/.openclaw/agents/content-platform-messaging-and-notification-services-engineer-go/workspace",
+        "agentDir": "~/.openclaw/agents/content-platform-messaging-and-notification-services-engineer-go/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

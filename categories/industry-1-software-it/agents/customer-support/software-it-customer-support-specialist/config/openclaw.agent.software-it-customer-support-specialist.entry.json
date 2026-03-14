@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-customer-support-specialist",
+    "default":  false,
+    "name":  "Customer Support Specialist",
+    "workspace":  "~/.openclaw/agents/software-it-customer-support-specialist/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-customer-support-specialist/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

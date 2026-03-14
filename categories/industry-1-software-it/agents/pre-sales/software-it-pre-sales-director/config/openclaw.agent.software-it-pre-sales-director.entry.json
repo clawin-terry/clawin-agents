@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-pre-sales-director",
+    "default":  false,
+    "name":  "Pre-Sales Director",
+    "workspace":  "~/.openclaw/agents/software-it-pre-sales-director/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-pre-sales-director/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

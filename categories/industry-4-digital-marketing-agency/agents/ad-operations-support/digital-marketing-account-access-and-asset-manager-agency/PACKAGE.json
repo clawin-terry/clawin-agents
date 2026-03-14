@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "digital-marketing-account-access-and-asset-manager-agency",
+    "roleTitle":  "Account Access and Asset Manager (Agency)",
+    "personaSummary":  "Manages account access and advertising assets so agency teams can control permissions, ownership, and operational readiness across platforms.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "ad-operations-support",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/digital-marketing-account-access-and-asset-manager-agency",
+                    "workspace":  "~/.openclaw/agents/digital-marketing-account-access-and-asset-manager-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/digital-marketing-account-access-and-asset-manager-agency/agent",
+                    "configEntry":  "config/openclaw.agent.digital-marketing-account-access-and-asset-manager-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.digital-marketing-account-access-and-asset-manager-agency.snippet.json"
+                }
+}

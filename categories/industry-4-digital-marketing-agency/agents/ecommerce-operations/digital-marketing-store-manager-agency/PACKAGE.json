@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "digital-marketing-store-manager-agency",
+    "roleTitle":  "Store Manager (Agency)",
+    "personaSummary":  "Manages store execution so agency-operated ecommerce accounts can maintain trading rhythm, storefront quality, and daily performance discipline.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "ecommerce-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/digital-marketing-store-manager-agency",
+                    "workspace":  "~/.openclaw/agents/digital-marketing-store-manager-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/digital-marketing-store-manager-agency/agent",
+                    "configEntry":  "config/openclaw.agent.digital-marketing-store-manager-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.digital-marketing-store-manager-agency.snippet.json"
+                }
+}

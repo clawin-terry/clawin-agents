@@ -4,22 +4,22 @@ Install-ready backend-engineering-focused OpenClaw agents for `industry-3-market
 
 ## Included agents
 
-- [i3-category-services-engineer](./i3-category-services-engineer/) — Category Services Engineer
-- [i3-financial-ledger-and-reconciliation-systems-developer](./i3-financial-ledger-and-reconciliation-systems-developer/) — Financial Ledger and Reconciliation Systems Developer
-- [i3-fulfillment-backend-engineer-go](./i3-fulfillment-backend-engineer-go/) — Fulfillment Backend Engineer (Go)
-- [i3-fulfillment-backend-engineer-java](./i3-fulfillment-backend-engineer-java/) — Fulfillment Backend Engineer (Java)
-- [i3-funds-security-integration-engineer](./i3-funds-security-integration-engineer/) — Funds Security Integration Engineer
-- [i3-merchant-and-catalog-backend-engineer-go](./i3-merchant-and-catalog-backend-engineer-go/) — Merchant and Catalog Backend Engineer (Go)
-- [i3-merchant-and-catalog-backend-engineer-java](./i3-merchant-and-catalog-backend-engineer-java/) — Merchant and Catalog Backend Engineer (Java)
-- [i3-payments-backend-engineer-go](./i3-payments-backend-engineer-go/) — Payments Backend Engineer (Go)
-- [i3-payments-backend-engineer-java](./i3-payments-backend-engineer-java/) — Payments Backend Engineer (Java)
-- [i3-product-information-services-engineer](./i3-product-information-services-engineer/) — Product Information Services Engineer
-- [i3-tracking-and-delivery-timeliness-services-engineer](./i3-tracking-and-delivery-timeliness-services-engineer/) — Tracking and Delivery Timeliness Services Engineer
-- [i3-transaction-backend-engineer-go](./i3-transaction-backend-engineer-go/) — Transaction Backend Engineer (Go)
-- [i3-transaction-backend-engineer-java](./i3-transaction-backend-engineer-java/) — Transaction Backend Engineer (Java)
-- [i3-transaction-microservices-developer](./i3-transaction-microservices-developer/) — Transaction Microservices Developer
-- [i3-transaction-performance-optimization-engineer](./i3-transaction-performance-optimization-engineer/) — Transaction Performance Optimization Engineer
-- [i3-warehouse-and-fulfillment-systems-engineer](./i3-warehouse-and-fulfillment-systems-engineer/) — Warehouse and Fulfillment Systems Engineer
+- [marketplace-ecommerce-category-services-engineer](./marketplace-ecommerce-category-services-engineer/) — Category Services Engineer
+- [marketplace-ecommerce-financial-ledger-and-reconciliation-systems-developer](./marketplace-ecommerce-financial-ledger-and-reconciliation-systems-developer/) — Financial Ledger and Reconciliation Systems Developer
+- [marketplace-ecommerce-fulfillment-backend-engineer-go](./marketplace-ecommerce-fulfillment-backend-engineer-go/) — Fulfillment Backend Engineer (Go)
+- [marketplace-ecommerce-fulfillment-backend-engineer-java](./marketplace-ecommerce-fulfillment-backend-engineer-java/) — Fulfillment Backend Engineer (Java)
+- [marketplace-ecommerce-funds-security-integration-engineer](./marketplace-ecommerce-funds-security-integration-engineer/) — Funds Security Integration Engineer
+- [marketplace-ecommerce-merchant-and-catalog-backend-engineer-go](./marketplace-ecommerce-merchant-and-catalog-backend-engineer-go/) — Merchant and Catalog Backend Engineer (Go)
+- [marketplace-ecommerce-merchant-and-catalog-backend-engineer-java](./marketplace-ecommerce-merchant-and-catalog-backend-engineer-java/) — Merchant and Catalog Backend Engineer (Java)
+- [marketplace-ecommerce-payments-backend-engineer-go](./marketplace-ecommerce-payments-backend-engineer-go/) — Payments Backend Engineer (Go)
+- [marketplace-ecommerce-payments-backend-engineer-java](./marketplace-ecommerce-payments-backend-engineer-java/) — Payments Backend Engineer (Java)
+- [marketplace-ecommerce-product-information-services-engineer](./marketplace-ecommerce-product-information-services-engineer/) — Product Information Services Engineer
+- [marketplace-ecommerce-tracking-and-delivery-timeliness-services-engineer](./marketplace-ecommerce-tracking-and-delivery-timeliness-services-engineer/) — Tracking and Delivery Timeliness Services Engineer
+- [marketplace-ecommerce-transaction-backend-engineer-go](./marketplace-ecommerce-transaction-backend-engineer-go/) — Transaction Backend Engineer (Go)
+- [marketplace-ecommerce-transaction-backend-engineer-java](./marketplace-ecommerce-transaction-backend-engineer-java/) — Transaction Backend Engineer (Java)
+- [marketplace-ecommerce-transaction-microservices-developer](./marketplace-ecommerce-transaction-microservices-developer/) — Transaction Microservices Developer
+- [marketplace-ecommerce-transaction-performance-optimization-engineer](./marketplace-ecommerce-transaction-performance-optimization-engineer/) — Transaction Performance Optimization Engineer
+- [marketplace-ecommerce-warehouse-and-fulfillment-systems-engineer](./marketplace-ecommerce-warehouse-and-fulfillment-systems-engineer/) — Warehouse and Fulfillment Systems Engineer
 
 ## Notes
 

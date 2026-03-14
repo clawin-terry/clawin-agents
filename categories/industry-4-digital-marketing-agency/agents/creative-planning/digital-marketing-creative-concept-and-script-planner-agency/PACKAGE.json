@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "digital-marketing-creative-concept-and-script-planner-agency",
+    "roleTitle":  "Creative Concept and Script Planner (Agency)",
+    "personaSummary":  "Develops big ideas and scripts so agency campaigns can connect brand goals with clearer narratives, hooks, and execution-ready storylines.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "creative-planning",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/digital-marketing-creative-concept-and-script-planner-agency",
+                    "workspace":  "~/.openclaw/agents/digital-marketing-creative-concept-and-script-planner-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/digital-marketing-creative-concept-and-script-planner-agency/agent",
+                    "configEntry":  "config/openclaw.agent.digital-marketing-creative-concept-and-script-planner-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.digital-marketing-creative-concept-and-script-planner-agency.snippet.json"
+                }
+}

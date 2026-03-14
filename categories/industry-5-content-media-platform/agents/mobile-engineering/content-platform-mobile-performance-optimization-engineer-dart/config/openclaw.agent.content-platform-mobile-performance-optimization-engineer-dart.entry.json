@@ -1,0 +1,13 @@
+{
+  "id": "content-platform-mobile-performance-optimization-engineer-dart",
+  "default": false,
+  "name": "Mobile Performance Optimization Engineer (Dart)",
+  "workspace": "~/.openclaw/agents/content-platform-mobile-performance-optimization-engineer-dart/workspace",
+  "agentDir": "~/.openclaw/agents/content-platform-mobile-performance-optimization-engineer-dart/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-data-center-idc-operations-engineer",
+    "default":  false,
+    "name":  "Data Center and IDC Operations Engineer",
+    "workspace":  "~/.openclaw/agents/software-it-data-center-idc-operations-engineer/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-data-center-idc-operations-engineer/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

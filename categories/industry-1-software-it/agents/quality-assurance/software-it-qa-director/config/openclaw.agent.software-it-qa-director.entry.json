@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-qa-director",
+    "default":  false,
+    "name":  "QA Director",
+    "workspace":  "~/.openclaw/agents/software-it-qa-director/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-qa-director/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

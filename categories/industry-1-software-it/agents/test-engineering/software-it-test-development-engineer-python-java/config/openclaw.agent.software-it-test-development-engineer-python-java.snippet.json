@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "software-it-test-development-engineer-python-java",
+                                    "default":  false,
+                                    "name":  "Test Development Engineer (Python/Java)",
+                                    "workspace":  "~/.openclaw/agents/software-it-test-development-engineer-python-java/workspace",
+                                    "agentDir":  "~/.openclaw/agents/software-it-test-development-engineer-python-java/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

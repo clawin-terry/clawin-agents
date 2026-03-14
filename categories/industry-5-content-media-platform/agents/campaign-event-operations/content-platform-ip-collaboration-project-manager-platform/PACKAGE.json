@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-ip-collaboration-project-manager-platform",
+    "roleTitle":  "IP Collaboration Project Manager (Platform)",
+    "personaSummary":  "Manages IP collaboration projects so brand tie-ins, franchise partnerships, and cross-IP campaigns are delivered with clearer coordination and stronger audience impact.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "campaign-event-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-ip-collaboration-project-manager-platform",
+                    "workspace":  "~/.openclaw/agents/content-platform-ip-collaboration-project-manager-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-ip-collaboration-project-manager-platform/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-ip-collaboration-project-manager-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-ip-collaboration-project-manager-platform.snippet.json"
+                }
+}

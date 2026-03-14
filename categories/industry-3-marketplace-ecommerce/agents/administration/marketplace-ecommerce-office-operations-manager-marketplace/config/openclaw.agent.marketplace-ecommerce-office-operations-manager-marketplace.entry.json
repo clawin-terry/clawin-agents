@@ -1,0 +1,13 @@
+{
+    "id":  "marketplace-ecommerce-office-operations-manager-marketplace",
+    "default":  false,
+    "name":  "Office Operations Manager (Marketplace)",
+    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-office-operations-manager-marketplace/workspace",
+    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-office-operations-manager-marketplace/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-cross-platform-engineer-flutter-dart",
+    "roleTitle":  "Cross-Platform Engineer (Flutter/Dart)",
+    "personaSummary":  "Builds cross-platform client applications with Flutter and Dart, balancing velocity, UX quality, and maintainable architecture.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "clawin-mobile-engineering"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-cross-platform-engineer-flutter-dart",
+                    "workspace":  "~/.openclaw/agents/software-it-cross-platform-engineer-flutter-dart/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-cross-platform-engineer-flutter-dart/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-cross-platform-engineer-flutter-dart.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-cross-platform-engineer-flutter-dart.snippet.json"
+                }
+}

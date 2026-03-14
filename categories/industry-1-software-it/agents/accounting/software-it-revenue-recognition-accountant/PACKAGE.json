@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-revenue-recognition-accountant",
+    "roleTitle":  "Revenue Recognition Accountant (Subscription / Project-Based)",
+    "personaSummary":  "Applies revenue-recognition rules to subscription and project-based business so contract terms, timing, and accounting treatment stay compliant and supportable.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "accounting",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-revenue-recognition-accountant",
+                    "workspace":  "~/.openclaw/agents/software-it-revenue-recognition-accountant/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-revenue-recognition-accountant/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-revenue-recognition-accountant.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-revenue-recognition-accountant.snippet.json"
+                }
+}

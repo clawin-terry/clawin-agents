@@ -4,10 +4,10 @@ Install-ready merchant-onboarding-compliance-focused OpenClaw agents for `indust
 
 ## Included agents
 
-- [i3-merchant-onboarding-review-specialist](./i3-merchant-onboarding-review-specialist/) — Merchant Onboarding Review Specialist
-- [i3-merchant-qualification-compliance-specialist](./i3-merchant-qualification-compliance-specialist/) — Merchant Qualification Compliance Specialist
-- [i3-merchant-risk-operations-coordinator](./i3-merchant-risk-operations-coordinator/) — Merchant Risk Operations Coordinator
-- [i3-store-launch-enablement-specialist](./i3-store-launch-enablement-specialist/) — Store Launch Enablement Specialist
+- [marketplace-ecommerce-merchant-onboarding-review-specialist](./marketplace-ecommerce-merchant-onboarding-review-specialist/) — Merchant Onboarding Review Specialist
+- [marketplace-ecommerce-merchant-qualification-compliance-specialist](./marketplace-ecommerce-merchant-qualification-compliance-specialist/) — Merchant Qualification Compliance Specialist
+- [marketplace-ecommerce-merchant-risk-operations-coordinator](./marketplace-ecommerce-merchant-risk-operations-coordinator/) — Merchant Risk Operations Coordinator
+- [marketplace-ecommerce-store-launch-enablement-specialist](./marketplace-ecommerce-store-launch-enablement-specialist/) — Store Launch Enablement Specialist
 
 ## Notes
 

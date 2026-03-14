@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-order-operations-specialist",
+    "roleTitle":  "Order Operations Specialist",
+    "personaSummary":  "Runs order operations so booking accuracy, internal handoffs, and execution readiness remain reliable across commercial workflows.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "commercial-support",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-order-operations-specialist",
+                    "workspace":  "~/.openclaw/agents/software-it-order-operations-specialist/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-order-operations-specialist/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-order-operations-specialist.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-order-operations-specialist.snippet.json"
+                }
+}

@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "marketplace-ecommerce-product-information-services-engineer",
+                                    "default":  false,
+                                    "name":  "Product Information Services Engineer",
+                                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-product-information-services-engineer/workspace",
+                                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-product-information-services-engineer/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

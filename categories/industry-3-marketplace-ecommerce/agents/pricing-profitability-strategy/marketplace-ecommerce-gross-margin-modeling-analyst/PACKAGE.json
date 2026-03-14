@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-gross-margin-modeling-analyst",
+    "roleTitle":  "Gross Margin Modeling Analyst",
+    "personaSummary":  "Builds gross margin models so teams can evaluate assortment economics, pricing choices, and profitability trade-offs with better evidence.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "pricing-profitability-strategy",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-gross-margin-modeling-analyst",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-gross-margin-modeling-analyst/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-gross-margin-modeling-analyst/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-gross-margin-modeling-analyst.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-gross-margin-modeling-analyst.snippet.json"
+                }
+}

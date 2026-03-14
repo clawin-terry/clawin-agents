@@ -4,11 +4,11 @@ Install-ready internal-audit-focused OpenClaw agents for `industry-1-software-it
 
 ## Included agents
 
-- [i1-audit-analyst](./i1-audit-analyst/) — Audit Analyst
-- [i1-internal-audit-director](./i1-internal-audit-director/) — Internal Audit Director
-- [i1-operational-audit-manager](./i1-operational-audit-manager/) — Operational Audit Manager
-- [i1-remediation-tracking-specialist](./i1-remediation-tracking-specialist/) — Remediation Tracking Specialist
-- [i1-special-audit-manager](./i1-special-audit-manager/) — Special Audit Manager
+- [software-it-audit-analyst](./software-it-audit-analyst/) — Audit Analyst
+- [software-it-internal-audit-director](./software-it-internal-audit-director/) — Internal Audit Director
+- [software-it-operational-audit-manager](./software-it-operational-audit-manager/) — Operational Audit Manager
+- [software-it-remediation-tracking-specialist](./software-it-remediation-tracking-specialist/) — Remediation Tracking Specialist
+- [software-it-special-audit-manager](./software-it-special-audit-manager/) — Special Audit Manager
 
 ## Notes
 

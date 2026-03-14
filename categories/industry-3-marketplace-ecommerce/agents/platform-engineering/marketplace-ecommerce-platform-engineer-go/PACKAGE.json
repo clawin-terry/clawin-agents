@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-platform-engineer-go",
+    "roleTitle":  "Platform Engineer (Go)",
+    "personaSummary":  "Builds internal platform capabilities with Go so marketplace engineering teams can ship services faster with stronger consistency, automation, and operational safety.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "platform-engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "healthcheck"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-platform-engineer-go",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-platform-engineer-go/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-platform-engineer-go/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-platform-engineer-go.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-platform-engineer-go.snippet.json"
+                }
+}

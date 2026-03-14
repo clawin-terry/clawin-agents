@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "digital-marketing-operating-dashboard-owner-agency",
+    "roleTitle":  "Operating Dashboard Owner",
+    "personaSummary":  "Owns agency operating dashboards so finance and business leaders can monitor revenue, margin, collections, and delivery signals through trusted reporting.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "finance-management",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/digital-marketing-operating-dashboard-owner-agency",
+                    "workspace":  "~/.openclaw/agents/digital-marketing-operating-dashboard-owner-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/digital-marketing-operating-dashboard-owner-agency/agent",
+                    "configEntry":  "config/openclaw.agent.digital-marketing-operating-dashboard-owner-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.digital-marketing-operating-dashboard-owner-agency.snippet.json"
+                }
+}

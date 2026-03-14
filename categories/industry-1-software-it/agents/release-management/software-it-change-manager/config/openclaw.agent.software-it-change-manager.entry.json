@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-change-manager",
+    "default":  false,
+    "name":  "Change Manager",
+    "workspace":  "~/.openclaw/agents/software-it-change-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-change-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "marketplace-ecommerce-access-control-and-audit-engineer",
+  "default": false,
+  "name": "Access Control and Audit Engineer",
+  "workspace": "~/.openclaw/agents/marketplace-ecommerce-access-control-and-audit-engineer/workspace",
+  "agentDir": "~/.openclaw/agents/marketplace-ecommerce-access-control-and-audit-engineer/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

@@ -4,10 +4,10 @@ Install-ready third-party-risk-focused OpenClaw agents for `industry-1-software-
 
 ## Included agents
 
-- [i1-outsourced-labor-compliance-specialist](./i1-outsourced-labor-compliance-specialist/) — Outsourced Labor Compliance Specialist
-- [i1-risk-assessment-analyst](./i1-risk-assessment-analyst/) — Risk Assessment Analyst
-- [i1-third-party-risk-manager](./i1-third-party-risk-manager/) — Third-Party Risk Manager
-- [i1-vendor-compliance-review-specialist](./i1-vendor-compliance-review-specialist/) — Vendor Compliance Review Specialist
+- [software-it-outsourced-labor-compliance-specialist](./software-it-outsourced-labor-compliance-specialist/) — Outsourced Labor Compliance Specialist
+- [software-it-risk-assessment-analyst](./software-it-risk-assessment-analyst/) — Risk Assessment Analyst
+- [software-it-third-party-risk-manager](./software-it-third-party-risk-manager/) — Third-Party Risk Manager
+- [software-it-vendor-compliance-review-specialist](./software-it-vendor-compliance-review-specialist/) — Vendor Compliance Review Specialist
 
 ## Notes
 

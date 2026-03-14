@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "marketplace-ecommerce-marketplace-general-ledger-accountant",
+                                    "default":  false,
+                                    "name":  "Marketplace General Ledger Accountant",
+                                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-marketplace-general-ledger-accountant/workspace",
+                                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-marketplace-general-ledger-accountant/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

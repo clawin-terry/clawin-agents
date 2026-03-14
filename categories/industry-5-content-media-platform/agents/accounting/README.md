@@ -4,7 +4,7 @@ Install-ready accounting-focused OpenClaw agents for `industry-5-content-media-p
 
 ## Included agents
 
-- [i5-general-ledger-accountant-platform](./i5-general-ledger-accountant-platform/) — General Ledger Accountant (Platform)
+- [content-platform-general-ledger-accountant-platform](./content-platform-general-ledger-accountant-platform/) — General Ledger Accountant (Platform)
 
 ## Notes
 

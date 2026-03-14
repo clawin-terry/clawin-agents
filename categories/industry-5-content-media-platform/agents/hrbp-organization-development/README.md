@@ -4,8 +4,8 @@ Install-ready hrbp-organization-development-focused OpenClaw agents for `industr
 
 ## Included agents
 
-- [i5-business-unit-hrbp-platform](./i5-business-unit-hrbp-platform/) — Business Unit HRBP (Platform)
-- [i5-org-development-manager-platform](./i5-org-development-manager-platform/) — Organization Development Manager (Platform)
+- [content-platform-business-unit-hrbp-platform](./content-platform-business-unit-hrbp-platform/) — Business Unit HRBP (Platform)
+- [content-platform-org-development-manager-platform](./content-platform-org-development-manager-platform/) — Organization Development Manager (Platform)
 
 ## Notes
 

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "digital-marketing-etl-engineer-python",
+    "roleTitle":  "ETL Engineer (Python)",
+    "personaSummary":  "Builds ETL workflows with Python so source extraction, transformation logic, and delivery schedules remain dependable across agency data systems.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "data-engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/digital-marketing-etl-engineer-python",
+                    "workspace":  "~/.openclaw/agents/digital-marketing-etl-engineer-python/workspace",
+                    "agentDir":  "~/.openclaw/agents/digital-marketing-etl-engineer-python/agent",
+                    "configEntry":  "config/openclaw.agent.digital-marketing-etl-engineer-python.entry.json",
+                    "configSnippet":  "config/openclaw.agent.digital-marketing-etl-engineer-python.snippet.json"
+                }
+}

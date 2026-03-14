@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "digital-marketing-head-of-data-analytics",
+    "roleTitle":  "Head of Data Analytics",
+    "personaSummary":  "Leads agency data analytics direction so reporting priorities, analytical workflows, and stakeholder decisions stay grounded in reliable commercial and campaign insights.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "business-intelligence",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/digital-marketing-head-of-data-analytics",
+                    "workspace":  "~/.openclaw/agents/digital-marketing-head-of-data-analytics/workspace",
+                    "agentDir":  "~/.openclaw/agents/digital-marketing-head-of-data-analytics/agent",
+                    "configEntry":  "config/openclaw.agent.digital-marketing-head-of-data-analytics.entry.json",
+                    "configSnippet":  "config/openclaw.agent.digital-marketing-head-of-data-analytics.snippet.json"
+                }
+}

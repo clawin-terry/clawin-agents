@@ -4,10 +4,10 @@ Install-ready paid-social-operations-focused OpenClaw agents for `industry-4-dig
 
 ## Included agents
 
-- [i4-guangdiantong-feed-ads-specialist-agency](./i4-guangdiantong-feed-ads-specialist-agency/) — Guangdiantong Feed Ads Specialist (Agency)
-- [i4-jinritoutiao-ocean-engine-feed-specialist](./i4-jinritoutiao-ocean-engine-feed-specialist/) — Jinri Toutiao and Ocean Engine Feed Ads Specialist (Agency)
-- [i4-ocpc-model-strategy-specialist-agency](./i4-ocpc-model-strategy-specialist-agency/) — OCPC and Model Strategy Specialist (Agency)
-- [i4-paid-social-lead-agency](./i4-paid-social-lead-agency/) — Paid Social Lead (Agency)
+- [digital-marketing-guangdiantong-feed-ads-specialist-agency](./digital-marketing-guangdiantong-feed-ads-specialist-agency/) — Guangdiantong Feed Ads Specialist (Agency)
+- [digital-marketing-jinritoutiao-and-juliang-feed-specialist-agency](./digital-marketing-jinritoutiao-and-juliang-feed-specialist-agency/) — Jinri Toutiao and Ocean Engine Feed Ads Specialist (Agency)
+- [digital-marketing-ocpc-model-strategy-specialist-agency](./digital-marketing-ocpc-model-strategy-specialist-agency/) — OCPC and Model Strategy Specialist (Agency)
+- [digital-marketing-paid-social-lead-agency](./digital-marketing-paid-social-lead-agency/) — Paid Social Lead (Agency)
 
 ## Notes
 

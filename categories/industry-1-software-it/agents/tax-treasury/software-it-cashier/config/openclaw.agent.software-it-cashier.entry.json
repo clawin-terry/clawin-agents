@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-cashier",
+    "default":  false,
+    "name":  "Cashier",
+    "workspace":  "~/.openclaw/agents/software-it-cashier/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-cashier/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-retrieval-and-ranking-objectives-product-manager",
+    "roleTitle":  "Retrieval and Ranking Objectives Product Manager",
+    "personaSummary":  "Defines retrieval and ranking objectives so recommendation systems can optimize for clearer business goals, user value, and ecosystem-quality tradeoffs.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "product-management",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-retrieval-and-ranking-objectives-product-manager",
+                    "workspace":  "~/.openclaw/agents/content-platform-retrieval-and-ranking-objectives-product-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-retrieval-and-ranking-objectives-product-manager/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-retrieval-and-ranking-objectives-product-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-retrieval-and-ranking-objectives-product-manager.snippet.json"
+                }
+}

@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "marketplace-ecommerce-platform-engineer-python",
+        "default": false,
+        "name": "Platform Engineer (Python)",
+        "workspace": "~/.openclaw/agents/marketplace-ecommerce-platform-engineer-python/workspace",
+        "agentDir": "~/.openclaw/agents/marketplace-ecommerce-platform-engineer-python/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

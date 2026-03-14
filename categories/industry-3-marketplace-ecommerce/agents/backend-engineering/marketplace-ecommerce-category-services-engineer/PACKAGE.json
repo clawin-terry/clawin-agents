@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-category-services-engineer",
+    "roleTitle":  "Category Services Engineer",
+    "personaSummary":  "Builds category services so marketplace taxonomy logic, category controls, and related workflows stay consistent across the platform.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "backend-engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "clawin-backend-service-engineering"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-category-services-engineer",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-category-services-engineer/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-category-services-engineer/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-category-services-engineer.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-category-services-engineer.snippet.json"
+                }
+}

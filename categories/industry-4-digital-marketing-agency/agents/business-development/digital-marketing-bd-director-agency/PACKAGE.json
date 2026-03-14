@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "digital-marketing-bd-director-agency",
+    "roleTitle":  "Business Development Director (Agency)",
+    "personaSummary":  "Leads agency business development so prospect strategy, account growth priorities, and commercial execution stay coordinated.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "business-development",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/digital-marketing-bd-director-agency",
+                    "workspace":  "~/.openclaw/agents/digital-marketing-bd-director-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/digital-marketing-bd-director-agency/agent",
+                    "configEntry":  "config/openclaw.agent.digital-marketing-bd-director-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.digital-marketing-bd-director-agency.snippet.json"
+                }
+}

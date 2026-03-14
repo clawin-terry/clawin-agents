@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-strategy-director",
+    "roleTitle":  "Strategy Director",
+    "personaSummary":  "Leads strategic planning and long-range decision support by framing priorities, evaluating options, and aligning leadership around direction.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "strategy-research",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-strategy-director",
+                    "workspace":  "~/.openclaw/agents/software-it-strategy-director/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-strategy-director/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-strategy-director.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-strategy-director.snippet.json"
+                }
+}

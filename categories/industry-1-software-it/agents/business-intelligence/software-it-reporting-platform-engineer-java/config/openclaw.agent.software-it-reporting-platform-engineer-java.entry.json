@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-reporting-platform-engineer-java",
+    "default":  false,
+    "name":  "Reporting Platform Engineer (Java)",
+    "workspace":  "~/.openclaw/agents/software-it-reporting-platform-engineer-java/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-reporting-platform-engineer-java/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

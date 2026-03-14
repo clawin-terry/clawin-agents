@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "content-platform-channel-policy-manager",
+        "default": false,
+        "name": "Channel Policy Manager",
+        "workspace": "~/.openclaw/agents/content-platform-channel-policy-manager/workspace",
+        "agentDir": "~/.openclaw/agents/content-platform-channel-policy-manager/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "digital-marketing-campaign-qc-specialist-agency",
+  "default": false,
+  "name": "Campaign Review Quality Specialist, Links Assets Compliance and Naming (Agency)",
+  "workspace": "~/.openclaw/agents/digital-marketing-campaign-qc-specialist-agency/workspace",
+  "agentDir": "~/.openclaw/agents/digital-marketing-campaign-qc-specialist-agency/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

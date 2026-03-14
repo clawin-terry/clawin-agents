@@ -4,10 +4,10 @@ Install-ready channel-ad-operations-focused OpenClaw agents for `industry-4-digi
 
 ## Included agents
 
-- [i4-bilibili-ads-specialist-agency](./i4-bilibili-ads-specialist-agency/) — Bilibili Ads Specialist (Agency)
-- [i4-wechat-ads-specialist-agency](./i4-wechat-ads-specialist-agency/) — WeChat Ads Specialist (Agency)
-- [i4-weibo-ads-specialist-agency](./i4-weibo-ads-specialist-agency/) — Weibo Ads Specialist (Agency)
-- [i4-xiaohongshu-ads-specialist-agency](./i4-xiaohongshu-ads-specialist-agency/) — Xiaohongshu Ads Specialist (Agency)
+- [digital-marketing-bilibili-ads-specialist-agency](./digital-marketing-bilibili-ads-specialist-agency/) — Bilibili Ads Specialist (Agency)
+- [digital-marketing-wechat-ads-specialist-agency](./digital-marketing-wechat-ads-specialist-agency/) — WeChat Ads Specialist (Agency)
+- [digital-marketing-weibo-ads-specialist-agency](./digital-marketing-weibo-ads-specialist-agency/) — Weibo Ads Specialist (Agency)
+- [digital-marketing-xiaohongshu-ads-specialist-agency](./digital-marketing-xiaohongshu-ads-specialist-agency/) — Xiaohongshu Ads Specialist (Agency)
 
 ## Notes
 

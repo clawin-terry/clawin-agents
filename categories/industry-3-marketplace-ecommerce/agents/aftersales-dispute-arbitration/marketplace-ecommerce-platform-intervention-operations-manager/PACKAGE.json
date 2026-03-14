@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-platform-intervention-operations-manager",
+    "roleTitle":  "Platform Intervention Operations Manager",
+    "personaSummary":  "Runs platform intervention workflows so escalated service disputes receive timely, controlled, and policy-aligned handling.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "aftersales-dispute-arbitration",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-platform-intervention-operations-manager",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-platform-intervention-operations-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-platform-intervention-operations-manager/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-platform-intervention-operations-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-platform-intervention-operations-manager.snippet.json"
+                }
+}

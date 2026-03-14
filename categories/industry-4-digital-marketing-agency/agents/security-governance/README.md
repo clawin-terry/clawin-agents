@@ -4,10 +4,10 @@ Install-ready security-governance-focused OpenClaw agents for `industry-4-digita
 
 ## Included agents
 
-- [i4-access-governance-and-audit-specialist-agency](./i4-access-governance-and-audit-specialist-agency/) — Access Governance and Audit Specialist (Agency)
-- [i4-data-classification-specialist-agency](./i4-data-classification-specialist-agency/) — Data Classification Specialist (Agency)
-- [i4-incident-response-drills-specialist-agency](./i4-incident-response-drills-specialist-agency/) — Incident Response Drills Specialist (Agency)
-- [i4-information-security-lead-agency](./i4-information-security-lead-agency/) — Information Security Lead (Agency)
+- [digital-marketing-access-governance-and-audit-specialist-agency](./digital-marketing-access-governance-and-audit-specialist-agency/) — Access Governance and Audit Specialist (Agency)
+- [digital-marketing-data-classification-specialist-agency](./digital-marketing-data-classification-specialist-agency/) — Data Classification Specialist (Agency)
+- [digital-marketing-incident-response-drills-specialist-agency](./digital-marketing-incident-response-drills-specialist-agency/) — Incident Response Drills Specialist (Agency)
+- [digital-marketing-information-security-lead-agency](./digital-marketing-information-security-lead-agency/) — Information Security Lead (Agency)
 
 ## Notes
 

@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "digital-marketing-landing-page-copywriter-agency",
+        "default": false,
+        "name": "Landing Page Copywriter (Agency)",
+        "workspace": "~/.openclaw/agents/digital-marketing-landing-page-copywriter-agency/workspace",
+        "agentDir": "~/.openclaw/agents/digital-marketing-landing-page-copywriter-agency/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

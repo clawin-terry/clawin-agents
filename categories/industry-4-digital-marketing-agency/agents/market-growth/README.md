@@ -4,13 +4,13 @@ Install-ready market-growth-focused OpenClaw agents for `industry-4-digital-mark
 
 ## Included agents
 
-- [i4-brand-manager-agency](./i4-brand-manager-agency/) — Brand Manager (Agency)
-- [i4-content-marketing-manager-agency](./i4-content-marketing-manager-agency/) — Content Marketing Manager (Agency)
-- [i4-events-and-conferences-manager-agency](./i4-events-and-conferences-manager-agency/) — Events and Conferences Manager (Agency)
-- [i4-marketing-design-support-specialist-agency](./i4-marketing-design-support-specialist-agency/) — Marketing Design Support Specialist (Agency)
-- [i4-marketing-director-manager-agency](./i4-marketing-director-manager-agency/) — Marketing Director / Manager (Agency)
-- [i4-public-relations-manager-agency](./i4-public-relations-manager-agency/) — Public Relations Manager (Agency)
-- [i4-website-and-lead-operations-manager-agency](./i4-website-and-lead-operations-manager-agency/) — Website and Lead Operations Manager (Agency)
+- [digital-marketing-brand-manager-agency](./digital-marketing-brand-manager-agency/) — Brand Manager (Agency)
+- [digital-marketing-content-marketing-manager-agency](./digital-marketing-content-marketing-manager-agency/) — Content Marketing Manager (Agency)
+- [digital-marketing-events-manager-agency](./digital-marketing-events-manager-agency/) — Events and Conferences Manager (Agency)
+- [digital-marketing-marketing-design-support-specialist-agency](./digital-marketing-marketing-design-support-specialist-agency/) — Marketing Design Support Specialist (Agency)
+- [digital-marketing-marketing-director-manager-agency](./digital-marketing-marketing-director-manager-agency/) — Marketing Director / Manager (Agency)
+- [digital-marketing-public-relations-manager-agency](./digital-marketing-public-relations-manager-agency/) — Public Relations Manager (Agency)
+- [digital-marketing-website-and-lead-operations-manager-agency](./digital-marketing-website-and-lead-operations-manager-agency/) — Website and Lead Operations Manager (Agency)
 
 ## Notes
 

@@ -1,0 +1,13 @@
+{
+  "id": "digital-marketing-colorist-agency",
+  "default": false,
+  "name": "Colorist (Agency)",
+  "workspace": "~/.openclaw/agents/digital-marketing-colorist-agency/workspace",
+  "agentDir": "~/.openclaw/agents/digital-marketing-colorist-agency/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

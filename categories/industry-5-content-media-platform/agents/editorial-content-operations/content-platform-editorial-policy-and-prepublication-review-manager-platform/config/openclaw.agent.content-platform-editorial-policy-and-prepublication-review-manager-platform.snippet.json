@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "content-platform-editorial-policy-and-prepublication-review-manager-platform",
+        "default": false,
+        "name": "Editorial Policy and Prepublication Review Manager (Platform)",
+        "workspace": "~/.openclaw/agents/content-platform-editorial-policy-and-prepublication-review-manager-platform/workspace",
+        "agentDir": "~/.openclaw/agents/content-platform-editorial-policy-and-prepublication-review-manager-platform/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "digital-marketing-weibo-ads-specialist-agency",
+    "roleTitle":  "Weibo Ads Specialist (Agency)",
+    "personaSummary":  "Operates Weibo advertising so agency campaigns can manage reach, promotion timing, and response goals with clearer platform execution.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "channel-ad-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/digital-marketing-weibo-ads-specialist-agency",
+                    "workspace":  "~/.openclaw/agents/digital-marketing-weibo-ads-specialist-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/digital-marketing-weibo-ads-specialist-agency/agent",
+                    "configEntry":  "config/openclaw.agent.digital-marketing-weibo-ads-specialist-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.digital-marketing-weibo-ads-specialist-agency.snippet.json"
+                }
+}

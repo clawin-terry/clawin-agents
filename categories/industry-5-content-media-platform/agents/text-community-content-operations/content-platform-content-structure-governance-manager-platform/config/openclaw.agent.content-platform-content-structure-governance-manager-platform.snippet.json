@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "content-platform-content-structure-governance-manager-platform",
+                                    "default":  false,
+                                    "name":  "Content Structure Governance Manager (Platform)",
+                                    "workspace":  "~/.openclaw/agents/content-platform-content-structure-governance-manager-platform/workspace",
+                                    "agentDir":  "~/.openclaw/agents/content-platform-content-structure-governance-manager-platform/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

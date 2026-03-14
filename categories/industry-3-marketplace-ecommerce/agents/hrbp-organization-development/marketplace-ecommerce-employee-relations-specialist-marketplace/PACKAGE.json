@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-employee-relations-specialist-marketplace",
+    "roleTitle":  "Employee Relations Specialist (Marketplace)",
+    "personaSummary":  "Handles employee-relations matters so marketplace teams can address casework, policy issues, and workplace concerns with clearer process discipline.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "hrbp-organization-development",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-employee-relations-specialist-marketplace",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-employee-relations-specialist-marketplace/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-employee-relations-specialist-marketplace/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-employee-relations-specialist-marketplace.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-employee-relations-specialist-marketplace.snippet.json"
+                }
+}

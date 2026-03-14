@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "digital-marketing-creative-strategy-consultant-agency",
+    "roleTitle":  "Creative Strategy Consultant (Agency)",
+    "personaSummary":  "Shapes creative strategy so agency pitches and campaign concepts connect audience insight with stronger execution direction.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "presales-solutions",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/digital-marketing-creative-strategy-consultant-agency",
+                    "workspace":  "~/.openclaw/agents/digital-marketing-creative-strategy-consultant-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/digital-marketing-creative-strategy-consultant-agency/agent",
+                    "configEntry":  "config/openclaw.agent.digital-marketing-creative-strategy-consultant-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.digital-marketing-creative-strategy-consultant-agency.snippet.json"
+                }
+}

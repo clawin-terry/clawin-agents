@@ -4,12 +4,12 @@ Install-ready strategy-planning-focused OpenClaw agents for `industry-4-digital-
 
 ## Included agents
 
-- [i4-annual-campaign-planner-agency](./i4-annual-campaign-planner-agency/) — Annual Campaign Planner (Agency)
-- [i4-brand-strategy-manager-agency](./i4-brand-strategy-manager-agency/) — Brand Strategy Manager (Agency)
-- [i4-communications-planner-agency](./i4-communications-planner-agency/) — Communications Planner (Agency)
-- [i4-competitive-and-user-research-specialist-agency](./i4-competitive-and-user-research-specialist-agency/) — Competitive and User Research Specialist (Agency)
-- [i4-integrated-marketing-planner-agency](./i4-integrated-marketing-planner-agency/) — Integrated Marketing Planner (Agency)
-- [i4-strategy-director-agency](./i4-strategy-director-agency/) — Strategy Director (Agency)
+- [digital-marketing-annual-campaign-planner-agency](./digital-marketing-annual-campaign-planner-agency/) — Annual Campaign Planner (Agency)
+- [digital-marketing-brand-strategy-manager-agency](./digital-marketing-brand-strategy-manager-agency/) — Brand Strategy Manager (Agency)
+- [digital-marketing-communications-planner-agency](./digital-marketing-communications-planner-agency/) — Communications Planner (Agency)
+- [digital-marketing-competitive-and-user-research-specialist-agency](./digital-marketing-competitive-and-user-research-specialist-agency/) — Competitive and User Research Specialist (Agency)
+- [digital-marketing-integrated-marketing-planner-agency](./digital-marketing-integrated-marketing-planner-agency/) — Integrated Marketing Planner (Agency)
+- [digital-marketing-strategy-director-agency](./digital-marketing-strategy-director-agency/) — Strategy Director (Agency)
 
 ## Notes
 

@@ -4,11 +4,11 @@ Install-ready design-focused OpenClaw agents for `industry-5-content-media-platf
 
 ## Included agents
 
-- [i5-content-visual-standards-designer](./i5-content-visual-standards-designer/) — Content Visual Standards Designer
-- [i5-interaction-designer](./i5-interaction-designer/) — Interaction Designer
-- [i5-motion-designer](./i5-motion-designer/) — Motion Designer
-- [i5-ux-writer](./i5-ux-writer/) — UX Writer
-- [i5-visual-designer](./i5-visual-designer/) — Visual Designer
+- [content-platform-content-visual-standards-designer](./content-platform-content-visual-standards-designer/) — Content Visual Standards Designer
+- [content-platform-interaction-designer](./content-platform-interaction-designer/) — Interaction Designer
+- [content-platform-motion-designer](./content-platform-motion-designer/) — Motion Designer
+- [content-platform-ux-writer](./content-platform-ux-writer/) — UX Writer
+- [content-platform-visual-designer](./content-platform-visual-designer/) — Visual Designer
 
 ## Notes
 

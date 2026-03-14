@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-quality-gate-manager",
+    "default":  false,
+    "name":  "Quality Gate Manager",
+    "workspace":  "~/.openclaw/agents/software-it-quality-gate-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-quality-gate-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

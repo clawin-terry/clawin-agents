@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-integration-engineer-java",
+    "roleTitle":  "Integration Engineer (Java)",
+    "personaSummary":  "Builds and supports delivery integrations with Java so customer environments connect reliably to product and platform capabilities.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "integration",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-integration-engineer-java",
+                    "workspace":  "~/.openclaw/agents/software-it-integration-engineer-java/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-integration-engineer-java/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-integration-engineer-java.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-integration-engineer-java.snippet.json"
+                }
+}

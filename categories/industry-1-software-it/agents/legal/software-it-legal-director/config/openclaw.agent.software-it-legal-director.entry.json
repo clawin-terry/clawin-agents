@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-legal-director",
+    "default":  false,
+    "name":  "Legal Director",
+    "workspace":  "~/.openclaw/agents/software-it-legal-director/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-legal-director/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

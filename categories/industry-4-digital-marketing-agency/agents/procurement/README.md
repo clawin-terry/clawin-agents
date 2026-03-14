@@ -4,10 +4,10 @@ Install-ready procurement-focused OpenClaw agents for `industry-4-digital-market
 
 ## Included agents
 
-- [i4-contract-register-coordination-specialist-agency](./i4-contract-register-coordination-specialist-agency/) — Contract Register Coordination Specialist (Agency)
-- [i4-outsourced-production-supplier-manager-agency](./i4-outsourced-production-supplier-manager-agency/) — Outsourced Production Supplier Manager (Agency)
-- [i4-price-comparison-and-sourcing-specialist-agency](./i4-price-comparison-and-sourcing-specialist-agency/) — Price Comparison and Sourcing Specialist (Agency)
-- [i4-procurement-manager-agency](./i4-procurement-manager-agency/) — Procurement Manager (Agency)
+- [digital-marketing-contract-register-coordination-specialist-agency](./digital-marketing-contract-register-coordination-specialist-agency/) — Contract Register Coordination Specialist (Agency)
+- [digital-marketing-outsourced-production-supplier-manager-agency](./digital-marketing-outsourced-production-supplier-manager-agency/) — Outsourced Production Supplier Manager (Agency)
+- [digital-marketing-price-comparison-and-sourcing-specialist-agency](./digital-marketing-price-comparison-and-sourcing-specialist-agency/) — Price Comparison and Sourcing Specialist (Agency)
+- [digital-marketing-procurement-manager-agency](./digital-marketing-procurement-manager-agency/) — Procurement Manager (Agency)
 
 ## Notes
 

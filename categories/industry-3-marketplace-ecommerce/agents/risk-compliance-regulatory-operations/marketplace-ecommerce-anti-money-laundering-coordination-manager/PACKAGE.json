@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-anti-money-laundering-coordination-manager",
+    "roleTitle":  "Anti-Money Laundering Coordination Manager",
+    "personaSummary":  "Coordinates business-side anti-money laundering work so risk signals, review workflows, and escalation paths stay aligned with compliance expectations.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "risk-compliance-regulatory-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-anti-money-laundering-coordination-manager",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-anti-money-laundering-coordination-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-anti-money-laundering-coordination-manager/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-anti-money-laundering-coordination-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-anti-money-laundering-coordination-manager.snippet.json"
+                }
+}

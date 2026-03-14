@@ -4,11 +4,11 @@ Install-ready legal-focused OpenClaw agents for `industry-4-digital-marketing-ag
 
 ## Included agents
 
-- [i4-contract-review-specialist-agency](./i4-contract-review-specialist-agency/) — Contract Review Specialist
-- [i4-creative-and-copyright-ip-manager-agency](./i4-creative-and-copyright-ip-manager-agency/) — Creative and Copyright IP Manager
-- [i4-dispute-resolution-specialist-agency](./i4-dispute-resolution-specialist-agency/) — Dispute Resolution Specialist
-- [i4-employment-legal-support-specialist-agency](./i4-employment-legal-support-specialist-agency/) — Employment Legal Support Specialist
-- [i4-head-of-legal-agency](./i4-head-of-legal-agency/) — Head of Legal
+- [digital-marketing-contract-review-specialist-agency](./digital-marketing-contract-review-specialist-agency/) — Contract Review Specialist
+- [digital-marketing-creative-and-copyright-ip-manager-agency](./digital-marketing-creative-and-copyright-ip-manager-agency/) — Creative and Copyright IP Manager
+- [digital-marketing-dispute-resolution-specialist-agency](./digital-marketing-dispute-resolution-specialist-agency/) — Dispute Resolution Specialist
+- [digital-marketing-employment-legal-support-specialist-agency](./digital-marketing-employment-legal-support-specialist-agency/) — Employment Legal Support Specialist
+- [digital-marketing-head-of-legal-agency](./digital-marketing-head-of-legal-agency/) — Head of Legal
 
 ## Notes
 

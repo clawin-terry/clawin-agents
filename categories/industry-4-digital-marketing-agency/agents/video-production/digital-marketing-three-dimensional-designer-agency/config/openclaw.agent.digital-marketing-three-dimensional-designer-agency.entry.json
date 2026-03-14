@@ -1,0 +1,13 @@
+{
+  "id": "digital-marketing-three-dimensional-designer-agency",
+  "default": false,
+  "name": "Three-Dimensional Designer (Agency)",
+  "workspace": "~/.openclaw/agents/digital-marketing-three-dimensional-designer-agency/workspace",
+  "agentDir": "~/.openclaw/agents/digital-marketing-three-dimensional-designer-agency/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

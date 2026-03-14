@@ -4,10 +4,10 @@ Install-ready cross-border-fulfillment-operations-focused OpenClaw agents for `i
 
 ## Included agents
 
-- [i3-cross-border-compliance-coordination-manager](./i3-cross-border-compliance-coordination-manager/) — Cross-Border Compliance Coordination Manager
-- [i3-cross-border-timeliness-operations-manager](./i3-cross-border-timeliness-operations-manager/) — Cross-Border Timeliness Operations Manager
-- [i3-customs-clearance-coordination-manager](./i3-customs-clearance-coordination-manager/) — Customs Clearance Coordination Manager
-- [i3-customs-documentation-specialist](./i3-customs-documentation-specialist/) — Customs Documentation Specialist
+- [marketplace-ecommerce-cross-border-compliance-coordination-manager](./marketplace-ecommerce-cross-border-compliance-coordination-manager/) — Cross-Border Compliance Coordination Manager
+- [marketplace-ecommerce-cross-border-timeliness-operations-manager](./marketplace-ecommerce-cross-border-timeliness-operations-manager/) — Cross-Border Timeliness Operations Manager
+- [marketplace-ecommerce-customs-clearance-coordination-manager](./marketplace-ecommerce-customs-clearance-coordination-manager/) — Customs Clearance Coordination Manager
+- [marketplace-ecommerce-customs-documentation-specialist](./marketplace-ecommerce-customs-documentation-specialist/) — Customs Documentation Specialist
 
 ## Notes
 

@@ -4,9 +4,9 @@ Install-ready data-science-focused OpenClaw agents for `industry-4-digital-marke
 
 ## Included agents
 
-- [i4-audience-and-creative-performance-prediction-specialist-python](./i4-audience-and-creative-performance-prediction-specialist-python/) — Audience and Creative Performance Prediction Specialist (Python)
-- [i4-budget-and-bidding-strategy-researcher-python](./i4-budget-and-bidding-strategy-researcher-python/) — Budget and Bidding Strategy Researcher (Python)
-- [i4-data-scientist-python](./i4-data-scientist-python/) — Data Scientist (Python)
+- [digital-marketing-audience-and-creative-performance-prediction-specialist-python](./digital-marketing-audience-and-creative-performance-prediction-specialist-python/) — Audience and Creative Performance Prediction Specialist (Python)
+- [digital-marketing-budget-and-bidding-strategy-researcher-python](./digital-marketing-budget-and-bidding-strategy-researcher-python/) — Budget and Bidding Strategy Researcher (Python)
+- [digital-marketing-data-scientist-python](./digital-marketing-data-scientist-python/) — Data Scientist (Python)
 
 ## Notes
 

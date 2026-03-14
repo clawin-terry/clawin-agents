@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "software-it-recruiting-manager-experienced-campus",
+                                    "default":  false,
+                                    "name":  "Recruiting Manager (Experienced / Campus)",
+                                    "workspace":  "~/.openclaw/agents/software-it-recruiting-manager-experienced-campus/workspace",
+                                    "agentDir":  "~/.openclaw/agents/software-it-recruiting-manager-experienced-campus/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

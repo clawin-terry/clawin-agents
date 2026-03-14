@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "digital-marketing-outsourced-production-supplier-manager-agency",
+        "default": false,
+        "name": "Outsourced Production Supplier Manager (Agency)",
+        "workspace": "~/.openclaw/agents/digital-marketing-outsourced-production-supplier-manager-agency/workspace",
+        "agentDir": "~/.openclaw/agents/digital-marketing-outsourced-production-supplier-manager-agency/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

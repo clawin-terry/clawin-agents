@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-revenue-sharing-product-manager",
+    "roleTitle":  "Revenue Sharing Product Manager",
+    "personaSummary":  "Owns revenue-sharing products so creator payouts, settlement logic, and monetization incentives stay transparent, scalable, and easier to operate.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "product-management",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-revenue-sharing-product-manager",
+                    "workspace":  "~/.openclaw/agents/content-platform-revenue-sharing-product-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-revenue-sharing-product-manager/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-revenue-sharing-product-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-revenue-sharing-product-manager.snippet.json"
+                }
+}

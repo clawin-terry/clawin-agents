@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "digital-marketing-procurement-manager-agency",
+        "default": false,
+        "name": "Procurement Manager (Agency)",
+        "workspace": "~/.openclaw/agents/digital-marketing-procurement-manager-agency/workspace",
+        "agentDir": "~/.openclaw/agents/digital-marketing-procurement-manager-agency/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

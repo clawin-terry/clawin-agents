@@ -4,10 +4,10 @@ Install-ready mobile-engineering-focused OpenClaw agents for `industry-5-content
 
 ## Included agents
 
-- [i5-android-client-engineer-kotlin](./i5-android-client-engineer-kotlin/) — Android Client Engineer (Kotlin)
-- [i5-cross-platform-framework-engineer-dart](./i5-cross-platform-framework-engineer-dart/) — Cross-Platform Framework Engineer (Dart)
-- [i5-ios-client-engineer-swift](./i5-ios-client-engineer-swift/) — iOS Client Engineer (Swift)
-- [i5-mobile-performance-optimization-engineer-dart](./i5-mobile-performance-optimization-engineer-dart/) — Mobile Performance Optimization Engineer (Dart)
+- [content-platform-android-client-engineer-kotlin](./content-platform-android-client-engineer-kotlin/) — Android Client Engineer (Kotlin)
+- [content-platform-cross-platform-framework-engineer-dart](./content-platform-cross-platform-framework-engineer-dart/) — Cross-Platform Framework Engineer (Dart)
+- [content-platform-ios-client-engineer-swift](./content-platform-ios-client-engineer-swift/) — iOS Client Engineer (Swift)
+- [content-platform-mobile-performance-optimization-engineer-dart](./content-platform-mobile-performance-optimization-engineer-dart/) — Mobile Performance Optimization Engineer (Dart)
 
 ## Notes
 

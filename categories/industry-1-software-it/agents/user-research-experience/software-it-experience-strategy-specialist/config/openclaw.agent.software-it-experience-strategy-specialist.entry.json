@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-experience-strategy-specialist",
+    "default":  false,
+    "name":  "Experience Strategy Specialist",
+    "workspace":  "~/.openclaw/agents/software-it-experience-strategy-specialist/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-experience-strategy-specialist/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

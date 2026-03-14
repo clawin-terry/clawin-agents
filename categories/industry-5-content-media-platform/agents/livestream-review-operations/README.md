@@ -4,10 +4,10 @@ Install-ready livestream-review-operations-focused OpenClaw agents for `industry
 
 ## Included agents
 
-- [i5-live-connection-pk-risk-specialist-platform](./i5-live-connection-pk-risk-specialist-platform/) — Live Connection and PK Risk Specialist (Platform)
-- [i5-livestream-ban-policy-executor-platform](./i5-livestream-ban-policy-executor-platform/) — Livestream Ban Policy Executor (Platform)
-- [i5-livestream-compliance-coordinator-platform](./i5-livestream-compliance-coordinator-platform/) — Livestream Compliance Coordinator (Platform)
-- [i5-livestream-patrol-specialist-platform](./i5-livestream-patrol-specialist-platform/) — Livestream Patrol Specialist (Platform)
+- [content-platform-live-connection-pk-risk-specialist-platform](./content-platform-live-connection-pk-risk-specialist-platform/) — Live Connection and PK Risk Specialist (Platform)
+- [content-platform-livestream-ban-policy-executor-platform](./content-platform-livestream-ban-policy-executor-platform/) — Livestream Ban Policy Executor (Platform)
+- [content-platform-livestream-compliance-coordinator-platform](./content-platform-livestream-compliance-coordinator-platform/) — Livestream Compliance Coordinator (Platform)
+- [content-platform-livestream-patrol-specialist-platform](./content-platform-livestream-patrol-specialist-platform/) — Livestream Patrol Specialist (Platform)
 
 ## Notes
 

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-cross-functional-scheduling-manager",
+    "roleTitle":  "Cross-Functional Scheduling Manager",
+    "personaSummary":  "Owns cross-functional scheduling so campaign dependencies, launch calendars, and team handoffs stay aligned across marketplace functions.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "campaign-program-management",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-cross-functional-scheduling-manager",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-cross-functional-scheduling-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-cross-functional-scheduling-manager/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-cross-functional-scheduling-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-cross-functional-scheduling-manager.snippet.json"
+                }
+}

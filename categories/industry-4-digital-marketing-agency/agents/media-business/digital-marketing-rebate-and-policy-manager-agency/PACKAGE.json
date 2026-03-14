@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "digital-marketing-rebate-and-policy-manager-agency",
+    "roleTitle":  "Rebate and Policy Manager (Agency)",
+    "personaSummary":  "Owns rebate and policy management so agency teams can interpret platform incentives, commercial rules, and compliance conditions with fewer execution surprises.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "media-business",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/digital-marketing-rebate-and-policy-manager-agency",
+                    "workspace":  "~/.openclaw/agents/digital-marketing-rebate-and-policy-manager-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/digital-marketing-rebate-and-policy-manager-agency/agent",
+                    "configEntry":  "config/openclaw.agent.digital-marketing-rebate-and-policy-manager-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.digital-marketing-rebate-and-policy-manager-agency.snippet.json"
+                }
+}

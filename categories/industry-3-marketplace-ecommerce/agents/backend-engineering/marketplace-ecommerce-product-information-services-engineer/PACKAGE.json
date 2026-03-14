@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-product-information-services-engineer",
+    "roleTitle":  "Product Information Services Engineer",
+    "personaSummary":  "Builds product information services so marketplace catalog data stays structured, accurate, and reusable across downstream workflows.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "backend-engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "clawin-backend-service-engineering"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-product-information-services-engineer",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-product-information-services-engineer/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-product-information-services-engineer/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-product-information-services-engineer.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-product-information-services-engineer.snippet.json"
+                }
+}

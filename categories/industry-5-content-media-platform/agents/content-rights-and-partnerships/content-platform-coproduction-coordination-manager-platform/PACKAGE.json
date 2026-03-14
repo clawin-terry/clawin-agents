@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-coproduction-coordination-manager-platform",
+    "roleTitle":  "Co-Production Coordination Manager (Platform)",
+    "personaSummary":  "Coordinates co-production work so shared content projects move forward with clearer stakeholder alignment, rights handling, and production follow-through.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "content-rights-and-partnerships",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-coproduction-coordination-manager-platform",
+                    "workspace":  "~/.openclaw/agents/content-platform-coproduction-coordination-manager-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-coproduction-coordination-manager-platform/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-coproduction-coordination-manager-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-coproduction-coordination-manager-platform.snippet.json"
+                }
+}

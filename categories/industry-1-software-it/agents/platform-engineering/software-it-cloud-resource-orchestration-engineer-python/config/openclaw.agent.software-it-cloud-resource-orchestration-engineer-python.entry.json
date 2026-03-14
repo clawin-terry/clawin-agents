@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-cloud-resource-orchestration-engineer-python",
+    "default":  false,
+    "name":  "Cloud Resource Orchestration Engineer (Python)",
+    "workspace":  "~/.openclaw/agents/software-it-cloud-resource-orchestration-engineer-python/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-cloud-resource-orchestration-engineer-python/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

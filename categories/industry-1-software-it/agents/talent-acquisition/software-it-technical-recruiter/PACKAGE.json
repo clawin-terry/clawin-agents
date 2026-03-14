@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-technical-recruiter",
+    "roleTitle":  "Technical Recruiter (TA)",
+    "personaSummary":  "Recruits technical talent so engineering and specialist hiring needs are translated into strong pipelines, calibrated evaluation, and timely closes.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "talent-acquisition",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-technical-recruiter",
+                    "workspace":  "~/.openclaw/agents/software-it-technical-recruiter/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-technical-recruiter/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-technical-recruiter.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-technical-recruiter.snippet.json"
+                }
+}

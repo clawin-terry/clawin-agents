@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-anti-fraud-program-manager-platform",
+    "roleTitle":  "Anti-Fraud Program Manager (Platform)",
+    "personaSummary":  "Builds anti-fraud mechanisms so policy signals, control responses, and investigation handoffs reduce misconduct risk across platform operations.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "compliance-risk",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-anti-fraud-program-manager-platform",
+                    "workspace":  "~/.openclaw/agents/content-platform-anti-fraud-program-manager-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-anti-fraud-program-manager-platform/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-anti-fraud-program-manager-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-anti-fraud-program-manager-platform.snippet.json"
+                }
+}

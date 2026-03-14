@@ -4,11 +4,11 @@ Install-ready commercial-bidding-focused OpenClaw agents for `industry-4-digital
 
 ## Included agents
 
-- [i4-commercial-negotiation-manager-agency](./i4-commercial-negotiation-manager-agency/) — Commercial Negotiation Manager (Agency)
-- [i4-contract-terms-coordination-specialist-agency](./i4-contract-terms-coordination-specialist-agency/) — Contract Terms Coordination Specialist (Agency)
-- [i4-proposal-manager-agency](./i4-proposal-manager-agency/) — Proposal Manager (Agency)
-- [i4-proposal-presentation-packaging-specialist-agency](./i4-proposal-presentation-packaging-specialist-agency/) — Proposal Presentation Packaging Specialist (Agency)
-- [i4-tender-specialist-agency](./i4-tender-specialist-agency/) — Tender Specialist (Agency)
+- [digital-marketing-commercial-negotiation-manager-agency](./digital-marketing-commercial-negotiation-manager-agency/) — Commercial Negotiation Manager (Agency)
+- [digital-marketing-contract-terms-coordination-specialist-agency](./digital-marketing-contract-terms-coordination-specialist-agency/) — Contract Terms Coordination Specialist (Agency)
+- [digital-marketing-proposal-manager-agency](./digital-marketing-proposal-manager-agency/) — Proposal Manager (Agency)
+- [digital-marketing-proposal-presentation-packaging-specialist-agency](./digital-marketing-proposal-presentation-packaging-specialist-agency/) — Proposal Presentation Packaging Specialist (Agency)
+- [digital-marketing-tender-specialist-agency](./digital-marketing-tender-specialist-agency/) — Tender Specialist (Agency)
 
 ## Notes
 

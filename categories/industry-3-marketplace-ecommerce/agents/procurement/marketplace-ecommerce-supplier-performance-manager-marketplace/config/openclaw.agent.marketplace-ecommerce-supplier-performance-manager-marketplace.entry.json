@@ -1,0 +1,13 @@
+{
+  "id": "marketplace-ecommerce-supplier-performance-manager-marketplace",
+  "default": false,
+  "name": "Supplier Performance Manager (Marketplace)",
+  "workspace": "~/.openclaw/agents/marketplace-ecommerce-supplier-performance-manager-marketplace/workspace",
+  "agentDir": "~/.openclaw/agents/marketplace-ecommerce-supplier-performance-manager-marketplace/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

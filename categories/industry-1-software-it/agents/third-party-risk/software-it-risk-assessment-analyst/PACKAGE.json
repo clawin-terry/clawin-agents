@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-risk-assessment-analyst",
+    "roleTitle":  "Risk Assessment Analyst",
+    "personaSummary":  "Performs structured risk assessments so decision makers can compare exposures, prioritize mitigations, and document rationale with clearer analytical support.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "third-party-risk",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-risk-assessment-analyst",
+                    "workspace":  "~/.openclaw/agents/software-it-risk-assessment-analyst/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-risk-assessment-analyst/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-risk-assessment-analyst.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-risk-assessment-analyst.snippet.json"
+                }
+}

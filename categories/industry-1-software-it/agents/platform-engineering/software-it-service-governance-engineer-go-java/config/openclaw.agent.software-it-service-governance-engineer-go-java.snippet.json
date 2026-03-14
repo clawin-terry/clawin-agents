@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "software-it-service-governance-engineer-go-java",
+                                    "default":  false,
+                                    "name":  "Service Governance Engineer (Go/Java)",
+                                    "workspace":  "~/.openclaw/agents/software-it-service-governance-engineer-go-java/workspace",
+                                    "agentDir":  "~/.openclaw/agents/software-it-service-governance-engineer-go-java/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

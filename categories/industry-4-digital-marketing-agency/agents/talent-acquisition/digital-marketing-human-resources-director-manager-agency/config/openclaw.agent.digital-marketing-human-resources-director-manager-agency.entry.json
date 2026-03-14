@@ -1,0 +1,13 @@
+{
+  "id": "digital-marketing-human-resources-director-manager-agency",
+  "default": false,
+  "name": "Human Resources Director / Manager (Agency)",
+  "workspace": "~/.openclaw/agents/digital-marketing-human-resources-director-manager-agency/workspace",
+  "agentDir": "~/.openclaw/agents/digital-marketing-human-resources-director-manager-agency/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

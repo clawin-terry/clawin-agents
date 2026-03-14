@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-sampling-and-statistical-evaluation-analyst-platform",
+    "roleTitle":  "Sampling and Statistical Evaluation Analyst (Platform)",
+    "personaSummary":  "Designs sampling plans and statistical evaluation methods so trust-and-safety quality checks produce more reliable performance signals and operational decisions.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "review-analytics-and-evaluation",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-sampling-and-statistical-evaluation-analyst-platform",
+                    "workspace":  "~/.openclaw/agents/content-platform-sampling-and-statistical-evaluation-analyst-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-sampling-and-statistical-evaluation-analyst-platform/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-sampling-and-statistical-evaluation-analyst-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-sampling-and-statistical-evaluation-analyst-platform.snippet.json"
+                }
+}

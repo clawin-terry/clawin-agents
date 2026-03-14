@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-content-supply-strategy-manager-platform",
+    "roleTitle":  "Content Supply Strategy Manager (Platform)",
+    "personaSummary":  "Shapes content-supply strategy so the platform can grow creator participation, balance category coverage, and keep supply aligned with audience demand.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "content-ecosystem-strategy",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-content-supply-strategy-manager-platform",
+                    "workspace":  "~/.openclaw/agents/content-platform-content-supply-strategy-manager-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-content-supply-strategy-manager-platform/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-content-supply-strategy-manager-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-content-supply-strategy-manager-platform.snippet.json"
+                }
+}

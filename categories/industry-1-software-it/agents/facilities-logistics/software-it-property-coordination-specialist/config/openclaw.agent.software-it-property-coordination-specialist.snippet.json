@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "software-it-property-coordination-specialist",
+                                    "default":  false,
+                                    "name":  "Property Coordination Specialist",
+                                    "workspace":  "~/.openclaw/agents/software-it-property-coordination-specialist/workspace",
+                                    "agentDir":  "~/.openclaw/agents/software-it-property-coordination-specialist/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "digital-marketing-bilibili-ads-specialist-agency",
+    "roleTitle":  "Bilibili Ads Specialist (Agency)",
+    "personaSummary":  "Operates Bilibili advertising so agency video-oriented campaigns can reach platform audiences with stronger delivery and optimization follow-through.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "channel-ad-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/digital-marketing-bilibili-ads-specialist-agency",
+                    "workspace":  "~/.openclaw/agents/digital-marketing-bilibili-ads-specialist-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/digital-marketing-bilibili-ads-specialist-agency/agent",
+                    "configEntry":  "config/openclaw.agent.digital-marketing-bilibili-ads-specialist-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.digital-marketing-bilibili-ads-specialist-agency.snippet.json"
+                }
+}

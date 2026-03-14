@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "content-platform-content-services-engineer-go",
+        "default": false,
+        "name": "Content Services Engineer (Go)",
+        "workspace": "~/.openclaw/agents/content-platform-content-services-engineer-go/workspace",
+        "agentDir": "~/.openclaw/agents/content-platform-content-services-engineer-go/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

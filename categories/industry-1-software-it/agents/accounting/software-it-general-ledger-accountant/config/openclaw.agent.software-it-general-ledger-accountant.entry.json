@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-general-ledger-accountant",
+    "default":  false,
+    "name":  "General Ledger Accountant",
+    "workspace":  "~/.openclaw/agents/software-it-general-ledger-accountant/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-general-ledger-accountant/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

@@ -1,0 +1,13 @@
+{
+    "id":  "content-platform-appeals-resolution-specialist-platform",
+    "default":  false,
+    "name":  "Appeals Resolution Specialist (Platform)",
+    "workspace":  "~/.openclaw/agents/content-platform-appeals-resolution-specialist-platform/workspace",
+    "agentDir":  "~/.openclaw/agents/content-platform-appeals-resolution-specialist-platform/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

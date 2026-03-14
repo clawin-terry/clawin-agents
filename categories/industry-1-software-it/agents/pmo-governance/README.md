@@ -4,11 +4,11 @@ Install-ready pmo-governance-focused OpenClaw agents for `industry-1-software-it
 
 ## Included agents
 
-- [i1-milestone-risk-control-specialist](./i1-milestone-risk-control-specialist/) — Milestone and Risk Control Specialist
-- [i1-pmo-lead](./i1-pmo-lead/) — PMO Lead
-- [i1-project-audit-inspection-specialist](./i1-project-audit-inspection-specialist/) — Project Audit and Inspection Specialist
-- [i1-project-portfolio-manager](./i1-project-portfolio-manager/) — Project Portfolio Manager
-- [i1-resource-capacity-planning-manager](./i1-resource-capacity-planning-manager/) — Resource and Capacity Planning Manager
+- [software-it-milestone-risk-control-specialist](./software-it-milestone-risk-control-specialist/) — Milestone and Risk Control Specialist
+- [software-it-pmo-lead](./software-it-pmo-lead/) — PMO Lead
+- [software-it-project-audit-inspection-specialist](./software-it-project-audit-inspection-specialist/) — Project Audit and Inspection Specialist
+- [software-it-project-portfolio-manager](./software-it-project-portfolio-manager/) — Project Portfolio Manager
+- [software-it-resource-capacity-planning-manager](./software-it-resource-capacity-planning-manager/) — Resource and Capacity Planning Manager
 
 ## Notes
 

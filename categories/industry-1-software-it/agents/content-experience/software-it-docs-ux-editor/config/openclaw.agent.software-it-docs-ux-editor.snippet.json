@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "software-it-docs-ux-editor",
+                                    "default":  false,
+                                    "name":  "Docs UX Editor",
+                                    "workspace":  "~/.openclaw/agents/software-it-docs-ux-editor/workspace",
+                                    "agentDir":  "~/.openclaw/agents/software-it-docs-ux-editor/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

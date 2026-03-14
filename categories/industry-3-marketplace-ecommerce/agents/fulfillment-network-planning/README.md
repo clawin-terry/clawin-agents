@@ -4,10 +4,10 @@ Install-ready fulfillment-network-planning-focused OpenClaw agents for `industry
 
 ## Included agents
 
-- [i3-capacity-planning-manager](./i3-capacity-planning-manager/) — Capacity Planning Manager
-- [i3-cost-timeliness-modeling-analyst](./i3-cost-timeliness-modeling-analyst/) — Cost and Timeliness Modeling Analyst
-- [i3-transport-route-planning-manager](./i3-transport-route-planning-manager/) — Transport Route Planning Manager
-- [i3-warehouse-network-planning-manager](./i3-warehouse-network-planning-manager/) — Warehouse Network Planning Manager
+- [marketplace-ecommerce-capacity-planning-manager](./marketplace-ecommerce-capacity-planning-manager/) — Capacity Planning Manager
+- [marketplace-ecommerce-cost-timeliness-modeling-analyst](./marketplace-ecommerce-cost-timeliness-modeling-analyst/) — Cost and Timeliness Modeling Analyst
+- [marketplace-ecommerce-transport-route-planning-manager](./marketplace-ecommerce-transport-route-planning-manager/) — Transport Route Planning Manager
+- [marketplace-ecommerce-warehouse-network-planning-manager](./marketplace-ecommerce-warehouse-network-planning-manager/) — Warehouse Network Planning Manager
 
 ## Notes
 

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-conversion-attribution-modeling-engineer-python",
+    "roleTitle":  "Conversion Attribution Modeling Engineer (Python)",
+    "personaSummary":  "Builds conversion attribution models so advertisers and platform teams can interpret performance impact across channels and touchpoints more reliably.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "machine-learning",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-conversion-attribution-modeling-engineer-python",
+                    "workspace":  "~/.openclaw/agents/content-platform-conversion-attribution-modeling-engineer-python/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-conversion-attribution-modeling-engineer-python/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-conversion-attribution-modeling-engineer-python.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-conversion-attribution-modeling-engineer-python.snippet.json"
+                }
+}

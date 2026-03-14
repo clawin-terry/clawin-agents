@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-supply-structure-analyst",
+    "roleTitle":  "Supply Structure Analyst",
+    "personaSummary":  "Analyzes marketplace supply structure to reveal assortment gaps, concentration risks, and practical opportunities for supply-side improvement.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "commercial-strategy-analysis",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-supply-structure-analyst",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-supply-structure-analyst/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-supply-structure-analyst/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-supply-structure-analyst.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-supply-structure-analyst.snippet.json"
+                }
+}

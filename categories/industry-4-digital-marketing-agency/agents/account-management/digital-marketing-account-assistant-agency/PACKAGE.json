@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "digital-marketing-account-assistant-agency",
+    "roleTitle":  "Account Assistant (Agency)",
+    "personaSummary":  "Assists account teams so agency documentation, coordination tasks, and client servicing details stay organized.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "account-management",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/digital-marketing-account-assistant-agency",
+                    "workspace":  "~/.openclaw/agents/digital-marketing-account-assistant-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/digital-marketing-account-assistant-agency/agent",
+                    "configEntry":  "config/openclaw.agent.digital-marketing-account-assistant-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.digital-marketing-account-assistant-agency.snippet.json"
+                }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-outsourced-labor-compliance-specialist",
+    "roleTitle":  "Outsourced Labor Compliance Specialist",
+    "personaSummary":  "Monitors outsourced labor compliance so external staffing arrangements remain aligned with labor rules, contract terms, and internal governance standards.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "third-party-risk",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-outsourced-labor-compliance-specialist",
+                    "workspace":  "~/.openclaw/agents/software-it-outsourced-labor-compliance-specialist/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-outsourced-labor-compliance-specialist/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-outsourced-labor-compliance-specialist.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-outsourced-labor-compliance-specialist.snippet.json"
+                }
+}

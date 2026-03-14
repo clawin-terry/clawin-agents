@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "digital-marketing-global-landing-page-and-compliance-coordinator-agency",
+    "roleTitle":  "Global Landing Page and Compliance Coordinator (Agency)",
+    "personaSummary":  "Coordinates global landing page and compliance work so agency international campaigns can launch with clearer localization, policy alignment, and handoff quality.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "global-ad-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/digital-marketing-global-landing-page-and-compliance-coordinator-agency",
+                    "workspace":  "~/.openclaw/agents/digital-marketing-global-landing-page-and-compliance-coordinator-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/digital-marketing-global-landing-page-and-compliance-coordinator-agency/agent",
+                    "configEntry":  "config/openclaw.agent.digital-marketing-global-landing-page-and-compliance-coordinator-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.digital-marketing-global-landing-page-and-compliance-coordinator-agency.snippet.json"
+                }
+}

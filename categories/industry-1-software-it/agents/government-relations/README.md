@@ -4,10 +4,10 @@ Install-ready government-relations-focused OpenClaw agents for `industry-1-softw
 
 ## Included agents
 
-- [i1-association-ecosystem-operations-manager](./i1-association-ecosystem-operations-manager/) — Association and Ecosystem Operations Manager
-- [i1-certification-and-program-application-manager](./i1-certification-and-program-application-manager/) — Certification and Program Application Manager
-- [i1-government-enterprise-partnership-manager](./i1-government-enterprise-partnership-manager/) — Government and Enterprise Partnership Manager
-- [i1-policy-research-analyst](./i1-policy-research-analyst/) — Policy Research Analyst
+- [software-it-association-ecosystem-operations-manager](./software-it-association-ecosystem-operations-manager/) — Association and Ecosystem Operations Manager
+- [software-it-certification-and-program-application-manager](./software-it-certification-and-program-application-manager/) — Certification and Program Application Manager
+- [software-it-government-enterprise-partnership-manager](./software-it-government-enterprise-partnership-manager/) — Government and Enterprise Partnership Manager
+- [software-it-policy-research-analyst](./software-it-policy-research-analyst/) — Policy Research Analyst
 
 ## Notes
 

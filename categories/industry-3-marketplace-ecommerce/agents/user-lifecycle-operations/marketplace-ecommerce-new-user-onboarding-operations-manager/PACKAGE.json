@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-new-user-onboarding-operations-manager",
+    "roleTitle":  "New User Onboarding Operations Manager",
+    "personaSummary":  "Runs new-user onboarding operations so first-time marketplace users activate faster and understand how to complete their earliest high-value actions.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "user-lifecycle-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-new-user-onboarding-operations-manager",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-new-user-onboarding-operations-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-new-user-onboarding-operations-manager/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-new-user-onboarding-operations-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-new-user-onboarding-operations-manager.snippet.json"
+                }
+}

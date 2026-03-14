@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-lead-routing-rules-operations-specialist",
+    "roleTitle":  "Lead Routing and Rules Operations Specialist",
+    "personaSummary":  "Runs lead routing and rules operations so handoffs, ownership logic, and response speed stay aligned with commercial process design.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "sales-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-lead-routing-rules-operations-specialist",
+                    "workspace":  "~/.openclaw/agents/software-it-lead-routing-rules-operations-specialist/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-lead-routing-rules-operations-specialist/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-lead-routing-rules-operations-specialist.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-lead-routing-rules-operations-specialist.snippet.json"
+                }
+}

@@ -4,11 +4,11 @@ Install-ready finance-management-focused OpenClaw agents for `industry-4-digital
 
 ## Included agents
 
-- [i4-budget-management-specialist-agency](./i4-budget-management-specialist-agency/) — Budget Management Specialist
-- [i4-gross-margin-and-productivity-analyst-agency](./i4-gross-margin-and-productivity-analyst-agency/) — Gross Margin and Productivity Analyst
-- [i4-operating-dashboard-owner-agency](./i4-operating-dashboard-owner-agency/) — Operating Dashboard Owner
-- [i4-performance-settlement-support-specialist-agency](./i4-performance-settlement-support-specialist-agency/) — Performance Settlement Support Specialist
-- [i4-pricing-model-analyst-agency](./i4-pricing-model-analyst-agency/) — Pricing Model Analyst
+- [digital-marketing-budget-management-specialist-agency](./digital-marketing-budget-management-specialist-agency/) — Budget Management Specialist
+- [digital-marketing-gross-margin-and-productivity-analyst-agency](./digital-marketing-gross-margin-and-productivity-analyst-agency/) — Gross Margin and Productivity Analyst
+- [digital-marketing-operating-dashboard-owner-agency](./digital-marketing-operating-dashboard-owner-agency/) — Operating Dashboard Owner
+- [digital-marketing-performance-settlement-support-specialist-agency](./digital-marketing-performance-settlement-support-specialist-agency/) — Performance Settlement Support Specialist
+- [digital-marketing-pricing-model-analyst-agency](./digital-marketing-pricing-model-analyst-agency/) — Pricing Model Analyst
 
 ## Notes
 

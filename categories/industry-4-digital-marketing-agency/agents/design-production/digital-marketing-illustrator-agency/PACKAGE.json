@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "digital-marketing-illustrator-agency",
+    "roleTitle":  "Illustrator (Agency)",
+    "personaSummary":  "Creates illustrations so agency campaigns can add distinctive visual storytelling, brand character, and bespoke asset support where stock visuals fall short.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "design-production",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/digital-marketing-illustrator-agency",
+                    "workspace":  "~/.openclaw/agents/digital-marketing-illustrator-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/digital-marketing-illustrator-agency/agent",
+                    "configEntry":  "config/openclaw.agent.digital-marketing-illustrator-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.digital-marketing-illustrator-agency.snippet.json"
+                }
+}

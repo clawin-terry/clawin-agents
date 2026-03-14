@@ -4,10 +4,10 @@ Install-ready customer-complaints-quality-focused OpenClaw agents for `industry-
 
 ## Included agents
 
-- [i1-customer-complaints-manager](./i1-customer-complaints-manager/) — Customer Complaints Manager
-- [i1-major-customer-complaint-response-lead](./i1-major-customer-complaint-response-lead/) — Major Customer Complaint Response Lead
-- [i1-retrospective-improvement-specialist](./i1-retrospective-improvement-specialist/) — Retrospective and Improvement Specialist
-- [i1-voice-of-customer-operations-manager](./i1-voice-of-customer-operations-manager/) — Voice of Customer Operations Manager
+- [software-it-customer-complaints-manager](./software-it-customer-complaints-manager/) — Customer Complaints Manager
+- [software-it-major-customer-complaint-response-lead](./software-it-major-customer-complaint-response-lead/) — Major Customer Complaint Response Lead
+- [software-it-retrospective-improvement-specialist](./software-it-retrospective-improvement-specialist/) — Retrospective and Improvement Specialist
+- [software-it-voice-of-customer-operations-manager](./software-it-voice-of-customer-operations-manager/) — Voice of Customer Operations Manager
 
 ## Notes
 

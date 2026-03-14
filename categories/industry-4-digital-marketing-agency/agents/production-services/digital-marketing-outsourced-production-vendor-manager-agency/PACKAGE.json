@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "digital-marketing-outsourced-production-vendor-manager-agency",
+    "roleTitle":  "Outsourced Production Vendor Manager (Agency)",
+    "personaSummary":  "Manages outsourced production vendors so agency teams can coordinate studios, talent, and creator partners with clearer accountability and quality control.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "production-services",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/digital-marketing-outsourced-production-vendor-manager-agency",
+                    "workspace":  "~/.openclaw/agents/digital-marketing-outsourced-production-vendor-manager-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/digital-marketing-outsourced-production-vendor-manager-agency/agent",
+                    "configEntry":  "config/openclaw.agent.digital-marketing-outsourced-production-vendor-manager-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.digital-marketing-outsourced-production-vendor-manager-agency.snippet.json"
+                }
+}

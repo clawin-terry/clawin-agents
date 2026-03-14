@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "software-it-canary-rollback-platform-engineer-go-python",
+                                    "default":  false,
+                                    "name":  "Canary and Rollback Platform Engineer (Go/Python)",
+                                    "workspace":  "~/.openclaw/agents/software-it-canary-rollback-platform-engineer-go-python/workspace",
+                                    "agentDir":  "~/.openclaw/agents/software-it-canary-rollback-platform-engineer-go-python/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

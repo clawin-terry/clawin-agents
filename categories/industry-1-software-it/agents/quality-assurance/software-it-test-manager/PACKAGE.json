@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-test-manager",
+    "roleTitle":  "Test Manager",
+    "personaSummary":  "Leads testing execution, planning, and team coordination to improve product quality, release readiness, and delivery predictability.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "quality-assurance",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-test-manager",
+                    "workspace":  "~/.openclaw/agents/software-it-test-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-test-manager/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-test-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-test-manager.snippet.json"
+                }
+}

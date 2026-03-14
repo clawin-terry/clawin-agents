@@ -4,7 +4,7 @@ Install-ready compliance-risk-focused OpenClaw agents for `industry-5-content-me
 
 ## Included agents
 
-- [i5-anti-fraud-program-manager-platform](./i5-anti-fraud-program-manager-platform/) — Anti-Fraud Program Manager (Platform)
+- [content-platform-anti-fraud-program-manager-platform](./content-platform-anti-fraud-program-manager-platform/) — Anti-Fraud Program Manager (Platform)
 
 ## Notes
 

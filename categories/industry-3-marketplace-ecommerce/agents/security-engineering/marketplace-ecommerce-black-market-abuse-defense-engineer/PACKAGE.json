@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-black-market-abuse-defense-engineer",
+    "roleTitle":  "Black-Market Abuse Defense Engineer",
+    "personaSummary":  "Builds defenses against organized abuse operations so marketplace platforms can reduce fraud pressure and respond to evolving attacker tactics.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "security-engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "healthcheck"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-black-market-abuse-defense-engineer",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-black-market-abuse-defense-engineer/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-black-market-abuse-defense-engineer/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-black-market-abuse-defense-engineer.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-black-market-abuse-defense-engineer.snippet.json"
+                }
+}

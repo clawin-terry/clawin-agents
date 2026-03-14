@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-compensation-manager-platform",
+    "roleTitle":  "Compensation Manager (Platform)",
+    "personaSummary":  "Leads compensation and benefits design so the platform can reward talent competitively while maintaining internal equity and cost discipline.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "compensation-benefits-performance",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-compensation-manager-platform",
+                    "workspace":  "~/.openclaw/agents/content-platform-compensation-manager-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-compensation-manager-platform/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-compensation-manager-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-compensation-manager-platform.snippet.json"
+                }
+}

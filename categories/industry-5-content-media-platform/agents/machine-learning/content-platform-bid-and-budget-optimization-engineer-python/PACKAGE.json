@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-bid-and-budget-optimization-engineer-python",
+    "roleTitle":  "Bid and Budget Optimization Engineer (Python)",
+    "personaSummary":  "Builds bidding and budget allocation models so advertiser spend can be optimized against delivery, performance, and pacing objectives.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "machine-learning",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-bid-and-budget-optimization-engineer-python",
+                    "workspace":  "~/.openclaw/agents/content-platform-bid-and-budget-optimization-engineer-python/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-bid-and-budget-optimization-engineer-python/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-bid-and-budget-optimization-engineer-python.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-bid-and-budget-optimization-engineer-python.snippet.json"
+                }
+}

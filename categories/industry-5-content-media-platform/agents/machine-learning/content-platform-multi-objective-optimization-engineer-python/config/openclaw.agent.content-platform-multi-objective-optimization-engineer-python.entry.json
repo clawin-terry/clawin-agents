@@ -1,0 +1,13 @@
+{
+  "id": "content-platform-multi-objective-optimization-engineer-python",
+  "default": false,
+  "name": "Multi-Objective Optimization Engineer (Python)",
+  "workspace": "~/.openclaw/agents/content-platform-multi-objective-optimization-engineer-python/workspace",
+  "agentDir": "~/.openclaw/agents/content-platform-multi-objective-optimization-engineer-python/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

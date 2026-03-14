@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-special-project-curation-manager-platform",
+    "roleTitle":  "Special Project Curation Manager (Platform)",
+    "personaSummary":  "Curates editorial specials so themed packages, campaign collections, and narrative showcases feel coherent and stronger for users.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "editorial-content-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-special-project-curation-manager-platform",
+                    "workspace":  "~/.openclaw/agents/content-platform-special-project-curation-manager-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-special-project-curation-manager-platform/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-special-project-curation-manager-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-special-project-curation-manager-platform.snippet.json"
+                }
+}

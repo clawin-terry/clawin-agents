@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "marketplace-ecommerce-phone-customer-service-specialist",
+                                    "default":  false,
+                                    "name":  "Phone Customer Service Specialist",
+                                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-phone-customer-service-specialist/workspace",
+                                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-phone-customer-service-specialist/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

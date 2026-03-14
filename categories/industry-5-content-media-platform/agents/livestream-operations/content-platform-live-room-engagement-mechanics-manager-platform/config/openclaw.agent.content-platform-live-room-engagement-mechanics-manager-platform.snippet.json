@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "content-platform-live-room-engagement-mechanics-manager-platform",
+        "default": false,
+        "name": "Live Room Engagement Mechanics Manager (Platform)",
+        "workspace": "~/.openclaw/agents/content-platform-live-room-engagement-mechanics-manager-platform/workspace",
+        "agentDir": "~/.openclaw/agents/content-platform-live-room-engagement-mechanics-manager-platform/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

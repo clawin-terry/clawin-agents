@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-merchant-onboarding-contract-counsel",
+    "roleTitle":  "Merchant Onboarding Contract Counsel",
+    "personaSummary":  "Supports merchant onboarding contract work so marketplace enrollment terms, approvals, and risk boundaries stay clear and enforceable.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "legal",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-merchant-onboarding-contract-counsel",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-merchant-onboarding-contract-counsel/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-merchant-onboarding-contract-counsel/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-merchant-onboarding-contract-counsel.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-merchant-onboarding-contract-counsel.snippet.json"
+                }
+}

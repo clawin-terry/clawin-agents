@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-privacy-compliance-manager-pipl-gdpr",
+    "default":  false,
+    "name":  "Privacy Compliance Manager (PIPL / GDPR)",
+    "workspace":  "~/.openclaw/agents/software-it-privacy-compliance-manager-pipl-gdpr/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-privacy-compliance-manager-pipl-gdpr/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

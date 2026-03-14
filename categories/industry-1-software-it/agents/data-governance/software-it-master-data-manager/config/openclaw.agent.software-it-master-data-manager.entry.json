@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-master-data-manager",
+    "default":  false,
+    "name":  "Master Data Manager",
+    "workspace":  "~/.openclaw/agents/software-it-master-data-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-master-data-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

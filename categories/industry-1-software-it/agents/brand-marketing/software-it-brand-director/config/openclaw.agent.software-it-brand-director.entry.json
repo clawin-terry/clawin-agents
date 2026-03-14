@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-brand-director",
+    "default":  false,
+    "name":  "Brand Director",
+    "workspace":  "~/.openclaw/agents/software-it-brand-director/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-brand-director/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

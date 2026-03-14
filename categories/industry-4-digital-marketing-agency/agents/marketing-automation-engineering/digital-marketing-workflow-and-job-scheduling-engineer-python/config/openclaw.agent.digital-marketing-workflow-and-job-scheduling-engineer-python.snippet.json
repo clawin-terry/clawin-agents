@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "digital-marketing-workflow-and-job-scheduling-engineer-python",
+        "default": false,
+        "name": "Workflow and Job Scheduling Engineer (Python)",
+        "workspace": "~/.openclaw/agents/digital-marketing-workflow-and-job-scheduling-engineer-python/workspace",
+        "agentDir": "~/.openclaw/agents/digital-marketing-workflow-and-job-scheduling-engineer-python/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

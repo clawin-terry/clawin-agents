@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-head-of-commercial-operations",
+    "default":  false,
+    "name":  "Head of Commercial Operations",
+    "workspace":  "~/.openclaw/agents/software-it-head-of-commercial-operations/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-head-of-commercial-operations/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

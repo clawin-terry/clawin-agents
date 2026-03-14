@@ -4,10 +4,10 @@ Install-ready procurement-focused OpenClaw agents for `industry-3-marketplace-ec
 
 ## Included agents
 
-- [i3-contract-and-acceptance-specialist-marketplace](./i3-contract-and-acceptance-specialist-marketplace/) — Contract and Acceptance Specialist (Marketplace)
-- [i3-procurement-manager-marketplace](./i3-procurement-manager-marketplace/) — Procurement Manager (Marketplace)
-- [i3-supplier-performance-manager-marketplace](./i3-supplier-performance-manager-marketplace/) — Supplier Performance Manager (Marketplace)
-- [i3-tendering-and-bidding-specialist-marketplace](./i3-tendering-and-bidding-specialist-marketplace/) — Tendering and Bidding Specialist (Marketplace)
+- [marketplace-ecommerce-contract-and-acceptance-specialist-marketplace](./marketplace-ecommerce-contract-and-acceptance-specialist-marketplace/) — Contract and Acceptance Specialist (Marketplace)
+- [marketplace-ecommerce-procurement-manager-marketplace](./marketplace-ecommerce-procurement-manager-marketplace/) — Procurement Manager (Marketplace)
+- [marketplace-ecommerce-supplier-performance-manager-marketplace](./marketplace-ecommerce-supplier-performance-manager-marketplace/) — Supplier Performance Manager (Marketplace)
+- [marketplace-ecommerce-tendering-and-bidding-specialist-marketplace](./marketplace-ecommerce-tendering-and-bidding-specialist-marketplace/) — Tendering and Bidding Specialist (Marketplace)
 
 ## Notes
 

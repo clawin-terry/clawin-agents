@@ -1,0 +1,13 @@
+{
+  "id": "content-platform-etl-engineer-python",
+  "default": false,
+  "name": "ETL Engineer (Python)",
+  "workspace": "~/.openclaw/agents/content-platform-etl-engineer-python/workspace",
+  "agentDir": "~/.openclaw/agents/content-platform-etl-engineer-python/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

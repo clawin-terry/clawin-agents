@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "digital-marketing-employment-legal-support-specialist-agency",
+        "default": false,
+        "name": "Employment Legal Support Specialist",
+        "workspace": "~/.openclaw/agents/digital-marketing-employment-legal-support-specialist-agency/workspace",
+        "agentDir": "~/.openclaw/agents/digital-marketing-employment-legal-support-specialist-agency/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

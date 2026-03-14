@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "marketplace-ecommerce-recommendation-and-ranking-engineer",
+        "default": false,
+        "name": "Recommendation and Ranking Engineer",
+        "workspace": "~/.openclaw/agents/marketplace-ecommerce-recommendation-and-ranking-engineer/workspace",
+        "agentDir": "~/.openclaw/agents/marketplace-ecommerce-recommendation-and-ranking-engineer/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

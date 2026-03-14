@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "software-it-mysql-engineer-sql",
+                                    "default":  false,
+                                    "name":  "MySQL Engineer (SQL)",
+                                    "workspace":  "~/.openclaw/agents/software-it-mysql-engineer-sql/workspace",
+                                    "agentDir":  "~/.openclaw/agents/software-it-mysql-engineer-sql/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

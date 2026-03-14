@@ -4,10 +4,10 @@ Install-ready merchant-risk-and-compliance-operations-focused OpenClaw agents fo
 
 ## Included agents
 
-- [i3-credential-fraud-governance-manager](./i3-credential-fraud-governance-manager/) — Credential Fraud Governance Manager
-- [i3-false-shipment-governance-manager](./i3-false-shipment-governance-manager/) — False Shipment Governance Manager
-- [i3-fulfillment-risk-operations-manager](./i3-fulfillment-risk-operations-manager/) — Fulfillment Risk Operations Manager
-- [i3-risk-tiering-manager](./i3-risk-tiering-manager/) — Risk Tiering Manager
+- [marketplace-ecommerce-credential-fraud-governance-manager](./marketplace-ecommerce-credential-fraud-governance-manager/) — Credential Fraud Governance Manager
+- [marketplace-ecommerce-false-shipment-governance-manager](./marketplace-ecommerce-false-shipment-governance-manager/) — False Shipment Governance Manager
+- [marketplace-ecommerce-fulfillment-risk-operations-manager](./marketplace-ecommerce-fulfillment-risk-operations-manager/) — Fulfillment Risk Operations Manager
+- [marketplace-ecommerce-risk-tiering-manager](./marketplace-ecommerce-risk-tiering-manager/) — Risk Tiering Manager
 
 ## Notes
 

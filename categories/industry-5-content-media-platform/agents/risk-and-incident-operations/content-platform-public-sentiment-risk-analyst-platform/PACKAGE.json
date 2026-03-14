@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-public-sentiment-risk-analyst-platform",
+    "roleTitle":  "Public Sentiment Risk Analyst (Platform)",
+    "personaSummary":  "Assesses public-sentiment risk so policy, content, and platform incidents can be interpreted with clearer escalation context and response priorities.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "risk-and-incident-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-public-sentiment-risk-analyst-platform",
+                    "workspace":  "~/.openclaw/agents/content-platform-public-sentiment-risk-analyst-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-public-sentiment-risk-analyst-platform/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-public-sentiment-risk-analyst-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-public-sentiment-risk-analyst-platform.snippet.json"
+                }
+}

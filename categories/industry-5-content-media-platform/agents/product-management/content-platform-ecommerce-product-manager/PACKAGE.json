@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-ecommerce-product-manager",
+    "roleTitle":  "Ecommerce Product Manager",
+    "personaSummary":  "Owns ecommerce products so shopping journeys, creator commerce surfaces, and transaction enablement features fit more naturally into the content platform experience.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "product-management",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-ecommerce-product-manager",
+                    "workspace":  "~/.openclaw/agents/content-platform-ecommerce-product-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-ecommerce-product-manager/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-ecommerce-product-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-ecommerce-product-manager.snippet.json"
+                }
+}

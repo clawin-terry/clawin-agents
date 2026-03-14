@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "digital-marketing-short-video-ads-lead-agency",
+        "default": false,
+        "name": "Short Video Ads Lead (Agency)",
+        "workspace": "~/.openclaw/agents/digital-marketing-short-video-ads-lead-agency/workspace",
+        "agentDir": "~/.openclaw/agents/digital-marketing-short-video-ads-lead-agency/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

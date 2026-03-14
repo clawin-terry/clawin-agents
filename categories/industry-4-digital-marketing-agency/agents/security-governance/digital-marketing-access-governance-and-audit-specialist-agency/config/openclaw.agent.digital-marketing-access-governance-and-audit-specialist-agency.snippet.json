@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "digital-marketing-access-governance-and-audit-specialist-agency",
+        "default": false,
+        "name": "Access Governance and Audit Specialist (Agency)",
+        "workspace": "~/.openclaw/agents/digital-marketing-access-governance-and-audit-specialist-agency/workspace",
+        "agentDir": "~/.openclaw/agents/digital-marketing-access-governance-and-audit-specialist-agency/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-field-support-engineer-python-shell",
+    "default":  false,
+    "name":  "Field Support Engineer (Python/Shell)",
+    "workspace":  "~/.openclaw/agents/software-it-field-support-engineer-python-shell/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-field-support-engineer-python-shell/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

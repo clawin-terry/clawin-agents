@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-copyright-compliance-specialist-platform",
+    "roleTitle":  "Copyright Compliance Specialist (Platform)",
+    "personaSummary":  "Supports copyright procurement compliance so licensed content sourcing, supplier terms, and usage rights remain properly governed across the platform.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "legal",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-copyright-compliance-specialist-platform",
+                    "workspace":  "~/.openclaw/agents/content-platform-copyright-compliance-specialist-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-copyright-compliance-specialist-platform/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-copyright-compliance-specialist-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-copyright-compliance-specialist-platform.snippet.json"
+                }
+}

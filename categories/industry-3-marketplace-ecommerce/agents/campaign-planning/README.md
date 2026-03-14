@@ -4,10 +4,10 @@ Install-ready campaign-planning-focused OpenClaw agents for `industry-3-marketpl
 
 ## Included agents
 
-- [i3-annual-mega-campaign-planning-manager](./i3-annual-mega-campaign-planning-manager/) — Annual Mega-Campaign Planning Manager
-- [i3-campaign-zone-strategy-manager](./i3-campaign-zone-strategy-manager/) — Campaign Zone Strategy Manager
-- [i3-promotional-placement-strategy-manager](./i3-promotional-placement-strategy-manager/) — Promotional Placement Strategy Manager
-- [i3-subsidy-strategy-manager](./i3-subsidy-strategy-manager/) — Subsidy Strategy Manager
+- [marketplace-ecommerce-annual-mega-campaign-planning-manager](./marketplace-ecommerce-annual-mega-campaign-planning-manager/) — Annual Mega-Campaign Planning Manager
+- [marketplace-ecommerce-campaign-zone-strategy-manager](./marketplace-ecommerce-campaign-zone-strategy-manager/) — Campaign Zone Strategy Manager
+- [marketplace-ecommerce-promotional-placement-strategy-manager](./marketplace-ecommerce-promotional-placement-strategy-manager/) — Promotional Placement Strategy Manager
+- [marketplace-ecommerce-subsidy-strategy-manager](./marketplace-ecommerce-subsidy-strategy-manager/) — Subsidy Strategy Manager
 
 ## Notes
 

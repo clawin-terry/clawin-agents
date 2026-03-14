@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-logging-and-audit-trail-specialist",
+    "default":  false,
+    "name":  "Logging and Audit Trail Specialist",
+    "workspace":  "~/.openclaw/agents/software-it-logging-and-audit-trail-specialist/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-logging-and-audit-trail-specialist/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-content-visual-standards-designer",
+    "roleTitle":  "Content Visual Standards Designer",
+    "personaSummary":  "Defines visual standards for content surfaces so creators, editors, and product teams can produce more consistent, legible, and on-brand visual experiences.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "design",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "ui-ux-pro-max"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-content-visual-standards-designer",
+                    "workspace":  "~/.openclaw/agents/content-platform-content-visual-standards-designer/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-content-visual-standards-designer/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-content-visual-standards-designer.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-content-visual-standards-designer.snippet.json"
+                }
+}

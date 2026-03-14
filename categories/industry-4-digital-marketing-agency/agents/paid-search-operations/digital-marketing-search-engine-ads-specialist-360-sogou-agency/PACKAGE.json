@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "digital-marketing-search-engine-ads-specialist-360-sogou-agency",
+    "roleTitle":  "360 and Sogou Search Ads Specialist (Agency)",
+    "personaSummary":  "Operates 360 and Sogou search ads so agency teams can extend search coverage while maintaining consistent account execution and optimization.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "paid-search-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/digital-marketing-search-engine-ads-specialist-360-sogou-agency",
+                    "workspace":  "~/.openclaw/agents/digital-marketing-search-engine-ads-specialist-360-sogou-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/digital-marketing-search-engine-ads-specialist-360-sogou-agency/agent",
+                    "configEntry":  "config/openclaw.agent.digital-marketing-search-engine-ads-specialist-360-sogou-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.digital-marketing-search-engine-ads-specialist-360-sogou-agency.snippet.json"
+                }
+}

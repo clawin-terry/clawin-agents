@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-industry-association-relations-manager-marketplace",
+    "roleTitle":  "Industry Association Relations Manager (Marketplace)",
+    "personaSummary":  "Manages marketplace industry-association relationships so external forums, coalition work, and sector coordination stay organized and aligned with company priorities.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "government-relations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-industry-association-relations-manager-marketplace",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-industry-association-relations-manager-marketplace/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-industry-association-relations-manager-marketplace/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-industry-association-relations-manager-marketplace.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-industry-association-relations-manager-marketplace.snippet.json"
+                }
+}

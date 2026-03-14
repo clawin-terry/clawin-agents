@@ -4,9 +4,9 @@ Install-ready frontend-engineering-focused OpenClaw agents for `industry-3-marke
 
 ## Included agents
 
-- [i3-backoffice-frontend-engineering-specialist](./i3-backoffice-frontend-engineering-specialist/) — Backoffice Frontend Engineering Specialist
-- [i3-component-library-engineer-js-ts](./i3-component-library-engineer-js-ts/) — Component Library Engineer (JS/TS)
-- [i3-frontend-engineer-js-ts](./i3-frontend-engineer-js-ts/) — Frontend Engineer (JS/TS)
+- [marketplace-ecommerce-backoffice-frontend-engineering-specialist](./marketplace-ecommerce-backoffice-frontend-engineering-specialist/) — Backoffice Frontend Engineering Specialist
+- [marketplace-ecommerce-component-library-engineer-js-ts](./marketplace-ecommerce-component-library-engineer-js-ts/) — Component Library Engineer (JS/TS)
+- [marketplace-ecommerce-frontend-engineer-js-ts](./marketplace-ecommerce-frontend-engineer-js-ts/) — Frontend Engineer (JS/TS)
 
 ## Notes
 

@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "digital-marketing-job-architecture-and-levels-specialist-agency",
+        "default": false,
+        "name": "Job Architecture and Levels Specialist (Agency)",
+        "workspace": "~/.openclaw/agents/digital-marketing-job-architecture-and-levels-specialist-agency/workspace",
+        "agentDir": "~/.openclaw/agents/digital-marketing-job-architecture-and-levels-specialist-agency/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

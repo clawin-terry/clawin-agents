@@ -4,10 +4,10 @@ Install-ready platform-engineering-focused OpenClaw agents for `industry-3-marke
 
 ## Included agents
 
-- [i3-ci-cd-engineer](./i3-ci-cd-engineer/) — CI/CD Engineer
-- [i3-platform-engineer-go](./i3-platform-engineer-go/) — Platform Engineer (Go)
-- [i3-platform-engineer-python](./i3-platform-engineer-python/) — Platform Engineer (Python)
-- [i3-release-change-management-specialist](./i3-release-change-management-specialist/) — Release Change Management Specialist
+- [marketplace-ecommerce-ci-cd-engineer](./marketplace-ecommerce-ci-cd-engineer/) — CI/CD Engineer
+- [marketplace-ecommerce-platform-engineer-go](./marketplace-ecommerce-platform-engineer-go/) — Platform Engineer (Go)
+- [marketplace-ecommerce-platform-engineer-python](./marketplace-ecommerce-platform-engineer-python/) — Platform Engineer (Python)
+- [marketplace-ecommerce-release-change-management-specialist](./marketplace-ecommerce-release-change-management-specialist/) — Release Change Management Specialist
 
 ## Notes
 

@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "content-platform-crisis-communications-coordination-manager",
+                                    "default":  false,
+                                    "name":  "Crisis Communications Coordination Manager",
+                                    "workspace":  "~/.openclaw/agents/content-platform-crisis-communications-coordination-manager/workspace",
+                                    "agentDir":  "~/.openclaw/agents/content-platform-crisis-communications-coordination-manager/agent",
+                                    "model":  {
+                                                  "primary":  "mycodex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

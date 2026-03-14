@@ -4,11 +4,11 @@ Install-ready training-focused OpenClaw agents for `industry-1-software-it`.
 
 ## Included agents
 
-- [i1-certification-exam-operations-manager](./i1-certification-exam-operations-manager/) — Certification Exam Operations Manager
-- [i1-curriculum-designer](./i1-curriculum-designer/) — Curriculum Designer
-- [i1-customer-training-instructor](./i1-customer-training-instructor/) — Customer Training Instructor
-- [i1-head-of-training](./i1-head-of-training/) — Head of Training
-- [i1-training-delivery-coordinator](./i1-training-delivery-coordinator/) — Training Delivery Coordinator
+- [software-it-certification-exam-operations-manager](./software-it-certification-exam-operations-manager/) — Certification Exam Operations Manager
+- [software-it-curriculum-designer](./software-it-curriculum-designer/) — Curriculum Designer
+- [software-it-customer-training-instructor](./software-it-customer-training-instructor/) — Customer Training Instructor
+- [software-it-head-of-training](./software-it-head-of-training/) — Head of Training
+- [software-it-training-delivery-coordinator](./software-it-training-delivery-coordinator/) — Training Delivery Coordinator
 
 ## Notes
 

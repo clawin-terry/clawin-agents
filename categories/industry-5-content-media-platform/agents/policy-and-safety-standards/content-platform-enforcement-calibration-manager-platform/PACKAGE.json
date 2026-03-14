@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-enforcement-calibration-manager-platform",
+    "roleTitle":  "Enforcement Calibration Manager (Platform)",
+    "personaSummary":  "Calibrates enforcement standards so disposition severity, exception handling, and case outcomes remain more consistent across policy operations.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "policy-and-safety-standards",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-enforcement-calibration-manager-platform",
+                    "workspace":  "~/.openclaw/agents/content-platform-enforcement-calibration-manager-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-enforcement-calibration-manager-platform/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-enforcement-calibration-manager-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-enforcement-calibration-manager-platform.snippet.json"
+                }
+}

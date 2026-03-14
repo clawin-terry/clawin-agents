@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "digital-marketing-video-director-agency",
+    "roleTitle":  "Video Director (Agency)",
+    "personaSummary":  "Leads video production direction so agency shoots, edits, and motion outputs stay aligned with concept goals, quality expectations, and client timelines.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "video-production",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/digital-marketing-video-director-agency",
+                    "workspace":  "~/.openclaw/agents/digital-marketing-video-director-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/digital-marketing-video-director-agency/agent",
+                    "configEntry":  "config/openclaw.agent.digital-marketing-video-director-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.digital-marketing-video-director-agency.snippet.json"
+                }
+}

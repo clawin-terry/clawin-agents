@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "digital-marketing-software-asset-management-specialist-agency",
+    "roleTitle":  "Software Asset Management Specialist (Agency)",
+    "personaSummary":  "Runs software asset management so agency licenses, renewals, and application inventories remain accurate, compliant, and cost-aware.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "technical-support",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/digital-marketing-software-asset-management-specialist-agency",
+                    "workspace":  "~/.openclaw/agents/digital-marketing-software-asset-management-specialist-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/digital-marketing-software-asset-management-specialist-agency/agent",
+                    "configEntry":  "config/openclaw.agent.digital-marketing-software-asset-management-specialist-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.digital-marketing-software-asset-management-specialist-agency.snippet.json"
+                }
+}

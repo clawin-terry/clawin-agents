@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "digital-marketing-finance-director-manager-agency",
+    "roleTitle":  "Finance Director / Manager",
+    "personaSummary":  "Leads agency finance operations so accounting discipline, team execution, and management reporting stay reliable across client delivery and internal operations.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "accounting",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/digital-marketing-finance-director-manager-agency",
+                    "workspace":  "~/.openclaw/agents/digital-marketing-finance-director-manager-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/digital-marketing-finance-director-manager-agency/agent",
+                    "configEntry":  "config/openclaw.agent.digital-marketing-finance-director-manager-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.digital-marketing-finance-director-manager-agency.snippet.json"
+                }
+}

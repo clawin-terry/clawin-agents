@@ -1,0 +1,13 @@
+{
+    "id":  "marketplace-ecommerce-business-line-finance-business-partner-marketplace",
+    "default":  false,
+    "name":  "Business Line Finance Business Partner (Marketplace)",
+    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-business-line-finance-business-partner-marketplace/workspace",
+    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-business-line-finance-business-partner-marketplace/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

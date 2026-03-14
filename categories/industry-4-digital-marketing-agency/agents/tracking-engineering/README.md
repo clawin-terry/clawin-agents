@@ -4,9 +4,9 @@ Install-ready tracking-engineering-focused OpenClaw agents for `industry-4-digit
 
 ## Included agents
 
-- [i4-data-collection-backend-engineer-java-go](./i4-data-collection-backend-engineer-java-go/) — Data Collection Backend Engineer (Java/Go)
-- [i4-sdk-engineer-java-ios](./i4-sdk-engineer-java-ios/) — SDK Engineer (Java, Objective-C, and Swift)
-- [i4-tracking-and-tagging-engineer-javascript](./i4-tracking-and-tagging-engineer-javascript/) — Tracking and Tagging Engineer (JavaScript)
+- [digital-marketing-data-collection-backend-engineer-java-go](./digital-marketing-data-collection-backend-engineer-java-go/) — Data Collection Backend Engineer (Java/Go)
+- [digital-marketing-sdk-engineer-java-ios](./digital-marketing-sdk-engineer-java-ios/) — SDK Engineer (Java, Objective-C, and Swift)
+- [digital-marketing-tracking-and-tagging-engineer-javascript](./digital-marketing-tracking-and-tagging-engineer-javascript/) — Tracking and Tagging Engineer (JavaScript)
 
 ## Notes
 

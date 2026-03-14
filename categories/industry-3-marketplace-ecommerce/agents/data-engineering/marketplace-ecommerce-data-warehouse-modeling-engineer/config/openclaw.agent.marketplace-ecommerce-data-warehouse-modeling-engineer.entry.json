@@ -1,0 +1,13 @@
+{
+    "id":  "marketplace-ecommerce-data-warehouse-modeling-engineer",
+    "default":  false,
+    "name":  "Data Warehouse Modeling Engineer",
+    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-data-warehouse-modeling-engineer/workspace",
+    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-data-warehouse-modeling-engineer/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-developer-relations-manager",
+    "default":  false,
+    "name":  "Developer Relations Manager",
+    "workspace":  "~/.openclaw/agents/software-it-developer-relations-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-developer-relations-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

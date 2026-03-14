@@ -1,0 +1,13 @@
+{
+  "id": "digital-marketing-project-cost-accountant-agency",
+  "default": false,
+  "name": "Project Cost Accountant",
+  "workspace": "~/.openclaw/agents/digital-marketing-project-cost-accountant-agency/workspace",
+  "agentDir": "~/.openclaw/agents/digital-marketing-project-cost-accountant-agency/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

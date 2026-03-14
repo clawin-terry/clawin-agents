@@ -4,11 +4,11 @@ Install-ready ecommerce-operations-focused OpenClaw agents for `industry-5-conte
 
 ## Included agents
 
-- [i5-content-commerce-operations-manager](./i5-content-commerce-operations-manager/) — Content Commerce Operations Manager
-- [i5-merchandising-and-platform-acquisition-manager](./i5-merchandising-and-platform-acquisition-manager/) — Merchandising and Platform Acquisition Manager
-- [i5-merchant-operations-manager-platform](./i5-merchant-operations-manager-platform/) — Merchant Operations Manager (Platform)
-- [i5-promotions-and-major-campaign-operations-manager](./i5-promotions-and-major-campaign-operations-manager/) — Promotions and Major Campaign Operations Manager
-- [i5-supply-chain-coordination-manager-platform](./i5-supply-chain-coordination-manager-platform/) — Supply Chain Coordination Manager (Platform)
+- [content-platform-content-commerce-operations-manager](./content-platform-content-commerce-operations-manager/) — Content Commerce Operations Manager
+- [content-platform-merchandising-and-platform-acquisition-manager](./content-platform-merchandising-and-platform-acquisition-manager/) — Merchandising and Platform Acquisition Manager
+- [content-platform-merchant-operations-manager-platform](./content-platform-merchant-operations-manager-platform/) — Merchant Operations Manager (Platform)
+- [content-platform-promotions-and-major-campaign-operations-manager](./content-platform-promotions-and-major-campaign-operations-manager/) — Promotions and Major Campaign Operations Manager
+- [content-platform-supply-chain-coordination-manager-platform](./content-platform-supply-chain-coordination-manager-platform/) — Supply Chain Coordination Manager (Platform)
 
 ## Notes
 

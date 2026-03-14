@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-business-development-director",
+    "roleTitle":  "Business Development Director",
+    "personaSummary":  "Leads business development strategy across strategic partnerships, opportunity shaping, and external growth initiatives.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "business-development",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-business-development-director",
+                    "workspace":  "~/.openclaw/agents/software-it-business-development-director/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-business-development-director/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-business-development-director.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-business-development-director.snippet.json"
+                }
+}

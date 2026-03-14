@@ -4,11 +4,11 @@ Install-ready technical-leadership-focused OpenClaw agents for `industry-1-softw
 
 ## Included agents
 
-- [i1-architecture-committee-member](./i1-architecture-committee-member/) — Architecture Committee Member
-- [i1-chief-technology-officer](./i1-chief-technology-officer/) — Chief Technology Officer
-- [i1-enterprise-chief-architect](./i1-enterprise-chief-architect/) — Enterprise Chief Architect
-- [i1-head-of-engineering-productivity](./i1-head-of-engineering-productivity/) — Head of Engineering Productivity
-- [i1-technical-program-manager](./i1-technical-program-manager/) — Technical Program Manager
+- [software-it-architecture-committee-member](./software-it-architecture-committee-member/) — Architecture Committee Member
+- [software-it-chief-technology-officer](./software-it-chief-technology-officer/) — Chief Technology Officer
+- [software-it-enterprise-chief-architect](./software-it-enterprise-chief-architect/) — Enterprise Chief Architect
+- [software-it-head-of-engineering-productivity](./software-it-head-of-engineering-productivity/) — Head of Engineering Productivity
+- [software-it-technical-program-manager](./software-it-technical-program-manager/) — Technical Program Manager
 
 ## Notes
 

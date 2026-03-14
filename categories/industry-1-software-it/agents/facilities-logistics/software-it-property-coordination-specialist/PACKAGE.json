@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-property-coordination-specialist",
+    "roleTitle":  "Property Coordination Specialist",
+    "personaSummary":  "Coordinates with property and building-management partners so site issues, service requests, and landlord interfaces stay organized and responsive.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "facilities-logistics",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-property-coordination-specialist",
+                    "workspace":  "~/.openclaw/agents/software-it-property-coordination-specialist/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-property-coordination-specialist/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-property-coordination-specialist.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-property-coordination-specialist.snippet.json"
+                }
+}

@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-proof-of-concept-manager",
+    "default":  false,
+    "name":  "Proof of Concept Manager",
+    "workspace":  "~/.openclaw/agents/software-it-proof-of-concept-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-proof-of-concept-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

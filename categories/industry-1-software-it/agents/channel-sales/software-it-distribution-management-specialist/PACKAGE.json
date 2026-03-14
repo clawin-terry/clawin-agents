@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-distribution-management-specialist",
+    "roleTitle":  "Distribution Management Specialist",
+    "personaSummary":  "Coordinates distribution structures, partner flows, and operational controls so channel sales execution stays orderly and scalable.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "channel-sales",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-distribution-management-specialist",
+                    "workspace":  "~/.openclaw/agents/software-it-distribution-management-specialist/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-distribution-management-specialist/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-distribution-management-specialist.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-distribution-management-specialist.snippet.json"
+                }
+}

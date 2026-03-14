@@ -4,10 +4,10 @@ Install-ready text-community-content-operations-focused OpenClaw agents for `ind
 
 ## Included agents
 
-- [i5-content-structure-governance-manager-platform](./i5-content-structure-governance-manager-platform/) — Content Structure Governance Manager (Platform)
-- [i5-qa-post-operations-manager-platform](./i5-qa-post-operations-manager-platform/) — Q&A and Post Operations Manager (Platform)
-- [i5-text-content-operations-manager-platform](./i5-text-content-operations-manager-platform/) — Text Content Operations Manager (Platform)
-- [i5-vertical-content-operations-manager-platform](./i5-vertical-content-operations-manager-platform/) — Vertical Content Operations Manager (Platform)
+- [content-platform-content-structure-governance-manager-platform](./content-platform-content-structure-governance-manager-platform/) — Content Structure Governance Manager (Platform)
+- [content-platform-qa-and-post-operations-manager-platform](./content-platform-qa-and-post-operations-manager-platform/) — Q&A and Post Operations Manager (Platform)
+- [content-platform-text-content-operations-manager-platform](./content-platform-text-content-operations-manager-platform/) — Text Content Operations Manager (Platform)
+- [content-platform-vertical-content-operations-manager-platform](./content-platform-vertical-content-operations-manager-platform/) — Vertical Content Operations Manager (Platform)
 
 ## Notes
 

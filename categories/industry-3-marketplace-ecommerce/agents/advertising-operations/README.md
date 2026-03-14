@@ -4,10 +4,10 @@ Install-ready advertising-operations-focused OpenClaw agents for `industry-3-mar
 
 ## Included agents
 
-- [i3-ad-performance-operations-manager](./i3-ad-performance-operations-manager/) — Ad Performance Operations Manager
-- [i3-ad-placement-operations-manager](./i3-ad-placement-operations-manager/) — Ad Placement Operations Manager
-- [i3-advertiser-customer-success-manager](./i3-advertiser-customer-success-manager/) — Advertiser Customer Success Manager
-- [i3-bidding-strategy-operations-manager](./i3-bidding-strategy-operations-manager/) — Bidding Strategy Operations Manager
+- [marketplace-ecommerce-ad-performance-operations-manager](./marketplace-ecommerce-ad-performance-operations-manager/) — Ad Performance Operations Manager
+- [marketplace-ecommerce-ad-placement-operations-manager](./marketplace-ecommerce-ad-placement-operations-manager/) — Ad Placement Operations Manager
+- [marketplace-ecommerce-advertiser-customer-success-manager](./marketplace-ecommerce-advertiser-customer-success-manager/) — Advertiser Customer Success Manager
+- [marketplace-ecommerce-bidding-strategy-operations-manager](./marketplace-ecommerce-bidding-strategy-operations-manager/) — Bidding Strategy Operations Manager
 
 ## Notes
 

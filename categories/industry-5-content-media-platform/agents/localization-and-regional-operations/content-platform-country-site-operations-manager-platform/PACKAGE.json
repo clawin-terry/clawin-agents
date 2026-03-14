@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-country-site-operations-manager-platform",
+    "roleTitle":  "Country Site Operations Manager (Platform)",
+    "personaSummary":  "Runs country-site operations so regional platform surfaces align with local market needs, operating rhythms, and performance priorities.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "localization-and-regional-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-country-site-operations-manager-platform",
+                    "workspace":  "~/.openclaw/agents/content-platform-country-site-operations-manager-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-country-site-operations-manager-platform/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-country-site-operations-manager-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-country-site-operations-manager-platform.snippet.json"
+                }
+}

@@ -4,10 +4,10 @@ Install-ready category-operations-focused OpenClaw agents for `industry-3-market
 
 ## Included agents
 
-- [i3-category-data-analyst](./i3-category-data-analyst/) — Category Data Analyst
-- [i3-category-operations-manager](./i3-category-operations-manager/) — Category Operations Manager
-- [i3-category-planning-manager](./i3-category-planning-manager/) — Category Planning Manager
-- [i3-category-rules-manager](./i3-category-rules-manager/) — Category Rules Manager
+- [marketplace-ecommerce-category-data-analyst](./marketplace-ecommerce-category-data-analyst/) — Category Data Analyst
+- [marketplace-ecommerce-category-operations-manager](./marketplace-ecommerce-category-operations-manager/) — Category Operations Manager
+- [marketplace-ecommerce-category-planning-manager](./marketplace-ecommerce-category-planning-manager/) — Category Planning Manager
+- [marketplace-ecommerce-category-rules-manager](./marketplace-ecommerce-category-rules-manager/) — Category Rules Manager
 
 ## Notes
 

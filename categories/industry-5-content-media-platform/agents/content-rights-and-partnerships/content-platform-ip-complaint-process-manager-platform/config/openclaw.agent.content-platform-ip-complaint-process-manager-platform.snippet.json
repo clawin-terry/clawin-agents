@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "content-platform-ip-complaint-process-manager-platform",
+        "default": false,
+        "name": "IP Complaint Process Manager (Platform)",
+        "workspace": "~/.openclaw/agents/content-platform-ip-complaint-process-manager-platform/workspace",
+        "agentDir": "~/.openclaw/agents/content-platform-ip-complaint-process-manager-platform/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

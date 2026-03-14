@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-sourcing-manager-platform",
+    "roleTitle":  "Sourcing Manager (Platform)",
+    "personaSummary":  "Leads sourcing workflows so platform teams can identify qualified vendors, compare options, and secure needed goods and services with better speed and control.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "procurement",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-sourcing-manager-platform",
+                    "workspace":  "~/.openclaw/agents/content-platform-sourcing-manager-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-sourcing-manager-platform/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-sourcing-manager-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-sourcing-manager-platform.snippet.json"
+                }
+}

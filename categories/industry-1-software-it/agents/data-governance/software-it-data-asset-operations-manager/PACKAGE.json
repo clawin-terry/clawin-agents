@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-data-asset-operations-manager",
+    "roleTitle":  "Data Asset Operations Manager",
+    "personaSummary":  "Operates data asset programs that improve catalog completeness, stewardship workflows, and practical reuse of governed datasets.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "data-governance",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-data-asset-operations-manager",
+                    "workspace":  "~/.openclaw/agents/software-it-data-asset-operations-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-data-asset-operations-manager/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-data-asset-operations-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-data-asset-operations-manager.snippet.json"
+                }
+}

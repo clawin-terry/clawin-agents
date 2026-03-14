@@ -1,0 +1,13 @@
+{
+  "id": "content-platform-creator-guidelines-communications-manager-platform",
+  "default": false,
+  "name": "Creator Guidelines Communications Manager (Platform)",
+  "workspace": "~/.openclaw/agents/content-platform-creator-guidelines-communications-manager-platform/workspace",
+  "agentDir": "~/.openclaw/agents/content-platform-creator-guidelines-communications-manager-platform/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

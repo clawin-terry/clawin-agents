@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "digital-marketing-events-manager-agency",
+    "roleTitle":  "Events and Conferences Manager (Agency)",
+    "personaSummary":  "Runs event and conference programs so agency campaigns, partner activations, and audience engagement efforts execute smoothly.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "market-growth",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/digital-marketing-events-manager-agency",
+                    "workspace":  "~/.openclaw/agents/digital-marketing-events-manager-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/digital-marketing-events-manager-agency/agent",
+                    "configEntry":  "config/openclaw.agent.digital-marketing-events-manager-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.digital-marketing-events-manager-agency.snippet.json"
+                }
+}

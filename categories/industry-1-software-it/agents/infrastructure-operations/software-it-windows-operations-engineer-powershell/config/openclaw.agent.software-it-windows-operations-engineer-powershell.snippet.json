@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "software-it-windows-operations-engineer-powershell",
+                                    "default":  false,
+                                    "name":  "Windows Operations Engineer (PowerShell)",
+                                    "workspace":  "~/.openclaw/agents/software-it-windows-operations-engineer-powershell/workspace",
+                                    "agentDir":  "~/.openclaw/agents/software-it-windows-operations-engineer-powershell/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-secondary-sales-operations-manager",
+    "roleTitle":  "Secondary Sales Operations Manager",
+    "personaSummary":  "Operates secondary sales workflows so returned inventory can be recovered, remarketed, and monetized more effectively.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "reverse-logistics-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-secondary-sales-operations-manager",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-secondary-sales-operations-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-secondary-sales-operations-manager/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-secondary-sales-operations-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-secondary-sales-operations-manager.snippet.json"
+                }
+}

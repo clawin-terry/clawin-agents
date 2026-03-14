@@ -4,16 +4,16 @@ Install-ready machine-learning-focused OpenClaw agents for `industry-1-software-
 
 ## Included agents
 
-- [i1-algorithm-engineer-python](./i1-algorithm-engineer-python/) — Algorithm Engineer (Python)
-- [i1-computer-vision-engineer-python](./i1-computer-vision-engineer-python/) — Computer Vision Engineer (Python)
-- [i1-data-labeling-operations-specialist](./i1-data-labeling-operations-specialist/) — Data Labeling Operations Specialist
-- [i1-feature-platform-engineer-python-scala](./i1-feature-platform-engineer-python-scala/) — Feature Platform Engineer (Python/Scala)
-- [i1-head-of-machine-learning](./i1-head-of-machine-learning/) — Head of Machine Learning
-- [i1-llm-application-engineer-python](./i1-llm-application-engineer-python/) — LLM Application Engineer (Python)
-- [i1-machine-learning-engineer-python](./i1-machine-learning-engineer-python/) — Machine Learning Engineer (Python)
-- [i1-model-training-platform-engineer-python](./i1-model-training-platform-engineer-python/) — Model Training Platform Engineer (Python)
-- [i1-nlp-engineer-python](./i1-nlp-engineer-python/) — NLP Engineer (Python)
-- [i1-prompt-and-evaluation-engineer-python](./i1-prompt-and-evaluation-engineer-python/) — Prompt and Evaluation Engineer (Python)
+- [software-it-algorithm-engineer-python](./software-it-algorithm-engineer-python/) — Algorithm Engineer (Python)
+- [software-it-computer-vision-engineer-python](./software-it-computer-vision-engineer-python/) — Computer Vision Engineer (Python)
+- [software-it-data-labeling-operations-specialist](./software-it-data-labeling-operations-specialist/) — Data Labeling Operations Specialist
+- [software-it-feature-platform-engineer-python-scala](./software-it-feature-platform-engineer-python-scala/) — Feature Platform Engineer (Python/Scala)
+- [software-it-head-of-machine-learning](./software-it-head-of-machine-learning/) — Head of Machine Learning
+- [software-it-llm-application-engineer-python](./software-it-llm-application-engineer-python/) — LLM Application Engineer (Python)
+- [software-it-machine-learning-engineer-python](./software-it-machine-learning-engineer-python/) — Machine Learning Engineer (Python)
+- [software-it-model-training-platform-engineer-python](./software-it-model-training-platform-engineer-python/) — Model Training Platform Engineer (Python)
+- [software-it-nlp-engineer-python](./software-it-nlp-engineer-python/) — NLP Engineer (Python)
+- [software-it-prompt-and-evaluation-engineer-python](./software-it-prompt-and-evaluation-engineer-python/) — Prompt and Evaluation Engineer (Python)
 
 ## Notes
 

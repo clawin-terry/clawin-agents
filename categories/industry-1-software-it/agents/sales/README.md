@@ -4,12 +4,12 @@ Install-ready sales-focused OpenClaw agents for `industry-1-software-it`.
 
 ## Included agents
 
-- [i1-account-executive](./i1-account-executive/) — Account Executive
-- [i1-account-manager](./i1-account-manager/) — Account Manager
-- [i1-key-account-manager](./i1-key-account-manager/) — Key Account Manager
-- [i1-sales-assistant](./i1-sales-assistant/) — Sales Assistant
-- [i1-sales-training-coach](./i1-sales-training-coach/) — Sales Training Coach
-- [i1-vice-president-of-sales](./i1-vice-president-of-sales/) — Vice President of Sales
+- [software-it-account-executive](./software-it-account-executive/) — Account Executive
+- [software-it-account-manager](./software-it-account-manager/) — Account Manager
+- [software-it-key-account-manager](./software-it-key-account-manager/) — Key Account Manager
+- [software-it-sales-assistant](./software-it-sales-assistant/) — Sales Assistant
+- [software-it-sales-training-coach](./software-it-sales-training-coach/) — Sales Training Coach
+- [software-it-vice-president-of-sales](./software-it-vice-president-of-sales/) — Vice President of Sales
 
 ## Notes
 

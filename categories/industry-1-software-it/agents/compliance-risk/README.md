@@ -4,11 +4,11 @@ Install-ready compliance-risk-focused OpenClaw agents for `industry-1-software-i
 
 ## Included agents
 
-- [i1-anti-fraud-investigation-specialist](./i1-anti-fraud-investigation-specialist/) — Anti-Fraud Investigation Specialist
-- [i1-chief-compliance-officer](./i1-chief-compliance-officer/) — Chief Compliance Officer
-- [i1-compliance-manager](./i1-compliance-manager/) — Compliance Manager
-- [i1-compliance-training-specialist](./i1-compliance-training-specialist/) — Compliance Training Specialist
-- [i1-gifts-hospitality-conflict-of-interest-specialist](./i1-gifts-hospitality-conflict-of-interest-specialist/) — Gifts, Hospitality, and Conflict of Interest Specialist
+- [software-it-anti-fraud-investigation-specialist](./software-it-anti-fraud-investigation-specialist/) — Anti-Fraud Investigation Specialist
+- [software-it-chief-compliance-officer](./software-it-chief-compliance-officer/) — Chief Compliance Officer
+- [software-it-compliance-manager](./software-it-compliance-manager/) — Compliance Manager
+- [software-it-compliance-training-specialist](./software-it-compliance-training-specialist/) — Compliance Training Specialist
+- [software-it-gifts-hospitality-conflict-of-interest-specialist](./software-it-gifts-hospitality-conflict-of-interest-specialist/) — Gifts, Hospitality, and Conflict of Interest Specialist
 
 ## Notes
 

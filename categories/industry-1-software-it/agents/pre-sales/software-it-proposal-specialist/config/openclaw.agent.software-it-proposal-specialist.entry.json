@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-proposal-specialist",
+    "default":  false,
+    "name":  "Proposal Specialist",
+    "workspace":  "~/.openclaw/agents/software-it-proposal-specialist/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-proposal-specialist/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

@@ -4,12 +4,12 @@ Install-ready brand-marketing-focused OpenClaw agents for `industry-1-software-i
 
 ## Included agents
 
-- [i1-brand-director](./i1-brand-director/) — Brand Director
-- [i1-brand-events-manager](./i1-brand-events-manager/) — Brand Events Manager
-- [i1-brand-manager](./i1-brand-manager/) — Brand Manager
-- [i1-chief-marketing-officer](./i1-chief-marketing-officer/) — Chief Marketing Officer
-- [i1-marketing-content-planner](./i1-marketing-content-planner/) — Marketing Content Planner
-- [i1-visual-creative-planner](./i1-visual-creative-planner/) — Visual and Creative Planner
+- [software-it-brand-director](./software-it-brand-director/) — Brand Director
+- [software-it-brand-events-manager](./software-it-brand-events-manager/) — Brand Events Manager
+- [software-it-brand-manager](./software-it-brand-manager/) — Brand Manager
+- [software-it-chief-marketing-officer](./software-it-chief-marketing-officer/) — Chief Marketing Officer
+- [software-it-marketing-content-planner](./software-it-marketing-content-planner/) — Marketing Content Planner
+- [software-it-visual-creative-planner](./software-it-visual-creative-planner/) — Visual and Creative Planner
 
 ## Notes
 

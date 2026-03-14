@@ -1,0 +1,13 @@
+{
+    "id":  "marketplace-ecommerce-interaction-designer",
+    "default":  false,
+    "name":  "Interaction Designer",
+    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-interaction-designer/workspace",
+    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-interaction-designer/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

@@ -4,7 +4,7 @@ Install-ready commercial-operations-focused OpenClaw agents for `industry-5-cont
 
 ## Included agents
 
-- [i5-pricing-and-inventory-strategy-manager](./i5-pricing-and-inventory-strategy-manager/) — Pricing and Inventory Strategy Manager
+- [content-platform-pricing-and-inventory-strategy-manager](./content-platform-pricing-and-inventory-strategy-manager/) — Pricing and Inventory Strategy Manager
 
 ## Notes
 

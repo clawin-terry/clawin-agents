@@ -4,10 +4,10 @@ Install-ready content-creator-operations-focused OpenClaw agents for `industry-3
 
 ## Included agents
 
-- [i3-content-quality-governance-coordination-manager](./i3-content-quality-governance-coordination-manager/) — Content Quality Governance Coordination Manager
-- [i3-content-supply-strategy-manager](./i3-content-supply-strategy-manager/) — Content Supply Strategy Manager
-- [i3-creator-operations-manager](./i3-creator-operations-manager/) — Creator Operations Manager
-- [i3-mcn-partnership-manager](./i3-mcn-partnership-manager/) — MCN Partnership Manager
+- [marketplace-ecommerce-content-quality-governance-coordination-manager](./marketplace-ecommerce-content-quality-governance-coordination-manager/) — Content Quality Governance Coordination Manager
+- [marketplace-ecommerce-content-supply-strategy-manager](./marketplace-ecommerce-content-supply-strategy-manager/) — Content Supply Strategy Manager
+- [marketplace-ecommerce-creator-operations-manager](./marketplace-ecommerce-creator-operations-manager/) — Creator Operations Manager
+- [marketplace-ecommerce-mcn-partnership-manager](./marketplace-ecommerce-mcn-partnership-manager/) — MCN Partnership Manager
 
 ## Notes
 

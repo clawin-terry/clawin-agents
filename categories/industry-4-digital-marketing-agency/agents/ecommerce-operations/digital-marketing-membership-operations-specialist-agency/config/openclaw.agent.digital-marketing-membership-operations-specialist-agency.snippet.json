@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "digital-marketing-membership-operations-specialist-agency",
+        "default": false,
+        "name": "Membership Operations Specialist (Agency)",
+        "workspace": "~/.openclaw/agents/digital-marketing-membership-operations-specialist-agency/workspace",
+        "agentDir": "~/.openclaw/agents/digital-marketing-membership-operations-specialist-agency/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

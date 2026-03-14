@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-nps-voc-analyst",
+    "default":  false,
+    "name":  "NPS and VoC Analyst",
+    "workspace":  "~/.openclaw/agents/software-it-nps-voc-analyst/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-nps-voc-analyst/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

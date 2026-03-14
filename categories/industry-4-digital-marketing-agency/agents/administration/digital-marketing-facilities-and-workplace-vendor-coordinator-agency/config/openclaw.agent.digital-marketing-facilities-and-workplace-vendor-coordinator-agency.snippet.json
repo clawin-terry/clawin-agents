@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "digital-marketing-facilities-and-workplace-vendor-coordinator-agency",
+        "default": false,
+        "name": "Facilities and Workplace Vendor Coordinator (Agency)",
+        "workspace": "~/.openclaw/agents/digital-marketing-facilities-and-workplace-vendor-coordinator-agency/workspace",
+        "agentDir": "~/.openclaw/agents/digital-marketing-facilities-and-workplace-vendor-coordinator-agency/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

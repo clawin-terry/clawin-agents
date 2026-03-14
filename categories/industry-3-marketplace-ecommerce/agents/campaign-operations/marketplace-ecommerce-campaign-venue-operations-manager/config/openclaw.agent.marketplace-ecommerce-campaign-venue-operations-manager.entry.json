@@ -1,0 +1,13 @@
+{
+    "id":  "marketplace-ecommerce-campaign-venue-operations-manager",
+    "default":  false,
+    "name":  "Campaign Venue Operations Manager",
+    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-campaign-venue-operations-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-campaign-venue-operations-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

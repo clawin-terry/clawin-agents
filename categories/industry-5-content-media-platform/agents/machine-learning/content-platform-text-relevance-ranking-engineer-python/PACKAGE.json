@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-text-relevance-ranking-engineer-python",
+    "roleTitle":  "Text Relevance and Ranking Engineer (Python)",
+    "personaSummary":  "Builds text relevance and ranking models in Python so search quality, matching precision, and content retrieval relevance improve for diverse query patterns.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "machine-learning",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-text-relevance-ranking-engineer-python",
+                    "workspace":  "~/.openclaw/agents/content-platform-text-relevance-ranking-engineer-python/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-text-relevance-ranking-engineer-python/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-text-relevance-ranking-engineer-python.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-text-relevance-ranking-engineer-python.snippet.json"
+                }
+}

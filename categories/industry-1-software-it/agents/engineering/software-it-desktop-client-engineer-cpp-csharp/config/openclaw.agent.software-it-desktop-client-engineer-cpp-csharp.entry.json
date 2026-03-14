@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-desktop-client-engineer-cpp-csharp",
+    "default":  false,
+    "name":  "Desktop Client Engineer (C++/C#)",
+    "workspace":  "~/.openclaw/agents/software-it-desktop-client-engineer-cpp-csharp/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-desktop-client-engineer-cpp-csharp/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

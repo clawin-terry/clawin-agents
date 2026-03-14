@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "software-it-project-audit-inspection-specialist",
+                                    "default":  false,
+                                    "name":  "Project Audit and Inspection Specialist",
+                                    "workspace":  "~/.openclaw/agents/software-it-project-audit-inspection-specialist/workspace",
+                                    "agentDir":  "~/.openclaw/agents/software-it-project-audit-inspection-specialist/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

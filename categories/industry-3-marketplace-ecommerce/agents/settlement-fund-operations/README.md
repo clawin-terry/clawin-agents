@@ -4,10 +4,10 @@ Install-ready settlement-fund-operations-focused OpenClaw agents for `industry-3
 
 ## Included agents
 
-- [i3-funds-arrival-timeliness-manager](./i3-funds-arrival-timeliness-manager/) — Funds Arrival Timeliness Manager
-- [i3-merchant-settlement-operations-manager](./i3-merchant-settlement-operations-manager/) — Merchant Settlement Operations Manager
-- [i3-reconciliation-operations-manager](./i3-reconciliation-operations-manager/) — Reconciliation Operations Manager
-- [i3-settlement-error-resolution-specialist](./i3-settlement-error-resolution-specialist/) — Settlement Error Resolution Specialist
+- [marketplace-ecommerce-funds-arrival-timeliness-manager](./marketplace-ecommerce-funds-arrival-timeliness-manager/) — Funds Arrival Timeliness Manager
+- [marketplace-ecommerce-merchant-settlement-operations-manager](./marketplace-ecommerce-merchant-settlement-operations-manager/) — Merchant Settlement Operations Manager
+- [marketplace-ecommerce-reconciliation-operations-manager](./marketplace-ecommerce-reconciliation-operations-manager/) — Reconciliation Operations Manager
+- [marketplace-ecommerce-settlement-error-resolution-specialist](./marketplace-ecommerce-settlement-error-resolution-specialist/) — Settlement Error Resolution Specialist
 
 ## Notes
 

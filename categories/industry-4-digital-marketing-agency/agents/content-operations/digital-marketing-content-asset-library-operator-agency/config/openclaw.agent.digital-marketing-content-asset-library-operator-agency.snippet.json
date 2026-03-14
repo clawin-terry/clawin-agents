@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "digital-marketing-content-asset-library-operator-agency",
+        "default": false,
+        "name": "Content Asset Library Operator (Agency)",
+        "workspace": "~/.openclaw/agents/digital-marketing-content-asset-library-operator-agency/workspace",
+        "agentDir": "~/.openclaw/agents/digital-marketing-content-asset-library-operator-agency/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

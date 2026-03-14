@@ -4,11 +4,11 @@ Install-ready governance-secretariat-focused OpenClaw agents for `industry-1-sof
 
 ## Included agents
 
-- [i1-board-affairs-manager](./i1-board-affairs-manager/) — Board Affairs Manager
-- [i1-board-secretary](./i1-board-secretary/) — Board Secretary
-- [i1-information-disclosure-manager](./i1-information-disclosure-manager/) — Information Disclosure Manager
-- [i1-investor-relations-manager](./i1-investor-relations-manager/) — Investor Relations Manager
-- [i1-meeting-resolutions-administrator](./i1-meeting-resolutions-administrator/) — Meeting and Resolutions Administrator
+- [software-it-board-affairs-manager](./software-it-board-affairs-manager/) — Board Affairs Manager
+- [software-it-board-secretary](./software-it-board-secretary/) — Board Secretary
+- [software-it-information-disclosure-manager](./software-it-information-disclosure-manager/) — Information Disclosure Manager
+- [software-it-investor-relations-manager](./software-it-investor-relations-manager/) — Investor Relations Manager
+- [software-it-meeting-resolutions-administrator](./software-it-meeting-resolutions-administrator/) — Meeting and Resolutions Administrator
 
 ## Notes
 

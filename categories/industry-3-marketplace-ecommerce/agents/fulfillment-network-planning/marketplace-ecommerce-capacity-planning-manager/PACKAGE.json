@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-capacity-planning-manager",
+    "roleTitle":  "Capacity Planning Manager",
+    "personaSummary":  "Plans fulfillment capacity so warehousing and logistics resources stay aligned with marketplace volume and service commitments.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "fulfillment-network-planning",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-capacity-planning-manager",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-capacity-planning-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-capacity-planning-manager/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-capacity-planning-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-capacity-planning-manager.snippet.json"
+                }
+}

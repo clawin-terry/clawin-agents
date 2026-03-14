@@ -1,0 +1,13 @@
+{
+  "id": "content-platform-priority-program-operations-manager-platform",
+  "default": false,
+  "name": "Priority Program Operations Manager (Platform)",
+  "workspace": "~/.openclaw/agents/content-platform-priority-program-operations-manager-platform/workspace",
+  "agentDir": "~/.openclaw/agents/content-platform-priority-program-operations-manager-platform/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

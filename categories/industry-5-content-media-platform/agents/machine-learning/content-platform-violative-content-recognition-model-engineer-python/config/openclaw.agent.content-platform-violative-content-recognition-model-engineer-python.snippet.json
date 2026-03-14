@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "content-platform-violative-content-recognition-model-engineer-python",
+        "default": false,
+        "name": "Violative Content Recognition Model Engineer (Python)",
+        "workspace": "~/.openclaw/agents/content-platform-violative-content-recognition-model-engineer-python/workspace",
+        "agentDir": "~/.openclaw/agents/content-platform-violative-content-recognition-model-engineer-python/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

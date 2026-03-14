@@ -1,0 +1,13 @@
+{
+  "id": "digital-marketing-campaign-solution-architect-agency",
+  "default": false,
+  "name": "Campaign Solution Architect (Agency)",
+  "workspace": "~/.openclaw/agents/digital-marketing-campaign-solution-architect-agency/workspace",
+  "agentDir": "~/.openclaw/agents/digital-marketing-campaign-solution-architect-agency/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

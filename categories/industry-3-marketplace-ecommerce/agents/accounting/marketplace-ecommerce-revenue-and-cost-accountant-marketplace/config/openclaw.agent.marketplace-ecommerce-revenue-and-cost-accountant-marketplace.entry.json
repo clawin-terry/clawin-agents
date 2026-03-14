@@ -1,0 +1,13 @@
+{
+    "id":  "marketplace-ecommerce-revenue-and-cost-accountant-marketplace",
+    "default":  false,
+    "name":  "Revenue and Cost Accountant (Marketplace)",
+    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-revenue-and-cost-accountant-marketplace/workspace",
+    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-revenue-and-cost-accountant-marketplace/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

@@ -4,10 +4,10 @@ Install-ready brand-partnership-authorization-focused OpenClaw agents for `indus
 
 ## Included agents
 
-- [i3-brand-authorization-review-specialist](./i3-brand-authorization-review-specialist/) — Brand Authorization Review Specialist
-- [i3-brand-growth-manager](./i3-brand-growth-manager/) — Brand Growth Manager
-- [i3-brand-partnership-manager](./i3-brand-partnership-manager/) — Brand Partnership Manager
-- [i3-brand-portfolio-operations-manager](./i3-brand-portfolio-operations-manager/) — Brand Portfolio Operations Manager
+- [marketplace-ecommerce-brand-authorization-review-specialist](./marketplace-ecommerce-brand-authorization-review-specialist/) — Brand Authorization Review Specialist
+- [marketplace-ecommerce-brand-growth-manager](./marketplace-ecommerce-brand-growth-manager/) — Brand Growth Manager
+- [marketplace-ecommerce-brand-partnership-manager](./marketplace-ecommerce-brand-partnership-manager/) — Brand Partnership Manager
+- [marketplace-ecommerce-brand-portfolio-operations-manager](./marketplace-ecommerce-brand-portfolio-operations-manager/) — Brand Portfolio Operations Manager
 
 ## Notes
 

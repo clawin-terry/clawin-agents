@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-compliance-audit-specialist-platform",
+    "roleTitle":  "Compliance Audit Specialist (Platform)",
+    "personaSummary":  "Coordinates compliance audit follow-through so privacy, content, and operational controls can be evidenced clearly during internal and external reviews.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "privacy-data-governance",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-compliance-audit-specialist-platform",
+                    "workspace":  "~/.openclaw/agents/content-platform-compliance-audit-specialist-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-compliance-audit-specialist-platform/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-compliance-audit-specialist-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-compliance-audit-specialist-platform.snippet.json"
+                }
+}

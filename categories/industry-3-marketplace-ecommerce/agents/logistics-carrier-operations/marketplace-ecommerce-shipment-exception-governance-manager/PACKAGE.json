@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-shipment-exception-governance-manager",
+    "roleTitle":  "Shipment Exception Governance Manager",
+    "personaSummary":  "Governs shipment exceptions so abnormal logistics cases are resolved consistently and downstream service impact is minimized.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "logistics-carrier-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-shipment-exception-governance-manager",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-shipment-exception-governance-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-shipment-exception-governance-manager/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-shipment-exception-governance-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-shipment-exception-governance-manager.snippet.json"
+                }
+}

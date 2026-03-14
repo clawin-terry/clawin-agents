@@ -4,9 +4,9 @@ Install-ready devops-and-reliability-engineering-focused OpenClaw agents for `in
 
 ## Included agents
 
-- [i4-cicd-engineer-python](./i4-cicd-engineer-python/) — CI/CD Engineer (Python)
-- [i4-devops-engineer-python-shell](./i4-devops-engineer-python-shell/) — DevOps Engineer (Python/Shell)
-- [i4-site-reliability-engineer-go](./i4-site-reliability-engineer-go/) — Site Reliability Engineer (Go)
+- [digital-marketing-cicd-engineer-python](./digital-marketing-cicd-engineer-python/) — CI/CD Engineer (Python)
+- [digital-marketing-devops-engineer-python-shell](./digital-marketing-devops-engineer-python-shell/) — DevOps Engineer (Python/Shell)
+- [digital-marketing-site-reliability-engineer-go](./digital-marketing-site-reliability-engineer-go/) — Site Reliability Engineer (Go)
 
 ## Notes
 

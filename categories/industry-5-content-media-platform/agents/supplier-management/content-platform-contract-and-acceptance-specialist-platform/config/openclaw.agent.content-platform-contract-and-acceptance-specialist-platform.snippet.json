@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "content-platform-contract-and-acceptance-specialist-platform",
+                                    "default":  false,
+                                    "name":  "Contract and Acceptance Specialist (Platform)",
+                                    "workspace":  "~/.openclaw/agents/content-platform-contract-and-acceptance-specialist-platform/workspace",
+                                    "agentDir":  "~/.openclaw/agents/content-platform-contract-and-acceptance-specialist-platform/agent",
+                                    "model":  {
+                                                  "primary":  "mycodex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

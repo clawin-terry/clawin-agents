@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "content-platform-internal-tools-engineer-typescript",
+        "default": false,
+        "name": "Internal Tools Engineer (TypeScript)",
+        "workspace": "~/.openclaw/agents/content-platform-internal-tools-engineer-typescript/workspace",
+        "agentDir": "~/.openclaw/agents/content-platform-internal-tools-engineer-typescript/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

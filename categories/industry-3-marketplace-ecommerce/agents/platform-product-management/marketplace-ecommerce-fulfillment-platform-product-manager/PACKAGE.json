@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-fulfillment-platform-product-manager",
+    "roleTitle":  "Fulfillment Platform Product Manager",
+    "personaSummary":  "Owns fulfillment platform product strategy so shared fulfillment capabilities support scalable orchestration across marketplace operations.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "platform-product-management",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-fulfillment-platform-product-manager",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-fulfillment-platform-product-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-fulfillment-platform-product-manager/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-fulfillment-platform-product-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-fulfillment-platform-product-manager.snippet.json"
+                }
+}

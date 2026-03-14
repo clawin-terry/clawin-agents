@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "digital-marketing-delivery-operations-manager-process-templates-agency",
+    "roleTitle":  "Delivery Operations Manager, Process and Templates (Agency)",
+    "personaSummary":  "Runs delivery operations standards so agency processes, templates, and execution routines stay consistent and reusable across accounts.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "delivery-management",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/digital-marketing-delivery-operations-manager-process-templates-agency",
+                    "workspace":  "~/.openclaw/agents/digital-marketing-delivery-operations-manager-process-templates-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/digital-marketing-delivery-operations-manager-process-templates-agency/agent",
+                    "configEntry":  "config/openclaw.agent.digital-marketing-delivery-operations-manager-process-templates-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.digital-marketing-delivery-operations-manager-process-templates-agency.snippet.json"
+                }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-treasury-manager-platform",
+    "roleTitle":  "Treasury Manager (Platform)",
+    "personaSummary":  "Manages funds and cash operations so platform liquidity, payment timing, and capital control stay aligned with fast-moving business needs.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "tax-treasury",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-treasury-manager-platform",
+                    "workspace":  "~/.openclaw/agents/content-platform-treasury-manager-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-treasury-manager-platform/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-treasury-manager-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-treasury-manager-platform.snippet.json"
+                }
+}

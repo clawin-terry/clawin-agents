@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-finance-systems-administrator",
+    "roleTitle":  "Finance Systems Administrator",
+    "personaSummary":  "Maintains finance systems and access workflows so core finance tooling remains reliable, controlled, and usable for daily operations.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "finance-shared-services",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-finance-systems-administrator",
+                    "workspace":  "~/.openclaw/agents/software-it-finance-systems-administrator/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-finance-systems-administrator/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-finance-systems-administrator.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-finance-systems-administrator.snippet.json"
+                }
+}

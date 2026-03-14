@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-ceo-assistant-special-assistant",
+    "default":  false,
+    "name":  "CEO Assistant / Special Assistant",
+    "workspace":  "~/.openclaw/agents/software-it-ceo-assistant-special-assistant/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-ceo-assistant-special-assistant/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

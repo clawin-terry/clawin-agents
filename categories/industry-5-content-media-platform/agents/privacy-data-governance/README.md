@@ -4,12 +4,10 @@ Install-ready privacy-data-governance-focused OpenClaw agents for `industry-5-co
 
 ## Included agents
 
-- [i5-compliance-audit-specialist-platform](./i5-compliance-audit-specialist-platform/) — Compliance Audit Specialist (Platform)
-- [i5-cross-border-data-governance-manager-platform](./i5-cross-border-data-governance-manager-platform/) — Cross-Border Data Governance Manager (Platform)
-- [i5-cross-border-data-transfer-and-third-party-governance-manager-platform](./i5-cross-border-data-transfer-and-third-party-governance-manager-platform/) — Cross-Border Data Transfer and Third-Party Governance Manager (Platform)
-- [i5-data-protection-officer-platform](./i5-data-protection-officer-platform/) — Data Protection Officer (DPO) (Platform)
-- [i5-personal-data-protection-manager-platform](./i5-personal-data-protection-manager-platform/) — Personal Data Protection Manager (Platform)
-- [i5-personal-information-protection-manager-platform](./i5-personal-information-protection-manager-platform/) — Personal Information Protection Manager (Platform)
+- [content-platform-compliance-audit-specialist-platform](./content-platform-compliance-audit-specialist-platform/) — Compliance Audit Specialist (Platform)
+- [content-platform-cross-border-data-governance-manager-platform](./content-platform-cross-border-data-governance-manager-platform/) — Cross-Border Data Governance Manager (Platform)
+- [content-platform-data-protection-officer-platform](./content-platform-data-protection-officer-platform/) — Data Protection Officer (DPO) (Platform)
+- [content-platform-personal-data-protection-manager-platform](./content-platform-personal-data-protection-manager-platform/) — Personal Data Protection Manager (Platform)
 
 ## Notes
 

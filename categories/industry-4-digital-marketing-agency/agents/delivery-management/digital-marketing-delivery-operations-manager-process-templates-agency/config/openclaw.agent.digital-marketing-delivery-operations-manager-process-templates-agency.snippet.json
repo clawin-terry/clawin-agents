@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "digital-marketing-delivery-operations-manager-process-templates-agency",
+        "default": false,
+        "name": "Delivery Operations Manager, Process and Templates (Agency)",
+        "workspace": "~/.openclaw/agents/digital-marketing-delivery-operations-manager-process-templates-agency/workspace",
+        "agentDir": "~/.openclaw/agents/digital-marketing-delivery-operations-manager-process-templates-agency/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

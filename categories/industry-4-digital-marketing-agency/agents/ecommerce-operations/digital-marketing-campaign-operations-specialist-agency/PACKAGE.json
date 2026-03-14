@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "digital-marketing-campaign-operations-specialist-agency",
+    "roleTitle":  "Campaign Operations Specialist (Agency)",
+    "personaSummary":  "Runs ecommerce campaign operations so agency teams can execute event calendars, promotional mechanics, and cross-functional launch readiness.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "ecommerce-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/digital-marketing-campaign-operations-specialist-agency",
+                    "workspace":  "~/.openclaw/agents/digital-marketing-campaign-operations-specialist-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/digital-marketing-campaign-operations-specialist-agency/agent",
+                    "configEntry":  "config/openclaw.agent.digital-marketing-campaign-operations-specialist-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.digital-marketing-campaign-operations-specialist-agency.snippet.json"
+                }
+}

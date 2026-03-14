@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "software-it-distribution-management-specialist",
+                                    "default":  false,
+                                    "name":  "Distribution Management Specialist",
+                                    "workspace":  "~/.openclaw/agents/software-it-distribution-management-specialist/workspace",
+                                    "agentDir":  "~/.openclaw/agents/software-it-distribution-management-specialist/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

@@ -1,0 +1,13 @@
+{
+    "id":  "marketplace-ecommerce-carrier-management-manager",
+    "default":  false,
+    "name":  "Carrier Management Manager",
+    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-carrier-management-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-carrier-management-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

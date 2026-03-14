@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "marketplace-ecommerce-cross-functional-pmo-manager-marketplace",
+        "default": false,
+        "name": "Cross-Functional PMO Manager (Marketplace)",
+        "workspace": "~/.openclaw/agents/marketplace-ecommerce-cross-functional-pmo-manager-marketplace/workspace",
+        "agentDir": "~/.openclaw/agents/marketplace-ecommerce-cross-functional-pmo-manager-marketplace/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

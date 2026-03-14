@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-priority-program-operations-manager-platform",
+    "roleTitle":  "Priority Program Operations Manager (Platform)",
+    "personaSummary":  "Runs priority creator programs so major initiatives launch cleanly, stakeholders stay aligned, and high-impact creator projects are executed with discipline.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "creator-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-priority-program-operations-manager-platform",
+                    "workspace":  "~/.openclaw/agents/content-platform-priority-program-operations-manager-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-priority-program-operations-manager-platform/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-priority-program-operations-manager-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-priority-program-operations-manager-platform.snippet.json"
+                }
+}

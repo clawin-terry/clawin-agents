@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-windows-operations-engineer-powershell",
+    "roleTitle":  "Windows Operations Engineer (PowerShell)",
+    "personaSummary":  "Operates Windows-based infrastructure with PowerShell automation, improving system reliability, operational consistency, and support responsiveness.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "infrastructure-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "healthcheck"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-windows-operations-engineer-powershell",
+                    "workspace":  "~/.openclaw/agents/software-it-windows-operations-engineer-powershell/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-windows-operations-engineer-powershell/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-windows-operations-engineer-powershell.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-windows-operations-engineer-powershell.snippet.json"
+                }
+}

@@ -4,11 +4,11 @@ Install-ready finance-management-focused OpenClaw agents for `industry-1-softwar
 
 ## Included agents
 
-- [i1-budget-manager](./i1-budget-manager/) — Budget Manager
-- [i1-business-performance-analyst-pl-unit-economics](./i1-business-performance-analyst-pl-unit-economics/) — Business Performance Analyst (P&L / Unit Economics)
-- [i1-chief-financial-officer](./i1-chief-financial-officer/) — Chief Financial Officer
-- [i1-finance-business-partner](./i1-finance-business-partner/) — Finance Business Partner
-- [i1-rolling-forecast-manager](./i1-rolling-forecast-manager/) — Rolling Forecast Manager
+- [software-it-budget-manager](./software-it-budget-manager/) — Budget Manager
+- [software-it-business-performance-analyst](./software-it-business-performance-analyst/) — Business Performance Analyst (P&L / Unit Economics)
+- [software-it-chief-financial-officer](./software-it-chief-financial-officer/) — Chief Financial Officer
+- [software-it-finance-business-partner](./software-it-finance-business-partner/) — Finance Business Partner
+- [software-it-rolling-forecast-manager](./software-it-rolling-forecast-manager/) — Rolling Forecast Manager
 
 ## Notes
 

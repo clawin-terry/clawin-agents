@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "digital-marketing-compliance-training-specialist-agency",
+        "default": false,
+        "name": "Compliance Training Specialist (Agency)",
+        "workspace": "~/.openclaw/agents/digital-marketing-compliance-training-specialist-agency/workspace",
+        "agentDir": "~/.openclaw/agents/digital-marketing-compliance-training-specialist-agency/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

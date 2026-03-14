@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "digital-marketing-incident-response-drills-specialist-agency",
+        "default": false,
+        "name": "Incident Response Drills Specialist (Agency)",
+        "workspace": "~/.openclaw/agents/digital-marketing-incident-response-drills-specialist-agency/workspace",
+        "agentDir": "~/.openclaw/agents/digital-marketing-incident-response-drills-specialist-agency/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

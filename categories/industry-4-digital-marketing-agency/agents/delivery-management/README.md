@@ -4,10 +4,10 @@ Install-ready delivery-management-focused OpenClaw agents for `industry-4-digita
 
 ## Included agents
 
-- [i4-delivery-director-agency](./i4-delivery-director-agency/) — Delivery Director (Agency)
-- [i4-delivery-manager-cross-team-coordination-agency](./i4-delivery-manager-cross-team-coordination-agency/) — Delivery Manager, Cross-Team Coordination (Agency)
-- [i4-delivery-operations-manager-process-templates-agency](./i4-delivery-operations-manager-process-templates-agency/) — Delivery Operations Manager, Process and Templates (Agency)
-- [i4-schedule-and-resource-planner-agency](./i4-schedule-and-resource-planner-agency/) — Schedule and Resource Planner (Agency)
+- [digital-marketing-delivery-director-agency](./digital-marketing-delivery-director-agency/) — Delivery Director (Agency)
+- [digital-marketing-delivery-manager-cross-team-coordination-agency](./digital-marketing-delivery-manager-cross-team-coordination-agency/) — Delivery Manager, Cross-Team Coordination (Agency)
+- [digital-marketing-delivery-operations-manager-process-templates-agency](./digital-marketing-delivery-operations-manager-process-templates-agency/) — Delivery Operations Manager, Process and Templates (Agency)
+- [digital-marketing-schedule-and-resource-planner-agency](./digital-marketing-schedule-and-resource-planner-agency/) — Schedule and Resource Planner (Agency)
 
 ## Notes
 

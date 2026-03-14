@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-customer-success-director",
+    "default":  false,
+    "name":  "Customer Success Director",
+    "workspace":  "~/.openclaw/agents/software-it-customer-success-director/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-customer-success-director/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

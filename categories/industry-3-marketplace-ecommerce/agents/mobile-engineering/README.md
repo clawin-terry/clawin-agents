@@ -4,9 +4,9 @@ Install-ready mobile-engineering-focused OpenClaw agents for `industry-3-marketp
 
 ## Included agents
 
-- [i3-android-engineer-kotlin](./i3-android-engineer-kotlin/) — Android Engineer (Kotlin)
-- [i3-cross-platform-engineer-js-ts](./i3-cross-platform-engineer-js-ts/) — Cross-Platform Engineer (JS/TS)
-- [i3-ios-engineer-swift](./i3-ios-engineer-swift/) — iOS Engineer (Swift)
+- [marketplace-ecommerce-android-engineer-kotlin](./marketplace-ecommerce-android-engineer-kotlin/) — Android Engineer (Kotlin)
+- [marketplace-ecommerce-cross-platform-engineer-js-ts](./marketplace-ecommerce-cross-platform-engineer-js-ts/) — Cross-Platform Engineer (JS/TS)
+- [marketplace-ecommerce-ios-engineer-swift](./marketplace-ecommerce-ios-engineer-swift/) — iOS Engineer (Swift)
 
 ## Notes
 

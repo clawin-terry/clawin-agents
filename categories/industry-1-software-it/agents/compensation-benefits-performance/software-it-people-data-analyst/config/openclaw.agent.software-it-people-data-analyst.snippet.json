@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "software-it-people-data-analyst",
+                                    "default":  false,
+                                    "name":  "People Data Analyst",
+                                    "workspace":  "~/.openclaw/agents/software-it-people-data-analyst/workspace",
+                                    "agentDir":  "~/.openclaw/agents/software-it-people-data-analyst/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

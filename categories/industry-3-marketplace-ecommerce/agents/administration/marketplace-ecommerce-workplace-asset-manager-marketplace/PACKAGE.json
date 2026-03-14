@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-workplace-asset-manager-marketplace",
+    "roleTitle":  "Workplace Asset Manager (Marketplace)",
+    "personaSummary":  "Manages workplace assets so marketplace office equipment, inventories, and lifecycle controls stay accurate, available, and auditable.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "administration",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-workplace-asset-manager-marketplace",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-workplace-asset-manager-marketplace/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-workplace-asset-manager-marketplace/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-workplace-asset-manager-marketplace.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-workplace-asset-manager-marketplace.snippet.json"
+                }
+}

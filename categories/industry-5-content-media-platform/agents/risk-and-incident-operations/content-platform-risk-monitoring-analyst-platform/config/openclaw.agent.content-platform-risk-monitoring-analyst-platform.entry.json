@@ -1,0 +1,13 @@
+{
+    "id":  "content-platform-risk-monitoring-analyst-platform",
+    "default":  false,
+    "name":  "Risk Monitoring Analyst (Platform)",
+    "workspace":  "~/.openclaw/agents/content-platform-risk-monitoring-analyst-platform/workspace",
+    "agentDir":  "~/.openclaw/agents/content-platform-risk-monitoring-analyst-platform/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

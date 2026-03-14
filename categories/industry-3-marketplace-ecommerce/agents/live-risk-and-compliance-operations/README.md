@@ -4,9 +4,9 @@ Install-ready live-risk-and-compliance-operations-focused OpenClaw agents for `i
 
 ## Included agents
 
-- [i3-live-content-compliance-coordination-manager](./i3-live-content-compliance-coordination-manager/) — Live Content Compliance Coordination Manager
-- [i3-live-penalty-and-appeals-coordination-manager](./i3-live-penalty-and-appeals-coordination-manager/) — Live Penalty and Appeals Coordination Manager
-- [i3-live-violation-governance-manager](./i3-live-violation-governance-manager/) — Live Violation Governance Manager
+- [marketplace-ecommerce-live-content-compliance-coordination-manager](./marketplace-ecommerce-live-content-compliance-coordination-manager/) — Live Content Compliance Coordination Manager
+- [marketplace-ecommerce-live-penalty-and-appeals-coordination-manager](./marketplace-ecommerce-live-penalty-and-appeals-coordination-manager/) — Live Penalty and Appeals Coordination Manager
+- [marketplace-ecommerce-live-violation-governance-manager](./marketplace-ecommerce-live-violation-governance-manager/) — Live Violation Governance Manager
 
 ## Notes
 

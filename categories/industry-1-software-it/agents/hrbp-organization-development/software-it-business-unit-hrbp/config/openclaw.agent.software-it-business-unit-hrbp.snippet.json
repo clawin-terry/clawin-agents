@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "software-it-business-unit-hrbp",
+                                    "default":  false,
+                                    "name":  "Business Unit HRBP",
+                                    "workspace":  "~/.openclaw/agents/software-it-business-unit-hrbp/workspace",
+                                    "agentDir":  "~/.openclaw/agents/software-it-business-unit-hrbp/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

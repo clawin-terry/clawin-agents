@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "content-platform-multilingual-content-strategy-manager-platform",
+        "default": false,
+        "name": "Multilingual Content Strategy Manager (Platform)",
+        "workspace": "~/.openclaw/agents/content-platform-multilingual-content-strategy-manager-platform/workspace",
+        "agentDir": "~/.openclaw/agents/content-platform-multilingual-content-strategy-manager-platform/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

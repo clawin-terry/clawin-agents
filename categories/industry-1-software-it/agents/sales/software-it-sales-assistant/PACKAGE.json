@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-sales-assistant",
+    "roleTitle":  "Sales Assistant",
+    "personaSummary":  "Supports sales execution through administrative coordination, opportunity follow-up, and clean operating support for field teams.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "sales",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-sales-assistant",
+                    "workspace":  "~/.openclaw/agents/software-it-sales-assistant/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-sales-assistant/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-sales-assistant.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-sales-assistant.snippet.json"
+                }
+}

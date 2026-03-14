@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-content-supply-strategy-manager",
+    "roleTitle":  "Content Supply Strategy Manager",
+    "personaSummary":  "Shapes content supply strategy so marketplace content volume, format mix, and creator coverage align with business priorities and demand patterns.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "content-creator-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-content-supply-strategy-manager",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-content-supply-strategy-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-content-supply-strategy-manager/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-content-supply-strategy-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-content-supply-strategy-manager.snippet.json"
+                }
+}

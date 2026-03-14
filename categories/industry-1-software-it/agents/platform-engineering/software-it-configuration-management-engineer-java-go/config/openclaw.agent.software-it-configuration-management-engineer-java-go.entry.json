@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-configuration-management-engineer-java-go",
+    "default":  false,
+    "name":  "Configuration Management Engineer (Java/Go)",
+    "workspace":  "~/.openclaw/agents/software-it-configuration-management-engineer-java-go/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-configuration-management-engineer-java-go/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

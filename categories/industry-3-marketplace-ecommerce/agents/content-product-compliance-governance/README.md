@@ -4,10 +4,10 @@ Install-ready content-product-compliance-governance-focused OpenClaw agents for 
 
 ## Included agents
 
-- [i3-advertising-and-ecommerce-law-compliance-manager](./i3-advertising-and-ecommerce-law-compliance-manager/) — Advertising and Ecommerce Law Compliance Manager
-- [i3-intellectual-property-protection-specialist](./i3-intellectual-property-protection-specialist/) — Intellectual Property Protection Specialist
-- [i3-low-quality-and-counterfeit-governance-manager](./i3-low-quality-and-counterfeit-governance-manager/) — Low-Quality and Counterfeit Governance Manager
-- [i3-prohibited-goods-governance-specialist](./i3-prohibited-goods-governance-specialist/) — Prohibited Goods Governance Specialist
+- [marketplace-ecommerce-advertising-and-ecommerce-law-compliance-manager](./marketplace-ecommerce-advertising-and-ecommerce-law-compliance-manager/) — Advertising and Ecommerce Law Compliance Manager
+- [marketplace-ecommerce-intellectual-property-protection-specialist](./marketplace-ecommerce-intellectual-property-protection-specialist/) — Intellectual Property Protection Specialist
+- [marketplace-ecommerce-low-quality-and-counterfeit-governance-manager](./marketplace-ecommerce-low-quality-and-counterfeit-governance-manager/) — Low-Quality and Counterfeit Governance Manager
+- [marketplace-ecommerce-prohibited-goods-governance-specialist](./marketplace-ecommerce-prohibited-goods-governance-specialist/) — Prohibited Goods Governance Specialist
 
 ## Notes
 

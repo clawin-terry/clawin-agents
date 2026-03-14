@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-press-release-editor",
+    "default":  false,
+    "name":  "Press Release Editor",
+    "workspace":  "~/.openclaw/agents/software-it-press-release-editor/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-press-release-editor/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

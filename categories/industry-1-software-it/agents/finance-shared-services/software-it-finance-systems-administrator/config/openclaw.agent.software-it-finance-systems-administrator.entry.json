@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-finance-systems-administrator",
+    "default":  false,
+    "name":  "Finance Systems Administrator",
+    "workspace":  "~/.openclaw/agents/software-it-finance-systems-administrator/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-finance-systems-administrator/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

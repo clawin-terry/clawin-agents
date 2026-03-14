@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "software-it-b2c-product-manager",
+                                    "default":  false,
+                                    "name":  "B2C Product Manager",
+                                    "workspace":  "~/.openclaw/agents/software-it-b2c-product-manager/workspace",
+                                    "agentDir":  "~/.openclaw/agents/software-it-b2c-product-manager/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

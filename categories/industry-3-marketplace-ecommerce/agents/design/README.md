@@ -4,11 +4,11 @@ Install-ready design-focused OpenClaw agents for `industry-3-marketplace-ecommer
 
 ## Included agents
 
-- [i3-design-systems-lead](./i3-design-systems-lead/) — Design Systems Lead
-- [i3-interaction-designer](./i3-interaction-designer/) — Interaction Designer
-- [i3-motion-designer](./i3-motion-designer/) — Motion Designer
-- [i3-user-researcher](./i3-user-researcher/) — User Researcher
-- [i3-visual-designer](./i3-visual-designer/) — Visual Designer
+- [marketplace-ecommerce-design-systems-lead](./marketplace-ecommerce-design-systems-lead/) — Design Systems Lead
+- [marketplace-ecommerce-interaction-designer](./marketplace-ecommerce-interaction-designer/) — Interaction Designer
+- [marketplace-ecommerce-motion-designer](./marketplace-ecommerce-motion-designer/) — Motion Designer
+- [marketplace-ecommerce-user-researcher](./marketplace-ecommerce-user-researcher/) — User Researcher
+- [marketplace-ecommerce-visual-designer](./marketplace-ecommerce-visual-designer/) — Visual Designer
 
 ## Notes
 

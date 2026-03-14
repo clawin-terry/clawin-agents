@@ -4,9 +4,9 @@ Install-ready business-intelligence-focused OpenClaw agents for `industry-3-mark
 
 ## Included agents
 
-- [i3-business-analysis-specialist](./i3-business-analysis-specialist/) — Business Analysis Specialist
-- [i3-data-analyst-sql](./i3-data-analyst-sql/) — Data Analyst (SQL)
-- [i3-marketplace-domain-analytics-specialist](./i3-marketplace-domain-analytics-specialist/) — Marketplace Domain Analytics Specialist
+- [marketplace-ecommerce-business-analysis-specialist](./marketplace-ecommerce-business-analysis-specialist/) — Business Analysis Specialist
+- [marketplace-ecommerce-data-analyst-sql](./marketplace-ecommerce-data-analyst-sql/) — Data Analyst (SQL)
+- [marketplace-ecommerce-marketplace-domain-analytics-specialist](./marketplace-ecommerce-marketplace-domain-analytics-specialist/) — Marketplace Domain Analytics Specialist
 
 ## Notes
 

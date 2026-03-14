@@ -4,11 +4,11 @@ Install-ready community-operations-focused OpenClaw agents for `industry-5-conte
 
 ## Included agents
 
-- [i5-comment-community-operations-manager-platform](./i5-comment-community-operations-manager-platform/) — Comment Community Operations Manager (Platform)
-- [i5-group-and-circle-operations-manager-platform](./i5-group-and-circle-operations-manager-platform/) — Group and Circle Operations Manager (Platform)
-- [i5-koc-core-user-operations-manager-platform](./i5-koc-core-user-operations-manager-platform/) — KOC and Core User Operations Manager (Platform)
-- [i5-topic-operations-manager-platform](./i5-topic-operations-manager-platform/) — Topic Operations Manager (Platform)
-- [i5-user-reactivation-operations-manager-platform](./i5-user-reactivation-operations-manager-platform/) — User Reactivation Operations Manager (Platform)
+- [content-platform-comment-community-operations-manager-platform](./content-platform-comment-community-operations-manager-platform/) — Comment Community Operations Manager (Platform)
+- [content-platform-group-and-circle-operations-manager-platform](./content-platform-group-and-circle-operations-manager-platform/) — Group and Circle Operations Manager (Platform)
+- [content-platform-koc-core-user-operations-manager-platform](./content-platform-koc-core-user-operations-manager-platform/) — KOC and Core User Operations Manager (Platform)
+- [content-platform-topic-operations-manager-platform](./content-platform-topic-operations-manager-platform/) — Topic Operations Manager (Platform)
+- [content-platform-user-reactivation-operations-manager-platform](./content-platform-user-reactivation-operations-manager-platform/) — User Reactivation Operations Manager (Platform)
 
 ## Notes
 

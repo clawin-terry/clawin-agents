@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "digital-marketing-activation-to-payment-funnel-operator-agency",
+        "default": false,
+        "name": "Activation to Payment Funnel Operator (Agency)",
+        "workspace": "~/.openclaw/agents/digital-marketing-activation-to-payment-funnel-operator-agency/workspace",
+        "agentDir": "~/.openclaw/agents/digital-marketing-activation-to-payment-funnel-operator-agency/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

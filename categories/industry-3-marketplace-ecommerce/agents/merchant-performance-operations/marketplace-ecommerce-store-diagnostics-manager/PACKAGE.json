@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-store-diagnostics-manager",
+    "roleTitle":  "Store Diagnostics Manager",
+    "personaSummary":  "Diagnoses store performance issues so merchants can identify operational gaps and take practical actions to improve marketplace results.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "merchant-performance-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-store-diagnostics-manager",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-store-diagnostics-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-store-diagnostics-manager/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-store-diagnostics-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-store-diagnostics-manager.snippet.json"
+                }
+}

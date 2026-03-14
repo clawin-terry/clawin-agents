@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-head-of-engineering-productivity",
+    "roleTitle":  "Head of Engineering Productivity",
+    "personaSummary":  "Leads engineering productivity strategy so developer workflows, tooling, and delivery systems improve speed, quality, and execution reliability.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "technical-leadership",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-head-of-engineering-productivity",
+                    "workspace":  "~/.openclaw/agents/software-it-head-of-engineering-productivity/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-head-of-engineering-productivity/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-head-of-engineering-productivity.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-head-of-engineering-productivity.snippet.json"
+                }
+}

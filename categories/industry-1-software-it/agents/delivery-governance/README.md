@@ -4,11 +4,11 @@ Install-ready delivery-governance-focused OpenClaw agents for `industry-1-softwa
 
 ## Included agents
 
-- [i1-acceptance-milestone-specialist](./i1-acceptance-milestone-specialist/) — Acceptance and Milestone Specialist
-- [i1-delivery-documentation-administrator](./i1-delivery-documentation-administrator/) — Delivery Documentation Administrator
-- [i1-delivery-pmo-manager](./i1-delivery-pmo-manager/) — Delivery PMO Manager
-- [i1-delivery-quality-manager](./i1-delivery-quality-manager/) — Delivery Quality Manager
-- [i1-delivery-risk-manager](./i1-delivery-risk-manager/) — Delivery Risk Manager
+- [software-it-acceptance-milestone-specialist](./software-it-acceptance-milestone-specialist/) — Acceptance and Milestone Specialist
+- [software-it-delivery-documentation-administrator](./software-it-delivery-documentation-administrator/) — Delivery Documentation Administrator
+- [software-it-delivery-pmo-manager](./software-it-delivery-pmo-manager/) — Delivery PMO Manager
+- [software-it-delivery-quality-manager](./software-it-delivery-quality-manager/) — Delivery Quality Manager
+- [software-it-delivery-risk-manager](./software-it-delivery-risk-manager/) — Delivery Risk Manager
 
 ## Notes
 

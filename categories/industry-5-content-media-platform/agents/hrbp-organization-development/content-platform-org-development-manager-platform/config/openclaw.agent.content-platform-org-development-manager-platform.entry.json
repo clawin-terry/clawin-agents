@@ -1,0 +1,13 @@
+{
+  "id": "content-platform-org-development-manager-platform",
+  "default": false,
+  "name": "Organization Development Manager (Platform)",
+  "workspace": "~/.openclaw/agents/content-platform-org-development-manager-platform/workspace",
+  "agentDir": "~/.openclaw/agents/content-platform-org-development-manager-platform/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

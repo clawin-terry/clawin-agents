@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-supplier-qcd-performance-specialist",
+    "roleTitle":  "Supplier QCD Performance Specialist",
+    "personaSummary":  "Tracks supplier quality, cost, and delivery performance so vendor outcomes are measured consistently and improvement actions are grounded in evidence.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "supplier-management",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-supplier-qcd-performance-specialist",
+                    "workspace":  "~/.openclaw/agents/software-it-supplier-qcd-performance-specialist/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-supplier-qcd-performance-specialist/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-supplier-qcd-performance-specialist.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-supplier-qcd-performance-specialist.snippet.json"
+                }
+}

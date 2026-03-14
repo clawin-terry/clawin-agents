@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "marketplace-ecommerce-intellectual-property-protection-specialist",
+        "default": false,
+        "name": "Intellectual Property Protection Specialist",
+        "workspace": "~/.openclaw/agents/marketplace-ecommerce-intellectual-property-protection-specialist/workspace",
+        "agentDir": "~/.openclaw/agents/marketplace-ecommerce-intellectual-property-protection-specialist/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

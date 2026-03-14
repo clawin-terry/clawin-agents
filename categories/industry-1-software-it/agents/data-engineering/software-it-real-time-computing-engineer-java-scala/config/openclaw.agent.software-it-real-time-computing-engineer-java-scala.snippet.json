@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "software-it-real-time-computing-engineer-java-scala",
+                                    "default":  false,
+                                    "name":  "Real-Time Computing Engineer (Java/Scala)",
+                                    "workspace":  "~/.openclaw/agents/software-it-real-time-computing-engineer-java-scala/workspace",
+                                    "agentDir":  "~/.openclaw/agents/software-it-real-time-computing-engineer-java-scala/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

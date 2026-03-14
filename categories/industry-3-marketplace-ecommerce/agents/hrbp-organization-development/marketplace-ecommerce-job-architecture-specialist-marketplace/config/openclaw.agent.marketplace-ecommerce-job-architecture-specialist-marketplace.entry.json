@@ -1,0 +1,13 @@
+{
+    "id":  "marketplace-ecommerce-job-architecture-specialist-marketplace",
+    "default":  false,
+    "name":  "Job Architecture Specialist (Marketplace)",
+    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-job-architecture-specialist-marketplace/workspace",
+    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-job-architecture-specialist-marketplace/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

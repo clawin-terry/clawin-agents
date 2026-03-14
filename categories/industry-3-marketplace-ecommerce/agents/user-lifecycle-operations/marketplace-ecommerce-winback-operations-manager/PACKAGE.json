@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-winback-operations-manager",
+    "roleTitle":  "Winback Operations Manager",
+    "personaSummary":  "Runs winback programs so inactive users are re-engaged through timely outreach, tailored offers, and marketplace return journeys.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "user-lifecycle-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-winback-operations-manager",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-winback-operations-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-winback-operations-manager/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-winback-operations-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-winback-operations-manager.snippet.json"
+                }
+}

@@ -4,11 +4,11 @@ Install-ready growth-strategy-focused OpenClaw agents for `industry-4-digital-ma
 
 ## Included agents
 
-- [i4-ab-test-planning-specialist-agency](./i4-ab-test-planning-specialist-agency/) — A/B Test Planning Specialist (Agency)
-- [i4-cro-specialist-agency](./i4-cro-specialist-agency/) — Conversion Rate Optimization Specialist (Agency)
-- [i4-growth-strategy-manager-agency](./i4-growth-strategy-manager-agency/) — Growth Strategy Manager (Agency)
-- [i4-head-of-growth-strategy-agency](./i4-head-of-growth-strategy-agency/) — Head of Growth Strategy (Agency)
-- [i4-landing-page-and-funnel-planner-agency](./i4-landing-page-and-funnel-planner-agency/) — Landing Page and Funnel Planner (Agency)
+- [digital-marketing-ab-test-planning-specialist-agency](./digital-marketing-ab-test-planning-specialist-agency/) — A/B Test Planning Specialist (Agency)
+- [digital-marketing-conversion-rate-optimization-specialist-agency](./digital-marketing-conversion-rate-optimization-specialist-agency/) — Conversion Rate Optimization Specialist (Agency)
+- [digital-marketing-growth-strategy-manager-agency](./digital-marketing-growth-strategy-manager-agency/) — Growth Strategy Manager (Agency)
+- [digital-marketing-head-of-growth-strategy-agency](./digital-marketing-head-of-growth-strategy-agency/) — Head of Growth Strategy (Agency)
+- [digital-marketing-landing-page-and-funnel-planner-agency](./digital-marketing-landing-page-and-funnel-planner-agency/) — Landing Page and Funnel Planner (Agency)
 
 ## Notes
 

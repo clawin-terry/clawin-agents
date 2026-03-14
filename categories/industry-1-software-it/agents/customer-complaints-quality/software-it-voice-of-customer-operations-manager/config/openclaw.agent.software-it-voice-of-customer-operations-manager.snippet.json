@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "software-it-voice-of-customer-operations-manager",
+                                    "default":  false,
+                                    "name":  "Voice of Customer Operations Manager",
+                                    "workspace":  "~/.openclaw/agents/software-it-voice-of-customer-operations-manager/workspace",
+                                    "agentDir":  "~/.openclaw/agents/software-it-voice-of-customer-operations-manager/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

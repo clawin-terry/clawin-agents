@@ -4,7 +4,7 @@ Install-ready talent-acquisition-focused OpenClaw agents for `industry-5-content
 
 ## Included agents
 
-- [i5-recruiting-manager-platform](./i5-recruiting-manager-platform/) — Recruiting Manager (Platform)
+- [content-platform-recruiting-manager-platform](./content-platform-recruiting-manager-platform/) — Recruiting Manager (Platform)
 
 ## Notes
 

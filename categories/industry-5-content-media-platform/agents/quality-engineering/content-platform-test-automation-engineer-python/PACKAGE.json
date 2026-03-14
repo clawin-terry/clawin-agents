@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-test-automation-engineer-python",
+    "roleTitle":  "Test Automation Engineer (Python)",
+    "personaSummary":  "Builds Python-based test automation so regression coverage expands and engineering teams get faster confidence in release quality.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "quality-engineering",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-test-automation-engineer-python",
+                    "workspace":  "~/.openclaw/agents/content-platform-test-automation-engineer-python/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-test-automation-engineer-python/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-test-automation-engineer-python.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-test-automation-engineer-python.snippet.json"
+                }
+}

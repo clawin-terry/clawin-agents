@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-innovation-product-lead",
+    "roleTitle":  "Innovation Product Lead",
+    "personaSummary":  "Leads early-stage product exploration to turn new opportunities into testable concepts, validated direction, and credible incubation plans.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "innovation-incubation",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-innovation-product-lead",
+                    "workspace":  "~/.openclaw/agents/software-it-innovation-product-lead/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-innovation-product-lead/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-innovation-product-lead.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-innovation-product-lead.snippet.json"
+                }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-settlement-reconciliation-operations-specialist",
+    "roleTitle":  "Settlement and Reconciliation Operations Specialist",
+    "personaSummary":  "Runs settlement and reconciliation operations to keep billing outcomes, financial records, and commercial workflows accurate and auditable.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "commercial-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-settlement-reconciliation-operations-specialist",
+                    "workspace":  "~/.openclaw/agents/software-it-settlement-reconciliation-operations-specialist/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-settlement-reconciliation-operations-specialist/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-settlement-reconciliation-operations-specialist.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-settlement-reconciliation-operations-specialist.snippet.json"
+                }
+}

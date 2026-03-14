@@ -1,0 +1,13 @@
+{
+  "id": "digital-marketing-proposal-presentation-packaging-specialist-agency",
+  "default": false,
+  "name": "Proposal Presentation Packaging Specialist (Agency)",
+  "workspace": "~/.openclaw/agents/digital-marketing-proposal-presentation-packaging-specialist-agency/workspace",
+  "agentDir": "~/.openclaw/agents/digital-marketing-proposal-presentation-packaging-specialist-agency/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

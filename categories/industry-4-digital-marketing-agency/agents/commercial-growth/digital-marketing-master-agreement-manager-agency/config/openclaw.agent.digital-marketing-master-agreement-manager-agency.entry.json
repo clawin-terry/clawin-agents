@@ -1,0 +1,13 @@
+{
+  "id": "digital-marketing-master-agreement-manager-agency",
+  "default": false,
+  "name": "Master Agreement Manager (Agency)",
+  "workspace": "~/.openclaw/agents/digital-marketing-master-agreement-manager-agency/workspace",
+  "agentDir": "~/.openclaw/agents/digital-marketing-master-agreement-manager-agency/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

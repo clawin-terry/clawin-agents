@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-meetings-and-reception-specialist",
+    "roleTitle":  "Meetings and Reception Specialist",
+    "personaSummary":  "Coordinates meetings and reception workflows so events, guests, and internal logistics are handled with reliable operational support.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "administration",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-meetings-and-reception-specialist",
+                    "workspace":  "~/.openclaw/agents/software-it-meetings-and-reception-specialist/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-meetings-and-reception-specialist/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-meetings-and-reception-specialist.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-meetings-and-reception-specialist.snippet.json"
+                }
+}

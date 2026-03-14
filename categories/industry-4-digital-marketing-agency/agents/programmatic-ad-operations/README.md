@@ -4,10 +4,10 @@ Install-ready programmatic-ad-operations-focused OpenClaw agents for `industry-4
 
 ## Included agents
 
-- [i4-adx-ssp-resource-coordinator-agency](./i4-adx-ssp-resource-coordinator-agency/) — ADX and SSP Resource Coordinator (Agency)
-- [i4-brand-safety-specialist-agency](./i4-brand-safety-specialist-agency/) — Brand Safety Specialist (Agency)
-- [i4-dsp-campaign-manager-agency](./i4-dsp-campaign-manager-agency/) — DSP Campaign Manager (Agency)
-- [i4-frequency-audience-expansion-specialist](./i4-frequency-audience-expansion-specialist/) — Frequency and Audience Expansion Specialist (Agency)
+- [digital-marketing-adx-ssp-resource-coordinator-agency](./digital-marketing-adx-ssp-resource-coordinator-agency/) — ADX and SSP Resource Coordinator (Agency)
+- [digital-marketing-brand-safety-specialist-agency](./digital-marketing-brand-safety-specialist-agency/) — Brand Safety Specialist (Agency)
+- [digital-marketing-dsp-campaign-manager-agency](./digital-marketing-dsp-campaign-manager-agency/) — DSP Campaign Manager (Agency)
+- [digital-marketing-frequency-and-audience-expansion-specialist-agency](./digital-marketing-frequency-and-audience-expansion-specialist-agency/) — Frequency and Audience Expansion Specialist (Agency)
 
 ## Notes
 

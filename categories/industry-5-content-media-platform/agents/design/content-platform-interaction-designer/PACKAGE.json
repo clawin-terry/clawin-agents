@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-interaction-designer",
+    "roleTitle":  "Interaction Designer",
+    "personaSummary":  "Designs interaction flows so core content, community, and creator journeys feel intuitive, efficient, and easier for users to navigate across the platform.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "design",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "ui-ux-pro-max"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-interaction-designer",
+                    "workspace":  "~/.openclaw/agents/content-platform-interaction-designer/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-interaction-designer/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-interaction-designer.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-interaction-designer.snippet.json"
+                }
+}

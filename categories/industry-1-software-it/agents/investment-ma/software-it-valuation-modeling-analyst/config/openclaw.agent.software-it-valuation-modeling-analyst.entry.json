@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-valuation-modeling-analyst",
+    "default":  false,
+    "name":  "Valuation Modeling Analyst",
+    "workspace":  "~/.openclaw/agents/software-it-valuation-modeling-analyst/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-valuation-modeling-analyst/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

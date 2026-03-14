@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-strategy-execution-pm",
+    "default":  false,
+    "name":  "Strategy Execution PM (OKR / Annual Planning)",
+    "workspace":  "~/.openclaw/agents/software-it-strategy-execution-pm/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-strategy-execution-pm/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

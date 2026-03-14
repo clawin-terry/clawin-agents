@@ -4,8 +4,8 @@ Install-ready tax-treasury-focused OpenClaw agents for `industry-5-content-media
 
 ## Included agents
 
-- [i5-tax-manager-platform](./i5-tax-manager-platform/) — Tax Manager (Platform)
-- [i5-treasury-manager-platform](./i5-treasury-manager-platform/) — Treasury Manager (Platform)
+- [content-platform-tax-manager-platform](./content-platform-tax-manager-platform/) — Tax Manager (Platform)
+- [content-platform-treasury-manager-platform](./content-platform-treasury-manager-platform/) — Treasury Manager (Platform)
 
 ## Notes
 

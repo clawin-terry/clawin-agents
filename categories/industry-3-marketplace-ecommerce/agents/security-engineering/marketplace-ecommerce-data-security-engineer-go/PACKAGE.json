@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-data-security-engineer-go",
+    "roleTitle":  "Data Security Engineer (Go)",
+    "personaSummary":  "Builds data security controls with Go so marketplace data access, transport, and storage protections remain enforceable and scalable.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "security-engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "healthcheck"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-data-security-engineer-go",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-data-security-engineer-go/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-data-security-engineer-go/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-data-security-engineer-go.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-data-security-engineer-go.snippet.json"
+                }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-ip-complaints-specialist-marketplace",
+    "roleTitle":  "IP Complaints Specialist (Marketplace)",
+    "personaSummary":  "Handles marketplace IP complaints so rights-holder claims are reviewed consistently and platform enforcement actions are evidence-based.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "legal",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-ip-complaints-specialist-marketplace",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-ip-complaints-specialist-marketplace/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-ip-complaints-specialist-marketplace/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-ip-complaints-specialist-marketplace.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-ip-complaints-specialist-marketplace.snippet.json"
+                }
+}

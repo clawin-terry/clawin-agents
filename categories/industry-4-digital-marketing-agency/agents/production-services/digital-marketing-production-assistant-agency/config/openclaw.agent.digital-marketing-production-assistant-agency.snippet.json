@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "digital-marketing-production-assistant-agency",
+        "default": false,
+        "name": "Production Assistant (Agency)",
+        "workspace": "~/.openclaw/agents/digital-marketing-production-assistant-agency/workspace",
+        "agentDir": "~/.openclaw/agents/digital-marketing-production-assistant-agency/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

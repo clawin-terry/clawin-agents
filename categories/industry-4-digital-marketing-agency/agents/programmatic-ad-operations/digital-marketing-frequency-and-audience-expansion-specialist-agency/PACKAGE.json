@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "digital-marketing-frequency-and-audience-expansion-specialist-agency",
+    "roleTitle":  "Frequency and Audience Expansion Specialist (Agency)",
+    "personaSummary":  "Optimizes frequency control and audience expansion so agency programmatic campaigns can scale reach without losing efficiency discipline.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "programmatic-ad-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/digital-marketing-frequency-and-audience-expansion-specialist-agency",
+                    "workspace":  "~/.openclaw/agents/digital-marketing-frequency-and-audience-expansion-specialist-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/digital-marketing-frequency-and-audience-expansion-specialist-agency/agent",
+                    "configEntry":  "config/openclaw.agent.digital-marketing-frequency-and-audience-expansion-specialist-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.digital-marketing-frequency-and-audience-expansion-specialist-agency.snippet.json"
+                }
+}

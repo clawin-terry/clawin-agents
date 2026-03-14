@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "digital-marketing-administration-manager-agency",
+    "roleTitle":  "Administration Manager (Agency)",
+    "personaSummary":  "Leads agency administration so workplace services, office coordination, and daily support workflows stay orderly, responsive, and cost-aware.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "administration",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/digital-marketing-administration-manager-agency",
+                    "workspace":  "~/.openclaw/agents/digital-marketing-administration-manager-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/digital-marketing-administration-manager-agency/agent",
+                    "configEntry":  "config/openclaw.agent.digital-marketing-administration-manager-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.digital-marketing-administration-manager-agency.snippet.json"
+                }
+}

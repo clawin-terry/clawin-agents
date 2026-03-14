@@ -4,10 +4,10 @@ Install-ready solution-assets-focused OpenClaw agents for `industry-1-software-i
 
 ## Included agents
 
-- [i1-case-asset-operations-specialist](./i1-case-asset-operations-specialist/) — Case Asset Operations Specialist
-- [i1-demo-engineer-js-ts](./i1-demo-engineer-js-ts/) — Demo Engineer (JS/TS)
-- [i1-solution-documentation-manager](./i1-solution-documentation-manager/) — Solution Documentation Manager
-- [i1-solution-toolchain-administrator](./i1-solution-toolchain-administrator/) — Solution Toolchain Administrator
+- [software-it-case-asset-operations-specialist](./software-it-case-asset-operations-specialist/) — Case Asset Operations Specialist
+- [software-it-demo-engineer-js-ts](./software-it-demo-engineer-js-ts/) — Demo Engineer (JS/TS)
+- [software-it-solution-documentation-manager](./software-it-solution-documentation-manager/) — Solution Documentation Manager
+- [software-it-solution-toolchain-administrator](./software-it-solution-toolchain-administrator/) — Solution Toolchain Administrator
 
 ## Notes
 

@@ -4,11 +4,11 @@ Install-ready production-services-focused OpenClaw agents for `industry-4-digita
 
 ## Included agents
 
-- [i4-lighting-technician-agency](./i4-lighting-technician-agency/) — Lighting Technician (Agency)
-- [i4-line-producer-and-production-coordinator-agency](./i4-line-producer-and-production-coordinator-agency/) — Line Producer and Production Coordinator (Agency)
-- [i4-outsourced-production-vendor-manager-agency](./i4-outsourced-production-vendor-manager-agency/) — Outsourced Production Vendor Manager (Agency)
-- [i4-photographer-agency](./i4-photographer-agency/) — Photographer (Agency)
-- [i4-production-assistant-agency](./i4-production-assistant-agency/) — Production Assistant (Agency)
+- [digital-marketing-lighting-technician-agency](./digital-marketing-lighting-technician-agency/) — Lighting Technician (Agency)
+- [digital-marketing-line-producer-and-production-coordinator-agency](./digital-marketing-line-producer-and-production-coordinator-agency/) — Line Producer and Production Coordinator (Agency)
+- [digital-marketing-outsourced-production-vendor-manager-agency](./digital-marketing-outsourced-production-vendor-manager-agency/) — Outsourced Production Vendor Manager (Agency)
+- [digital-marketing-photographer-agency](./digital-marketing-photographer-agency/) — Photographer (Agency)
+- [digital-marketing-production-assistant-agency](./digital-marketing-production-assistant-agency/) — Production Assistant (Agency)
 
 ## Notes
 

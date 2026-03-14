@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "digital-marketing-xiaohongshu-ads-specialist-agency",
+    "roleTitle":  "Xiaohongshu Ads Specialist (Agency)",
+    "personaSummary":  "Runs Xiaohongshu advertising so agency teams can coordinate information-feed and creator-collaboration execution with clearer campaign control.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "channel-ad-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/digital-marketing-xiaohongshu-ads-specialist-agency",
+                    "workspace":  "~/.openclaw/agents/digital-marketing-xiaohongshu-ads-specialist-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/digital-marketing-xiaohongshu-ads-specialist-agency/agent",
+                    "configEntry":  "config/openclaw.agent.digital-marketing-xiaohongshu-ads-specialist-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.digital-marketing-xiaohongshu-ads-specialist-agency.snippet.json"
+                }
+}

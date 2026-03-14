@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-brand-visual-designer",
+    "default":  false,
+    "name":  "Brand Visual Designer",
+    "workspace":  "~/.openclaw/agents/software-it-brand-visual-designer/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-brand-visual-designer/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

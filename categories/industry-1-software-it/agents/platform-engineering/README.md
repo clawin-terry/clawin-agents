@@ -4,14 +4,14 @@ Install-ready platform-engineering-focused OpenClaw agents for `industry-1-softw
 
 ## Included agents
 
-- [i1-cloud-resource-orchestration-engineer-python](./i1-cloud-resource-orchestration-engineer-python/) — Cloud Resource Orchestration Engineer (Python)
-- [i1-configuration-management-engineer-java-go](./i1-configuration-management-engineer-java-go/) — Configuration Management Engineer (Java/Go)
-- [i1-container-image-platform-engineer-go-python](./i1-container-image-platform-engineer-go-python/) — Container Image Platform Engineer (Go/Python)
-- [i1-job-scheduling-engineer-java](./i1-job-scheduling-engineer-java/) — Job Scheduling Engineer (Java)
-- [i1-kubernetes-platform-engineer-go](./i1-kubernetes-platform-engineer-go/) — Kubernetes Platform Engineer (Go)
-- [i1-platform-architect-java-go](./i1-platform-architect-java-go/) — Platform Architect (Java/Go)
-- [i1-service-governance-engineer-go-java](./i1-service-governance-engineer-go-java/) — Service Governance Engineer (Go/Java)
-- [i1-service-mesh-engineer-go](./i1-service-mesh-engineer-go/) — Service Mesh Engineer (Go)
+- [software-it-cloud-resource-orchestration-engineer-python](./software-it-cloud-resource-orchestration-engineer-python/) — Cloud Resource Orchestration Engineer (Python)
+- [software-it-configuration-management-engineer-java-go](./software-it-configuration-management-engineer-java-go/) — Configuration Management Engineer (Java/Go)
+- [software-it-container-image-platform-engineer-go-python](./software-it-container-image-platform-engineer-go-python/) — Container Image Platform Engineer (Go/Python)
+- [software-it-job-scheduling-engineer-java](./software-it-job-scheduling-engineer-java/) — Job Scheduling Engineer (Java)
+- [software-it-kubernetes-platform-engineer-go](./software-it-kubernetes-platform-engineer-go/) — Kubernetes Platform Engineer (Go)
+- [software-it-platform-architect-java-go](./software-it-platform-architect-java-go/) — Platform Architect (Java/Go)
+- [software-it-service-governance-engineer-go-java](./software-it-service-governance-engineer-go-java/) — Service Governance Engineer (Go/Java)
+- [software-it-service-mesh-engineer-go](./software-it-service-mesh-engineer-go/) — Service Mesh Engineer (Go)
 
 ## Notes
 

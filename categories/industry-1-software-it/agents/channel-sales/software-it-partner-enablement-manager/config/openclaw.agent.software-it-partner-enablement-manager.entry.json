@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-partner-enablement-manager",
+    "default":  false,
+    "name":  "Partner Enablement Manager",
+    "workspace":  "~/.openclaw/agents/software-it-partner-enablement-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-partner-enablement-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

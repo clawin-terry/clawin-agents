@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-security-policy-and-standards-specialist",
+    "roleTitle":  "Security Policy and Standards Specialist",
+    "personaSummary":  "Maintains security policies and standards so control expectations remain current, understandable, and enforceable across the organization.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "security-governance",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "healthcheck"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-security-policy-and-standards-specialist",
+                    "workspace":  "~/.openclaw/agents/software-it-security-policy-and-standards-specialist/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-security-policy-and-standards-specialist/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-security-policy-and-standards-specialist.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-security-policy-and-standards-specialist.snippet.json"
+                }
+}

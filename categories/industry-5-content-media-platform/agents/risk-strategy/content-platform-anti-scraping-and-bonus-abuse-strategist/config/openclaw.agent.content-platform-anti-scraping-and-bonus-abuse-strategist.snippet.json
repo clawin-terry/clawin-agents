@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "content-platform-anti-scraping-and-bonus-abuse-strategist",
+                                    "default":  false,
+                                    "name":  "Anti-Scraping and Bonus Abuse Strategist",
+                                    "workspace":  "~/.openclaw/agents/content-platform-anti-scraping-and-bonus-abuse-strategist/workspace",
+                                    "agentDir":  "~/.openclaw/agents/content-platform-anti-scraping-and-bonus-abuse-strategist/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

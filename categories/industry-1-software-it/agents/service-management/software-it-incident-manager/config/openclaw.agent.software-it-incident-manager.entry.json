@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-incident-manager",
+    "default":  false,
+    "name":  "Incident Manager",
+    "workspace":  "~/.openclaw/agents/software-it-incident-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-incident-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

@@ -4,10 +4,10 @@ Install-ready merchant-service-operations-focused OpenClaw agents for `industry-
 
 ## Included agents
 
-- [i3-knowledge-base-operations-manager](./i3-knowledge-base-operations-manager/) — Knowledge Base Operations Manager
-- [i3-merchant-service-desk-specialist](./i3-merchant-service-desk-specialist/) — Merchant Service Desk Specialist
-- [i3-service-sla-manager](./i3-service-sla-manager/) — Service SLA Manager
-- [i3-ticket-operations-manager](./i3-ticket-operations-manager/) — Ticket Operations Manager
+- [marketplace-ecommerce-knowledge-base-operations-manager](./marketplace-ecommerce-knowledge-base-operations-manager/) — Knowledge Base Operations Manager
+- [marketplace-ecommerce-merchant-service-desk-specialist](./marketplace-ecommerce-merchant-service-desk-specialist/) — Merchant Service Desk Specialist
+- [marketplace-ecommerce-service-sla-manager](./marketplace-ecommerce-service-sla-manager/) — Service SLA Manager
+- [marketplace-ecommerce-ticket-operations-manager](./marketplace-ecommerce-ticket-operations-manager/) — Ticket Operations Manager
 
 ## Notes
 

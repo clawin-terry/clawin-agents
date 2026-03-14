@@ -4,10 +4,10 @@ Install-ready platform-engineering-focused OpenClaw agents for `industry-5-conte
 
 ## Included agents
 
-- [i5-performance-cost-optimization-manager-finops](./i5-performance-cost-optimization-manager-finops/) — Performance and Cost Optimization Manager (FinOps)
-- [i5-platform-architect](./i5-platform-architect/) — Platform Architect
-- [i5-technical-debt-governance-manager](./i5-technical-debt-governance-manager/) — Technical Debt Governance Manager
-- [i5-technical-standards-and-code-quality-manager](./i5-technical-standards-and-code-quality-manager/) — Technical Standards and Code Quality Manager
+- [content-platform-performance-cost-optimization-manager-finops](./content-platform-performance-cost-optimization-manager-finops/) — Performance and Cost Optimization Manager (FinOps)
+- [content-platform-platform-architect](./content-platform-platform-architect/) — Platform Architect
+- [content-platform-technical-debt-governance-manager](./content-platform-technical-debt-governance-manager/) — Technical Debt Governance Manager
+- [content-platform-technical-standards-and-code-quality-manager](./content-platform-technical-standards-and-code-quality-manager/) — Technical Standards and Code Quality Manager
 
 ## Notes
 

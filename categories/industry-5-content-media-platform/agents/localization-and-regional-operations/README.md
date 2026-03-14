@@ -4,10 +4,10 @@ Install-ready localization-and-regional-operations-focused OpenClaw agents for `
 
 ## Included agents
 
-- [i5-country-site-operations-manager-platform](./i5-country-site-operations-manager-platform/) — Country Site Operations Manager (Platform)
-- [i5-cross-cultural-rules-localization-manager-platform](./i5-cross-cultural-rules-localization-manager-platform/) — Cross-Cultural Rules Localization Manager (Platform)
-- [i5-local-trends-operations-manager-platform](./i5-local-trends-operations-manager-platform/) — Local Trends Operations Manager (Platform)
-- [i5-multilingual-content-strategy-manager-platform](./i5-multilingual-content-strategy-manager-platform/) — Multilingual Content Strategy Manager (Platform)
+- [content-platform-country-site-operations-manager-platform](./content-platform-country-site-operations-manager-platform/) — Country Site Operations Manager (Platform)
+- [content-platform-cross-cultural-rules-localization-manager-platform](./content-platform-cross-cultural-rules-localization-manager-platform/) — Cross-Cultural Rules Localization Manager (Platform)
+- [content-platform-local-trends-operations-manager-platform](./content-platform-local-trends-operations-manager-platform/) — Local Trends Operations Manager (Platform)
+- [content-platform-multilingual-content-strategy-manager-platform](./content-platform-multilingual-content-strategy-manager-platform/) — Multilingual Content Strategy Manager (Platform)
 
 ## Notes
 

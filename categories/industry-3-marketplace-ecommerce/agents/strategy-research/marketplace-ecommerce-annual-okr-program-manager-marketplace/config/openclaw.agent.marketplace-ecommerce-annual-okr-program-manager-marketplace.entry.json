@@ -1,0 +1,13 @@
+{
+  "id": "marketplace-ecommerce-annual-okr-program-manager-marketplace",
+  "default": false,
+  "name": "Annual OKR Program Manager (Marketplace)",
+  "workspace": "~/.openclaw/agents/marketplace-ecommerce-annual-okr-program-manager-marketplace/workspace",
+  "agentDir": "~/.openclaw/agents/marketplace-ecommerce-annual-okr-program-manager-marketplace/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-inspection-and-sampling-specialist",
+    "roleTitle":  "Inspection and Sampling Specialist",
+    "personaSummary":  "Performs inspection and sampling work so policy compliance is spot-checked and emerging governance issues are surfaced early.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "platform-governance-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-inspection-and-sampling-specialist",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-inspection-and-sampling-specialist/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-inspection-and-sampling-specialist/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-inspection-and-sampling-specialist.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-inspection-and-sampling-specialist.snippet.json"
+                }
+}

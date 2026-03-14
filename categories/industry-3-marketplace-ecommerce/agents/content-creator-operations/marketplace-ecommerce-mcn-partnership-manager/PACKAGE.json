@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-mcn-partnership-manager",
+    "roleTitle":  "MCN Partnership Manager",
+    "personaSummary":  "Manages MCN partnerships so marketplace creator networks, collaboration terms, and operating expectations support scalable content supply.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "content-creator-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-mcn-partnership-manager",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-mcn-partnership-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-mcn-partnership-manager/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-mcn-partnership-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-mcn-partnership-manager.snippet.json"
+                }
+}

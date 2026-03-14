@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-product-director",
+    "roleTitle":  "Product Director",
+    "personaSummary":  "Leads product planning, team execution, and prioritization so multiple product lines move with clear strategy and disciplined delivery.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "product-management",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-product-director",
+                    "workspace":  "~/.openclaw/agents/software-it-product-director/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-product-director/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-product-director.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-product-director.snippet.json"
+                }
+}

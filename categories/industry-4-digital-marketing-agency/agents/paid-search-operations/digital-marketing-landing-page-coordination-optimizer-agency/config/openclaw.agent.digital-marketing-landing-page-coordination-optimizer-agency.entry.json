@@ -1,0 +1,13 @@
+{
+  "id": "digital-marketing-landing-page-coordination-optimizer-agency",
+  "default": false,
+  "name": "Landing Page Coordination Optimizer (Agency)",
+  "workspace": "~/.openclaw/agents/digital-marketing-landing-page-coordination-optimizer-agency/workspace",
+  "agentDir": "~/.openclaw/agents/digital-marketing-landing-page-coordination-optimizer-agency/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

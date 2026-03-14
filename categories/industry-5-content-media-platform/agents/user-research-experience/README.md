@@ -4,8 +4,8 @@ Install-ready user-research-experience-focused OpenClaw agents for `industry-5-c
 
 ## Included agents
 
-- [i5-usability-testing-specialist](./i5-usability-testing-specialist/) — Usability Testing Specialist
-- [i5-user-researcher](./i5-user-researcher/) — User Researcher
+- [content-platform-usability-testing-specialist](./content-platform-usability-testing-specialist/) — Usability Testing Specialist
+- [content-platform-user-researcher](./content-platform-user-researcher/) — User Researcher
 
 ## Notes
 

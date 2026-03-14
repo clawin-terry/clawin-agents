@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "digital-marketing-insights-researcher",
+        "default": false,
+        "name": "Insights Researcher",
+        "workspace": "~/.openclaw/agents/digital-marketing-insights-researcher/workspace",
+        "agentDir": "~/.openclaw/agents/digital-marketing-insights-researcher/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

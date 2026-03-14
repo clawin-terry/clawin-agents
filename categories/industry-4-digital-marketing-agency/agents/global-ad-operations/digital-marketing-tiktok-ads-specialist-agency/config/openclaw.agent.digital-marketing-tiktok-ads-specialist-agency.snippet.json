@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "digital-marketing-tiktok-ads-specialist-agency",
+        "default": false,
+        "name": "TikTok Ads Specialist (Agency)",
+        "workspace": "~/.openclaw/agents/digital-marketing-tiktok-ads-specialist-agency/workspace",
+        "agentDir": "~/.openclaw/agents/digital-marketing-tiktok-ads-specialist-agency/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

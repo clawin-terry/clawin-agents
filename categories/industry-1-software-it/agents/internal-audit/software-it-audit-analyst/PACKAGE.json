@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-audit-analyst",
+    "roleTitle":  "Audit Analyst",
+    "personaSummary":  "Supports audit planning, fieldwork, and reporting so evidence is analyzed systematically and findings are documented with clarity and traceability.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "internal-audit",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-audit-analyst",
+                    "workspace":  "~/.openclaw/agents/software-it-audit-analyst/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-audit-analyst/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-audit-analyst.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-audit-analyst.snippet.json"
+                }
+}

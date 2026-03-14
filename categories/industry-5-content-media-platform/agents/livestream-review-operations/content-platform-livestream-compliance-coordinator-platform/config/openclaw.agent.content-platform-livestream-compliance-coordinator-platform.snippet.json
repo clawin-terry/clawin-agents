@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "content-platform-livestream-compliance-coordinator-platform",
+        "default": false,
+        "name": "Livestream Compliance Coordinator (Platform)",
+        "workspace": "~/.openclaw/agents/content-platform-livestream-compliance-coordinator-platform/workspace",
+        "agentDir": "~/.openclaw/agents/content-platform-livestream-compliance-coordinator-platform/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

@@ -4,11 +4,11 @@ Install-ready product-marketing-focused OpenClaw agents for `industry-1-software
 
 ## Included agents
 
-- [i1-case-study-white-paper-manager](./i1-case-study-white-paper-manager/) — Case Study and White Paper Manager
-- [i1-competitive-pricing-analyst](./i1-competitive-pricing-analyst/) — Competitive and Pricing Analyst
-- [i1-industry-solutions-marketing-manager](./i1-industry-solutions-marketing-manager/) — Industry Solutions Marketing Manager
-- [i1-product-marketing-director](./i1-product-marketing-director/) — Product Marketing Director
-- [i1-sales-enablement-manager](./i1-sales-enablement-manager/) — Sales Enablement Manager
+- [software-it-case-study-white-paper-manager](./software-it-case-study-white-paper-manager/) — Case Study and White Paper Manager
+- [software-it-competitive-pricing-analyst](./software-it-competitive-pricing-analyst/) — Competitive and Pricing Analyst
+- [software-it-industry-solutions-marketing-manager](./software-it-industry-solutions-marketing-manager/) — Industry Solutions Marketing Manager
+- [software-it-product-marketing-director](./software-it-product-marketing-director/) — Product Marketing Director
+- [software-it-sales-enablement-manager](./software-it-sales-enablement-manager/) — Sales Enablement Manager
 
 ## Notes
 

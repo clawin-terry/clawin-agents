@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-member-campaign-operations-manager",
+    "roleTitle":  "Member Campaign Operations Manager",
+    "personaSummary":  "Runs member campaign operations so loyalty promotions, retention moments, and exclusive user programs deliver stronger marketplace engagement.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "membership-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-member-campaign-operations-manager",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-member-campaign-operations-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-member-campaign-operations-manager/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-member-campaign-operations-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-member-campaign-operations-manager.snippet.json"
+                }
+}

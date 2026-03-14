@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "content-platform-low-quality-content-governance-manager-platform",
+        "default": false,
+        "name": "Low-Quality Content Governance Manager (Platform)",
+        "workspace": "~/.openclaw/agents/content-platform-low-quality-content-governance-manager-platform/workspace",
+        "agentDir": "~/.openclaw/agents/content-platform-low-quality-content-governance-manager-platform/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

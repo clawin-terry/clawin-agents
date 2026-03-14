@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "digital-marketing-helpdesk-specialist-agency",
+        "default": false,
+        "name": "Helpdesk Specialist (Agency)",
+        "workspace": "~/.openclaw/agents/digital-marketing-helpdesk-specialist-agency/workspace",
+        "agentDir": "~/.openclaw/agents/digital-marketing-helpdesk-specialist-agency/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

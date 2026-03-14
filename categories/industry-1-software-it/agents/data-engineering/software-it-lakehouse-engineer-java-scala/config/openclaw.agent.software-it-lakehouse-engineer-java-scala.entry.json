@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-lakehouse-engineer-java-scala",
+    "default":  false,
+    "name":  "Lakehouse Engineer (Java/Scala)",
+    "workspace":  "~/.openclaw/agents/software-it-lakehouse-engineer-java-scala/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-lakehouse-engineer-java-scala/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

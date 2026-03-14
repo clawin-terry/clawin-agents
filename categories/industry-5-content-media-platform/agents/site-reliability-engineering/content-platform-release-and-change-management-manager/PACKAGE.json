@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-release-and-change-management-manager",
+    "roleTitle":  "Release and Change Management Manager",
+    "personaSummary":  "Leads release and change management so production changes move with stronger risk controls, rollback readiness, and cross-team operational coordination.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "site-reliability-engineering",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "healthcheck"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-release-and-change-management-manager",
+                    "workspace":  "~/.openclaw/agents/content-platform-release-and-change-management-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-release-and-change-management-manager/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-release-and-change-management-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-release-and-change-management-manager.snippet.json"
+                }
+}

@@ -4,10 +4,10 @@ Install-ready media-strategy-focused OpenClaw agents for `industry-4-digital-mar
 
 ## Included agents
 
-- [i4-audience-strategy-specialist-agency](./i4-audience-strategy-specialist-agency/) — Audience Strategy Specialist (Agency)
-- [i4-budget-allocation-and-pacing-planner-agency](./i4-budget-allocation-and-pacing-planner-agency/) — Budget Allocation and Pacing Planner (Agency)
-- [i4-channel-mix-strategist-agency](./i4-channel-mix-strategist-agency/) — Channel Mix Strategist (Agency)
-- [i4-media-strategy-director-agency](./i4-media-strategy-director-agency/) — Media Strategy Director (Agency)
+- [digital-marketing-audience-strategy-specialist-agency](./digital-marketing-audience-strategy-specialist-agency/) — Audience Strategy Specialist (Agency)
+- [digital-marketing-budget-allocation-and-pacing-planner-agency](./digital-marketing-budget-allocation-and-pacing-planner-agency/) — Budget Allocation and Pacing Planner (Agency)
+- [digital-marketing-channel-mix-strategist-agency](./digital-marketing-channel-mix-strategist-agency/) — Channel Mix Strategist (Agency)
+- [digital-marketing-media-strategy-director-agency](./digital-marketing-media-strategy-director-agency/) — Media Strategy Director (Agency)
 
 ## Notes
 

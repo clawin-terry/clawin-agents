@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "software-it-accounts-receivable-accountant",
+                                    "default":  false,
+                                    "name":  "Accounts Receivable Accountant",
+                                    "workspace":  "~/.openclaw/agents/software-it-accounts-receivable-accountant/workspace",
+                                    "agentDir":  "~/.openclaw/agents/software-it-accounts-receivable-accountant/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

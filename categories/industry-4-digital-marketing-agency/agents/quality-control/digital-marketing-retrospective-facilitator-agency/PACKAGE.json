@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "digital-marketing-retrospective-facilitator-agency",
+    "roleTitle":  "Retrospective Facilitator (Agency)",
+    "personaSummary":  "Facilitates retrospectives so agency teams can convert campaign outcomes, delivery issues, and process lessons into actionable improvements.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "quality-control",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/digital-marketing-retrospective-facilitator-agency",
+                    "workspace":  "~/.openclaw/agents/digital-marketing-retrospective-facilitator-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/digital-marketing-retrospective-facilitator-agency/agent",
+                    "configEntry":  "config/openclaw.agent.digital-marketing-retrospective-facilitator-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.digital-marketing-retrospective-facilitator-agency.snippet.json"
+                }
+}

@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "software-it-ticket-dispatch-specialist",
+                                    "default":  false,
+                                    "name":  "Ticket Dispatch Specialist",
+                                    "workspace":  "~/.openclaw/agents/software-it-ticket-dispatch-specialist/workspace",
+                                    "agentDir":  "~/.openclaw/agents/software-it-ticket-dispatch-specialist/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

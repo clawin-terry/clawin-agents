@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-event-instrumentation-governance-engineer",
+    "roleTitle":  "Event Instrumentation Governance Engineer",
+    "personaSummary":  "Builds instrumentation governance workflows so event tracking standards, data quality, and analytics trust remain consistent across product surfaces.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "data-engineering",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-event-instrumentation-governance-engineer",
+                    "workspace":  "~/.openclaw/agents/content-platform-event-instrumentation-governance-engineer/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-event-instrumentation-governance-engineer/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-event-instrumentation-governance-engineer.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-event-instrumentation-governance-engineer.snippet.json"
+                }
+}

@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "digital-marketing-public-relations-manager-agency",
+    "roleTitle":  "Public Relations Manager (Agency)",
+    "personaSummary":  "Manages public relations programs so media outreach, reputation support, and communications timing remain coordinated and credible.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "market-growth",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "clawin-media-performance-systems"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/digital-marketing-public-relations-manager-agency",
+                    "workspace":  "~/.openclaw/agents/digital-marketing-public-relations-manager-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/digital-marketing-public-relations-manager-agency/agent",
+                    "configEntry":  "config/openclaw.agent.digital-marketing-public-relations-manager-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.digital-marketing-public-relations-manager-agency.snippet.json"
+                }
+}

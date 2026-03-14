@@ -1,0 +1,13 @@
+{
+  "id": "digital-marketing-budget-and-bidding-strategy-researcher-python",
+  "default": false,
+  "name": "Budget and Bidding Strategy Researcher (Python)",
+  "workspace": "~/.openclaw/agents/digital-marketing-budget-and-bidding-strategy-researcher-python/workspace",
+  "agentDir": "~/.openclaw/agents/digital-marketing-budget-and-bidding-strategy-researcher-python/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

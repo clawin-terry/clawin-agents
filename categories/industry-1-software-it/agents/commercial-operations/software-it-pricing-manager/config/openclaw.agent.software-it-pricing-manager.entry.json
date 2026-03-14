@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-pricing-manager",
+    "default":  false,
+    "name":  "Pricing Manager",
+    "workspace":  "~/.openclaw/agents/software-it-pricing-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-pricing-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

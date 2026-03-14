@@ -1,0 +1,13 @@
+{
+    "id":  "marketplace-ecommerce-channel-operations-manager",
+    "default":  false,
+    "name":  "Channel Operations Manager",
+    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-channel-operations-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-channel-operations-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

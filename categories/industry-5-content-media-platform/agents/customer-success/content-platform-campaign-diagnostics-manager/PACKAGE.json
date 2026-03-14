@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-campaign-diagnostics-manager",
+    "roleTitle":  "Campaign Diagnostics Manager",
+    "personaSummary":  "Diagnoses advertiser campaign issues so delivery gaps, performance blockers, and setup problems can be identified and corrected faster.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "customer-success",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-campaign-diagnostics-manager",
+                    "workspace":  "~/.openclaw/agents/content-platform-campaign-diagnostics-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-campaign-diagnostics-manager/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-campaign-diagnostics-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-campaign-diagnostics-manager.snippet.json"
+                }
+}

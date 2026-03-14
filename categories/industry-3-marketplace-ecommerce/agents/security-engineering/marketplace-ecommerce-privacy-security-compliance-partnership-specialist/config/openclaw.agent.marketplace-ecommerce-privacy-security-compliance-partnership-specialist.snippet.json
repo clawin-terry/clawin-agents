@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "marketplace-ecommerce-privacy-security-compliance-partnership-specialist",
+        "default": false,
+        "name": "Privacy Security Compliance Partnership Specialist",
+        "workspace": "~/.openclaw/agents/marketplace-ecommerce-privacy-security-compliance-partnership-specialist/workspace",
+        "agentDir": "~/.openclaw/agents/marketplace-ecommerce-privacy-security-compliance-partnership-specialist/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

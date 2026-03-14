@@ -1,0 +1,13 @@
+{
+    "id":  "marketplace-ecommerce-copyright-and-trademark-specialist-marketplace",
+    "default":  false,
+    "name":  "Copyright and Trademark Specialist (Marketplace)",
+    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-copyright-and-trademark-specialist-marketplace/workspace",
+    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-copyright-and-trademark-specialist-marketplace/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

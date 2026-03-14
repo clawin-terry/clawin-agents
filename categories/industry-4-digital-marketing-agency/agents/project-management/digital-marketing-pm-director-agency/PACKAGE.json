@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "digital-marketing-pm-director-agency",
+    "roleTitle":  "Project Management Director (Agency)",
+    "personaSummary":  "Leads project management practices so agency delivery governance, staffing, and execution quality remain consistent across programs.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "project-management",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/digital-marketing-pm-director-agency",
+                    "workspace":  "~/.openclaw/agents/digital-marketing-pm-director-agency/workspace",
+                    "agentDir":  "~/.openclaw/agents/digital-marketing-pm-director-agency/agent",
+                    "configEntry":  "config/openclaw.agent.digital-marketing-pm-director-agency.entry.json",
+                    "configSnippet":  "config/openclaw.agent.digital-marketing-pm-director-agency.snippet.json"
+                }
+}

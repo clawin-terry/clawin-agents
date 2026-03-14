@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "digital-marketing-account-manager-agency",
+        "default": false,
+        "name": "Account Manager (Agency)",
+        "workspace": "~/.openclaw/agents/digital-marketing-account-manager-agency/workspace",
+        "agentDir": "~/.openclaw/agents/digital-marketing-account-manager-agency/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

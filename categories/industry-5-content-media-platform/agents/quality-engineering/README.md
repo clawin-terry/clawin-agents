@@ -4,10 +4,10 @@ Install-ready quality-engineering-focused OpenClaw agents for `industry-5-conten
 
 ## Included agents
 
-- [i5-functional-test-engineer](./i5-functional-test-engineer/) — Functional Test Engineer
-- [i5-online-quality-and-stability-manager](./i5-online-quality-and-stability-manager/) — Online Quality and Stability Manager
-- [i5-performance-test-engineer](./i5-performance-test-engineer/) — Performance Test Engineer
-- [i5-test-automation-engineer-python](./i5-test-automation-engineer-python/) — Test Automation Engineer (Python)
+- [content-platform-functional-test-engineer](./content-platform-functional-test-engineer/) — Functional Test Engineer
+- [content-platform-online-quality-and-stability-manager](./content-platform-online-quality-and-stability-manager/) — Online Quality and Stability Manager
+- [content-platform-performance-test-engineer](./content-platform-performance-test-engineer/) — Performance Test Engineer
+- [content-platform-test-automation-engineer-python](./content-platform-test-automation-engineer-python/) — Test Automation Engineer (Python)
 
 ## Notes
 

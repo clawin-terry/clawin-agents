@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "digital-marketing-integration-engineer-java",
+        "default": false,
+        "name": "Integration Engineer (Java)",
+        "workspace": "~/.openclaw/agents/digital-marketing-integration-engineer-java/workspace",
+        "agentDir": "~/.openclaw/agents/digital-marketing-integration-engineer-java/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

@@ -4,11 +4,11 @@ Install-ready finance-shared-services-focused OpenClaw agents for `industry-1-so
 
 ## Included agents
 
-- [i1-expense-control-product-operations-manager](./i1-expense-control-product-operations-manager/) — Expense Control Product and Operations Manager
-- [i1-expense-review-specialist](./i1-expense-review-specialist/) — Expense Review Specialist
-- [i1-finance-systems-administrator](./i1-finance-systems-administrator/) — Finance Systems Administrator
-- [i1-invoice-management-specialist](./i1-invoice-management-specialist/) — Invoice Management Specialist
-- [i1-reconciliation-specialist](./i1-reconciliation-specialist/) — Reconciliation Specialist
+- [software-it-expense-control-product-operations-manager](./software-it-expense-control-product-operations-manager/) — Expense Control Product and Operations Manager
+- [software-it-expense-review-specialist](./software-it-expense-review-specialist/) — Expense Review Specialist
+- [software-it-finance-systems-administrator](./software-it-finance-systems-administrator/) — Finance Systems Administrator
+- [software-it-invoice-management-specialist](./software-it-invoice-management-specialist/) — Invoice Management Specialist
+- [software-it-reconciliation-specialist](./software-it-reconciliation-specialist/) — Reconciliation Specialist
 
 ## Notes
 

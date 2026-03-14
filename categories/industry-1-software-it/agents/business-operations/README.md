@@ -4,11 +4,11 @@ Install-ready business-operations-focused OpenClaw agents for `industry-1-softwa
 
 ## Included agents
 
-- [i1-business-operations-analysis-manager](./i1-business-operations-analysis-manager/) — Business Operations Analysis Manager
-- [i1-business-operations-data-analyst](./i1-business-operations-data-analyst/) — Business Operations Data Analyst
-- [i1-ceo-assistant-special-assistant](./i1-ceo-assistant-special-assistant/) — CEO Assistant / Special Assistant
-- [i1-cross-functional-coordination-manager](./i1-cross-functional-coordination-manager/) — Cross-Functional Coordination Manager
-- [i1-policy-meeting-management-specialist](./i1-policy-meeting-management-specialist/) — Policy and Meeting Management Specialist
+- [software-it-business-operations-analysis-manager](./software-it-business-operations-analysis-manager/) — Business Operations Analysis Manager
+- [software-it-business-operations-data-analyst](./software-it-business-operations-data-analyst/) — Business Operations Data Analyst
+- [software-it-ceo-assistant-special-assistant](./software-it-ceo-assistant-special-assistant/) — CEO Assistant / Special Assistant
+- [software-it-cross-functional-coordination-manager](./software-it-cross-functional-coordination-manager/) — Cross-Functional Coordination Manager
+- [software-it-policy-meeting-management-specialist](./software-it-policy-meeting-management-specialist/) — Policy and Meeting Management Specialist
 
 ## Notes
 

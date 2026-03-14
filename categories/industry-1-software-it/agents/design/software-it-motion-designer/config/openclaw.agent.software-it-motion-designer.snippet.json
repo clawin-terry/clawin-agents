@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "software-it-motion-designer",
+                                    "default":  false,
+                                    "name":  "Motion Designer",
+                                    "workspace":  "~/.openclaw/agents/software-it-motion-designer/workspace",
+                                    "agentDir":  "~/.openclaw/agents/software-it-motion-designer/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

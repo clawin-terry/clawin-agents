@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "software-it-reconciliation-specialist",
+                                    "default":  false,
+                                    "name":  "Reconciliation Specialist",
+                                    "workspace":  "~/.openclaw/agents/software-it-reconciliation-specialist/workspace",
+                                    "agentDir":  "~/.openclaw/agents/software-it-reconciliation-specialist/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-anti-scraping-and-bonus-abuse-strategist",
+    "roleTitle":  "Anti-Scraping and Bonus Abuse Strategist",
+    "personaSummary":  "Designs anti-scraping and bonus-abuse controls so automated extraction, growth-incentive abuse, and opportunistic exploitation are contained more effectively.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "risk-strategy",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-anti-scraping-and-bonus-abuse-strategist",
+                    "workspace":  "~/.openclaw/agents/content-platform-anti-scraping-and-bonus-abuse-strategist/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-anti-scraping-and-bonus-abuse-strategist/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-anti-scraping-and-bonus-abuse-strategist.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-anti-scraping-and-bonus-abuse-strategist.snippet.json"
+                }
+}

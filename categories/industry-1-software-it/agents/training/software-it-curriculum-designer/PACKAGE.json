@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-curriculum-designer",
+    "roleTitle":  "Curriculum Designer",
+    "personaSummary":  "Designs training curricula so learning paths, course structure, and supporting materials remain clear, progressive, and outcome-oriented.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "training",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-curriculum-designer",
+                    "workspace":  "~/.openclaw/agents/software-it-curriculum-designer/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-curriculum-designer/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-curriculum-designer.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-curriculum-designer.snippet.json"
+                }
+}

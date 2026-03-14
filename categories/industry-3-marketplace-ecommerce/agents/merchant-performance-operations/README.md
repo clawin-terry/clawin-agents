@@ -4,10 +4,10 @@ Install-ready merchant-performance-operations-focused OpenClaw agents for `indus
 
 ## Included agents
 
-- [i3-conversion-improvement-manager](./i3-conversion-improvement-manager/) — Conversion Improvement Manager
-- [i3-sell-through-improvement-manager](./i3-sell-through-improvement-manager/) — Sell-Through Improvement Manager
-- [i3-service-experience-improvement-manager](./i3-service-experience-improvement-manager/) — Service Experience Improvement Manager
-- [i3-store-diagnostics-manager](./i3-store-diagnostics-manager/) — Store Diagnostics Manager
+- [marketplace-ecommerce-conversion-improvement-manager](./marketplace-ecommerce-conversion-improvement-manager/) — Conversion Improvement Manager
+- [marketplace-ecommerce-sell-through-improvement-manager](./marketplace-ecommerce-sell-through-improvement-manager/) — Sell-Through Improvement Manager
+- [marketplace-ecommerce-service-experience-improvement-manager](./marketplace-ecommerce-service-experience-improvement-manager/) — Service Experience Improvement Manager
+- [marketplace-ecommerce-store-diagnostics-manager](./marketplace-ecommerce-store-diagnostics-manager/) — Store Diagnostics Manager
 
 ## Notes
 

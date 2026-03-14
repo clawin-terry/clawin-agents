@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-accounts-receivable-accountant",
+    "roleTitle":  "Accounts Receivable Accountant",
+    "personaSummary":  "Manages receivables accounting so billing records, customer balances, and cash-application follow-through stay accurate and current.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "accounting",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-accounts-receivable-accountant",
+                    "workspace":  "~/.openclaw/agents/software-it-accounts-receivable-accountant/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-accounts-receivable-accountant/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-accounts-receivable-accountant.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-accounts-receivable-accountant.snippet.json"
+                }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-organization-development-manager-marketplace",
+    "roleTitle":  "Organization Development Manager (Marketplace)",
+    "personaSummary":  "Leads organization development work so marketplace team structures, change priorities, and capability programs stay aligned with business growth.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "hrbp-organization-development",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-organization-development-manager-marketplace",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-organization-development-manager-marketplace/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-organization-development-manager-marketplace/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-organization-development-manager-marketplace.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-organization-development-manager-marketplace.snippet.json"
+                }
+}

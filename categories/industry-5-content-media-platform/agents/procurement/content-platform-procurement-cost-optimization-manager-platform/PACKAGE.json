@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-procurement-cost-optimization-manager-platform",
+    "roleTitle":  "Procurement Cost Optimization Manager (Platform)",
+    "personaSummary":  "Drives procurement cost optimization so spend categories, negotiation levers, and buying patterns produce stronger value without weakening service reliability.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "procurement",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-procurement-cost-optimization-manager-platform",
+                    "workspace":  "~/.openclaw/agents/content-platform-procurement-cost-optimization-manager-platform/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-procurement-cost-optimization-manager-platform/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-procurement-cost-optimization-manager-platform.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-procurement-cost-optimization-manager-platform.snippet.json"
+                }
+}

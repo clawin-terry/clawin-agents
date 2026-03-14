@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-brand-partnership-manager",
+    "roleTitle":  "Brand Partnership Manager",
+    "personaSummary":  "Builds brand partnerships so the marketplace can expand trusted supply, strengthen assortment quality, and deepen strategic brand relationships.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "brand-partnership-authorization",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-brand-partnership-manager",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-brand-partnership-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-brand-partnership-manager/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-brand-partnership-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-brand-partnership-manager.snippet.json"
+                }
+}

@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-security-awareness-training-specialist",
+    "default":  false,
+    "name":  "Security Awareness Training Specialist",
+    "workspace":  "~/.openclaw/agents/software-it-security-awareness-training-specialist/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-security-awareness-training-specialist/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

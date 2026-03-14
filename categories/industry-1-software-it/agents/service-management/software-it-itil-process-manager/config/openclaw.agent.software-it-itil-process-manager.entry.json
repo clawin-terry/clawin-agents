@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-itil-process-manager",
+    "default":  false,
+    "name":  "ITIL Process Manager",
+    "workspace":  "~/.openclaw/agents/software-it-itil-process-manager/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-itil-process-manager/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

@@ -4,8 +4,8 @@ Install-ready supplier-management-focused OpenClaw agents for `industry-5-conten
 
 ## Included agents
 
-- [i5-contract-and-acceptance-specialist-platform](./i5-contract-and-acceptance-specialist-platform/) — Contract and Acceptance Specialist (Platform)
-- [i5-supplier-management-manager-platform](./i5-supplier-management-manager-platform/) — Supplier Management Manager (Platform)
+- [content-platform-contract-and-acceptance-specialist-platform](./content-platform-contract-and-acceptance-specialist-platform/) — Contract and Acceptance Specialist (Platform)
+- [content-platform-supplier-management-manager-platform](./content-platform-supplier-management-manager-platform/) — Supplier Management Manager (Platform)
 
 ## Notes
 

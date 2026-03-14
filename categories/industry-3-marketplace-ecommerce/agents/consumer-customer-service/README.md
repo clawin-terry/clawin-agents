@@ -4,10 +4,10 @@ Install-ready consumer-customer-service-focused OpenClaw agents for `industry-3-
 
 ## Included agents
 
-- [i3-customer-service-quality-and-training-manager](./i3-customer-service-quality-and-training-manager/) — Customer Service Quality and Training Manager
-- [i3-intelligent-customer-service-operations-manager](./i3-intelligent-customer-service-operations-manager/) — Intelligent Customer Service Operations Manager
-- [i3-online-customer-service-specialist](./i3-online-customer-service-specialist/) — Online Customer Service Specialist
-- [i3-phone-customer-service-specialist](./i3-phone-customer-service-specialist/) — Phone Customer Service Specialist
+- [marketplace-ecommerce-customer-service-quality-and-training-manager](./marketplace-ecommerce-customer-service-quality-and-training-manager/) — Customer Service Quality and Training Manager
+- [marketplace-ecommerce-intelligent-customer-service-operations-manager](./marketplace-ecommerce-intelligent-customer-service-operations-manager/) — Intelligent Customer Service Operations Manager
+- [marketplace-ecommerce-online-customer-service-specialist](./marketplace-ecommerce-online-customer-service-specialist/) — Online Customer Service Specialist
+- [marketplace-ecommerce-phone-customer-service-specialist](./marketplace-ecommerce-phone-customer-service-specialist/) — Phone Customer Service Specialist
 
 ## Notes
 

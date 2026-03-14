@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "software-it-revenue-recognition-accountant",
+                                    "default":  false,
+                                    "name":  "Revenue Recognition Accountant (Subscription / Project-Based)",
+                                    "workspace":  "~/.openclaw/agents/software-it-revenue-recognition-accountant/workspace",
+                                    "agentDir":  "~/.openclaw/agents/software-it-revenue-recognition-accountant/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "digital-marketing-integrated-marketing-planner-agency",
+  "default": false,
+  "name": "Integrated Marketing Planner (Agency)",
+  "workspace": "~/.openclaw/agents/digital-marketing-integrated-marketing-planner-agency/workspace",
+  "agentDir": "~/.openclaw/agents/digital-marketing-integrated-marketing-planner-agency/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

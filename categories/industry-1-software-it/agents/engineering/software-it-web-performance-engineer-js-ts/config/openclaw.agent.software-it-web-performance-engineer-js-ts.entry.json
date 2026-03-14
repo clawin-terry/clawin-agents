@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-web-performance-engineer-js-ts",
+    "default":  false,
+    "name":  "Web Performance Engineer (JS/TS)",
+    "workspace":  "~/.openclaw/agents/software-it-web-performance-engineer-js-ts/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-web-performance-engineer-js-ts/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

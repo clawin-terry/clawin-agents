@@ -4,10 +4,10 @@ Install-ready pmo-governance-focused OpenClaw agents for `industry-3-marketplace
 
 ## Included agents
 
-- [i3-cross-functional-pmo-manager-marketplace](./i3-cross-functional-pmo-manager-marketplace/) — Cross-Functional PMO Manager (Marketplace)
-- [i3-milestone-management-specialist-marketplace](./i3-milestone-management-specialist-marketplace/) — Milestone Management Specialist (Marketplace)
-- [i3-process-governance-manager-marketplace](./i3-process-governance-manager-marketplace/) — Process Governance Manager (Marketplace)
-- [i3-retrospective-and-continuous-improvement-manager-marketplace](./i3-retrospective-and-continuous-improvement-manager-marketplace/) — Retrospective and Continuous Improvement Manager (Marketplace)
+- [marketplace-ecommerce-cross-functional-pmo-manager-marketplace](./marketplace-ecommerce-cross-functional-pmo-manager-marketplace/) — Cross-Functional PMO Manager (Marketplace)
+- [marketplace-ecommerce-milestone-management-specialist-marketplace](./marketplace-ecommerce-milestone-management-specialist-marketplace/) — Milestone Management Specialist (Marketplace)
+- [marketplace-ecommerce-process-governance-manager-marketplace](./marketplace-ecommerce-process-governance-manager-marketplace/) — Process Governance Manager (Marketplace)
+- [marketplace-ecommerce-retrospective-and-continuous-improvement-manager-marketplace](./marketplace-ecommerce-retrospective-and-continuous-improvement-manager-marketplace/) — Retrospective and Continuous Improvement Manager (Marketplace)
 
 ## Notes
 

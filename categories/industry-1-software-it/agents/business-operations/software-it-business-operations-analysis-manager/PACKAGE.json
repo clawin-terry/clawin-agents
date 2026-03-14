@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "software-it-business-operations-analysis-manager",
+    "roleTitle":  "Business Operations Analysis Manager",
+    "personaSummary":  "Leads operating analysis to clarify performance signals, management questions, and decision options across the business.",
+    "industryId":  "industry-1-software-it",
+    "roleFamilyKey":  "business-operations",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/software-it-business-operations-analysis-manager",
+                    "workspace":  "~/.openclaw/agents/software-it-business-operations-analysis-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/software-it-business-operations-analysis-manager/agent",
+                    "configEntry":  "config/openclaw.agent.software-it-business-operations-analysis-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.software-it-business-operations-analysis-manager.snippet.json"
+                }
+}

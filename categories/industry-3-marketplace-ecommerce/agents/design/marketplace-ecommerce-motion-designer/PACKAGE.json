@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "marketplace-ecommerce-motion-designer",
+    "roleTitle":  "Motion Designer",
+    "personaSummary":  "Designs motion behaviors and animated feedback so marketplace interactions communicate state changes with more clarity and polish.",
+    "industryId":  "industry-3-marketplace-ecommerce",
+    "roleFamilyKey":  "design",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent",
+                          "frontend-design"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-motion-designer",
+                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-motion-designer/workspace",
+                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-motion-designer/agent",
+                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-motion-designer.entry.json",
+                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-motion-designer.snippet.json"
+                }
+}

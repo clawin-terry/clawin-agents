@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "marketplace-ecommerce-design-systems-lead",
+                                    "default":  false,
+                                    "name":  "Design Systems Lead",
+                                    "workspace":  "~/.openclaw/agents/marketplace-ecommerce-design-systems-lead/workspace",
+                                    "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-design-systems-lead/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

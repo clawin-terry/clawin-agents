@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "digital-marketing-frontend-engineer-javascript-typescript",
+    "roleTitle":  "Frontend Engineer (JavaScript/TypeScript)",
+    "personaSummary":  "Builds landing pages and site experiences with JavaScript and TypeScript so agency campaigns can ship fast, convert cleanly, and support measurement needs.",
+    "industryId":  "industry-4-digital-marketing-agency",
+    "roleFamilyKey":  "web-platform-engineering",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/digital-marketing-frontend-engineer-javascript-typescript",
+                    "workspace":  "~/.openclaw/agents/digital-marketing-frontend-engineer-javascript-typescript/workspace",
+                    "agentDir":  "~/.openclaw/agents/digital-marketing-frontend-engineer-javascript-typescript/agent",
+                    "configEntry":  "config/openclaw.agent.digital-marketing-frontend-engineer-javascript-typescript.entry.json",
+                    "configSnippet":  "config/openclaw.agent.digital-marketing-frontend-engineer-javascript-typescript.snippet.json"
+                }
+}

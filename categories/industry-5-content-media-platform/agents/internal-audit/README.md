@@ -4,7 +4,7 @@ Install-ready internal-audit-focused OpenClaw agents for `industry-5-content-med
 
 ## Included agents
 
-- [i5-audit-coordination-manager-platform](./i5-audit-coordination-manager-platform/) — Audit Coordination Manager (Platform)
+- [content-platform-audit-coordination-manager-platform](./content-platform-audit-coordination-manager-platform/) — Audit Coordination Manager (Platform)
 
 ## Notes
 

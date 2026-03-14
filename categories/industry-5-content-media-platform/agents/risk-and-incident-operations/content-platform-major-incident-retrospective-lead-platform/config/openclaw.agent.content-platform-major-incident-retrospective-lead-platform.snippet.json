@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "content-platform-major-incident-retrospective-lead-platform",
+                                    "default":  false,
+                                    "name":  "Major Incident Retrospective Lead (Platform)",
+                                    "workspace":  "~/.openclaw/agents/content-platform-major-incident-retrospective-lead-platform/workspace",
+                                    "agentDir":  "~/.openclaw/agents/content-platform-major-incident-retrospective-lead-platform/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

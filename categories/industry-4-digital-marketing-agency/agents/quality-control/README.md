@@ -4,10 +4,10 @@ Install-ready quality-control-focused OpenClaw agents for `industry-4-digital-ma
 
 ## Included agents
 
-- [i4-campaign-qc-specialist-agency](./i4-campaign-qc-specialist-agency/) — Campaign Review Quality Specialist, Links Assets Compliance and Naming (Agency)
-- [i4-delivery-sampling-auditor-agency](./i4-delivery-sampling-auditor-agency/) — Delivery Sampling Auditor (Agency)
-- [i4-quality-inspection-lead-agency](./i4-quality-inspection-lead-agency/) — Quality Inspection Lead (Agency)
-- [i4-retrospective-facilitator-agency](./i4-retrospective-facilitator-agency/) — Retrospective Facilitator (Agency)
+- [digital-marketing-campaign-qc-specialist-agency](./digital-marketing-campaign-qc-specialist-agency/) — Campaign Review Quality Specialist, Links Assets Compliance and Naming (Agency)
+- [digital-marketing-delivery-sampling-auditor-agency](./digital-marketing-delivery-sampling-auditor-agency/) — Delivery Sampling Auditor (Agency)
+- [digital-marketing-quality-inspection-lead-agency](./digital-marketing-quality-inspection-lead-agency/) — Quality Inspection Lead (Agency)
+- [digital-marketing-retrospective-facilitator-agency](./digital-marketing-retrospective-facilitator-agency/) — Retrospective Facilitator (Agency)
 
 ## Notes
 

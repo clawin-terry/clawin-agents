@@ -1,0 +1,13 @@
+{
+  "id": "content-platform-general-ledger-accountant-platform",
+  "default": false,
+  "name": "General Ledger Accountant (Platform)",
+  "workspace": "~/.openclaw/agents/content-platform-general-ledger-accountant-platform/workspace",
+  "agentDir": "~/.openclaw/agents/content-platform-general-ledger-accountant-platform/agent",
+  "model": {
+    "primary": "mycodex/gpt-5.4"
+  },
+  "subagents": {
+    "thinking": "low"
+  }
+}

@@ -4,11 +4,11 @@ Install-ready legal-focused OpenClaw agents for `industry-1-software-it`.
 
 ## Included agents
 
-- [i1-contract-counsel](./i1-contract-counsel/) — Contract Counsel
-- [i1-intellectual-property-manager](./i1-intellectual-property-manager/) — Intellectual Property Manager
-- [i1-legal-director](./i1-legal-director/) — Legal Director
-- [i1-legal-operations-specialist](./i1-legal-operations-specialist/) — Legal Operations Specialist (Registers / Company Seals)
-- [i1-litigation-arbitration-counsel](./i1-litigation-arbitration-counsel/) — Litigation and Arbitration Counsel
+- [software-it-contract-counsel](./software-it-contract-counsel/) — Contract Counsel
+- [software-it-intellectual-property-manager](./software-it-intellectual-property-manager/) — Intellectual Property Manager
+- [software-it-legal-director](./software-it-legal-director/) — Legal Director
+- [software-it-legal-operations-specialist](./software-it-legal-operations-specialist/) — Legal Operations Specialist (Registers / Company Seals)
+- [software-it-litigation-arbitration-counsel](./software-it-litigation-arbitration-counsel/) — Litigation and Arbitration Counsel
 
 ## Notes
 

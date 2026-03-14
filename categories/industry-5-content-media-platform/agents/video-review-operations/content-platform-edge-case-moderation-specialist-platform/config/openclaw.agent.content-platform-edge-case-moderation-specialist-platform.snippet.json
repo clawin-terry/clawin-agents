@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "content-platform-edge-case-moderation-specialist-platform",
+                                    "default":  false,
+                                    "name":  "Edge Case Moderation Specialist (Platform)",
+                                    "workspace":  "~/.openclaw/agents/content-platform-edge-case-moderation-specialist-platform/workspace",
+                                    "agentDir":  "~/.openclaw/agents/content-platform-edge-case-moderation-specialist-platform/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

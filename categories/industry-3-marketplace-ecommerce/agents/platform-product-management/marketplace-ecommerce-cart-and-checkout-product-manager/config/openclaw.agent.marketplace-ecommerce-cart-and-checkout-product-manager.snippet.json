@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "marketplace-ecommerce-cart-and-checkout-product-manager",
+        "default": false,
+        "name": "Cart and Checkout Product Manager",
+        "workspace": "~/.openclaw/agents/marketplace-ecommerce-cart-and-checkout-product-manager/workspace",
+        "agentDir": "~/.openclaw/agents/marketplace-ecommerce-cart-and-checkout-product-manager/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

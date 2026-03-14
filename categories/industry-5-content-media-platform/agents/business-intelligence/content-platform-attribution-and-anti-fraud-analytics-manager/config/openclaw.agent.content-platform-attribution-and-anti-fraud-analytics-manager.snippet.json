@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "content-platform-attribution-and-anti-fraud-analytics-manager",
+        "default": false,
+        "name": "Attribution and Anti-Fraud Analytics Manager",
+        "workspace": "~/.openclaw/agents/content-platform-attribution-and-anti-fraud-analytics-manager/workspace",
+        "agentDir": "~/.openclaw/agents/content-platform-attribution-and-anti-fraud-analytics-manager/agent",
+        "model": {
+          "primary": "mycodex/gpt-5.4"
+        },
+        "subagents": {
+          "thinking": "low"
+        }
+      }
+    ]
+  }
+}

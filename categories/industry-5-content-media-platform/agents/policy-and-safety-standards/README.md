@@ -4,11 +4,11 @@ Install-ready policy-and-safety-standards-focused OpenClaw agents for `industry-
 
 ## Included agents
 
-- [i5-community-policy-standards-manager-platform](./i5-community-policy-standards-manager-platform/) — Community Policy Standards Manager (Platform)
-- [i5-content-rating-standards-manager-platform](./i5-content-rating-standards-manager-platform/) — Content Rating Standards Manager (Platform)
-- [i5-enforcement-calibration-manager-platform](./i5-enforcement-calibration-manager-platform/) — Enforcement Calibration Manager (Platform)
-- [i5-minor-protection-policy-manager-platform](./i5-minor-protection-policy-manager-platform/) — Minor Protection Policy Manager (Platform)
-- [i5-privacy-sensitive-info-policy-manager-platform](./i5-privacy-sensitive-info-policy-manager-platform/) — Privacy and Sensitive Information Policy Manager (Platform)
+- [content-platform-community-policy-standards-manager-platform](./content-platform-community-policy-standards-manager-platform/) — Community Policy Standards Manager (Platform)
+- [content-platform-content-rating-standards-manager-platform](./content-platform-content-rating-standards-manager-platform/) — Content Rating Standards Manager (Platform)
+- [content-platform-enforcement-calibration-manager-platform](./content-platform-enforcement-calibration-manager-platform/) — Enforcement Calibration Manager (Platform)
+- [content-platform-minor-protection-policy-manager-platform](./content-platform-minor-protection-policy-manager-platform/) — Minor Protection Policy Manager (Platform)
+- [content-platform-privacy-and-sensitive-information-policy-manager-platform](./content-platform-privacy-and-sensitive-information-policy-manager-platform/) — Privacy and Sensitive Information Policy Manager (Platform)
 
 ## Notes
 

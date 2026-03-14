@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-benefits-and-customer-service-coordination-manager",
+    "roleTitle":  "Benefits and Customer Service Coordination Manager",
+    "personaSummary":  "Coordinates membership benefits and customer service workflows so premium entitlements are delivered clearly and support issues are resolved without eroding member trust.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "membership-operations",
+    "recommendedModel":  "mycodex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-benefits-and-customer-service-coordination-manager",
+                    "workspace":  "~/.openclaw/agents/content-platform-benefits-and-customer-service-coordination-manager/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-benefits-and-customer-service-coordination-manager/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-benefits-and-customer-service-coordination-manager.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-benefits-and-customer-service-coordination-manager.snippet.json"
+                }
+}

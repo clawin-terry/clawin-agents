@@ -1,0 +1,13 @@
+{
+    "id":  "software-it-application-architect",
+    "default":  false,
+    "name":  "Application Architect",
+    "workspace":  "~/.openclaw/agents/software-it-application-architect/workspace",
+    "agentDir":  "~/.openclaw/agents/software-it-application-architect/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

@@ -4,9 +4,9 @@ Install-ready marketing-automation-engineering-focused OpenClaw agents for `indu
 
 ## Included agents
 
-- [i4-integration-engineer-java-martech](./i4-integration-engineer-java-martech/) — Integration Engineer (Java)
-- [i4-messaging-and-engagement-service-engineer-java-go](./i4-messaging-and-engagement-service-engineer-java-go/) — Messaging and Engagement Service Engineer (Java/Go)
-- [i4-workflow-and-job-scheduling-engineer-python](./i4-workflow-and-job-scheduling-engineer-python/) — Workflow and Job Scheduling Engineer (Python)
+- [digital-marketing-integration-engineer-java](./digital-marketing-integration-engineer-java/) — Integration Engineer (Java)
+- [digital-marketing-messaging-and-engagement-service-engineer-java-go](./digital-marketing-messaging-and-engagement-service-engineer-java-go/) — Messaging and Engagement Service Engineer (Java/Go)
+- [digital-marketing-workflow-and-job-scheduling-engineer-python](./digital-marketing-workflow-and-job-scheduling-engineer-python/) — Workflow and Job Scheduling Engineer (Python)
 
 ## Notes
 

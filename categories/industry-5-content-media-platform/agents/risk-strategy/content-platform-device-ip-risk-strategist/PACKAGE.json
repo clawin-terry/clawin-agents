@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "content-platform-device-ip-risk-strategist",
+    "roleTitle":  "Device and IP Risk Strategist",
+    "personaSummary":  "Defines device and IP risk strategy so suspicious infrastructure, shared-fraud fingerprints, and evasive network behavior can be handled with tighter controls.",
+    "industryId":  "industry-5-content-media-platform",
+    "roleFamilyKey":  "risk-strategy",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/content-platform-device-ip-risk-strategist",
+                    "workspace":  "~/.openclaw/agents/content-platform-device-ip-risk-strategist/workspace",
+                    "agentDir":  "~/.openclaw/agents/content-platform-device-ip-risk-strategist/agent",
+                    "configEntry":  "config/openclaw.agent.content-platform-device-ip-risk-strategist.entry.json",
+                    "configSnippet":  "config/openclaw.agent.content-platform-device-ip-risk-strategist.snippet.json"
+                }
+}
