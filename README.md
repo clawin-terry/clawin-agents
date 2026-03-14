@@ -38,12 +38,12 @@ Current published catalog snapshot:
   - `industry-3-marketplace-ecommerce`
   - `industry-4-digital-marketing-agency`
   - `industry-5-content-media-platform`
-- Total install-ready agent packages: **1349**
+- Total install-ready agent packages: **1343**
 - Breakdown by industry:
   - `industry-1-software-it` — **394**
   - `industry-3-marketplace-ecommerce` — **355**
-  - `industry-4-digital-marketing-agency` — **285**
-  - `industry-5-content-media-platform` — **315**
+  - `industry-4-digital-marketing-agency` — **283**
+  - `industry-5-content-media-platform` — **311**
 
 For the full breakdown by role family and per-agent links, see:
 - [CATALOG.md](./CATALOG.md)
@@ -53,20 +53,20 @@ For the full breakdown by role family and per-agent links, see:
 If you want a quick place to start, these are strong entry points:
 
 ### Frontend Engineer (JS/TS)
-- Path: `categories/industry-1-software-it/agents/engineering/i1-frontend-engineer-js-ts/`
-- Direct link: [open package](./categories/industry-1-software-it/agents/engineering/i1-frontend-engineer-js-ts/)
+- Path: `categories/industry-1-software-it/agents/engineering/software-it-frontend-engineer-js-ts/`
+- Direct link: [open package](./categories/industry-1-software-it/agents/engineering/software-it-frontend-engineer-js-ts/)
 - Good for: web UI implementation, component work, frontend delivery
 - Bundled skills: `coding-agent`, `ui-ux-pro-max`, `frontend-design`
 
 ### Backend Engineer (Java)
-- Path: `categories/industry-1-software-it/agents/engineering/i1-backend-engineer-java/`
-- Direct link: [open package](./categories/industry-1-software-it/agents/engineering/i1-backend-engineer-java/)
+- Path: `categories/industry-1-software-it/agents/engineering/software-it-backend-engineer-java/`
+- Direct link: [open package](./categories/industry-1-software-it/agents/engineering/software-it-backend-engineer-java/)
 - Good for: backend services, APIs, Java-centric delivery
 - Bundled skills: `coding-agent`
 
 ### Kubernetes Platform Engineer (Go)
-- Path: `categories/industry-1-software-it/agents/platform-engineering/i1-kubernetes-platform-engineer-go/`
-- Direct link: [open package](./categories/industry-1-software-it/agents/platform-engineering/i1-kubernetes-platform-engineer-go/)
+- Path: `categories/industry-1-software-it/agents/platform-engineering/software-it-kubernetes-platform-engineer-go/`
+- Direct link: [open package](./categories/industry-1-software-it/agents/platform-engineering/software-it-kubernetes-platform-engineer-go/)
 - Good for: platform operations, Kubernetes-heavy engineering environments
 - Bundled skills: `coding-agent`, `healthcheck`
 
