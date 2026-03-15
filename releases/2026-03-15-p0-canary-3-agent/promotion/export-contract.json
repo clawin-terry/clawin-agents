@@ -1,0 +1,55 @@
+{
+  "schemaVersion": "1.0",
+  "contractVersion": "1.0",
+  "generatedBy": "scripts/project_release_bundle.py",
+  "generatedAt": "2026-03-15T14:31:48+08:00",
+  "source": {
+    "repo": "clawin-private",
+    "branch": "feat/clawin-npm-install-foundation",
+    "commit": "9aa27ac6a6a80259bcfa23b0bd6ae86099ec5f4e"
+  },
+  "releaseScope": {
+    "totalAgents": 3,
+    "agentIds": [
+      "digital-marketing-livestream-retrospective-optimizer-agency",
+      "marketplace-ecommerce-promotional-mechanics-operations-manager",
+      "software-it-web-performance-engineer-js-ts"
+    ],
+    "industryIds": [
+      "industry-1-software-it",
+      "industry-3-marketplace-ecommerce",
+      "industry-4-digital-marketing-agency"
+    ],
+    "roleFamilyKeys": [
+      "campaign-operations",
+      "engineering",
+      "livestream-operations"
+    ]
+  },
+  "downstreamPromotion": {
+    "targetRepo": "clawin-agents",
+    "mode": "copy-packages-and-generated-catalogs-only",
+    "expectedInputs": [
+      "release-manifest.json",
+      "promotion/export-contract.json",
+      "packages/*.zip",
+      "catalogs/published/catalog.json",
+      "catalogs/published/catalog-lite.json"
+    ],
+    "forbiddenInputs": [
+      "runs/**",
+      "scripts/**",
+      "data/**",
+      "specs/**",
+      "role/**"
+    ],
+    "publishedBaseUrl": "https://agents.clawin.club/releases/2026-03-15-p0-canary-3-agent",
+    "publishReadyWhen": [
+      "validate_release_output.py passes",
+      "published catalog package URLs map 1:1 to packaged zip artifacts",
+      "CLI rehearsal proof passes against the same release bundle",
+      "public promotion copies generated outputs without rebuilding package internals"
+    ],
+    "targetSubdir": "releases/2026-03-15-p0-canary-3-agent"
+  }
+}

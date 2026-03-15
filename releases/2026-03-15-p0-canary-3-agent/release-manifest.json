@@ -1,0 +1,84 @@
+{
+  "schemaVersion": "1.0",
+  "releaseVersion": "0.1.0-canary.1",
+  "generatedAt": "2026-03-15T14:31:48+08:00",
+  "generatedBy": "scripts/project_release_bundle.py",
+  "source": {
+    "repo": "clawin-private",
+    "branch": "feat/clawin-npm-install-foundation",
+    "commit": "9aa27ac6a6a80259bcfa23b0bd6ae86099ec5f4e"
+  },
+  "publishedBaseUrl": "https://agents.clawin.club/releases/2026-03-15-p0-canary-3-agent",
+  "totalAgents": 3,
+  "scope": {
+    "industryIds": [
+      "industry-1-software-it",
+      "industry-3-marketplace-ecommerce",
+      "industry-4-digital-marketing-agency"
+    ],
+    "roleFamilyKeys": [
+      "campaign-operations",
+      "engineering",
+      "livestream-operations"
+    ],
+    "agentIds": [
+      "digital-marketing-livestream-retrospective-optimizer-agency",
+      "marketplace-ecommerce-promotional-mechanics-operations-manager",
+      "software-it-web-performance-engineer-js-ts"
+    ]
+  },
+  "packages": [
+    {
+      "agentId": "digital-marketing-livestream-retrospective-optimizer-agency",
+      "version": "0.1.0",
+      "relativePath": "packages/digital-marketing-livestream-retrospective-optimizer-agency.zip",
+      "fileName": "digital-marketing-livestream-retrospective-optimizer-agency.zip",
+      "sizeBytes": 11494,
+      "sha256": "24e4b9fe3db868a48aa5a54dd5489fdf799594f5629caa6dc8c1a9c3c80e0ffb",
+      "format": "zip",
+      "industryId": "industry-4-digital-marketing-agency",
+      "roleFamilyKey": "livestream-operations"
+    },
+    {
+      "agentId": "marketplace-ecommerce-promotional-mechanics-operations-manager",
+      "version": "0.1.0",
+      "relativePath": "packages/marketplace-ecommerce-promotional-mechanics-operations-manager.zip",
+      "fileName": "marketplace-ecommerce-promotional-mechanics-operations-manager.zip",
+      "sizeBytes": 11452,
+      "sha256": "13590c2e3cf203f17640f73a7cacf85ba579a564baeac52daf8b58e28291f2ad",
+      "format": "zip",
+      "industryId": "industry-3-marketplace-ecommerce",
+      "roleFamilyKey": "campaign-operations"
+    },
+    {
+      "agentId": "software-it-web-performance-engineer-js-ts",
+      "version": "0.1.0",
+      "relativePath": "packages/software-it-web-performance-engineer-js-ts.zip",
+      "fileName": "software-it-web-performance-engineer-js-ts.zip",
+      "sizeBytes": 372653,
+      "sha256": "9fad383296ce491bd90a3da75eaa9da50b2b87a6965c26020b018378fd79f296",
+      "format": "zip",
+      "industryId": "industry-1-software-it",
+      "roleFamilyKey": "engineering"
+    }
+  ],
+  "catalogs": {
+    "bridge": {
+      "catalog": "catalogs/bridge/catalog.json",
+      "catalogLite": "catalogs/bridge/catalog-lite.json"
+    },
+    "published": {
+      "catalog": "catalogs/published/catalog.json",
+      "catalogLite": "catalogs/published/catalog-lite.json"
+    }
+  },
+  "promotion": {
+    "exportContract": "promotion/export-contract.json",
+    "targetRepo": "clawin-agents",
+    "mode": "copy-packages-and-generated-catalogs-only"
+  },
+  "projection": {
+    "targetSubdir": "releases/2026-03-15-p0-canary-3-agent",
+    "projectedBy": "scripts/project_release_bundle.py"
+  }
+}
