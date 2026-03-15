@@ -31,37 +31,46 @@ Catalog URL pattern:
 https://agents.clawin.club/releases/<release>/catalogs/published/catalog.json
 ```
 
-Current canary example:
+Current full-catalog public release:
 
 ```bash
-clawin catalog refresh --catalog https://agents.clawin.club/releases/2026-03-15-p0-canary-3-agent/catalogs/published/catalog.json
+clawin catalog refresh --catalog https://agents.clawin.club/releases/2026-03-15-p2-full-catalog-1343-agent/catalogs/published/catalog.json
+```
+
+Current scoped financial research release (18 agents):
+
+```bash
+clawin catalog refresh --catalog https://agents.clawin.club/releases/2026-03-16-p4-financial-research-v1-18-agent/catalogs/published/catalog.json
 ```
 
 Use the published release you want. The URL always points to a release-scoped catalog snapshot under `/releases/<release>/catalogs/published/catalog.json`.
 
 ### 4. Search and inspect agents
 
-Search the current canary catalog:
+Search the catalog you just refreshed. For the full public catalog, a software example is:
 
 ```bash
 clawin search "web performance"
 ```
 
-Inspect one package before install:
+For the financial research slice, an example is:
 
 ```bash
-clawin info software-it-web-performance-engineer-js-ts
+clawin search "financial research"
 ```
 
-The current public canary publishes only these agent ids:
-- `digital-marketing-livestream-retrospective-optimizer-agency`
-- `marketplace-ecommerce-promotional-mechanics-operations-manager`
-- `software-it-web-performance-engineer-js-ts`
+Inspect one package before install. Example financial research package:
+
+```bash
+clawin info financial-research-company-research-analyst
+```
+
+The scoped financial research release publishes 18 agent ids across equity analysis, event and earnings monitoring, market monitoring, portfolio research support, and screening and comparison.
 
 ### 5. Install the agent
 
 ```bash
-clawin install software-it-web-performance-engineer-js-ts
+clawin install financial-research-company-research-analyst
 ```
 
 The install command handles the package fetch and local placement for you. You do not need to manually copy a folder from `categories/...` into `~/.openclaw/agents/<agentId>/`.
