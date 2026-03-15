@@ -37,10 +37,10 @@ Current full-catalog public release:
 clawin catalog refresh --catalog https://agents.clawin.club/releases/2026-03-15-p2-full-catalog-1343-agent/catalogs/published/catalog.json
 ```
 
-Current scoped financial research release (18 agents):
+Current scoped financial research release (52 agents):
 
 ```bash
-clawin catalog refresh --catalog https://agents.clawin.club/releases/2026-03-16-p4-financial-research-v1-18-agent/catalogs/published/catalog.json
+clawin catalog refresh --catalog https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/catalogs/published/catalog.json
 ```
 
 Use the published release you want. The URL always points to a release-scoped catalog snapshot under `/releases/<release>/catalogs/published/catalog.json`.
@@ -65,7 +65,7 @@ Inspect one package before install. Example financial research package:
 clawin info financial-research-company-research-analyst
 ```
 
-The scoped financial research release publishes 18 agent ids across equity analysis, event and earnings monitoring, market monitoring, portfolio research support, and screening and comparison.
+The scoped financial research release publishes 52 agent ids across the broader financial research industry roster, including equity analysis, screening and comparison, market monitoring, event and earnings monitoring, and portfolio research support.
 
 ### 5. Install the agent
 
@@ -80,7 +80,7 @@ The install command handles the package fetch and local placement for you. You d
 Check the local install result:
 
 ```bash
-clawin status software-it-web-performance-engineer-js-ts
+clawin status financial-research-company-research-analyst
 ```
 
 After install, finish the local-only pieces required by your environment:
