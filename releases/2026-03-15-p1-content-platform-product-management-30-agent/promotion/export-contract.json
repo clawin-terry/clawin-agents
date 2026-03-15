@@ -1,0 +1,78 @@
+{
+  "schemaVersion": "1.0",
+  "contractVersion": "1.0",
+  "generatedBy": "scripts/project_release_bundle.py",
+  "generatedAt": "2026-03-15T19:23:33+08:00",
+  "source": {
+    "repo": "clawin-private",
+    "branch": "feat/clawin-npm-install-foundation",
+    "commit": "ea7675063bde7bcd3ebf14ce21a74fed027fdf9d"
+  },
+  "releaseScope": {
+    "totalAgents": 30,
+    "agentIds": [
+      "content-platform-advertising-product-manager",
+      "content-platform-capture-editing-and-effects-product-manager",
+      "content-platform-cold-start-strategy-product-manager",
+      "content-platform-community-governance-product-manager",
+      "content-platform-creator-incentives-product-manager",
+      "content-platform-creator-tools-and-insights-product-manager",
+      "content-platform-direct-messaging-and-group-chat-product-manager",
+      "content-platform-ecommerce-product-manager",
+      "content-platform-engagement-interactions-product-manager",
+      "content-platform-feed-and-immersive-playback-product-manager",
+      "content-platform-follow-and-fan-graph-product-manager",
+      "content-platform-gift-and-revenue-share-strategy-manager",
+      "content-platform-gifting-and-cohost-rules-product-manager",
+      "content-platform-growth-experimentation-product-manager",
+      "content-platform-live-interaction-mechanics-product-manager",
+      "content-platform-livestream-governance-product-manager",
+      "content-platform-livestream-room-product-manager",
+      "content-platform-membership-product-manager",
+      "content-platform-membership-subscription-product-manager",
+      "content-platform-multi-objective-and-constraints-strategy-product-manager",
+      "content-platform-publishing-workflow-product-manager",
+      "content-platform-recommendation-strategy-product-manager",
+      "content-platform-referrals-and-invitations-product-manager",
+      "content-platform-retention-and-reactivation-product-manager",
+      "content-platform-retrieval-and-ranking-objectives-product-manager",
+      "content-platform-revenue-sharing-product-manager",
+      "content-platform-search-product-manager",
+      "content-platform-topics-and-communities-product-manager",
+      "content-platform-user-acquisition-conversion-product-manager",
+      "content-platform-viewing-experience-and-quality-strategy-product-manager"
+    ],
+    "industryIds": [
+      "industry-5-content-media-platform"
+    ],
+    "roleFamilyKeys": [
+      "product-management"
+    ]
+  },
+  "downstreamPromotion": {
+    "targetRepo": "clawin-agents",
+    "mode": "copy-packages-and-generated-catalogs-only",
+    "expectedInputs": [
+      "release-manifest.json",
+      "promotion/export-contract.json",
+      "packages/*.zip",
+      "catalogs/published/catalog.json",
+      "catalogs/published/catalog-lite.json"
+    ],
+    "forbiddenInputs": [
+      "runs/**",
+      "scripts/**",
+      "data/**",
+      "specs/**",
+      "role/**"
+    ],
+    "publishedBaseUrl": "https://agents.clawin.club/releases/2026-03-15-p1-content-platform-product-management-30-agent",
+    "publishReadyWhen": [
+      "validate_release_output.py passes",
+      "published catalog package URLs map 1:1 to packaged zip artifacts",
+      "CLI rehearsal proof passes against the same release bundle",
+      "public promotion copies generated outputs without rebuilding package internals"
+    ],
+    "targetSubdir": "releases/2026-03-15-p1-content-platform-product-management-30-agent"
+  }
+}

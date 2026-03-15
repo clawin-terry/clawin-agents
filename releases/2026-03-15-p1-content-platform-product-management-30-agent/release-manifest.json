@@ -1,0 +1,404 @@
+{
+  "schemaVersion": "1.0",
+  "releaseVersion": "0.1.0",
+  "generatedAt": "2026-03-15T19:23:33+08:00",
+  "generatedBy": "scripts/project_release_bundle.py",
+  "source": {
+    "repo": "clawin-private",
+    "branch": "feat/clawin-npm-install-foundation",
+    "commit": "ea7675063bde7bcd3ebf14ce21a74fed027fdf9d"
+  },
+  "publishedBaseUrl": "https://agents.clawin.club/releases/2026-03-15-p1-content-platform-product-management-30-agent",
+  "totalAgents": 30,
+  "scope": {
+    "industryIds": [
+      "industry-5-content-media-platform"
+    ],
+    "roleFamilyKeys": [
+      "product-management"
+    ],
+    "agentIds": [
+      "content-platform-advertising-product-manager",
+      "content-platform-capture-editing-and-effects-product-manager",
+      "content-platform-cold-start-strategy-product-manager",
+      "content-platform-community-governance-product-manager",
+      "content-platform-creator-incentives-product-manager",
+      "content-platform-creator-tools-and-insights-product-manager",
+      "content-platform-direct-messaging-and-group-chat-product-manager",
+      "content-platform-ecommerce-product-manager",
+      "content-platform-engagement-interactions-product-manager",
+      "content-platform-feed-and-immersive-playback-product-manager",
+      "content-platform-follow-and-fan-graph-product-manager",
+      "content-platform-gift-and-revenue-share-strategy-manager",
+      "content-platform-gifting-and-cohost-rules-product-manager",
+      "content-platform-growth-experimentation-product-manager",
+      "content-platform-live-interaction-mechanics-product-manager",
+      "content-platform-livestream-governance-product-manager",
+      "content-platform-livestream-room-product-manager",
+      "content-platform-membership-product-manager",
+      "content-platform-membership-subscription-product-manager",
+      "content-platform-multi-objective-and-constraints-strategy-product-manager",
+      "content-platform-publishing-workflow-product-manager",
+      "content-platform-recommendation-strategy-product-manager",
+      "content-platform-referrals-and-invitations-product-manager",
+      "content-platform-retention-and-reactivation-product-manager",
+      "content-platform-retrieval-and-ranking-objectives-product-manager",
+      "content-platform-revenue-sharing-product-manager",
+      "content-platform-search-product-manager",
+      "content-platform-topics-and-communities-product-manager",
+      "content-platform-user-acquisition-conversion-product-manager",
+      "content-platform-viewing-experience-and-quality-strategy-product-manager"
+    ]
+  },
+  "packages": [
+    {
+      "agentId": "content-platform-advertising-product-manager",
+      "version": "0.1.0",
+      "relativePath": "packages/content-platform-advertising-product-manager.zip",
+      "fileName": "content-platform-advertising-product-manager.zip",
+      "sizeBytes": 11313,
+      "sha256": "5d34a553ec246286129c8ef2700c2864ac71fe4967217a7701daea24ec899a63",
+      "format": "zip",
+      "industryId": "industry-5-content-media-platform",
+      "roleFamilyKey": "product-management"
+    },
+    {
+      "agentId": "content-platform-capture-editing-and-effects-product-manager",
+      "version": "0.1.0",
+      "relativePath": "packages/content-platform-capture-editing-and-effects-product-manager.zip",
+      "fileName": "content-platform-capture-editing-and-effects-product-manager.zip",
+      "sizeBytes": 11569,
+      "sha256": "fe19b787da2888d505c7e29357682f5d65b3f76696067febc38bff8bc79f3af0",
+      "format": "zip",
+      "industryId": "industry-5-content-media-platform",
+      "roleFamilyKey": "product-management"
+    },
+    {
+      "agentId": "content-platform-cold-start-strategy-product-manager",
+      "version": "0.1.0",
+      "relativePath": "packages/content-platform-cold-start-strategy-product-manager.zip",
+      "fileName": "content-platform-cold-start-strategy-product-manager.zip",
+      "sizeBytes": 11473,
+      "sha256": "0e4902145338ed68c11be899ad507409ab4f4a260683bf25376c6bb159b7588e",
+      "format": "zip",
+      "industryId": "industry-5-content-media-platform",
+      "roleFamilyKey": "product-management"
+    },
+    {
+      "agentId": "content-platform-community-governance-product-manager",
+      "version": "0.1.0",
+      "relativePath": "packages/content-platform-community-governance-product-manager.zip",
+      "fileName": "content-platform-community-governance-product-manager.zip",
+      "sizeBytes": 11453,
+      "sha256": "6f5ccad79d0755e0264cc4dd630129d00d17306aa01eff7e0ff11a8b08d2e99d",
+      "format": "zip",
+      "industryId": "industry-5-content-media-platform",
+      "roleFamilyKey": "product-management"
+    },
+    {
+      "agentId": "content-platform-creator-incentives-product-manager",
+      "version": "0.1.0",
+      "relativePath": "packages/content-platform-creator-incentives-product-manager.zip",
+      "fileName": "content-platform-creator-incentives-product-manager.zip",
+      "sizeBytes": 11451,
+      "sha256": "6d0e9747e5a25d30a7a038dbb2872d92667551b3b60e36886e8bf0842720d430",
+      "format": "zip",
+      "industryId": "industry-5-content-media-platform",
+      "roleFamilyKey": "product-management"
+    },
+    {
+      "agentId": "content-platform-creator-tools-and-insights-product-manager",
+      "version": "0.1.0",
+      "relativePath": "packages/content-platform-creator-tools-and-insights-product-manager.zip",
+      "fileName": "content-platform-creator-tools-and-insights-product-manager.zip",
+      "sizeBytes": 11527,
+      "sha256": "5fb1530b69b17bb5d69002125b68048d746c326ac1e8a187b8c99507f87a1e4e",
+      "format": "zip",
+      "industryId": "industry-5-content-media-platform",
+      "roleFamilyKey": "product-management"
+    },
+    {
+      "agentId": "content-platform-direct-messaging-and-group-chat-product-manager",
+      "version": "0.1.0",
+      "relativePath": "packages/content-platform-direct-messaging-and-group-chat-product-manager.zip",
+      "fileName": "content-platform-direct-messaging-and-group-chat-product-manager.zip",
+      "sizeBytes": 11631,
+      "sha256": "cc49369cdfbe36ad108971c440e914dc06b97099fc5f54e381857fc66bbe015e",
+      "format": "zip",
+      "industryId": "industry-5-content-media-platform",
+      "roleFamilyKey": "product-management"
+    },
+    {
+      "agentId": "content-platform-ecommerce-product-manager",
+      "version": "0.1.0",
+      "relativePath": "packages/content-platform-ecommerce-product-manager.zip",
+      "fileName": "content-platform-ecommerce-product-manager.zip",
+      "sizeBytes": 11300,
+      "sha256": "1b1b88219ba96172fa257a5297aa9eb6a7640c58a0f0ecc2a379451fdbfd36f2",
+      "format": "zip",
+      "industryId": "industry-5-content-media-platform",
+      "roleFamilyKey": "product-management"
+    },
+    {
+      "agentId": "content-platform-engagement-interactions-product-manager",
+      "version": "0.1.0",
+      "relativePath": "packages/content-platform-engagement-interactions-product-manager.zip",
+      "fileName": "content-platform-engagement-interactions-product-manager.zip",
+      "sizeBytes": 11478,
+      "sha256": "4db62afa61606d7b446c8218fb39700dd71292e60f9d0f920af7eb2e3520c665",
+      "format": "zip",
+      "industryId": "industry-5-content-media-platform",
+      "roleFamilyKey": "product-management"
+    },
+    {
+      "agentId": "content-platform-feed-and-immersive-playback-product-manager",
+      "version": "0.1.0",
+      "relativePath": "packages/content-platform-feed-and-immersive-playback-product-manager.zip",
+      "fileName": "content-platform-feed-and-immersive-playback-product-manager.zip",
+      "sizeBytes": 11587,
+      "sha256": "6a426e450e5ab4ea609149a0dcb1cd03471852b5a9ef5a6f43552d549728b847",
+      "format": "zip",
+      "industryId": "industry-5-content-media-platform",
+      "roleFamilyKey": "product-management"
+    },
+    {
+      "agentId": "content-platform-follow-and-fan-graph-product-manager",
+      "version": "0.1.0",
+      "relativePath": "packages/content-platform-follow-and-fan-graph-product-manager.zip",
+      "fileName": "content-platform-follow-and-fan-graph-product-manager.zip",
+      "sizeBytes": 11492,
+      "sha256": "cb2429e6cfae8bff500e2e53ea148602bf868a55c8d7db753fdfc53ac89783e9",
+      "format": "zip",
+      "industryId": "industry-5-content-media-platform",
+      "roleFamilyKey": "product-management"
+    },
+    {
+      "agentId": "content-platform-gift-and-revenue-share-strategy-manager",
+      "version": "0.1.0",
+      "relativePath": "packages/content-platform-gift-and-revenue-share-strategy-manager.zip",
+      "fileName": "content-platform-gift-and-revenue-share-strategy-manager.zip",
+      "sizeBytes": 11530,
+      "sha256": "0d2f4a3412b7971ecbbfeb712566ae9d5d30d959676e378c5dee05217a7a6267",
+      "format": "zip",
+      "industryId": "industry-5-content-media-platform",
+      "roleFamilyKey": "product-management"
+    },
+    {
+      "agentId": "content-platform-gifting-and-cohost-rules-product-manager",
+      "version": "0.1.0",
+      "relativePath": "packages/content-platform-gifting-and-cohost-rules-product-manager.zip",
+      "fileName": "content-platform-gifting-and-cohost-rules-product-manager.zip",
+      "sizeBytes": 11568,
+      "sha256": "8d892def9618d47ad48fff7c3c40f2c57292a2a63b6a98c632bff2cd35ac026f",
+      "format": "zip",
+      "industryId": "industry-5-content-media-platform",
+      "roleFamilyKey": "product-management"
+    },
+    {
+      "agentId": "content-platform-growth-experimentation-product-manager",
+      "version": "0.1.0",
+      "relativePath": "packages/content-platform-growth-experimentation-product-manager.zip",
+      "fileName": "content-platform-growth-experimentation-product-manager.zip",
+      "sizeBytes": 11459,
+      "sha256": "f986a7f39b88ee4aa4b3899678a6f4a87964276dd1be38552099ff785a9dd7f2",
+      "format": "zip",
+      "industryId": "industry-5-content-media-platform",
+      "roleFamilyKey": "product-management"
+    },
+    {
+      "agentId": "content-platform-live-interaction-mechanics-product-manager",
+      "version": "0.1.0",
+      "relativePath": "packages/content-platform-live-interaction-mechanics-product-manager.zip",
+      "fileName": "content-platform-live-interaction-mechanics-product-manager.zip",
+      "sizeBytes": 11528,
+      "sha256": "d7ba6726e5e5e6c18b0f7265f30bc833a7f8af377dcfbbf02f6d04fe1ebf7b62",
+      "format": "zip",
+      "industryId": "industry-5-content-media-platform",
+      "roleFamilyKey": "product-management"
+    },
+    {
+      "agentId": "content-platform-livestream-governance-product-manager",
+      "version": "0.1.0",
+      "relativePath": "packages/content-platform-livestream-governance-product-manager.zip",
+      "fileName": "content-platform-livestream-governance-product-manager.zip",
+      "sizeBytes": 11439,
+      "sha256": "4849c6fbfaa666485a45847c5af2712e3095e3a21f1e6e22ffcb1c6114b5fe5f",
+      "format": "zip",
+      "industryId": "industry-5-content-media-platform",
+      "roleFamilyKey": "product-management"
+    },
+    {
+      "agentId": "content-platform-livestream-room-product-manager",
+      "version": "0.1.0",
+      "relativePath": "packages/content-platform-livestream-room-product-manager.zip",
+      "fileName": "content-platform-livestream-room-product-manager.zip",
+      "sizeBytes": 11423,
+      "sha256": "2b244cb67cb0a9c86cafd049e41767be7c54798bf8ddbf7072b81b3c92afcb72",
+      "format": "zip",
+      "industryId": "industry-5-content-media-platform",
+      "roleFamilyKey": "product-management"
+    },
+    {
+      "agentId": "content-platform-membership-product-manager",
+      "version": "0.1.0",
+      "relativePath": "packages/content-platform-membership-product-manager.zip",
+      "fileName": "content-platform-membership-product-manager.zip",
+      "sizeBytes": 11299,
+      "sha256": "a0fc6c30742576b09346592f720e5b172e1e1829f92701f7b2f9acf4235f0242",
+      "format": "zip",
+      "industryId": "industry-5-content-media-platform",
+      "roleFamilyKey": "product-management"
+    },
+    {
+      "agentId": "content-platform-membership-subscription-product-manager",
+      "version": "0.1.0",
+      "relativePath": "packages/content-platform-membership-subscription-product-manager.zip",
+      "fileName": "content-platform-membership-subscription-product-manager.zip",
+      "sizeBytes": 11488,
+      "sha256": "fd0516075f2a4894a3b81174e92bdcc372341f37e498c7a18ae4ffaaf1b59a2a",
+      "format": "zip",
+      "industryId": "industry-5-content-media-platform",
+      "roleFamilyKey": "product-management"
+    },
+    {
+      "agentId": "content-platform-multi-objective-and-constraints-strategy-product-manager",
+      "version": "0.1.0",
+      "relativePath": "packages/content-platform-multi-objective-and-constraints-strategy-product-manager.zip",
+      "fileName": "content-platform-multi-objective-and-constraints-strategy-product-manager.zip",
+      "sizeBytes": 11704,
+      "sha256": "564dbb2baa12d764a92c4de1302cfcc99a0a59caa460a8d330a75ed24a109b45",
+      "format": "zip",
+      "industryId": "industry-5-content-media-platform",
+      "roleFamilyKey": "product-management"
+    },
+    {
+      "agentId": "content-platform-publishing-workflow-product-manager",
+      "version": "0.1.0",
+      "relativePath": "packages/content-platform-publishing-workflow-product-manager.zip",
+      "fileName": "content-platform-publishing-workflow-product-manager.zip",
+      "sizeBytes": 11445,
+      "sha256": "d2d1f1183a532561ebb06e15730a5d5d4b00200f7bc9655e3740a913446651f6",
+      "format": "zip",
+      "industryId": "industry-5-content-media-platform",
+      "roleFamilyKey": "product-management"
+    },
+    {
+      "agentId": "content-platform-recommendation-strategy-product-manager",
+      "version": "0.1.0",
+      "relativePath": "packages/content-platform-recommendation-strategy-product-manager.zip",
+      "fileName": "content-platform-recommendation-strategy-product-manager.zip",
+      "sizeBytes": 11473,
+      "sha256": "6c238eadbec6ae0ebb7f3cc9eca3f65ddc99d1d1df9e78ccdedbf3d92b5aee7a",
+      "format": "zip",
+      "industryId": "industry-5-content-media-platform",
+      "roleFamilyKey": "product-management"
+    },
+    {
+      "agentId": "content-platform-referrals-and-invitations-product-manager",
+      "version": "0.1.0",
+      "relativePath": "packages/content-platform-referrals-and-invitations-product-manager.zip",
+      "fileName": "content-platform-referrals-and-invitations-product-manager.zip",
+      "sizeBytes": 11479,
+      "sha256": "abfe399b20c841f678254c4ccc3a2a1e3590a32d7dbe176d6dbe9c9839e6a8a2",
+      "format": "zip",
+      "industryId": "industry-5-content-media-platform",
+      "roleFamilyKey": "product-management"
+    },
+    {
+      "agentId": "content-platform-retention-and-reactivation-product-manager",
+      "version": "0.1.0",
+      "relativePath": "packages/content-platform-retention-and-reactivation-product-manager.zip",
+      "fileName": "content-platform-retention-and-reactivation-product-manager.zip",
+      "sizeBytes": 11509,
+      "sha256": "995810a45a7250c33b9d7bf99442291695c80018a13f2a5456ad614ade16aa18",
+      "format": "zip",
+      "industryId": "industry-5-content-media-platform",
+      "roleFamilyKey": "product-management"
+    },
+    {
+      "agentId": "content-platform-retrieval-and-ranking-objectives-product-manager",
+      "version": "0.1.0",
+      "relativePath": "packages/content-platform-retrieval-and-ranking-objectives-product-manager.zip",
+      "fileName": "content-platform-retrieval-and-ranking-objectives-product-manager.zip",
+      "sizeBytes": 11593,
+      "sha256": "a421e4c12383297db87066a125a33941a4a79cd747d53ba1689400546cee3dc5",
+      "format": "zip",
+      "industryId": "industry-5-content-media-platform",
+      "roleFamilyKey": "product-management"
+    },
+    {
+      "agentId": "content-platform-revenue-sharing-product-manager",
+      "version": "0.1.0",
+      "relativePath": "packages/content-platform-revenue-sharing-product-manager.zip",
+      "fileName": "content-platform-revenue-sharing-product-manager.zip",
+      "sizeBytes": 11376,
+      "sha256": "a66b4c85c8ed8ea63595a2338afb9c8b6525a5f55a3df5c5041d1ea00f9f123d",
+      "format": "zip",
+      "industryId": "industry-5-content-media-platform",
+      "roleFamilyKey": "product-management"
+    },
+    {
+      "agentId": "content-platform-search-product-manager",
+      "version": "0.1.0",
+      "relativePath": "packages/content-platform-search-product-manager.zip",
+      "fileName": "content-platform-search-product-manager.zip",
+      "sizeBytes": 11262,
+      "sha256": "489beb60403f0b3b49837f2a248b8693ca67487dccc3b3389f6ead9b7d230c09",
+      "format": "zip",
+      "industryId": "industry-5-content-media-platform",
+      "roleFamilyKey": "product-management"
+    },
+    {
+      "agentId": "content-platform-topics-and-communities-product-manager",
+      "version": "0.1.0",
+      "relativePath": "packages/content-platform-topics-and-communities-product-manager.zip",
+      "fileName": "content-platform-topics-and-communities-product-manager.zip",
+      "sizeBytes": 11472,
+      "sha256": "b48c6bfedb7b943b7f9a473947eef778863358583b64368457c02f732f3e5d76",
+      "format": "zip",
+      "industryId": "industry-5-content-media-platform",
+      "roleFamilyKey": "product-management"
+    },
+    {
+      "agentId": "content-platform-user-acquisition-conversion-product-manager",
+      "version": "0.1.0",
+      "relativePath": "packages/content-platform-user-acquisition-conversion-product-manager.zip",
+      "fileName": "content-platform-user-acquisition-conversion-product-manager.zip",
+      "sizeBytes": 11530,
+      "sha256": "a6a10c922c7768dc796d3cfa8f927405f074dcbfd288cd26d32e46f399d3c1d0",
+      "format": "zip",
+      "industryId": "industry-5-content-media-platform",
+      "roleFamilyKey": "product-management"
+    },
+    {
+      "agentId": "content-platform-viewing-experience-and-quality-strategy-product-manager",
+      "version": "0.1.0",
+      "relativePath": "packages/content-platform-viewing-experience-and-quality-strategy-product-manager.zip",
+      "fileName": "content-platform-viewing-experience-and-quality-strategy-product-manager.zip",
+      "sizeBytes": 11715,
+      "sha256": "97aacc4fe21bc85365527b8d5f5c80764331bce13b03e277c2386caa1d7724ae",
+      "format": "zip",
+      "industryId": "industry-5-content-media-platform",
+      "roleFamilyKey": "product-management"
+    }
+  ],
+  "catalogs": {
+    "bridge": {
+      "catalog": "catalogs/bridge/catalog.json",
+      "catalogLite": "catalogs/bridge/catalog-lite.json"
+    },
+    "published": {
+      "catalog": "catalogs/published/catalog.json",
+      "catalogLite": "catalogs/published/catalog-lite.json"
+    }
+  },
+  "promotion": {
+    "exportContract": "promotion/export-contract.json",
+    "targetRepo": "clawin-agents",
+    "mode": "copy-packages-and-generated-catalogs-only"
+  },
+  "projection": {
+    "targetSubdir": "releases/2026-03-15-p1-content-platform-product-management-30-agent",
+    "projectedBy": "scripts/project_release_bundle.py"
+  }
+}

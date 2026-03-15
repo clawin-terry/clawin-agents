@@ -1,0 +1,847 @@
+{
+  "schemaVersion": "1.0",
+  "catalogVersion": "0.1.0",
+  "generatedAt": "2026-03-15T19:23:33+08:00",
+  "totalAgents": 30,
+  "source": {
+    "repo": "clawin-private",
+    "branch": "feat/clawin-npm-install-foundation",
+    "commit": "ea7675063bde7bcd3ebf14ce21a74fed027fdf9d",
+    "projectionBaseUrl": "https://agents.clawin.club/releases/2026-03-15-p1-content-platform-product-management-30-agent"
+  },
+  "generatedBy": "scripts/project_release_bundle.py",
+  "agents": [
+    {
+      "id": "content-platform-advertising-product-manager",
+      "version": "0.1.0",
+      "title": "Advertising Product Manager",
+      "summary": "Owns advertising products so ad formats, delivery experiences, and monetization surfaces create stronger value for advertisers while protecting user experience.",
+      "tags": [
+        "content",
+        "platform",
+        "advertising",
+        "product",
+        "management"
+      ],
+      "domains": [
+        "product",
+        "management"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-15-p1-content-platform-product-management-30-agent/packages/content-platform-advertising-product-manager.zip"
+      }
+    },
+    {
+      "id": "content-platform-capture-editing-and-effects-product-manager",
+      "version": "0.1.0",
+      "title": "Capture, Editing, and Effects Product Manager",
+      "summary": "Owns capture, editing, and effects workflows so creation tools feel faster, more expressive, and easier for creators to use from first draft to polished output.",
+      "tags": [
+        "content",
+        "platform",
+        "capture",
+        "editing",
+        "and",
+        "effects",
+        "product",
+        "management"
+      ],
+      "domains": [
+        "product",
+        "management"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-15-p1-content-platform-product-management-30-agent/packages/content-platform-capture-editing-and-effects-product-manager.zip"
+      }
+    },
+    {
+      "id": "content-platform-cold-start-strategy-product-manager",
+      "version": "0.1.0",
+      "title": "Cold Start Strategy Product Manager",
+      "summary": "Owns cold-start strategy so new users, new creators, and new content can enter recommendation systems with stronger initial exposure and healthier quality signals.",
+      "tags": [
+        "content",
+        "platform",
+        "cold",
+        "start",
+        "strategy",
+        "product",
+        "management"
+      ],
+      "domains": [
+        "product",
+        "management"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-15-p1-content-platform-product-management-30-agent/packages/content-platform-cold-start-strategy-product-manager.zip"
+      }
+    },
+    {
+      "id": "content-platform-community-governance-product-manager",
+      "version": "0.1.0",
+      "title": "Community Governance Product Manager",
+      "summary": "Owns community-governance product coordination so participation systems, safety controls, and moderation workflows stay better aligned with healthy community development.",
+      "tags": [
+        "content",
+        "platform",
+        "community",
+        "governance",
+        "product",
+        "management"
+      ],
+      "domains": [
+        "product",
+        "management"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-15-p1-content-platform-product-management-30-agent/packages/content-platform-community-governance-product-manager.zip"
+      }
+    },
+    {
+      "id": "content-platform-creator-incentives-product-manager",
+      "version": "0.1.0",
+      "title": "Creator Incentives Product Manager",
+      "summary": "Owns creator-incentive products so participation, contribution quality, and creator motivation can be improved with clearer reward mechanics and healthier ecosystem outcomes.",
+      "tags": [
+        "content",
+        "platform",
+        "creator",
+        "incentives",
+        "product",
+        "management"
+      ],
+      "domains": [
+        "product",
+        "management"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-15-p1-content-platform-product-management-30-agent/packages/content-platform-creator-incentives-product-manager.zip"
+      }
+    },
+    {
+      "id": "content-platform-creator-tools-and-insights-product-manager",
+      "version": "0.1.0",
+      "title": "Creator Tools and Insights Product Manager",
+      "summary": "Owns creator tools and performance insights so creators can manage output, monitor results, and make better publishing decisions with clearer data support.",
+      "tags": [
+        "content",
+        "platform",
+        "creator",
+        "tools",
+        "and",
+        "insights",
+        "product",
+        "management"
+      ],
+      "domains": [
+        "product",
+        "management"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-15-p1-content-platform-product-management-30-agent/packages/content-platform-creator-tools-and-insights-product-manager.zip"
+      }
+    },
+    {
+      "id": "content-platform-direct-messaging-and-group-chat-product-manager",
+      "version": "0.1.0",
+      "title": "Direct Messaging and Group Chat Product Manager",
+      "summary": "Owns direct messaging and group chat experiences so private communication stays useful, safer, and better integrated with the broader creator and community journey.",
+      "tags": [
+        "content",
+        "platform",
+        "direct",
+        "messaging",
+        "and",
+        "group",
+        "chat",
+        "product"
+      ],
+      "domains": [
+        "product",
+        "management"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-15-p1-content-platform-product-management-30-agent/packages/content-platform-direct-messaging-and-group-chat-product-manager.zip"
+      }
+    },
+    {
+      "id": "content-platform-ecommerce-product-manager",
+      "version": "0.1.0",
+      "title": "Ecommerce Product Manager",
+      "summary": "Owns ecommerce products so shopping journeys, creator commerce surfaces, and transaction enablement features fit more naturally into the content platform experience.",
+      "tags": [
+        "content",
+        "platform",
+        "product",
+        "management"
+      ],
+      "domains": [
+        "product",
+        "management"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-15-p1-content-platform-product-management-30-agent/packages/content-platform-ecommerce-product-manager.zip"
+      }
+    },
+    {
+      "id": "content-platform-engagement-interactions-product-manager",
+      "version": "0.1.0",
+      "title": "Engagement Interactions Product Manager",
+      "summary": "Owns likes, comments, shares, and related interaction loops so user engagement features stay intuitive, expressive, and aligned with healthy community participation.",
+      "tags": [
+        "content",
+        "platform",
+        "engagement",
+        "interactions",
+        "product",
+        "management"
+      ],
+      "domains": [
+        "product",
+        "management"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-15-p1-content-platform-product-management-30-agent/packages/content-platform-engagement-interactions-product-manager.zip"
+      }
+    },
+    {
+      "id": "content-platform-feed-and-immersive-playback-product-manager",
+      "version": "0.1.0",
+      "title": "Feed and Immersive Playback Product Manager",
+      "summary": "Owns feed and immersive playback experiences so content discovery, session continuity, and full-screen viewing behavior feel more engaging and coherent across the platform.",
+      "tags": [
+        "content",
+        "platform",
+        "feed",
+        "and",
+        "immersive",
+        "playback",
+        "product",
+        "management"
+      ],
+      "domains": [
+        "product",
+        "management"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-15-p1-content-platform-product-management-30-agent/packages/content-platform-feed-and-immersive-playback-product-manager.zip"
+      }
+    },
+    {
+      "id": "content-platform-follow-and-fan-graph-product-manager",
+      "version": "0.1.0",
+      "title": "Follow and Fan Graph Product Manager",
+      "summary": "Owns follow and fan-graph products so relationship signals, creator reach, and audience-building mechanics stay stronger and more coherent across the platform.",
+      "tags": [
+        "content",
+        "platform",
+        "follow",
+        "and",
+        "fan",
+        "graph",
+        "product",
+        "management"
+      ],
+      "domains": [
+        "product",
+        "management"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-15-p1-content-platform-product-management-30-agent/packages/content-platform-follow-and-fan-graph-product-manager.zip"
+      }
+    },
+    {
+      "id": "content-platform-gift-and-revenue-share-strategy-manager",
+      "version": "0.1.0",
+      "title": "Gift and Revenue Share Strategy Manager",
+      "summary": "Owns livestream gifting and revenue share strategy so monetization mechanics, creator incentives, and platform economics stay balanced and sustainable.",
+      "tags": [
+        "content",
+        "platform",
+        "gift",
+        "and",
+        "revenue",
+        "share",
+        "strategy",
+        "product"
+      ],
+      "domains": [
+        "product",
+        "management"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-15-p1-content-platform-product-management-30-agent/packages/content-platform-gift-and-revenue-share-strategy-manager.zip"
+      }
+    },
+    {
+      "id": "content-platform-gifting-and-cohost-rules-product-manager",
+      "version": "0.1.0",
+      "title": "Gifting and Co-Host Rules Product Manager",
+      "summary": "Owns gifting systems and co-host rule products so monetization, collaborative live formats, and participation safeguards stay balanced and easier to govern.",
+      "tags": [
+        "content",
+        "platform",
+        "gifting",
+        "and",
+        "cohost",
+        "rules",
+        "product",
+        "co"
+      ],
+      "domains": [
+        "product",
+        "management"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-15-p1-content-platform-product-management-30-agent/packages/content-platform-gifting-and-cohost-rules-product-manager.zip"
+      }
+    },
+    {
+      "id": "content-platform-growth-experimentation-product-manager",
+      "version": "0.1.0",
+      "title": "Growth Experimentation Product Manager",
+      "summary": "Owns growth experimentation design so hypothesis testing, rollout discipline, and learning loops improve growth decisions with stronger causal evidence.",
+      "tags": [
+        "content",
+        "platform",
+        "growth",
+        "experimentation",
+        "product",
+        "management"
+      ],
+      "domains": [
+        "product",
+        "management"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-15-p1-content-platform-product-management-30-agent/packages/content-platform-growth-experimentation-product-manager.zip"
+      }
+    },
+    {
+      "id": "content-platform-live-interaction-mechanics-product-manager",
+      "version": "0.1.0",
+      "title": "Live Interaction Mechanics Product Manager",
+      "summary": "Owns live interaction mechanics so participatory features, session energy, and viewer-host engagement patterns stay compelling and operationally manageable.",
+      "tags": [
+        "content",
+        "platform",
+        "live",
+        "interaction",
+        "mechanics",
+        "product",
+        "management"
+      ],
+      "domains": [
+        "product",
+        "management"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-15-p1-content-platform-product-management-30-agent/packages/content-platform-live-interaction-mechanics-product-manager.zip"
+      }
+    },
+    {
+      "id": "content-platform-livestream-governance-product-manager",
+      "version": "0.1.0",
+      "title": "Livestream Governance Product Manager",
+      "summary": "Owns livestream-governance product coordination so live safety controls, moderation tooling, and policy execution stay well aligned with product experience decisions.",
+      "tags": [
+        "content",
+        "platform",
+        "livestream",
+        "governance",
+        "product",
+        "management"
+      ],
+      "domains": [
+        "product",
+        "management"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-15-p1-content-platform-product-management-30-agent/packages/content-platform-livestream-governance-product-manager.zip"
+      }
+    },
+    {
+      "id": "content-platform-livestream-room-product-manager",
+      "version": "0.1.0",
+      "title": "Livestream Room Product Manager",
+      "summary": "Owns livestream-room product experiences so hosts, viewers, and moderators can navigate live sessions with clearer controls, stronger engagement, and smoother room operations.",
+      "tags": [
+        "content",
+        "platform",
+        "livestream",
+        "room",
+        "product",
+        "management"
+      ],
+      "domains": [
+        "product",
+        "management"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-15-p1-content-platform-product-management-30-agent/packages/content-platform-livestream-room-product-manager.zip"
+      }
+    },
+    {
+      "id": "content-platform-membership-product-manager",
+      "version": "0.1.0",
+      "title": "Membership Product Manager",
+      "summary": "Owns membership products so subscription value, premium user journeys, and monetization retention mechanics improve with clearer product positioning.",
+      "tags": [
+        "content",
+        "platform",
+        "membership",
+        "product",
+        "management"
+      ],
+      "domains": [
+        "product",
+        "management"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-15-p1-content-platform-product-management-30-agent/packages/content-platform-membership-product-manager.zip"
+      }
+    },
+    {
+      "id": "content-platform-membership-subscription-product-manager",
+      "version": "0.1.0",
+      "title": "Membership Subscription Product Manager",
+      "summary": "Owns membership subscription product strategy so plan structure, paid entitlements, and premium experience design improve retention and long-term recurring engagement.",
+      "tags": [
+        "content",
+        "platform",
+        "membership",
+        "subscription",
+        "product",
+        "management"
+      ],
+      "domains": [
+        "product",
+        "management"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-15-p1-content-platform-product-management-30-agent/packages/content-platform-membership-subscription-product-manager.zip"
+      }
+    },
+    {
+      "id": "content-platform-multi-objective-and-constraints-strategy-product-manager",
+      "version": "0.1.0",
+      "title": "Multi-Objective and Constraints Strategy Product Manager",
+      "summary": "Owns multi-objective and constraints strategy so recommendation and distribution systems can balance growth, quality, risk, monetization, and fairness more coherently.",
+      "tags": [
+        "content",
+        "platform",
+        "multi",
+        "objective",
+        "and",
+        "constraints",
+        "strategy",
+        "product"
+      ],
+      "domains": [
+        "product",
+        "management"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-15-p1-content-platform-product-management-30-agent/packages/content-platform-multi-objective-and-constraints-strategy-product-manager.zip"
+      }
+    },
+    {
+      "id": "content-platform-publishing-workflow-product-manager",
+      "version": "0.1.0",
+      "title": "Publishing Workflow Product Manager",
+      "summary": "Owns publishing workflows so creators can move from draft to release with clearer controls, fewer failure points, and stronger confidence in the publishing path.",
+      "tags": [
+        "content",
+        "platform",
+        "publishing",
+        "workflow",
+        "product",
+        "management"
+      ],
+      "domains": [
+        "product",
+        "management"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-15-p1-content-platform-product-management-30-agent/packages/content-platform-publishing-workflow-product-manager.zip"
+      }
+    },
+    {
+      "id": "content-platform-recommendation-strategy-product-manager",
+      "version": "0.1.0",
+      "title": "Recommendation Strategy Product Manager",
+      "summary": "Owns recommendation strategy so ranking objectives, user satisfaction, and ecosystem outcomes stay balanced across personalized content distribution decisions.",
+      "tags": [
+        "content",
+        "platform",
+        "recommendation",
+        "strategy",
+        "product",
+        "management"
+      ],
+      "domains": [
+        "product",
+        "management"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-15-p1-content-platform-product-management-30-agent/packages/content-platform-recommendation-strategy-product-manager.zip"
+      }
+    },
+    {
+      "id": "content-platform-referrals-and-invitations-product-manager",
+      "version": "0.1.0",
+      "title": "Referrals and Invitations Product Manager",
+      "summary": "Owns referral and invitation products so sharing loops, user-led growth channels, and invite mechanics produce stronger and healthier acquisition outcomes.",
+      "tags": [
+        "content",
+        "platform",
+        "referrals",
+        "and",
+        "invitations",
+        "product",
+        "management"
+      ],
+      "domains": [
+        "product",
+        "management"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-15-p1-content-platform-product-management-30-agent/packages/content-platform-referrals-and-invitations-product-manager.zip"
+      }
+    },
+    {
+      "id": "content-platform-retention-and-reactivation-product-manager",
+      "version": "0.1.0",
+      "title": "Retention and Reactivation Product Manager",
+      "summary": "Owns retention and reactivation products so returning-user behavior, habit formation, and churn-recovery flows stay more effective across the content platform lifecycle.",
+      "tags": [
+        "content",
+        "platform",
+        "retention",
+        "and",
+        "reactivation",
+        "product",
+        "management"
+      ],
+      "domains": [
+        "product",
+        "management"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-15-p1-content-platform-product-management-30-agent/packages/content-platform-retention-and-reactivation-product-manager.zip"
+      }
+    },
+    {
+      "id": "content-platform-retrieval-and-ranking-objectives-product-manager",
+      "version": "0.1.0",
+      "title": "Retrieval and Ranking Objectives Product Manager",
+      "summary": "Defines retrieval and ranking objectives so recommendation systems can optimize for clearer business goals, user value, and ecosystem-quality tradeoffs.",
+      "tags": [
+        "content",
+        "platform",
+        "retrieval",
+        "and",
+        "ranking",
+        "objectives",
+        "product",
+        "management"
+      ],
+      "domains": [
+        "product",
+        "management"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-15-p1-content-platform-product-management-30-agent/packages/content-platform-retrieval-and-ranking-objectives-product-manager.zip"
+      }
+    },
+    {
+      "id": "content-platform-revenue-sharing-product-manager",
+      "version": "0.1.0",
+      "title": "Revenue Sharing Product Manager",
+      "summary": "Owns revenue-sharing products so creator payouts, settlement logic, and monetization incentives stay transparent, scalable, and easier to operate.",
+      "tags": [
+        "content",
+        "platform",
+        "revenue",
+        "sharing",
+        "product",
+        "management"
+      ],
+      "domains": [
+        "product",
+        "management"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-15-p1-content-platform-product-management-30-agent/packages/content-platform-revenue-sharing-product-manager.zip"
+      }
+    },
+    {
+      "id": "content-platform-search-product-manager",
+      "version": "0.1.0",
+      "title": "Search Product Manager",
+      "summary": "Owns search products so intent understanding, result usefulness, and content retrieval quality improve across the platform's discovery journeys.",
+      "tags": [
+        "content",
+        "platform",
+        "search",
+        "product",
+        "management"
+      ],
+      "domains": [
+        "product",
+        "management"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-15-p1-content-platform-product-management-30-agent/packages/content-platform-search-product-manager.zip"
+      }
+    },
+    {
+      "id": "content-platform-topics-and-communities-product-manager",
+      "version": "0.1.0",
+      "title": "Topics and Communities Product Manager",
+      "summary": "Owns topics and community products so conversations, interest hubs, and user participation structures become easier to navigate and scale more effectively.",
+      "tags": [
+        "content",
+        "platform",
+        "topics",
+        "and",
+        "communities",
+        "product",
+        "management"
+      ],
+      "domains": [
+        "product",
+        "management"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-15-p1-content-platform-product-management-30-agent/packages/content-platform-topics-and-communities-product-manager.zip"
+      }
+    },
+    {
+      "id": "content-platform-user-acquisition-conversion-product-manager",
+      "version": "0.1.0",
+      "title": "User Acquisition and Conversion Product Manager",
+      "summary": "Owns user-acquisition and conversion products so growth entry points, onboarding flows, and new-user activation patterns convert more effectively.",
+      "tags": [
+        "content",
+        "platform",
+        "user",
+        "acquisition",
+        "conversion",
+        "product",
+        "and",
+        "management"
+      ],
+      "domains": [
+        "product",
+        "management"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-15-p1-content-platform-product-management-30-agent/packages/content-platform-user-acquisition-conversion-product-manager.zip"
+      }
+    },
+    {
+      "id": "content-platform-viewing-experience-and-quality-strategy-product-manager",
+      "version": "0.1.0",
+      "title": "Viewing Experience and Quality Strategy Product Manager",
+      "summary": "Owns viewing experience and video-quality strategy so playback smoothness, visual clarity, and user satisfaction improve across varying devices and network conditions.",
+      "tags": [
+        "content",
+        "platform",
+        "viewing",
+        "experience",
+        "and",
+        "quality",
+        "strategy",
+        "product"
+      ],
+      "domains": [
+        "product",
+        "management"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-15-p1-content-platform-product-management-30-agent/packages/content-platform-viewing-experience-and-quality-strategy-product-manager.zip"
+      }
+    }
+  ]
+}
