@@ -48,27 +48,17 @@ Current published catalog snapshot:
 For the full breakdown by role family and per-agent links, see:
 - [CATALOG.md](./CATALOG.md)
 
-## Featured starting points
+## Featured canary starting point
 
-If you want a quick place to start, these are strong entry points:
+If you want to follow the current public canary flow end to end, start here:
 
-### Frontend Engineer (JS/TS)
-- Path: `categories/industry-1-software-it/agents/engineering/software-it-frontend-engineer-js-ts/`
-- Direct link: [open package](./categories/industry-1-software-it/agents/engineering/software-it-frontend-engineer-js-ts/)
-- Good for: web UI implementation, component work, frontend delivery
-- Bundled skills: `coding-agent`, `ui-ux-pro-max`, `frontend-design`
+### Web Performance Engineer (JS/TS)
+- Path: `categories/industry-1-software-it/agents/engineering/software-it-web-performance-engineer-js-ts/`
+- Direct link: [open package](./categories/industry-1-software-it/agents/engineering/software-it-web-performance-engineer-js-ts/)
+- Good for: frontend performance analysis, Core Web Vitals work, JavaScript and TypeScript delivery
+- Bundled skills: `coding-agent`, `frontend-design`
 
-### Backend Engineer (Java)
-- Path: `categories/industry-1-software-it/agents/engineering/software-it-backend-engineer-java/`
-- Direct link: [open package](./categories/industry-1-software-it/agents/engineering/software-it-backend-engineer-java/)
-- Good for: backend services, APIs, Java-centric delivery
-- Bundled skills: `coding-agent`
-
-### Kubernetes Platform Engineer (Go)
-- Path: `categories/industry-1-software-it/agents/platform-engineering/software-it-kubernetes-platform-engineer-go/`
-- Direct link: [open package](./categories/industry-1-software-it/agents/platform-engineering/software-it-kubernetes-platform-engineer-go/)
-- Good for: platform operations, Kubernetes-heavy engineering environments
-- Bundled skills: `coding-agent`, `healthcheck`
+The current public canary release is `2026-03-15-p0-canary-3-agent`, and its install examples on this site use `software-it-web-performance-engineer-js-ts` as the software reference flow.
 
 See the full catalog in:
 - [CATALOG.md](./CATALOG.md)
