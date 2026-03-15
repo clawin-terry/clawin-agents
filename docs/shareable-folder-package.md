@@ -54,7 +54,14 @@ A release-ready package should not include:
 - recipient-specific bindings
 
 ## Install Rule
-The package must be installable by copying the folder and merging the config entry, with only recipient-specific secrets left to fill.
+The package must remain installable through the published Clawin catalog flow, with only local secrets, provider choices, and environment-specific bindings left to fill after install.
+
+The canonical public flow is:
+- `npm install -g agents.clawin`
+- `clawin init`
+- `clawin catalog refresh --catalog https://agents.clawin.club/releases/<release>/catalogs/published/catalog.json`
+- `clawin install <agentId>`
+- `clawin status <agentId>`
 
 ## Validation Checklist
 A package passes the shareable-folder contract only if:

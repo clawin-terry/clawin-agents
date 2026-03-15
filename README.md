@@ -3,7 +3,7 @@
 **Install-ready OpenClaw agents, organized by industry and role.**
 
 This repository is the **public output catalog** for Clawin.
-It publishes curated agent packages that can be copied into an OpenClaw installation and used directly after local configuration.
+It publishes curated agent packages that can be installed into an OpenClaw environment through the public Clawin CLI flow and then used after local configuration.
 
 ## Quick links
 
@@ -18,7 +18,7 @@ It publishes curated agent packages that can be copied into an OpenClaw installa
 Use this repository if you want to:
 - browse ready-to-install OpenClaw agents by role
 - pick a specialist agent instead of starting from a blank workspace
-- copy one package into your own OpenClaw setup and start using it quickly
+- install a published package into your own OpenClaw setup through the public Clawin catalog flow
 
 ## What this repo is not
 
@@ -75,13 +75,19 @@ See the full catalog in:
 
 ## Install in a few minutes
 
-1. Pick one agent folder under `categories/<industry>/agents/<family>/<agentId>/`
-2. Copy that folder into:
-   - `~/.openclaw/agents/<agentId>/`
-3. Merge the included config entry or config snippet into your OpenClaw config
-4. Fill your local provider secrets and environment-specific settings
-5. Reload OpenClaw
-6. Start chatting with the installed agent
+1. Install the CLI:
+   - `npm install -g agents.clawin`
+2. Initialize it:
+   - `clawin init`
+3. Refresh from a published catalog:
+   - `clawin catalog refresh --catalog https://agents.clawin.club/releases/2026-03-15-p0-canary-3-agent/catalogs/published/catalog.json`
+4. Search or inspect an agent:
+   - `clawin search "frontend engineer"`
+   - `clawin info software-it-frontend-engineer-js-ts`
+5. Install the agent:
+   - `clawin install software-it-frontend-engineer-js-ts`
+6. Review local result and config follow-up:
+   - `clawin status software-it-frontend-engineer-js-ts`
 
 Detailed instructions:
 - [INSTALL.md](./INSTALL.md)
@@ -137,5 +143,5 @@ If a bundled component ships with its own license file or origin metadata, treat
 
 - Secrets are intentionally excluded.
 - Users must provide their own local provider configuration.
-- These packages are designed for direct OpenClaw use, not as standalone apps.
+- These packages are designed for catalog-driven OpenClaw installs, not as standalone apps.
 - Future releases should continue expanding this catalog with curated agent outputs from the private source repository.

@@ -1,68 +1,94 @@
-# Install an Agent from this Repository
+# Install an Agent from the Public Clawin Catalog
 
 ## Prerequisites
 
+- Node.js and npm available on the target machine
 - an existing OpenClaw installation
-- a working model/provider configuration on the target machine
 - permission to edit the target OpenClaw config
+- a working model/provider setup for the machine where the agent will run
 
 ## Install steps
 
-### 1. Choose an agent package
-Pick one agent folder from:
+### 1. Install the Clawin CLI
 
-```text
-categories/<industry-id>/agents/<role-family-key>/<agentId>/
+```bash
+npm install -g agents.clawin
 ```
 
-Example:
+### 2. Initialize Clawin on the machine
 
-```text
-categories/industry-1-software-it/agents/engineering/i1-backend-engineer-java/
+```bash
+clawin init
 ```
 
-### 2. Copy the folder into your local OpenClaw agents directory
-Target path:
+This prepares the local Clawin workspace and config wiring used for catalog-driven installs.
+
+### 3. Refresh from a published catalog
+
+Catalog URL pattern:
 
 ```text
-~/.openclaw/agents/<agentId>/
+https://agents.clawin.club/releases/<release>/catalogs/published/catalog.json
 ```
 
-Example:
+Current canary example:
 
-```text
-~/.openclaw/agents/i1-backend-engineer-java/
+```bash
+clawin catalog refresh --catalog https://agents.clawin.club/releases/2026-03-15-p0-canary-3-agent/catalogs/published/catalog.json
 ```
 
-### 3. Merge the provided config
-Each package provides:
-- `config/openclaw.agent.<agentId>.entry.json`
-- `config/openclaw.agent.<agentId>.snippet.json`
+Use the published release you want. The URL always points to a release-scoped catalog snapshot under `/releases/<release>/catalogs/published/catalog.json`.
 
-Use:
-- `entry.json` if you are adding one agent entry into `agents.list`
-- `snippet.json` if you prefer a wrapper fragment for config merging
+### 4. Search and inspect agents
 
-### 4. Fill local secrets and provider choices
-Read:
+Search the catalog:
 
-```text
-config/SECRETS.md
+```bash
+clawin search "frontend engineer"
 ```
 
-Provide your own local configuration for:
-- model/provider credentials
-- any recipient-specific routing or environment decisions
+Inspect one package before install:
 
-### 5. Reload OpenClaw
-Reload or restart OpenClaw so the new agent is available.
+```bash
+clawin info software-it-frontend-engineer-js-ts
+```
 
-### 6. Start using the agent
-Open a chat with the installed agent and give it a task that matches its role.
+You can use any published agent id. Current examples should use real public ids such as:
+- `software-it-frontend-engineer-js-ts`
+- `software-it-backend-engineer-java`
+- `software-it-kubernetes-platform-engineer-go`
+
+### 5. Install the agent
+
+```bash
+clawin install software-it-frontend-engineer-js-ts
+```
+
+The install command handles the package fetch and local placement for you. You do not need to manually copy a folder from `categories/...` into `~/.openclaw/agents/<agentId>/`.
+
+### 6. Review status and local config follow-up
+
+Check the local install result:
+
+```bash
+clawin status software-it-frontend-engineer-js-ts
+```
+
+After install, finish the local-only pieces required by your environment:
+- review the generated registration/config output
+- keep provider credentials and other secrets local
+- apply any environment-specific routing or recipient bindings
+
+If the installed package ships a config entry or snippet, treat it as local configuration material. In safe-mode flows, review the generated registration/config snippet before enabling the agent in your own OpenClaw setup.
+
+### 7. Reload OpenClaw if needed
+
+If your OpenClaw process does not hot-reload the new registration automatically, reload or restart it so the agent becomes available.
 
 ## Important notes
 
 - Do not commit your local secrets back into this repository.
-- These packages are meant to be install-ready folders, not standalone apps.
-- Bundled agent-specific skills live under `workspace/skills/` when included.
-- Clawin packages intentionally keep required skills inside each agent package so a single copied folder remains usable on its own.
+- The public catalog is release-scoped; refresh the catalog again when you want a newer published release.
+- Bundled agent-specific skills still live under `workspace/skills/` inside installed packages when included.
+- Clawin packages intentionally keep required skills inside each agent package so a single install remains usable on its own.
+- Provider API keys, channel auth state, recipient-specific bindings, and environment-specific routing choices remain local responsibilities.
