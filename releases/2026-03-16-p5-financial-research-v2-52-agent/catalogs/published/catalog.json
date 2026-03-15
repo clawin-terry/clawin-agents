@@ -1,0 +1,3297 @@
+{
+  "schemaVersion": "1.0",
+  "catalogVersion": "2026-03-16-p5-financial-research-v2-52-agent",
+  "generatedAt": "2026-03-16T01:16:52+08:00",
+  "totalAgents": 52,
+  "source": {
+    "repo": "clawin-private",
+    "branch": "feat/stock-analysis-agent-pipeline-test",
+    "commit": "f9062910fe75b781db2b418f7125773b77f19fd7",
+    "projectionBaseUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent"
+  },
+  "generatedBy": "scripts/project_release_bundle.py",
+  "agents": [
+    {
+      "schemaVersion": "1.0",
+      "id": "financial-research-alt-data-analyst",
+      "version": "0.1.0",
+      "title": "Alternative Data Signal Analyst",
+      "summary": "Summarizes alternative-data inputs such as web traffic, app trends, card data, satellite indicators, or hiring signals while highlighting methodological limits.",
+      "classification": {
+        "industryId": "industry-6-financial-research",
+        "familyKey": "research-ops-data-monitoring"
+      },
+      "discovery": {
+        "tags": [
+          "financial",
+          "research",
+          "alt",
+          "data",
+          "alternative",
+          "signal",
+          "ops",
+          "monitoring"
+        ],
+        "domains": [
+          "research",
+          "ops"
+        ],
+        "taskTypes": [
+          "analysis",
+          "planning"
+        ],
+        "stacks": [
+          "financial",
+          "research",
+          "alt",
+          "data"
+        ],
+        "deliverables": [
+          "checklist",
+          "implementation-plan"
+        ],
+        "capabilities": [
+          "financial-research",
+          "ops-monitoring"
+        ]
+      },
+      "runtime": {
+        "tools": [
+          "docs",
+          "shell",
+          "coding",
+          "data-analysis"
+        ],
+        "bundledSkills": [
+          "coding-agent"
+        ],
+        "recommendedModel": "openai-codex/gpt-5.4",
+        "requiresSecrets": false,
+        "setupCost": "low",
+        "readyAfterInstall": true
+      },
+      "install": {
+        "format": "zip",
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-alt-data-analyst.zip",
+        "packageSha256": "f9ce76a72dfd03d2e7d3a6297bcefc04e4ee654a33b919e882d660e1b45c84f9"
+      }
+    },
+    {
+      "schemaVersion": "1.0",
+      "id": "financial-research-business-model-analyst",
+      "version": "0.1.0",
+      "title": "Business Model Analyst",
+      "summary": "Maps revenue engines, unit economics, customer concentration, pricing power, and cost structure to clarify how the business actually creates value.",
+      "classification": {
+        "industryId": "industry-6-financial-research",
+        "familyKey": "equity-analysis"
+      },
+      "discovery": {
+        "tags": [
+          "financial",
+          "research",
+          "business",
+          "model",
+          "equity",
+          "analysis"
+        ],
+        "domains": [
+          "equity",
+          "analysis"
+        ],
+        "taskTypes": [
+          "analysis",
+          "planning"
+        ],
+        "stacks": [
+          "financial",
+          "research",
+          "business",
+          "model"
+        ],
+        "deliverables": [
+          "audit-report",
+          "checklist",
+          "implementation-plan"
+        ],
+        "capabilities": [
+          "financial-research",
+          "equity-analysis"
+        ]
+      },
+      "runtime": {
+        "tools": [
+          "docs",
+          "shell",
+          "coding",
+          "design"
+        ],
+        "bundledSkills": [
+          "coding-agent"
+        ],
+        "recommendedModel": "openai-codex/gpt-5.4",
+        "requiresSecrets": false,
+        "setupCost": "low",
+        "readyAfterInstall": true
+      },
+      "install": {
+        "format": "zip",
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-business-model-analyst.zip",
+        "packageSha256": "5541009530d3f1755518f0d520b82d438ef3777d855967378bd5a4ebb16800df"
+      }
+    },
+    {
+      "schemaVersion": "1.0",
+      "id": "financial-research-capital-allocation-analyst",
+      "version": "0.1.0",
+      "title": "Capital Allocation Analyst",
+      "summary": "Examines reinvestment choices, buybacks, dividends, M&A discipline, and balance-sheet deployment to judge whether management capital allocation supports the thesis.",
+      "classification": {
+        "industryId": "industry-6-financial-research",
+        "familyKey": "equity-analysis"
+      },
+      "discovery": {
+        "tags": [
+          "financial",
+          "research",
+          "capital",
+          "allocation",
+          "equity",
+          "analysis"
+        ],
+        "domains": [
+          "equity",
+          "analysis"
+        ],
+        "taskTypes": [
+          "analysis",
+          "planning"
+        ],
+        "stacks": [
+          "financial",
+          "research",
+          "capital",
+          "allocation"
+        ],
+        "deliverables": [
+          "audit-report",
+          "checklist",
+          "implementation-plan"
+        ],
+        "capabilities": [
+          "financial-research",
+          "equity-analysis"
+        ]
+      },
+      "runtime": {
+        "tools": [
+          "docs",
+          "shell",
+          "coding",
+          "design"
+        ],
+        "bundledSkills": [
+          "coding-agent"
+        ],
+        "recommendedModel": "openai-codex/gpt-5.4",
+        "requiresSecrets": false,
+        "setupCost": "low",
+        "readyAfterInstall": true
+      },
+      "install": {
+        "format": "zip",
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-capital-allocation-analyst.zip",
+        "packageSha256": "5ab2984f4237725775d568d3354ab24e2d55d8648b22502d41ff47ec7146d10f"
+      }
+    },
+    {
+      "schemaVersion": "1.0",
+      "id": "financial-research-catalyst-calendar-lead",
+      "version": "0.1.0",
+      "title": "Catalyst Calendar Coordinator",
+      "summary": "Maintains a team-level catalyst calendar that consolidates company events, macro releases, industry checkpoints, and internal memo deadlines.",
+      "classification": {
+        "industryId": "industry-6-financial-research",
+        "familyKey": "research-ops-data-monitoring"
+      },
+      "discovery": {
+        "tags": [
+          "financial",
+          "research",
+          "catalyst",
+          "calendar",
+          "ops",
+          "data",
+          "monitoring"
+        ],
+        "domains": [
+          "research",
+          "ops"
+        ],
+        "taskTypes": [
+          "analysis",
+          "planning"
+        ],
+        "stacks": [
+          "financial",
+          "research",
+          "catalyst",
+          "calendar"
+        ],
+        "deliverables": [
+          "checklist",
+          "implementation-plan"
+        ],
+        "capabilities": [
+          "financial-research",
+          "data-monitoring"
+        ]
+      },
+      "runtime": {
+        "tools": [
+          "docs",
+          "shell",
+          "coding",
+          "data-analysis"
+        ],
+        "bundledSkills": [
+          "coding-agent"
+        ],
+        "recommendedModel": "openai-codex/gpt-5.4",
+        "requiresSecrets": false,
+        "setupCost": "low",
+        "readyAfterInstall": true
+      },
+      "install": {
+        "format": "zip",
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-catalyst-calendar-lead.zip",
+        "packageSha256": "a2d7a5c04d33e787dc15060fd25b801a8358ad61aa9472a0f24b0ca5fd57804f"
+      }
+    },
+    {
+      "schemaVersion": "1.0",
+      "id": "financial-research-catalyst-path-analyst",
+      "version": "0.1.0",
+      "title": "Catalyst Path Analyst",
+      "summary": "Maps plausible catalyst sequences and failure paths so teams can see which evidence checkpoints matter before a thesis can strengthen or break.",
+      "classification": {
+        "industryId": "industry-6-financial-research",
+        "familyKey": "scenario-stress-analysis"
+      },
+      "discovery": {
+        "tags": [
+          "financial",
+          "research",
+          "catalyst",
+          "path",
+          "scenario",
+          "stress",
+          "analysis"
+        ],
+        "domains": [
+          "scenario",
+          "stress"
+        ],
+        "taskTypes": [
+          "analysis",
+          "planning"
+        ],
+        "stacks": [
+          "financial",
+          "research",
+          "catalyst",
+          "path"
+        ],
+        "deliverables": [
+          "audit-report",
+          "checklist",
+          "implementation-plan"
+        ],
+        "capabilities": [
+          "financial-research",
+          "stress-analysis"
+        ]
+      },
+      "runtime": {
+        "tools": [
+          "docs",
+          "shell",
+          "coding"
+        ],
+        "bundledSkills": [
+          "coding-agent"
+        ],
+        "recommendedModel": "openai-codex/gpt-5.4",
+        "requiresSecrets": false,
+        "setupCost": "low",
+        "readyAfterInstall": true
+      },
+      "install": {
+        "format": "zip",
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-catalyst-path-analyst.zip",
+        "packageSha256": "69c09496585fd99725740e1b290b4120797f764e3b881b51e858b4d507c4743a"
+      }
+    },
+    {
+      "schemaVersion": "1.0",
+      "id": "financial-research-channel-check-planner",
+      "version": "0.1.0",
+      "title": "Channel Check Planner",
+      "summary": "Designs disciplined channel-check plans by identifying what to ask, whom to ask, and what bias controls are needed before anecdotal evidence is used.",
+      "classification": {
+        "industryId": "industry-6-financial-research",
+        "familyKey": "sector-thematic-research"
+      },
+      "discovery": {
+        "tags": [
+          "financial",
+          "research",
+          "channel",
+          "check",
+          "planner",
+          "sector",
+          "thematic"
+        ],
+        "domains": [
+          "sector",
+          "thematic"
+        ],
+        "taskTypes": [
+          "analysis",
+          "planning"
+        ],
+        "stacks": [
+          "financial",
+          "research",
+          "channel",
+          "check"
+        ],
+        "deliverables": [
+          "checklist",
+          "implementation-plan"
+        ],
+        "capabilities": [
+          "financial-research",
+          "sector-thematic"
+        ]
+      },
+      "runtime": {
+        "tools": [
+          "docs",
+          "shell",
+          "coding"
+        ],
+        "bundledSkills": [
+          "coding-agent"
+        ],
+        "recommendedModel": "openai-codex/gpt-5.4",
+        "requiresSecrets": false,
+        "setupCost": "low",
+        "readyAfterInstall": true
+      },
+      "install": {
+        "format": "zip",
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-channel-check-planner.zip",
+        "packageSha256": "b74fa4ddfc9e6a34e45e57a84a5af9657837ddb250d85e44a5a2039f52b38b65"
+      }
+    },
+    {
+      "schemaVersion": "1.0",
+      "id": "financial-research-company-research-analyst",
+      "version": "0.1.0",
+      "title": "Company Research Analyst",
+      "summary": "Builds a fundamentals-first company view covering business model, management quality, competitive position, operating drivers, and catalyst context for listed companies.",
+      "classification": {
+        "industryId": "industry-6-financial-research",
+        "familyKey": "equity-analysis"
+      },
+      "discovery": {
+        "tags": [
+          "financial",
+          "research",
+          "company",
+          "equity",
+          "analysis"
+        ],
+        "domains": [
+          "equity",
+          "analysis"
+        ],
+        "taskTypes": [
+          "analysis",
+          "planning"
+        ],
+        "stacks": [
+          "financial",
+          "research",
+          "company",
+          "equity"
+        ],
+        "deliverables": [
+          "audit-report",
+          "checklist",
+          "implementation-plan"
+        ],
+        "capabilities": [
+          "financial-research",
+          "equity-analysis"
+        ]
+      },
+      "runtime": {
+        "tools": [
+          "docs",
+          "shell",
+          "coding",
+          "design"
+        ],
+        "bundledSkills": [
+          "coding-agent"
+        ],
+        "recommendedModel": "openai-codex/gpt-5.4",
+        "requiresSecrets": false,
+        "setupCost": "low",
+        "readyAfterInstall": true
+      },
+      "install": {
+        "format": "zip",
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-company-research-analyst.zip",
+        "packageSha256": "13e32b8ffed1ef4ac28ba7aa160226e0558ec9142f175d8930cd314bb83f19b5"
+      }
+    },
+    {
+      "schemaVersion": "1.0",
+      "id": "financial-research-competitive-landscape-analyst",
+      "version": "0.1.0",
+      "title": "Competitive Landscape Analyst",
+      "summary": "Maps competitor positioning, strategic moves, pricing behavior, product differentiation, and share-shift drivers within a target market.",
+      "classification": {
+        "industryId": "industry-6-financial-research",
+        "familyKey": "sector-thematic-research"
+      },
+      "discovery": {
+        "tags": [
+          "financial",
+          "research",
+          "competitive",
+          "landscape",
+          "sector",
+          "thematic"
+        ],
+        "domains": [
+          "sector",
+          "thematic"
+        ],
+        "taskTypes": [
+          "analysis",
+          "planning"
+        ],
+        "stacks": [
+          "financial",
+          "research",
+          "competitive",
+          "landscape"
+        ],
+        "deliverables": [
+          "checklist",
+          "implementation-plan"
+        ],
+        "capabilities": [
+          "financial-research",
+          "sector-thematic"
+        ]
+      },
+      "runtime": {
+        "tools": [
+          "docs",
+          "shell",
+          "coding"
+        ],
+        "bundledSkills": [
+          "coding-agent"
+        ],
+        "recommendedModel": "openai-codex/gpt-5.4",
+        "requiresSecrets": false,
+        "setupCost": "low",
+        "readyAfterInstall": true
+      },
+      "install": {
+        "format": "zip",
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-competitive-landscape-analyst.zip",
+        "packageSha256": "3e284d8b1f019ec4dc5beed74219d93408b3546e583104d063dbe1b6ca9f668c"
+      }
+    },
+    {
+      "schemaVersion": "1.0",
+      "id": "financial-research-consensus-estimate-monitor",
+      "version": "0.1.0",
+      "title": "Consensus Estimate Monitor",
+      "summary": "Tracks consensus revenue, margin, EPS, and free-cash-flow expectation changes across covered names so estimate drift is visible before major events.",
+      "classification": {
+        "industryId": "industry-6-financial-research",
+        "familyKey": "research-ops-data-monitoring"
+      },
+      "discovery": {
+        "tags": [
+          "financial",
+          "research",
+          "consensus",
+          "estimate",
+          "monitor",
+          "ops",
+          "data",
+          "monitoring"
+        ],
+        "domains": [
+          "research",
+          "ops"
+        ],
+        "taskTypes": [
+          "analysis",
+          "planning"
+        ],
+        "stacks": [
+          "financial",
+          "research",
+          "consensus",
+          "estimate"
+        ],
+        "deliverables": [
+          "checklist",
+          "implementation-plan"
+        ],
+        "capabilities": [
+          "financial-research",
+          "data-monitoring"
+        ]
+      },
+      "runtime": {
+        "tools": [
+          "docs",
+          "shell",
+          "coding",
+          "data-analysis"
+        ],
+        "bundledSkills": [
+          "coding-agent"
+        ],
+        "recommendedModel": "openai-codex/gpt-5.4",
+        "requiresSecrets": false,
+        "setupCost": "low",
+        "readyAfterInstall": true
+      },
+      "install": {
+        "format": "zip",
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-consensus-estimate-monitor.zip",
+        "packageSha256": "f5976506aa73ea2013b9ec62b5315d6798a8d03ad561dbfeadd8684b68efbf6e"
+      }
+    },
+    {
+      "schemaVersion": "1.0",
+      "id": "financial-research-cross-asset-monitor-analyst",
+      "version": "0.1.0",
+      "title": "Cross-Asset Signal Monitor Analyst",
+      "summary": "Tracks rates, credit spreads, commodities, FX, and volatility signals that may explain or challenge single-name equity moves and sector narratives.",
+      "classification": {
+        "industryId": "industry-6-financial-research",
+        "familyKey": "market-monitoring"
+      },
+      "discovery": {
+        "tags": [
+          "financial",
+          "research",
+          "cross",
+          "asset",
+          "monitor",
+          "signal",
+          "market",
+          "monitoring"
+        ],
+        "domains": [
+          "market",
+          "monitoring"
+        ],
+        "taskTypes": [
+          "analysis",
+          "planning"
+        ],
+        "stacks": [
+          "financial",
+          "research",
+          "cross",
+          "asset"
+        ],
+        "deliverables": [
+          "checklist",
+          "implementation-plan"
+        ],
+        "capabilities": [
+          "financial-research",
+          "market-monitoring"
+        ]
+      },
+      "runtime": {
+        "tools": [
+          "docs",
+          "shell",
+          "coding"
+        ],
+        "bundledSkills": [
+          "coding-agent"
+        ],
+        "recommendedModel": "openai-codex/gpt-5.4",
+        "requiresSecrets": false,
+        "setupCost": "low",
+        "readyAfterInstall": true
+      },
+      "install": {
+        "format": "zip",
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-cross-asset-monitor-analyst.zip",
+        "packageSha256": "8ce38ea892121de6937434ea388232bee3065cba5a1439da8d15cc6e01252a1a"
+      }
+    },
+    {
+      "schemaVersion": "1.0",
+      "id": "financial-research-data-quality-steward",
+      "version": "0.1.0",
+      "title": "Data Quality Steward",
+      "summary": "Checks research datasets for stale points, inconsistent definitions, broken links, unit mismatches, and unsupported assumptions before they enter downstream memos.",
+      "classification": {
+        "industryId": "industry-6-financial-research",
+        "familyKey": "research-ops-data-monitoring"
+      },
+      "discovery": {
+        "tags": [
+          "financial",
+          "research",
+          "data",
+          "quality",
+          "steward",
+          "ops",
+          "monitoring"
+        ],
+        "domains": [
+          "research",
+          "ops"
+        ],
+        "taskTypes": [
+          "analysis",
+          "planning"
+        ],
+        "stacks": [
+          "financial",
+          "research",
+          "data",
+          "quality"
+        ],
+        "deliverables": [
+          "checklist",
+          "implementation-plan"
+        ],
+        "capabilities": [
+          "financial-research",
+          "ops-monitoring"
+        ]
+      },
+      "runtime": {
+        "tools": [
+          "docs",
+          "shell",
+          "coding",
+          "data-analysis"
+        ],
+        "bundledSkills": [
+          "coding-agent"
+        ],
+        "recommendedModel": "openai-codex/gpt-5.4",
+        "requiresSecrets": false,
+        "setupCost": "low",
+        "readyAfterInstall": true
+      },
+      "install": {
+        "format": "zip",
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-data-quality-steward.zip",
+        "packageSha256": "b5c7db309102d48b334fffdea9149326ded333c81385cd1b18e72419db148c4b"
+      }
+    },
+    {
+      "schemaVersion": "1.0",
+      "id": "financial-research-diligence-tracker",
+      "version": "0.1.0",
+      "title": "Diligence Tracker",
+      "summary": "Tracks open diligence items, missing evidence, source freshness, and owner handoffs so no thesis depends on unexamined assumptions.",
+      "classification": {
+        "industryId": "industry-6-financial-research",
+        "familyKey": "portfolio-research-support"
+      },
+      "discovery": {
+        "tags": [
+          "financial",
+          "research",
+          "diligence",
+          "tracker",
+          "portfolio",
+          "support"
+        ],
+        "domains": [
+          "portfolio",
+          "research"
+        ],
+        "taskTypes": [
+          "analysis",
+          "planning"
+        ],
+        "stacks": [
+          "financial",
+          "research",
+          "diligence",
+          "tracker"
+        ],
+        "deliverables": [
+          "checklist",
+          "implementation-plan"
+        ],
+        "capabilities": [
+          "financial-research",
+          "portfolio-support"
+        ]
+      },
+      "runtime": {
+        "tools": [
+          "docs",
+          "shell",
+          "coding"
+        ],
+        "bundledSkills": [
+          "coding-agent"
+        ],
+        "recommendedModel": "openai-codex/gpt-5.4",
+        "requiresSecrets": false,
+        "setupCost": "low",
+        "readyAfterInstall": true
+      },
+      "install": {
+        "format": "zip",
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-diligence-tracker.zip",
+        "packageSha256": "eda2d9868bf4e0e6306c626174c288eee4c7b3a763cb4e6b37cef63b22c6f63e"
+      }
+    },
+    {
+      "schemaVersion": "1.0",
+      "id": "financial-research-downside-stress-analyst",
+      "version": "0.1.0",
+      "title": "Downside Stress Analyst",
+      "summary": "Pressure-tests what a thesis looks like under revenue misses, margin compression, slower demand, and weaker financing conditions.",
+      "classification": {
+        "industryId": "industry-6-financial-research",
+        "familyKey": "scenario-stress-analysis"
+      },
+      "discovery": {
+        "tags": [
+          "financial",
+          "research",
+          "downside",
+          "stress",
+          "scenario",
+          "analysis"
+        ],
+        "domains": [
+          "scenario",
+          "stress"
+        ],
+        "taskTypes": [
+          "analysis",
+          "planning"
+        ],
+        "stacks": [
+          "financial",
+          "research",
+          "downside",
+          "stress"
+        ],
+        "deliverables": [
+          "audit-report",
+          "checklist",
+          "implementation-plan"
+        ],
+        "capabilities": [
+          "financial-research",
+          "scenario-analysis"
+        ]
+      },
+      "runtime": {
+        "tools": [
+          "docs",
+          "shell",
+          "coding"
+        ],
+        "bundledSkills": [
+          "coding-agent"
+        ],
+        "recommendedModel": "openai-codex/gpt-5.4",
+        "requiresSecrets": false,
+        "setupCost": "low",
+        "readyAfterInstall": true
+      },
+      "install": {
+        "format": "zip",
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-downside-stress-analyst.zip",
+        "packageSha256": "2a3adb6cfd9cc0476b2db6cc3142a3c9392b5d0c2b1169eb8bee48e399a334c7"
+      }
+    },
+    {
+      "schemaVersion": "1.0",
+      "id": "financial-research-earnings-preview-analyst",
+      "version": "0.1.0",
+      "title": "Earnings Preview Analyst",
+      "summary": "Prepares earnings preview briefs with setup, key questions, consensus framing, scenario sensitivities, and what evidence would confirm or weaken the current thesis.",
+      "classification": {
+        "industryId": "industry-6-financial-research",
+        "familyKey": "event-earnings-monitoring"
+      },
+      "discovery": {
+        "tags": [
+          "financial",
+          "research",
+          "earnings",
+          "preview",
+          "event",
+          "monitoring"
+        ],
+        "domains": [
+          "event",
+          "earnings"
+        ],
+        "taskTypes": [
+          "analysis",
+          "planning",
+          "review"
+        ],
+        "stacks": [
+          "financial",
+          "research",
+          "earnings",
+          "preview"
+        ],
+        "deliverables": [
+          "audit-report",
+          "checklist",
+          "implementation-plan"
+        ],
+        "capabilities": [
+          "financial-research",
+          "event-monitoring"
+        ]
+      },
+      "runtime": {
+        "tools": [
+          "docs",
+          "shell",
+          "coding"
+        ],
+        "bundledSkills": [
+          "coding-agent"
+        ],
+        "recommendedModel": "openai-codex/gpt-5.4",
+        "requiresSecrets": false,
+        "setupCost": "low",
+        "readyAfterInstall": true
+      },
+      "install": {
+        "format": "zip",
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-earnings-preview-analyst.zip",
+        "packageSha256": "31d08f826df2949e2b46f919771da64dd6a8501d51cdf51e66b98f8de3a52bb5"
+      }
+    },
+    {
+      "schemaVersion": "1.0",
+      "id": "financial-research-earnings-reaction-analyst",
+      "version": "0.1.0",
+      "title": "Earnings Reaction Analyst",
+      "summary": "Summarizes post-earnings developments, isolates what changed versus expectations, and distinguishes signal from noise in immediate market reactions.",
+      "classification": {
+        "industryId": "industry-6-financial-research",
+        "familyKey": "event-earnings-monitoring"
+      },
+      "discovery": {
+        "tags": [
+          "financial",
+          "research",
+          "earnings",
+          "reaction",
+          "event",
+          "monitoring"
+        ],
+        "domains": [
+          "event",
+          "earnings"
+        ],
+        "taskTypes": [
+          "analysis",
+          "planning"
+        ],
+        "stacks": [
+          "financial",
+          "research",
+          "earnings",
+          "reaction"
+        ],
+        "deliverables": [
+          "checklist",
+          "implementation-plan"
+        ],
+        "capabilities": [
+          "financial-research",
+          "event-monitoring"
+        ]
+      },
+      "runtime": {
+        "tools": [
+          "docs",
+          "shell",
+          "coding"
+        ],
+        "bundledSkills": [
+          "coding-agent"
+        ],
+        "recommendedModel": "openai-codex/gpt-5.4",
+        "requiresSecrets": false,
+        "setupCost": "low",
+        "readyAfterInstall": true
+      },
+      "install": {
+        "format": "zip",
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-earnings-reaction-analyst.zip",
+        "packageSha256": "e84b01da8e6ec45294164abe4e0eec0556e14564df37d8c91a34b49bcd28c1d2"
+      }
+    },
+    {
+      "schemaVersion": "1.0",
+      "id": "financial-research-estimate-revision-analyst",
+      "version": "0.1.0",
+      "title": "Estimate Revision Analyst",
+      "summary": "Monitors sell-side estimate changes, target-reset patterns, and assumption revisions after major developments to show how the expectation set is moving.",
+      "classification": {
+        "industryId": "industry-6-financial-research",
+        "familyKey": "event-earnings-monitoring"
+      },
+      "discovery": {
+        "tags": [
+          "financial",
+          "research",
+          "estimate",
+          "revision",
+          "event",
+          "earnings",
+          "monitoring"
+        ],
+        "domains": [
+          "event",
+          "earnings"
+        ],
+        "taskTypes": [
+          "analysis",
+          "planning"
+        ],
+        "stacks": [
+          "financial",
+          "research",
+          "estimate",
+          "revision"
+        ],
+        "deliverables": [
+          "checklist",
+          "implementation-plan"
+        ],
+        "capabilities": [
+          "financial-research",
+          "earnings-monitoring"
+        ]
+      },
+      "runtime": {
+        "tools": [
+          "docs",
+          "shell",
+          "coding"
+        ],
+        "bundledSkills": [
+          "coding-agent"
+        ],
+        "recommendedModel": "openai-codex/gpt-5.4",
+        "requiresSecrets": false,
+        "setupCost": "low",
+        "readyAfterInstall": true
+      },
+      "install": {
+        "format": "zip",
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-estimate-revision-analyst.zip",
+        "packageSha256": "df5a6dea5de12fa1771b9350278e1d0e89a81ce9dfdc77a93931c5171d976bd7"
+      }
+    },
+    {
+      "schemaVersion": "1.0",
+      "id": "financial-research-event-calendar-analyst",
+      "version": "0.1.0",
+      "title": "Event Calendar Analyst",
+      "summary": "Maintains a forward-looking calendar of earnings dates, investor events, product launches, data releases, lockups, and other thesis-relevant milestones.",
+      "classification": {
+        "industryId": "industry-6-financial-research",
+        "familyKey": "event-earnings-monitoring"
+      },
+      "discovery": {
+        "tags": [
+          "financial",
+          "research",
+          "event",
+          "calendar",
+          "earnings",
+          "monitoring"
+        ],
+        "domains": [
+          "event",
+          "earnings"
+        ],
+        "taskTypes": [
+          "analysis",
+          "planning"
+        ],
+        "stacks": [
+          "financial",
+          "research",
+          "event",
+          "calendar"
+        ],
+        "deliverables": [
+          "checklist",
+          "implementation-plan"
+        ],
+        "capabilities": [
+          "financial-research",
+          "earnings-monitoring"
+        ]
+      },
+      "runtime": {
+        "tools": [
+          "docs",
+          "shell",
+          "coding"
+        ],
+        "bundledSkills": [
+          "coding-agent"
+        ],
+        "recommendedModel": "openai-codex/gpt-5.4",
+        "requiresSecrets": false,
+        "setupCost": "low",
+        "readyAfterInstall": true
+      },
+      "install": {
+        "format": "zip",
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-event-calendar-analyst.zip",
+        "packageSha256": "5741dd1cce5e21bcd18132609ee8f4cbc0baba786761ac3e982928325bf00396"
+      }
+    },
+    {
+      "schemaVersion": "1.0",
+      "id": "financial-research-evidence-gap-tracker",
+      "version": "0.1.0",
+      "title": "Evidence Gap Tracker",
+      "summary": "Maintains an explicit ledger of unresolved questions, weak evidence chains, stale sources, and high-impact unknowns across active coverage.",
+      "classification": {
+        "industryId": "industry-6-financial-research",
+        "familyKey": "research-ops-data-monitoring"
+      },
+      "discovery": {
+        "tags": [
+          "financial",
+          "research",
+          "evidence",
+          "gap",
+          "tracker",
+          "ops",
+          "data",
+          "monitoring"
+        ],
+        "domains": [
+          "research",
+          "ops"
+        ],
+        "taskTypes": [
+          "analysis",
+          "planning"
+        ],
+        "stacks": [
+          "financial",
+          "research",
+          "evidence",
+          "gap"
+        ],
+        "deliverables": [
+          "checklist",
+          "implementation-plan"
+        ],
+        "capabilities": [
+          "financial-research",
+          "data-monitoring"
+        ]
+      },
+      "runtime": {
+        "tools": [
+          "docs",
+          "shell",
+          "coding",
+          "data-analysis"
+        ],
+        "bundledSkills": [
+          "coding-agent"
+        ],
+        "recommendedModel": "openai-codex/gpt-5.4",
+        "requiresSecrets": false,
+        "setupCost": "low",
+        "readyAfterInstall": true
+      },
+      "install": {
+        "format": "zip",
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-evidence-gap-tracker.zip",
+        "packageSha256": "d2eef3950977733856943cb92ea144af5ed186c376d43cd14614b041cfe0be09"
+      }
+    },
+    {
+      "schemaVersion": "1.0",
+      "id": "financial-research-exposure-review-analyst",
+      "version": "0.1.0",
+      "title": "Portfolio Exposure Review Analyst",
+      "summary": "Reviews a research watchlist or draft portfolio for concentration, overlap, factor clustering, and common thesis dependencies without making suitability or allocation decisions.",
+      "classification": {
+        "industryId": "industry-6-financial-research",
+        "familyKey": "portfolio-research-support"
+      },
+      "discovery": {
+        "tags": [
+          "financial",
+          "research",
+          "exposure",
+          "review",
+          "portfolio",
+          "support"
+        ],
+        "domains": [
+          "portfolio",
+          "research"
+        ],
+        "taskTypes": [
+          "analysis",
+          "planning",
+          "review"
+        ],
+        "stacks": [
+          "financial",
+          "research",
+          "exposure",
+          "review"
+        ],
+        "deliverables": [
+          "audit-report",
+          "checklist",
+          "implementation-plan"
+        ],
+        "capabilities": [
+          "financial-research",
+          "portfolio-support"
+        ]
+      },
+      "runtime": {
+        "tools": [
+          "docs",
+          "shell",
+          "coding"
+        ],
+        "bundledSkills": [
+          "coding-agent"
+        ],
+        "recommendedModel": "openai-codex/gpt-5.4",
+        "requiresSecrets": false,
+        "setupCost": "low",
+        "readyAfterInstall": true
+      },
+      "install": {
+        "format": "zip",
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-exposure-review-analyst.zip",
+        "packageSha256": "7293292973396b6d50fac1a617c38225e667943ed37bff5b191c400ef00158f8"
+      }
+    },
+    {
+      "schemaVersion": "1.0",
+      "id": "financial-research-factor-exposure-analyst",
+      "version": "0.1.0",
+      "title": "Factor Exposure Analyst",
+      "summary": "Maps equity ideas to style, quality, momentum, leverage, and cyclicality exposures so teams understand what risk buckets a name may load into.",
+      "classification": {
+        "industryId": "industry-6-financial-research",
+        "familyKey": "screening-comparison"
+      },
+      "discovery": {
+        "tags": [
+          "financial",
+          "research",
+          "factor",
+          "exposure",
+          "screening",
+          "comparison"
+        ],
+        "domains": [
+          "screening",
+          "comparison"
+        ],
+        "taskTypes": [
+          "analysis",
+          "planning"
+        ],
+        "stacks": [
+          "financial",
+          "research",
+          "factor",
+          "exposure"
+        ],
+        "deliverables": [
+          "checklist",
+          "implementation-plan"
+        ],
+        "capabilities": [
+          "financial-research",
+          "screening-comparison"
+        ]
+      },
+      "runtime": {
+        "tools": [
+          "docs",
+          "shell",
+          "coding"
+        ],
+        "bundledSkills": [
+          "coding-agent"
+        ],
+        "recommendedModel": "openai-codex/gpt-5.4",
+        "requiresSecrets": false,
+        "setupCost": "low",
+        "readyAfterInstall": true
+      },
+      "install": {
+        "format": "zip",
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-factor-exposure-analyst.zip",
+        "packageSha256": "5b0a57e58331a44c2aa3c0c3fbec5423e49de826976057ef0d9f993d3b9b2f2c"
+      }
+    },
+    {
+      "schemaVersion": "1.0",
+      "id": "financial-research-financial-statement-analyst",
+      "version": "0.1.0",
+      "title": "Financial Statement Analyst",
+      "summary": "Assesses income statement, balance sheet, and cash flow quality to surface trend direction, capital intensity, balance-sheet resilience, and accounting red flags.",
+      "classification": {
+        "industryId": "industry-6-financial-research",
+        "familyKey": "equity-analysis"
+      },
+      "discovery": {
+        "tags": [
+          "financial",
+          "research",
+          "statement",
+          "equity",
+          "analysis"
+        ],
+        "domains": [
+          "equity",
+          "analysis"
+        ],
+        "taskTypes": [
+          "analysis",
+          "planning"
+        ],
+        "stacks": [
+          "financial",
+          "research",
+          "statement",
+          "equity"
+        ],
+        "deliverables": [
+          "audit-report",
+          "checklist",
+          "implementation-plan"
+        ],
+        "capabilities": [
+          "financial-research",
+          "equity-analysis"
+        ]
+      },
+      "runtime": {
+        "tools": [
+          "docs",
+          "shell",
+          "coding",
+          "design"
+        ],
+        "bundledSkills": [
+          "coding-agent"
+        ],
+        "recommendedModel": "openai-codex/gpt-5.4",
+        "requiresSecrets": false,
+        "setupCost": "low",
+        "readyAfterInstall": true
+      },
+      "install": {
+        "format": "zip",
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-financial-statement-analyst.zip",
+        "packageSha256": "4f97e70a96b248a01a72024b7b3ae6f973edd3ebe34c6d9dac6d188650437139"
+      }
+    },
+    {
+      "schemaVersion": "1.0",
+      "id": "financial-research-guidance-change-analyst",
+      "version": "0.1.0",
+      "title": "Guidance Change Analyst",
+      "summary": "Tracks guidance revisions, management tone shifts, and estimate-reset implications to help teams understand whether thesis assumptions still hold.",
+      "classification": {
+        "industryId": "industry-6-financial-research",
+        "familyKey": "event-earnings-monitoring"
+      },
+      "discovery": {
+        "tags": [
+          "financial",
+          "research",
+          "guidance",
+          "change",
+          "event",
+          "earnings",
+          "monitoring"
+        ],
+        "domains": [
+          "event",
+          "earnings"
+        ],
+        "taskTypes": [
+          "analysis",
+          "planning"
+        ],
+        "stacks": [
+          "financial",
+          "research",
+          "guidance",
+          "change"
+        ],
+        "deliverables": [
+          "checklist",
+          "implementation-plan"
+        ],
+        "capabilities": [
+          "financial-research",
+          "earnings-monitoring"
+        ]
+      },
+      "runtime": {
+        "tools": [
+          "docs",
+          "shell",
+          "coding",
+          "design"
+        ],
+        "bundledSkills": [
+          "coding-agent"
+        ],
+        "recommendedModel": "openai-codex/gpt-5.4",
+        "requiresSecrets": false,
+        "setupCost": "low",
+        "readyAfterInstall": true
+      },
+      "install": {
+        "format": "zip",
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-guidance-change-analyst.zip",
+        "packageSha256": "ccc125e06f18224cca7c8e65655c3455799bfb744632a2a280380c55393cea88"
+      }
+    },
+    {
+      "schemaVersion": "1.0",
+      "id": "financial-research-idea-intake-analyst",
+      "version": "0.1.0",
+      "title": "Idea Intake Analyst",
+      "summary": "Structures ambiguous stock ideas into a clean research brief with scope, horizon, thesis questions, and evidence needs for public-equity coverage.",
+      "classification": {
+        "industryId": "industry-6-financial-research",
+        "familyKey": "equity-analysis"
+      },
+      "discovery": {
+        "tags": [
+          "financial",
+          "research",
+          "idea",
+          "intake",
+          "equity",
+          "analysis"
+        ],
+        "domains": [
+          "equity",
+          "analysis"
+        ],
+        "taskTypes": [
+          "analysis",
+          "planning"
+        ],
+        "stacks": [
+          "financial",
+          "research",
+          "idea",
+          "intake"
+        ],
+        "deliverables": [
+          "audit-report",
+          "checklist",
+          "implementation-plan"
+        ],
+        "capabilities": [
+          "financial-research",
+          "equity-analysis"
+        ]
+      },
+      "runtime": {
+        "tools": [
+          "docs",
+          "shell",
+          "coding",
+          "design"
+        ],
+        "bundledSkills": [
+          "coding-agent"
+        ],
+        "recommendedModel": "openai-codex/gpt-5.4",
+        "requiresSecrets": false,
+        "setupCost": "low",
+        "readyAfterInstall": true
+      },
+      "install": {
+        "format": "zip",
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-idea-intake-analyst.zip",
+        "packageSha256": "29913cf1f7b5cc0d0c03b03d77b08b9921219078b950cd29a248b74f3fa92e47"
+      }
+    },
+    {
+      "schemaVersion": "1.0",
+      "id": "financial-research-idea-prioritization-analyst",
+      "version": "0.1.0",
+      "title": "Idea Prioritization Analyst",
+      "summary": "Ranks candidate research ideas by evidence strength, novelty, catalyst timing, downside ambiguity, and expected follow-up effort without implying execution advice.",
+      "classification": {
+        "industryId": "industry-6-financial-research",
+        "familyKey": "screening-comparison"
+      },
+      "discovery": {
+        "tags": [
+          "financial",
+          "research",
+          "idea",
+          "prioritization",
+          "screening",
+          "comparison"
+        ],
+        "domains": [
+          "screening",
+          "comparison"
+        ],
+        "taskTypes": [
+          "analysis",
+          "planning"
+        ],
+        "stacks": [
+          "financial",
+          "research",
+          "idea",
+          "prioritization"
+        ],
+        "deliverables": [
+          "checklist",
+          "implementation-plan"
+        ],
+        "capabilities": [
+          "financial-research",
+          "screening-comparison"
+        ]
+      },
+      "runtime": {
+        "tools": [
+          "docs",
+          "shell",
+          "coding"
+        ],
+        "bundledSkills": [
+          "coding-agent"
+        ],
+        "recommendedModel": "openai-codex/gpt-5.4",
+        "requiresSecrets": false,
+        "setupCost": "low",
+        "readyAfterInstall": true
+      },
+      "install": {
+        "format": "zip",
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-idea-prioritization-analyst.zip",
+        "packageSha256": "027d68a507d3005e9b0683dd07411ce1d1cfe6110eb9506bac377c78f25ff0e1"
+      }
+    },
+    {
+      "schemaVersion": "1.0",
+      "id": "financial-research-industry-kpi-monitor",
+      "version": "0.1.0",
+      "title": "Industry KPI Monitor",
+      "summary": "Tracks sector-specific KPIs such as pricing, utilization, churn, inventory, shipments, store traffic, or bookings to support ongoing coverage updates.",
+      "classification": {
+        "industryId": "industry-6-financial-research",
+        "familyKey": "sector-thematic-research"
+      },
+      "discovery": {
+        "tags": [
+          "financial",
+          "research",
+          "kpi",
+          "monitor",
+          "sector",
+          "thematic"
+        ],
+        "domains": [
+          "sector",
+          "thematic"
+        ],
+        "taskTypes": [
+          "analysis",
+          "planning"
+        ],
+        "stacks": [
+          "financial",
+          "research",
+          "kpi",
+          "monitor"
+        ],
+        "deliverables": [
+          "checklist",
+          "implementation-plan"
+        ],
+        "capabilities": [
+          "financial-research",
+          "sector-thematic"
+        ]
+      },
+      "runtime": {
+        "tools": [
+          "docs",
+          "shell",
+          "coding"
+        ],
+        "bundledSkills": [
+          "coding-agent"
+        ],
+        "recommendedModel": "openai-codex/gpt-5.4",
+        "requiresSecrets": false,
+        "setupCost": "low",
+        "readyAfterInstall": true
+      },
+      "install": {
+        "format": "zip",
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-industry-kpi-monitor.zip",
+        "packageSha256": "f3a6998548e993a18e1153bb73ac901a9b14f7d26e68839732d2116e47e2847d"
+      }
+    },
+    {
+      "schemaVersion": "1.0",
+      "id": "financial-research-liquidity-stress-analyst",
+      "version": "0.1.0",
+      "title": "Liquidity & Balance Sheet Stress Analyst",
+      "summary": "Evaluates refinancing needs, covenant headroom, liquidity runway, and balance-sheet flexibility under adverse operating and market conditions.",
+      "classification": {
+        "industryId": "industry-6-financial-research",
+        "familyKey": "scenario-stress-analysis"
+      },
+      "discovery": {
+        "tags": [
+          "financial",
+          "research",
+          "liquidity",
+          "stress",
+          "balance",
+          "sheet",
+          "scenario",
+          "analysis"
+        ],
+        "domains": [
+          "scenario",
+          "stress"
+        ],
+        "taskTypes": [
+          "analysis",
+          "planning"
+        ],
+        "stacks": [
+          "financial",
+          "research",
+          "liquidity",
+          "stress"
+        ],
+        "deliverables": [
+          "audit-report",
+          "checklist",
+          "implementation-plan"
+        ],
+        "capabilities": [
+          "financial-research",
+          "scenario-analysis"
+        ]
+      },
+      "runtime": {
+        "tools": [
+          "docs",
+          "shell",
+          "coding",
+          "design"
+        ],
+        "bundledSkills": [
+          "coding-agent"
+        ],
+        "recommendedModel": "openai-codex/gpt-5.4",
+        "requiresSecrets": false,
+        "setupCost": "low",
+        "readyAfterInstall": true
+      },
+      "install": {
+        "format": "zip",
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-liquidity-stress-analyst.zip",
+        "packageSha256": "6a8f15ea07839ba6e3d68c21dc70236039274b74c73c3b0d709737e0e1f8b7c0"
+      }
+    },
+    {
+      "schemaVersion": "1.0",
+      "id": "financial-research-macro-market-monitor-analyst",
+      "version": "0.1.0",
+      "title": "Macro Market Monitor Analyst",
+      "summary": "Tracks macro releases, rate expectations, liquidity backdrop, and broad market regime shifts that may change the interpretation of single-name equity research.",
+      "classification": {
+        "industryId": "industry-6-financial-research",
+        "familyKey": "market-monitoring"
+      },
+      "discovery": {
+        "tags": [
+          "financial",
+          "research",
+          "macro",
+          "market",
+          "monitor",
+          "monitoring"
+        ],
+        "domains": [
+          "market",
+          "monitoring"
+        ],
+        "taskTypes": [
+          "analysis",
+          "planning"
+        ],
+        "stacks": [
+          "financial",
+          "research",
+          "macro",
+          "market"
+        ],
+        "deliverables": [
+          "checklist",
+          "implementation-plan"
+        ],
+        "capabilities": [
+          "financial-research",
+          "monitor-monitoring"
+        ]
+      },
+      "runtime": {
+        "tools": [
+          "docs",
+          "shell",
+          "coding"
+        ],
+        "bundledSkills": [
+          "coding-agent"
+        ],
+        "recommendedModel": "openai-codex/gpt-5.4",
+        "requiresSecrets": false,
+        "setupCost": "low",
+        "readyAfterInstall": true
+      },
+      "install": {
+        "format": "zip",
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-macro-market-monitor-analyst.zip",
+        "packageSha256": "a66c33bdcd907dd7d26e70324b6773502db789e0a5319e8026ebdaa544e3af44"
+      }
+    },
+    {
+      "schemaVersion": "1.0",
+      "id": "financial-research-management-quality-analyst",
+      "version": "0.1.0",
+      "title": "Management Quality Analyst",
+      "summary": "Reviews leadership credibility, capital-markets communication, incentive alignment, governance posture, and execution consistency as research inputs.",
+      "classification": {
+        "industryId": "industry-6-financial-research",
+        "familyKey": "equity-analysis"
+      },
+      "discovery": {
+        "tags": [
+          "financial",
+          "research",
+          "management",
+          "quality",
+          "equity",
+          "analysis"
+        ],
+        "domains": [
+          "equity",
+          "analysis"
+        ],
+        "taskTypes": [
+          "analysis",
+          "planning"
+        ],
+        "stacks": [
+          "financial",
+          "research",
+          "management",
+          "quality"
+        ],
+        "deliverables": [
+          "audit-report",
+          "checklist",
+          "implementation-plan"
+        ],
+        "capabilities": [
+          "financial-research",
+          "equity-analysis"
+        ]
+      },
+      "runtime": {
+        "tools": [
+          "docs",
+          "shell",
+          "coding",
+          "design"
+        ],
+        "bundledSkills": [
+          "coding-agent"
+        ],
+        "recommendedModel": "openai-codex/gpt-5.4",
+        "requiresSecrets": false,
+        "setupCost": "low",
+        "readyAfterInstall": true
+      },
+      "install": {
+        "format": "zip",
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-management-quality-analyst.zip",
+        "packageSha256": "02e58c1db31e5de254c1bcb2f7f4bb08e72a75c26599d8caa124d59418b68615"
+      }
+    },
+    {
+      "schemaVersion": "1.0",
+      "id": "financial-research-market-map-analyst",
+      "version": "0.1.0",
+      "title": "Market Map Analyst",
+      "summary": "Creates structured market maps that cluster candidate names by subsector, business model, maturity, and key operating drivers before deeper diligence begins.",
+      "classification": {
+        "industryId": "industry-6-financial-research",
+        "familyKey": "screening-comparison"
+      },
+      "discovery": {
+        "tags": [
+          "financial",
+          "research",
+          "market",
+          "map",
+          "screening",
+          "comparison"
+        ],
+        "domains": [
+          "screening",
+          "comparison"
+        ],
+        "taskTypes": [
+          "analysis",
+          "planning"
+        ],
+        "stacks": [
+          "financial",
+          "research",
+          "market",
+          "map"
+        ],
+        "deliverables": [
+          "checklist",
+          "implementation-plan"
+        ],
+        "capabilities": [
+          "financial-research",
+          "screening-comparison"
+        ]
+      },
+      "runtime": {
+        "tools": [
+          "docs",
+          "shell",
+          "coding"
+        ],
+        "bundledSkills": [
+          "coding-agent"
+        ],
+        "recommendedModel": "openai-codex/gpt-5.4",
+        "requiresSecrets": false,
+        "setupCost": "low",
+        "readyAfterInstall": true
+      },
+      "install": {
+        "format": "zip",
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-market-map-analyst.zip",
+        "packageSha256": "7de4e595e782b9ce7d77708e9f66a2e8a23e0d74a3619182da968291c3452c66"
+      }
+    },
+    {
+      "schemaVersion": "1.0",
+      "id": "financial-research-memo-editor-analyst",
+      "version": "0.1.0",
+      "title": "Memo Standardization Analyst",
+      "summary": "Normalizes research memos into a consistent structure covering thesis, evidence, assumptions, risks, catalysts, and source timestamps.",
+      "classification": {
+        "industryId": "industry-6-financial-research",
+        "familyKey": "research-ops-data-monitoring"
+      },
+      "discovery": {
+        "tags": [
+          "financial",
+          "research",
+          "memo",
+          "editor",
+          "standardization",
+          "ops",
+          "data",
+          "monitoring"
+        ],
+        "domains": [
+          "research",
+          "ops"
+        ],
+        "taskTypes": [
+          "analysis",
+          "planning"
+        ],
+        "stacks": [
+          "financial",
+          "research",
+          "memo",
+          "editor"
+        ],
+        "deliverables": [
+          "checklist",
+          "implementation-plan"
+        ],
+        "capabilities": [
+          "financial-research",
+          "data-monitoring"
+        ]
+      },
+      "runtime": {
+        "tools": [
+          "docs",
+          "shell",
+          "coding",
+          "data-analysis"
+        ],
+        "bundledSkills": [
+          "coding-agent"
+        ],
+        "recommendedModel": "openai-codex/gpt-5.4",
+        "requiresSecrets": false,
+        "setupCost": "low",
+        "readyAfterInstall": true
+      },
+      "install": {
+        "format": "zip",
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-memo-editor-analyst.zip",
+        "packageSha256": "4409bcf67e877c5da709ae84a8720e8404e5a81b0187c2c1cbb6315929835733"
+      }
+    },
+    {
+      "schemaVersion": "1.0",
+      "id": "financial-research-news-catalyst-monitor-analyst",
+      "version": "0.1.0",
+      "title": "News Catalyst Monitor Analyst",
+      "summary": "Maintains an event-driven watch across company news, policy headlines, litigation developments, financing moves, and sentiment inflections relevant to covered names.",
+      "classification": {
+        "industryId": "industry-6-financial-research",
+        "familyKey": "market-monitoring"
+      },
+      "discovery": {
+        "tags": [
+          "financial",
+          "research",
+          "news",
+          "catalyst",
+          "monitor",
+          "market",
+          "monitoring"
+        ],
+        "domains": [
+          "market",
+          "monitoring"
+        ],
+        "taskTypes": [
+          "analysis",
+          "planning"
+        ],
+        "stacks": [
+          "financial",
+          "research",
+          "news",
+          "catalyst"
+        ],
+        "deliverables": [
+          "checklist",
+          "implementation-plan"
+        ],
+        "capabilities": [
+          "financial-research",
+          "market-monitoring"
+        ]
+      },
+      "runtime": {
+        "tools": [
+          "docs",
+          "shell",
+          "coding"
+        ],
+        "bundledSkills": [
+          "coding-agent"
+        ],
+        "recommendedModel": "openai-codex/gpt-5.4",
+        "requiresSecrets": false,
+        "setupCost": "low",
+        "readyAfterInstall": true
+      },
+      "install": {
+        "format": "zip",
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-news-catalyst-monitor-analyst.zip",
+        "packageSha256": "552e400080c8d7b6e16816aaa9a10be1b664727f32ffa8cdfc4782a828354fd8"
+      }
+    },
+    {
+      "schemaVersion": "1.0",
+      "id": "financial-research-peer-comparison-analyst",
+      "version": "0.1.0",
+      "title": "Peer Comparison Analyst",
+      "summary": "Builds clean peer sets and compares operating model, growth quality, margins, capital efficiency, and valuation context across comparable public companies.",
+      "classification": {
+        "industryId": "industry-6-financial-research",
+        "familyKey": "screening-comparison"
+      },
+      "discovery": {
+        "tags": [
+          "financial",
+          "research",
+          "peer",
+          "comparison",
+          "screening"
+        ],
+        "domains": [
+          "screening",
+          "comparison"
+        ],
+        "taskTypes": [
+          "analysis",
+          "planning"
+        ],
+        "stacks": [
+          "financial",
+          "research",
+          "peer",
+          "comparison"
+        ],
+        "deliverables": [
+          "checklist",
+          "implementation-plan"
+        ],
+        "capabilities": [
+          "financial-research",
+          "comparison-screening"
+        ]
+      },
+      "runtime": {
+        "tools": [
+          "docs",
+          "shell",
+          "coding"
+        ],
+        "bundledSkills": [
+          "coding-agent"
+        ],
+        "recommendedModel": "openai-codex/gpt-5.4",
+        "requiresSecrets": false,
+        "setupCost": "low",
+        "readyAfterInstall": true
+      },
+      "install": {
+        "format": "zip",
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-peer-comparison-analyst.zip",
+        "packageSha256": "fa0b743f95a654e8a10c3296c52e6c580d6e6efcdf931b0f268f9ffd9e290d98"
+      }
+    },
+    {
+      "schemaVersion": "1.0",
+      "id": "financial-research-policy-monitor-analyst",
+      "version": "0.1.0",
+      "title": "Policy & Regulatory Monitor Analyst",
+      "summary": "Watches policy proposals, rule changes, antitrust developments, reimbursement shifts, and regulatory enforcement trends that can alter sector-level research assumptions.",
+      "classification": {
+        "industryId": "industry-6-financial-research",
+        "familyKey": "market-monitoring"
+      },
+      "discovery": {
+        "tags": [
+          "financial",
+          "research",
+          "policy",
+          "monitor",
+          "regulatory",
+          "market",
+          "monitoring"
+        ],
+        "domains": [
+          "market",
+          "monitoring"
+        ],
+        "taskTypes": [
+          "analysis",
+          "planning"
+        ],
+        "stacks": [
+          "financial",
+          "research",
+          "policy",
+          "monitor"
+        ],
+        "deliverables": [
+          "checklist",
+          "implementation-plan"
+        ],
+        "capabilities": [
+          "financial-research",
+          "market-monitoring"
+        ]
+      },
+      "runtime": {
+        "tools": [
+          "docs",
+          "shell",
+          "coding"
+        ],
+        "bundledSkills": [
+          "coding-agent"
+        ],
+        "recommendedModel": "openai-codex/gpt-5.4",
+        "requiresSecrets": false,
+        "setupCost": "low",
+        "readyAfterInstall": true
+      },
+      "install": {
+        "format": "zip",
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-policy-monitor-analyst.zip",
+        "packageSha256": "9d2c2addf82448c3f72c72fc0f3e55510aee53ffb017774789fefa8c7ea55c6a"
+      }
+    },
+    {
+      "schemaVersion": "1.0",
+      "id": "financial-research-quality-screen-analyst",
+      "version": "0.1.0",
+      "title": "Quality Screen Analyst",
+      "summary": "Builds discovery screens around return quality, balance-sheet discipline, margin durability, and earnings consistency to surface higher-quality candidate names.",
+      "classification": {
+        "industryId": "industry-6-financial-research",
+        "familyKey": "screening-comparison"
+      },
+      "discovery": {
+        "tags": [
+          "financial",
+          "research",
+          "quality",
+          "screen",
+          "screening",
+          "comparison"
+        ],
+        "domains": [
+          "screening",
+          "comparison"
+        ],
+        "taskTypes": [
+          "analysis",
+          "planning"
+        ],
+        "stacks": [
+          "financial",
+          "research",
+          "quality",
+          "screen"
+        ],
+        "deliverables": [
+          "checklist",
+          "implementation-plan"
+        ],
+        "capabilities": [
+          "financial-research",
+          "screening-comparison"
+        ]
+      },
+      "runtime": {
+        "tools": [
+          "docs",
+          "shell",
+          "coding"
+        ],
+        "bundledSkills": [
+          "coding-agent"
+        ],
+        "recommendedModel": "openai-codex/gpt-5.4",
+        "requiresSecrets": false,
+        "setupCost": "low",
+        "readyAfterInstall": true
+      },
+      "install": {
+        "format": "zip",
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-quality-screen-analyst.zip",
+        "packageSha256": "1d9d6ebde09ab285de8114e0edf668c251822592d5f118d17fa65fe2c49cd971"
+      }
+    },
+    {
+      "schemaVersion": "1.0",
+      "id": "financial-research-relative-value-analyst",
+      "version": "0.1.0",
+      "title": "Relative Value Analyst",
+      "summary": "Compares valuation spreads, implied expectations, and business-quality differences across peer sets to identify where market pricing appears comparatively stretched or discounted.",
+      "classification": {
+        "industryId": "industry-6-financial-research",
+        "familyKey": "screening-comparison"
+      },
+      "discovery": {
+        "tags": [
+          "financial",
+          "research",
+          "relative",
+          "value",
+          "screening",
+          "comparison"
+        ],
+        "domains": [
+          "screening",
+          "comparison"
+        ],
+        "taskTypes": [
+          "analysis",
+          "planning"
+        ],
+        "stacks": [
+          "financial",
+          "research",
+          "relative",
+          "value"
+        ],
+        "deliverables": [
+          "checklist",
+          "implementation-plan"
+        ],
+        "capabilities": [
+          "financial-research",
+          "screening-comparison"
+        ]
+      },
+      "runtime": {
+        "tools": [
+          "docs",
+          "shell",
+          "coding"
+        ],
+        "bundledSkills": [
+          "coding-agent"
+        ],
+        "recommendedModel": "openai-codex/gpt-5.4",
+        "requiresSecrets": false,
+        "setupCost": "low",
+        "readyAfterInstall": true
+      },
+      "install": {
+        "format": "zip",
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-relative-value-analyst.zip",
+        "packageSha256": "d0fae6164b2e0c90fb53b72406a006c0911e9656947f1e58de955de54bd86498"
+      }
+    },
+    {
+      "schemaVersion": "1.0",
+      "id": "financial-research-research-coverage-coordinator",
+      "version": "0.1.0",
+      "title": "Research Coverage Coordinator",
+      "summary": "Organizes coverage queues, standardizes memo status, tracks follow-up gaps, and keeps a research team aligned on what is ready, stale, blocked, or awaiting human review.",
+      "classification": {
+        "industryId": "industry-6-financial-research",
+        "familyKey": "portfolio-research-support"
+      },
+      "discovery": {
+        "tags": [
+          "financial",
+          "research",
+          "coverage",
+          "portfolio",
+          "support"
+        ],
+        "domains": [
+          "portfolio",
+          "research"
+        ],
+        "taskTypes": [
+          "analysis",
+          "planning"
+        ],
+        "stacks": [
+          "financial",
+          "research",
+          "coverage",
+          "portfolio"
+        ],
+        "deliverables": [
+          "checklist",
+          "implementation-plan"
+        ],
+        "capabilities": [
+          "financial-research",
+          "portfolio-support"
+        ]
+      },
+      "runtime": {
+        "tools": [
+          "docs",
+          "shell",
+          "coding"
+        ],
+        "bundledSkills": [
+          "coding-agent"
+        ],
+        "recommendedModel": "openai-codex/gpt-5.4",
+        "requiresSecrets": false,
+        "setupCost": "low",
+        "readyAfterInstall": true
+      },
+      "install": {
+        "format": "zip",
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-research-coverage-coordinator.zip",
+        "packageSha256": "2d1ccad8ebdef56544bcc334f8b592354d221f56c2d93aeeac86add8cc9bd77d"
+      }
+    },
+    {
+      "schemaVersion": "1.0",
+      "id": "financial-research-research-handoff-editor",
+      "version": "0.1.0",
+      "title": "Research Handoff Editor",
+      "summary": "Converts scattered analyst notes into clean handoff memos with scope, current view, unresolved questions, and source references for the next reviewer.",
+      "classification": {
+        "industryId": "industry-6-financial-research",
+        "familyKey": "portfolio-research-support"
+      },
+      "discovery": {
+        "tags": [
+          "financial",
+          "research",
+          "handoff",
+          "editor",
+          "portfolio",
+          "support"
+        ],
+        "domains": [
+          "portfolio",
+          "research"
+        ],
+        "taskTypes": [
+          "analysis",
+          "planning"
+        ],
+        "stacks": [
+          "financial",
+          "research",
+          "handoff",
+          "editor"
+        ],
+        "deliverables": [
+          "checklist",
+          "implementation-plan"
+        ],
+        "capabilities": [
+          "financial-research",
+          "portfolio-support"
+        ]
+      },
+      "runtime": {
+        "tools": [
+          "docs",
+          "shell",
+          "coding"
+        ],
+        "bundledSkills": [
+          "coding-agent"
+        ],
+        "recommendedModel": "openai-codex/gpt-5.4",
+        "requiresSecrets": false,
+        "setupCost": "low",
+        "readyAfterInstall": true
+      },
+      "install": {
+        "format": "zip",
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-research-handoff-editor.zip",
+        "packageSha256": "953057b01b0cece1f2b670fd4aa5a07a4a047ff4d540e6fb543b90a26e86d7f3"
+      }
+    },
+    {
+      "schemaVersion": "1.0",
+      "id": "financial-research-risk-review-analyst",
+      "version": "0.1.0",
+      "title": "Risk Review Analyst",
+      "summary": "Stress-tests an equity thesis for business, financial, market, liquidity, governance, and regulatory downside before any recommendation is formed.",
+      "classification": {
+        "industryId": "industry-6-financial-research",
+        "familyKey": "equity-analysis"
+      },
+      "discovery": {
+        "tags": [
+          "financial",
+          "research",
+          "risk",
+          "review",
+          "equity",
+          "analysis"
+        ],
+        "domains": [
+          "equity",
+          "analysis"
+        ],
+        "taskTypes": [
+          "analysis",
+          "planning",
+          "review"
+        ],
+        "stacks": [
+          "financial",
+          "research",
+          "risk",
+          "review"
+        ],
+        "deliverables": [
+          "audit-report",
+          "checklist",
+          "implementation-plan"
+        ],
+        "capabilities": [
+          "financial-research",
+          "equity-analysis"
+        ]
+      },
+      "runtime": {
+        "tools": [
+          "docs",
+          "shell",
+          "coding",
+          "design"
+        ],
+        "bundledSkills": [
+          "coding-agent"
+        ],
+        "recommendedModel": "openai-codex/gpt-5.4",
+        "requiresSecrets": false,
+        "setupCost": "low",
+        "readyAfterInstall": true
+      },
+      "install": {
+        "format": "zip",
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-risk-review-analyst.zip",
+        "packageSha256": "b5e3d1d41189ecfcb8879f250dc31b24617c8c965fca16084c6d33429a83502e"
+      }
+    },
+    {
+      "schemaVersion": "1.0",
+      "id": "financial-research-screener-strategy-analyst",
+      "version": "0.1.0",
+      "title": "Screener Strategy Analyst",
+      "summary": "Designs repeatable stock-screening logic for idea discovery, clarifies inclusion and exclusion rules, and explains why a screen does or does not fit the stated research objective.",
+      "classification": {
+        "industryId": "industry-6-financial-research",
+        "familyKey": "screening-comparison"
+      },
+      "discovery": {
+        "tags": [
+          "financial",
+          "research",
+          "screener",
+          "strategy",
+          "screening",
+          "comparison"
+        ],
+        "domains": [
+          "screening",
+          "comparison"
+        ],
+        "taskTypes": [
+          "analysis",
+          "planning"
+        ],
+        "stacks": [
+          "financial",
+          "research",
+          "screener",
+          "strategy"
+        ],
+        "deliverables": [
+          "checklist",
+          "implementation-plan",
+          "strategy-doc"
+        ],
+        "capabilities": [
+          "financial-research",
+          "screening-comparison"
+        ]
+      },
+      "runtime": {
+        "tools": [
+          "docs",
+          "shell",
+          "coding"
+        ],
+        "bundledSkills": [
+          "coding-agent"
+        ],
+        "recommendedModel": "openai-codex/gpt-5.4",
+        "requiresSecrets": false,
+        "setupCost": "low",
+        "readyAfterInstall": true
+      },
+      "install": {
+        "format": "zip",
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-screener-strategy-analyst.zip",
+        "packageSha256": "476e860abd19ef6bc4122fbe119df2bb5f1c3e5d69025a3a1b4d35c1ed4f76a4"
+      }
+    },
+    {
+      "schemaVersion": "1.0",
+      "id": "financial-research-sector-rotation-monitor-analyst",
+      "version": "0.1.0",
+      "title": "Sector Rotation Monitor Analyst",
+      "summary": "Monitors sector leadership, breadth, relative strength, and narrative rotation to show how top-down flows may affect research coverage priorities.",
+      "classification": {
+        "industryId": "industry-6-financial-research",
+        "familyKey": "market-monitoring"
+      },
+      "discovery": {
+        "tags": [
+          "financial",
+          "research",
+          "sector",
+          "rotation",
+          "monitor",
+          "market",
+          "monitoring"
+        ],
+        "domains": [
+          "market",
+          "monitoring"
+        ],
+        "taskTypes": [
+          "analysis",
+          "planning"
+        ],
+        "stacks": [
+          "financial",
+          "research",
+          "sector",
+          "rotation"
+        ],
+        "deliverables": [
+          "checklist",
+          "implementation-plan"
+        ],
+        "capabilities": [
+          "financial-research",
+          "market-monitoring"
+        ]
+      },
+      "runtime": {
+        "tools": [
+          "docs",
+          "shell",
+          "coding"
+        ],
+        "bundledSkills": [
+          "coding-agent"
+        ],
+        "recommendedModel": "openai-codex/gpt-5.4",
+        "requiresSecrets": false,
+        "setupCost": "low",
+        "readyAfterInstall": true
+      },
+      "install": {
+        "format": "zip",
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-sector-rotation-monitor-analyst.zip",
+        "packageSha256": "f7e9edca37396313219eb6a48eaa07b1df88db7a774107b93e74d33d1d767f2b"
+      }
+    },
+    {
+      "schemaVersion": "1.0",
+      "id": "financial-research-sector-structure-analyst",
+      "version": "0.1.0",
+      "title": "Sector Structure Analyst",
+      "summary": "Explains industry structure, value-chain economics, customer bargaining power, and profit-pool dynamics across a covered sector.",
+      "classification": {
+        "industryId": "industry-6-financial-research",
+        "familyKey": "sector-thematic-research"
+      },
+      "discovery": {
+        "tags": [
+          "financial",
+          "research",
+          "sector",
+          "structure",
+          "thematic"
+        ],
+        "domains": [
+          "sector",
+          "thematic"
+        ],
+        "taskTypes": [
+          "analysis",
+          "planning"
+        ],
+        "stacks": [
+          "financial",
+          "research",
+          "sector",
+          "structure"
+        ],
+        "deliverables": [
+          "checklist",
+          "implementation-plan"
+        ],
+        "capabilities": [
+          "financial-research",
+          "structure-thematic"
+        ]
+      },
+      "runtime": {
+        "tools": [
+          "docs",
+          "shell",
+          "coding"
+        ],
+        "bundledSkills": [
+          "coding-agent"
+        ],
+        "recommendedModel": "openai-codex/gpt-5.4",
+        "requiresSecrets": false,
+        "setupCost": "low",
+        "readyAfterInstall": true
+      },
+      "install": {
+        "format": "zip",
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-sector-structure-analyst.zip",
+        "packageSha256": "3d5219ccc2b09fe290027068196d0a16bcb3a4b91cc1e55f1f7754b596a1a65d"
+      }
+    },
+    {
+      "schemaVersion": "1.0",
+      "id": "financial-research-sensitivity-matrix-analyst",
+      "version": "0.1.0",
+      "title": "Sensitivity Matrix Analyst",
+      "summary": "Builds sensitivity tables linking valuation, earnings power, and cash generation to a small set of clearly defined driver changes.",
+      "classification": {
+        "industryId": "industry-6-financial-research",
+        "familyKey": "scenario-stress-analysis"
+      },
+      "discovery": {
+        "tags": [
+          "financial",
+          "research",
+          "sensitivity",
+          "matrix",
+          "scenario",
+          "stress",
+          "analysis"
+        ],
+        "domains": [
+          "scenario",
+          "stress"
+        ],
+        "taskTypes": [
+          "analysis",
+          "planning"
+        ],
+        "stacks": [
+          "financial",
+          "research",
+          "sensitivity",
+          "matrix"
+        ],
+        "deliverables": [
+          "audit-report",
+          "checklist",
+          "implementation-plan"
+        ],
+        "capabilities": [
+          "financial-research",
+          "stress-analysis"
+        ]
+      },
+      "runtime": {
+        "tools": [
+          "docs",
+          "shell",
+          "coding"
+        ],
+        "bundledSkills": [
+          "coding-agent"
+        ],
+        "recommendedModel": "openai-codex/gpt-5.4",
+        "requiresSecrets": false,
+        "setupCost": "low",
+        "readyAfterInstall": true
+      },
+      "install": {
+        "format": "zip",
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-sensitivity-matrix-analyst.zip",
+        "packageSha256": "43274a4edcaa99d5b2df68e7a62bd47d7e3da2a41f8f8abdceaa194f937c1ccb"
+      }
+    },
+    {
+      "schemaVersion": "1.0",
+      "id": "financial-research-sentiment-monitor-analyst",
+      "version": "0.1.0",
+      "title": "Sentiment & Positioning Monitor Analyst",
+      "summary": "Tracks positioning extremes, narrative crowding, short-interest context, and sentiment swings that may change how price reactions should be interpreted.",
+      "classification": {
+        "industryId": "industry-6-financial-research",
+        "familyKey": "market-monitoring"
+      },
+      "discovery": {
+        "tags": [
+          "financial",
+          "research",
+          "sentiment",
+          "monitor",
+          "positioning",
+          "market",
+          "monitoring"
+        ],
+        "domains": [
+          "market",
+          "monitoring"
+        ],
+        "taskTypes": [
+          "analysis",
+          "planning"
+        ],
+        "stacks": [
+          "financial",
+          "research",
+          "sentiment",
+          "monitor"
+        ],
+        "deliverables": [
+          "checklist",
+          "implementation-plan"
+        ],
+        "capabilities": [
+          "financial-research",
+          "market-monitoring"
+        ]
+      },
+      "runtime": {
+        "tools": [
+          "docs",
+          "shell",
+          "coding"
+        ],
+        "bundledSkills": [
+          "coding-agent"
+        ],
+        "recommendedModel": "openai-codex/gpt-5.4",
+        "requiresSecrets": false,
+        "setupCost": "low",
+        "readyAfterInstall": true
+      },
+      "install": {
+        "format": "zip",
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-sentiment-monitor-analyst.zip",
+        "packageSha256": "2203362b5bb9eba421a40a77e0ba77a331c53988b58267c95474eedd972d82aa"
+      }
+    },
+    {
+      "schemaVersion": "1.0",
+      "id": "financial-research-supply-chain-signal-analyst",
+      "version": "0.1.0",
+      "title": "Supply Chain Signal Analyst",
+      "summary": "Monitors supplier, logistics, inventory, and procurement signals that may reveal demand shifts or operational strain before company reports fully catch up.",
+      "classification": {
+        "industryId": "industry-6-financial-research",
+        "familyKey": "sector-thematic-research"
+      },
+      "discovery": {
+        "tags": [
+          "financial",
+          "research",
+          "supply",
+          "chain",
+          "signal",
+          "sector",
+          "thematic"
+        ],
+        "domains": [
+          "sector",
+          "thematic"
+        ],
+        "taskTypes": [
+          "analysis",
+          "planning"
+        ],
+        "stacks": [
+          "financial",
+          "research",
+          "supply",
+          "chain"
+        ],
+        "deliverables": [
+          "checklist",
+          "implementation-plan"
+        ],
+        "capabilities": [
+          "financial-research",
+          "sector-thematic"
+        ]
+      },
+      "runtime": {
+        "tools": [
+          "docs",
+          "shell",
+          "coding"
+        ],
+        "bundledSkills": [
+          "coding-agent"
+        ],
+        "recommendedModel": "openai-codex/gpt-5.4",
+        "requiresSecrets": false,
+        "setupCost": "low",
+        "readyAfterInstall": true
+      },
+      "install": {
+        "format": "zip",
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-supply-chain-signal-analyst.zip",
+        "packageSha256": "5e323863895816da61c3a913c68e2f5c1a3d282129cbe68f3afb38d0ed7e6fe5"
+      }
+    },
+    {
+      "schemaVersion": "1.0",
+      "id": "financial-research-thematic-trend-analyst",
+      "version": "0.1.0",
+      "title": "Thematic Trend Analyst",
+      "summary": "Tracks structural themes such as AI adoption, electrification, reshoring, digitization, or cost deflation and shows how they may reshape coverage priorities.",
+      "classification": {
+        "industryId": "industry-6-financial-research",
+        "familyKey": "sector-thematic-research"
+      },
+      "discovery": {
+        "tags": [
+          "financial",
+          "research",
+          "thematic",
+          "trend",
+          "sector"
+        ],
+        "domains": [
+          "sector",
+          "thematic"
+        ],
+        "taskTypes": [
+          "analysis",
+          "planning"
+        ],
+        "stacks": [
+          "financial",
+          "research",
+          "thematic",
+          "trend"
+        ],
+        "deliverables": [
+          "checklist",
+          "implementation-plan"
+        ],
+        "capabilities": [
+          "financial-research",
+          "trend-sector"
+        ]
+      },
+      "runtime": {
+        "tools": [
+          "docs",
+          "shell",
+          "coding"
+        ],
+        "bundledSkills": [
+          "coding-agent"
+        ],
+        "recommendedModel": "openai-codex/gpt-5.4",
+        "requiresSecrets": false,
+        "setupCost": "low",
+        "readyAfterInstall": true
+      },
+      "install": {
+        "format": "zip",
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-thematic-trend-analyst.zip",
+        "packageSha256": "45152a326c69f6fa4cd521610704bf76ef90cc062e1f8b15ccb212c60602e386"
+      }
+    },
+    {
+      "schemaVersion": "1.0",
+      "id": "financial-research-thesis-maintenance-analyst",
+      "version": "0.1.0",
+      "title": "Thesis Maintenance Analyst",
+      "summary": "Maintains an active thesis ledger showing what has been confirmed, weakened, deferred, or invalidated as new evidence arrives.",
+      "classification": {
+        "industryId": "industry-6-financial-research",
+        "familyKey": "equity-analysis"
+      },
+      "discovery": {
+        "tags": [
+          "financial",
+          "research",
+          "thesis",
+          "maintenance",
+          "equity",
+          "analysis"
+        ],
+        "domains": [
+          "equity",
+          "analysis"
+        ],
+        "taskTypes": [
+          "analysis",
+          "planning"
+        ],
+        "stacks": [
+          "financial",
+          "research",
+          "thesis",
+          "maintenance"
+        ],
+        "deliverables": [
+          "audit-report",
+          "checklist",
+          "implementation-plan"
+        ],
+        "capabilities": [
+          "financial-research",
+          "equity-analysis"
+        ]
+      },
+      "runtime": {
+        "tools": [
+          "docs",
+          "shell",
+          "coding",
+          "design"
+        ],
+        "bundledSkills": [
+          "coding-agent"
+        ],
+        "recommendedModel": "openai-codex/gpt-5.4",
+        "requiresSecrets": false,
+        "setupCost": "low",
+        "readyAfterInstall": true
+      },
+      "install": {
+        "format": "zip",
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-thesis-maintenance-analyst.zip",
+        "packageSha256": "8474efda1febb4eeb1c7d187d2aee865c799f8d462e13f9d41bd7850bf69a575"
+      }
+    },
+    {
+      "schemaVersion": "1.0",
+      "id": "financial-research-thesis-scenario-analyst",
+      "version": "0.1.0",
+      "title": "Thesis Scenario Analyst",
+      "summary": "Builds base, upside, and downside operating scenarios that show which assumptions matter most and where evidence gaps still dominate the range of outcomes.",
+      "classification": {
+        "industryId": "industry-6-financial-research",
+        "familyKey": "scenario-stress-analysis"
+      },
+      "discovery": {
+        "tags": [
+          "financial",
+          "research",
+          "thesis",
+          "scenario",
+          "stress",
+          "analysis"
+        ],
+        "domains": [
+          "scenario",
+          "stress"
+        ],
+        "taskTypes": [
+          "analysis",
+          "planning"
+        ],
+        "stacks": [
+          "financial",
+          "research",
+          "thesis",
+          "scenario"
+        ],
+        "deliverables": [
+          "audit-report",
+          "checklist",
+          "implementation-plan"
+        ],
+        "capabilities": [
+          "financial-research",
+          "stress-analysis"
+        ]
+      },
+      "runtime": {
+        "tools": [
+          "docs",
+          "shell",
+          "coding"
+        ],
+        "bundledSkills": [
+          "coding-agent"
+        ],
+        "recommendedModel": "openai-codex/gpt-5.4",
+        "requiresSecrets": false,
+        "setupCost": "low",
+        "readyAfterInstall": true
+      },
+      "install": {
+        "format": "zip",
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-thesis-scenario-analyst.zip",
+        "packageSha256": "a4f8f0e171386fb95295b5db7520ad8c812b5d163169cf73611273b301e68a18"
+      }
+    },
+    {
+      "schemaVersion": "1.0",
+      "id": "financial-research-transcript-highlight-analyst",
+      "version": "0.1.0",
+      "title": "Transcript Highlight Analyst",
+      "summary": "Extracts management tone shifts, disclosure changes, and decision-useful evidence from transcripts, fireside chats, and conference appearances.",
+      "classification": {
+        "industryId": "industry-6-financial-research",
+        "familyKey": "event-earnings-monitoring"
+      },
+      "discovery": {
+        "tags": [
+          "financial",
+          "research",
+          "transcript",
+          "highlight",
+          "event",
+          "earnings",
+          "monitoring"
+        ],
+        "domains": [
+          "event",
+          "earnings"
+        ],
+        "taskTypes": [
+          "analysis",
+          "planning"
+        ],
+        "stacks": [
+          "financial",
+          "research",
+          "transcript",
+          "highlight"
+        ],
+        "deliverables": [
+          "checklist",
+          "implementation-plan",
+          "script"
+        ],
+        "capabilities": [
+          "financial-research",
+          "earnings-monitoring"
+        ]
+      },
+      "runtime": {
+        "tools": [
+          "docs",
+          "shell",
+          "coding"
+        ],
+        "bundledSkills": [
+          "coding-agent"
+        ],
+        "recommendedModel": "openai-codex/gpt-5.4",
+        "requiresSecrets": false,
+        "setupCost": "low",
+        "readyAfterInstall": true
+      },
+      "install": {
+        "format": "zip",
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-transcript-highlight-analyst.zip",
+        "packageSha256": "8b604850c07c6c5398cade0b1aeaa4bd77f60b8758676320e85431898d145c6a"
+      }
+    },
+    {
+      "schemaVersion": "1.0",
+      "id": "financial-research-valuation-analyst",
+      "version": "0.1.0",
+      "title": "Valuation Analyst",
+      "summary": "Frames defensible valuation ranges using multiples, simplified DCF logic, and scenario analysis without overstating precision.",
+      "classification": {
+        "industryId": "industry-6-financial-research",
+        "familyKey": "equity-analysis"
+      },
+      "discovery": {
+        "tags": [
+          "financial",
+          "research",
+          "valuation",
+          "equity",
+          "analysis"
+        ],
+        "domains": [
+          "equity",
+          "analysis"
+        ],
+        "taskTypes": [
+          "analysis",
+          "planning"
+        ],
+        "stacks": [
+          "financial",
+          "research",
+          "valuation",
+          "equity"
+        ],
+        "deliverables": [
+          "audit-report",
+          "checklist",
+          "implementation-plan"
+        ],
+        "capabilities": [
+          "financial-research",
+          "equity-analysis"
+        ]
+      },
+      "runtime": {
+        "tools": [
+          "docs",
+          "shell",
+          "coding",
+          "design"
+        ],
+        "bundledSkills": [
+          "coding-agent"
+        ],
+        "recommendedModel": "openai-codex/gpt-5.4",
+        "requiresSecrets": false,
+        "setupCost": "low",
+        "readyAfterInstall": true
+      },
+      "install": {
+        "format": "zip",
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-valuation-analyst.zip",
+        "packageSha256": "8d9500a1b9637148f961891ced8824f1f58b47c4e7557ec74c157b35fd9398f5"
+      }
+    },
+    {
+      "schemaVersion": "1.0",
+      "id": "financial-research-variant-perception-analyst",
+      "version": "0.1.0",
+      "title": "Variant Perception Analyst",
+      "summary": "Separates consensus assumptions from differentiated hypotheses so teams can see where the market narrative may diverge from emerging evidence.",
+      "classification": {
+        "industryId": "industry-6-financial-research",
+        "familyKey": "screening-comparison"
+      },
+      "discovery": {
+        "tags": [
+          "financial",
+          "research",
+          "variant",
+          "perception",
+          "screening",
+          "comparison"
+        ],
+        "domains": [
+          "screening",
+          "comparison"
+        ],
+        "taskTypes": [
+          "analysis",
+          "planning"
+        ],
+        "stacks": [
+          "financial",
+          "research",
+          "variant",
+          "perception"
+        ],
+        "deliverables": [
+          "checklist",
+          "implementation-plan"
+        ],
+        "capabilities": [
+          "financial-research",
+          "screening-comparison"
+        ]
+      },
+      "runtime": {
+        "tools": [
+          "docs",
+          "shell",
+          "coding"
+        ],
+        "bundledSkills": [
+          "coding-agent"
+        ],
+        "recommendedModel": "openai-codex/gpt-5.4",
+        "requiresSecrets": false,
+        "setupCost": "low",
+        "readyAfterInstall": true
+      },
+      "install": {
+        "format": "zip",
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-variant-perception-analyst.zip",
+        "packageSha256": "5ea9a9df886667ceb56c6a1ce22cb1258a56e48633622f57396e116f61e0c895"
+      }
+    },
+    {
+      "schemaVersion": "1.0",
+      "id": "financial-research-watchlist-curator",
+      "version": "0.1.0",
+      "title": "Watchlist Curator",
+      "summary": "Maintains structured watchlists by theme, catalyst window, diligence stage, and thesis status so research teams can review coverage systematically.",
+      "classification": {
+        "industryId": "industry-6-financial-research",
+        "familyKey": "portfolio-research-support"
+      },
+      "discovery": {
+        "tags": [
+          "financial",
+          "research",
+          "watchlist",
+          "curator",
+          "portfolio",
+          "support"
+        ],
+        "domains": [
+          "portfolio",
+          "research"
+        ],
+        "taskTypes": [
+          "analysis",
+          "planning"
+        ],
+        "stacks": [
+          "financial",
+          "research",
+          "watchlist",
+          "curator"
+        ],
+        "deliverables": [
+          "checklist",
+          "implementation-plan"
+        ],
+        "capabilities": [
+          "financial-research",
+          "portfolio-support"
+        ]
+      },
+      "runtime": {
+        "tools": [
+          "docs",
+          "shell",
+          "coding"
+        ],
+        "bundledSkills": [
+          "coding-agent"
+        ],
+        "recommendedModel": "openai-codex/gpt-5.4",
+        "requiresSecrets": false,
+        "setupCost": "low",
+        "readyAfterInstall": true
+      },
+      "install": {
+        "format": "zip",
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-watchlist-curator.zip",
+        "packageSha256": "50c776b06dd8742d982a7a772ccfbd336db185fae2d4a86aa80bdc47595690f2"
+      }
+    },
+    {
+      "schemaVersion": "1.0",
+      "id": "financial-research-watchlist-monitor-analyst",
+      "version": "0.1.0",
+      "title": "Watchlist Monitor Analyst",
+      "summary": "Monitors earnings dates, guidance updates, news catalysts, and thesis-drift signals for names under active research coverage.",
+      "classification": {
+        "industryId": "industry-6-financial-research",
+        "familyKey": "equity-analysis"
+      },
+      "discovery": {
+        "tags": [
+          "financial",
+          "research",
+          "watchlist",
+          "monitor",
+          "equity",
+          "analysis"
+        ],
+        "domains": [
+          "equity",
+          "analysis"
+        ],
+        "taskTypes": [
+          "analysis",
+          "planning"
+        ],
+        "stacks": [
+          "financial",
+          "research",
+          "watchlist",
+          "monitor"
+        ],
+        "deliverables": [
+          "audit-report",
+          "checklist",
+          "implementation-plan"
+        ],
+        "capabilities": [
+          "financial-research",
+          "equity-analysis"
+        ]
+      },
+      "runtime": {
+        "tools": [
+          "docs",
+          "shell",
+          "coding",
+          "design"
+        ],
+        "bundledSkills": [
+          "coding-agent"
+        ],
+        "recommendedModel": "openai-codex/gpt-5.4",
+        "requiresSecrets": false,
+        "setupCost": "low",
+        "readyAfterInstall": true
+      },
+      "install": {
+        "format": "zip",
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-watchlist-monitor-analyst.zip",
+        "packageSha256": "4eee05652d596ad05f770ba359625c0df7422699e77a2d95b6c04624f56e33c0"
+      }
+    }
+  ]
+}

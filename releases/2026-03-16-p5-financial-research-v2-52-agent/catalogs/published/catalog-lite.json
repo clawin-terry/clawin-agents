@@ -1,0 +1,1440 @@
+{
+  "schemaVersion": "1.0",
+  "catalogVersion": "2026-03-16-p5-financial-research-v2-52-agent",
+  "generatedAt": "2026-03-16T01:16:52+08:00",
+  "totalAgents": 52,
+  "source": {
+    "repo": "clawin-private",
+    "branch": "feat/stock-analysis-agent-pipeline-test",
+    "commit": "f9062910fe75b781db2b418f7125773b77f19fd7",
+    "projectionBaseUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent"
+  },
+  "generatedBy": "scripts/project_release_bundle.py",
+  "agents": [
+    {
+      "id": "financial-research-alt-data-analyst",
+      "version": "0.1.0",
+      "title": "Alternative Data Signal Analyst",
+      "summary": "Summarizes alternative-data inputs such as web traffic, app trends, card data, satellite indicators, or hiring signals while highlighting methodological limits.",
+      "tags": [
+        "financial",
+        "research",
+        "alt",
+        "data",
+        "alternative",
+        "signal",
+        "ops",
+        "monitoring"
+      ],
+      "domains": [
+        "research",
+        "ops"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-alt-data-analyst.zip"
+      }
+    },
+    {
+      "id": "financial-research-business-model-analyst",
+      "version": "0.1.0",
+      "title": "Business Model Analyst",
+      "summary": "Maps revenue engines, unit economics, customer concentration, pricing power, and cost structure to clarify how the business actually creates value.",
+      "tags": [
+        "financial",
+        "research",
+        "business",
+        "model",
+        "equity",
+        "analysis"
+      ],
+      "domains": [
+        "equity",
+        "analysis"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-business-model-analyst.zip"
+      }
+    },
+    {
+      "id": "financial-research-capital-allocation-analyst",
+      "version": "0.1.0",
+      "title": "Capital Allocation Analyst",
+      "summary": "Examines reinvestment choices, buybacks, dividends, M&A discipline, and balance-sheet deployment to judge whether management capital allocation supports the thesis.",
+      "tags": [
+        "financial",
+        "research",
+        "capital",
+        "allocation",
+        "equity",
+        "analysis"
+      ],
+      "domains": [
+        "equity",
+        "analysis"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-capital-allocation-analyst.zip"
+      }
+    },
+    {
+      "id": "financial-research-catalyst-calendar-lead",
+      "version": "0.1.0",
+      "title": "Catalyst Calendar Coordinator",
+      "summary": "Maintains a team-level catalyst calendar that consolidates company events, macro releases, industry checkpoints, and internal memo deadlines.",
+      "tags": [
+        "financial",
+        "research",
+        "catalyst",
+        "calendar",
+        "ops",
+        "data",
+        "monitoring"
+      ],
+      "domains": [
+        "research",
+        "ops"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-catalyst-calendar-lead.zip"
+      }
+    },
+    {
+      "id": "financial-research-catalyst-path-analyst",
+      "version": "0.1.0",
+      "title": "Catalyst Path Analyst",
+      "summary": "Maps plausible catalyst sequences and failure paths so teams can see which evidence checkpoints matter before a thesis can strengthen or break.",
+      "tags": [
+        "financial",
+        "research",
+        "catalyst",
+        "path",
+        "scenario",
+        "stress",
+        "analysis"
+      ],
+      "domains": [
+        "scenario",
+        "stress"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-catalyst-path-analyst.zip"
+      }
+    },
+    {
+      "id": "financial-research-channel-check-planner",
+      "version": "0.1.0",
+      "title": "Channel Check Planner",
+      "summary": "Designs disciplined channel-check plans by identifying what to ask, whom to ask, and what bias controls are needed before anecdotal evidence is used.",
+      "tags": [
+        "financial",
+        "research",
+        "channel",
+        "check",
+        "planner",
+        "sector",
+        "thematic"
+      ],
+      "domains": [
+        "sector",
+        "thematic"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-channel-check-planner.zip"
+      }
+    },
+    {
+      "id": "financial-research-company-research-analyst",
+      "version": "0.1.0",
+      "title": "Company Research Analyst",
+      "summary": "Builds a fundamentals-first company view covering business model, management quality, competitive position, operating drivers, and catalyst context for listed companies.",
+      "tags": [
+        "financial",
+        "research",
+        "company",
+        "equity",
+        "analysis"
+      ],
+      "domains": [
+        "equity",
+        "analysis"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-company-research-analyst.zip"
+      }
+    },
+    {
+      "id": "financial-research-competitive-landscape-analyst",
+      "version": "0.1.0",
+      "title": "Competitive Landscape Analyst",
+      "summary": "Maps competitor positioning, strategic moves, pricing behavior, product differentiation, and share-shift drivers within a target market.",
+      "tags": [
+        "financial",
+        "research",
+        "competitive",
+        "landscape",
+        "sector",
+        "thematic"
+      ],
+      "domains": [
+        "sector",
+        "thematic"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-competitive-landscape-analyst.zip"
+      }
+    },
+    {
+      "id": "financial-research-consensus-estimate-monitor",
+      "version": "0.1.0",
+      "title": "Consensus Estimate Monitor",
+      "summary": "Tracks consensus revenue, margin, EPS, and free-cash-flow expectation changes across covered names so estimate drift is visible before major events.",
+      "tags": [
+        "financial",
+        "research",
+        "consensus",
+        "estimate",
+        "monitor",
+        "ops",
+        "data",
+        "monitoring"
+      ],
+      "domains": [
+        "research",
+        "ops"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-consensus-estimate-monitor.zip"
+      }
+    },
+    {
+      "id": "financial-research-cross-asset-monitor-analyst",
+      "version": "0.1.0",
+      "title": "Cross-Asset Signal Monitor Analyst",
+      "summary": "Tracks rates, credit spreads, commodities, FX, and volatility signals that may explain or challenge single-name equity moves and sector narratives.",
+      "tags": [
+        "financial",
+        "research",
+        "cross",
+        "asset",
+        "monitor",
+        "signal",
+        "market",
+        "monitoring"
+      ],
+      "domains": [
+        "market",
+        "monitoring"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-cross-asset-monitor-analyst.zip"
+      }
+    },
+    {
+      "id": "financial-research-data-quality-steward",
+      "version": "0.1.0",
+      "title": "Data Quality Steward",
+      "summary": "Checks research datasets for stale points, inconsistent definitions, broken links, unit mismatches, and unsupported assumptions before they enter downstream memos.",
+      "tags": [
+        "financial",
+        "research",
+        "data",
+        "quality",
+        "steward",
+        "ops",
+        "monitoring"
+      ],
+      "domains": [
+        "research",
+        "ops"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-data-quality-steward.zip"
+      }
+    },
+    {
+      "id": "financial-research-diligence-tracker",
+      "version": "0.1.0",
+      "title": "Diligence Tracker",
+      "summary": "Tracks open diligence items, missing evidence, source freshness, and owner handoffs so no thesis depends on unexamined assumptions.",
+      "tags": [
+        "financial",
+        "research",
+        "diligence",
+        "tracker",
+        "portfolio",
+        "support"
+      ],
+      "domains": [
+        "portfolio",
+        "research"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-diligence-tracker.zip"
+      }
+    },
+    {
+      "id": "financial-research-downside-stress-analyst",
+      "version": "0.1.0",
+      "title": "Downside Stress Analyst",
+      "summary": "Pressure-tests what a thesis looks like under revenue misses, margin compression, slower demand, and weaker financing conditions.",
+      "tags": [
+        "financial",
+        "research",
+        "downside",
+        "stress",
+        "scenario",
+        "analysis"
+      ],
+      "domains": [
+        "scenario",
+        "stress"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-downside-stress-analyst.zip"
+      }
+    },
+    {
+      "id": "financial-research-earnings-preview-analyst",
+      "version": "0.1.0",
+      "title": "Earnings Preview Analyst",
+      "summary": "Prepares earnings preview briefs with setup, key questions, consensus framing, scenario sensitivities, and what evidence would confirm or weaken the current thesis.",
+      "tags": [
+        "financial",
+        "research",
+        "earnings",
+        "preview",
+        "event",
+        "monitoring"
+      ],
+      "domains": [
+        "event",
+        "earnings"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning",
+        "review"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-earnings-preview-analyst.zip"
+      }
+    },
+    {
+      "id": "financial-research-earnings-reaction-analyst",
+      "version": "0.1.0",
+      "title": "Earnings Reaction Analyst",
+      "summary": "Summarizes post-earnings developments, isolates what changed versus expectations, and distinguishes signal from noise in immediate market reactions.",
+      "tags": [
+        "financial",
+        "research",
+        "earnings",
+        "reaction",
+        "event",
+        "monitoring"
+      ],
+      "domains": [
+        "event",
+        "earnings"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-earnings-reaction-analyst.zip"
+      }
+    },
+    {
+      "id": "financial-research-estimate-revision-analyst",
+      "version": "0.1.0",
+      "title": "Estimate Revision Analyst",
+      "summary": "Monitors sell-side estimate changes, target-reset patterns, and assumption revisions after major developments to show how the expectation set is moving.",
+      "tags": [
+        "financial",
+        "research",
+        "estimate",
+        "revision",
+        "event",
+        "earnings",
+        "monitoring"
+      ],
+      "domains": [
+        "event",
+        "earnings"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-estimate-revision-analyst.zip"
+      }
+    },
+    {
+      "id": "financial-research-event-calendar-analyst",
+      "version": "0.1.0",
+      "title": "Event Calendar Analyst",
+      "summary": "Maintains a forward-looking calendar of earnings dates, investor events, product launches, data releases, lockups, and other thesis-relevant milestones.",
+      "tags": [
+        "financial",
+        "research",
+        "event",
+        "calendar",
+        "earnings",
+        "monitoring"
+      ],
+      "domains": [
+        "event",
+        "earnings"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-event-calendar-analyst.zip"
+      }
+    },
+    {
+      "id": "financial-research-evidence-gap-tracker",
+      "version": "0.1.0",
+      "title": "Evidence Gap Tracker",
+      "summary": "Maintains an explicit ledger of unresolved questions, weak evidence chains, stale sources, and high-impact unknowns across active coverage.",
+      "tags": [
+        "financial",
+        "research",
+        "evidence",
+        "gap",
+        "tracker",
+        "ops",
+        "data",
+        "monitoring"
+      ],
+      "domains": [
+        "research",
+        "ops"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-evidence-gap-tracker.zip"
+      }
+    },
+    {
+      "id": "financial-research-exposure-review-analyst",
+      "version": "0.1.0",
+      "title": "Portfolio Exposure Review Analyst",
+      "summary": "Reviews a research watchlist or draft portfolio for concentration, overlap, factor clustering, and common thesis dependencies without making suitability or allocation decisions.",
+      "tags": [
+        "financial",
+        "research",
+        "exposure",
+        "review",
+        "portfolio",
+        "support"
+      ],
+      "domains": [
+        "portfolio",
+        "research"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning",
+        "review"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-exposure-review-analyst.zip"
+      }
+    },
+    {
+      "id": "financial-research-factor-exposure-analyst",
+      "version": "0.1.0",
+      "title": "Factor Exposure Analyst",
+      "summary": "Maps equity ideas to style, quality, momentum, leverage, and cyclicality exposures so teams understand what risk buckets a name may load into.",
+      "tags": [
+        "financial",
+        "research",
+        "factor",
+        "exposure",
+        "screening",
+        "comparison"
+      ],
+      "domains": [
+        "screening",
+        "comparison"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-factor-exposure-analyst.zip"
+      }
+    },
+    {
+      "id": "financial-research-financial-statement-analyst",
+      "version": "0.1.0",
+      "title": "Financial Statement Analyst",
+      "summary": "Assesses income statement, balance sheet, and cash flow quality to surface trend direction, capital intensity, balance-sheet resilience, and accounting red flags.",
+      "tags": [
+        "financial",
+        "research",
+        "statement",
+        "equity",
+        "analysis"
+      ],
+      "domains": [
+        "equity",
+        "analysis"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-financial-statement-analyst.zip"
+      }
+    },
+    {
+      "id": "financial-research-guidance-change-analyst",
+      "version": "0.1.0",
+      "title": "Guidance Change Analyst",
+      "summary": "Tracks guidance revisions, management tone shifts, and estimate-reset implications to help teams understand whether thesis assumptions still hold.",
+      "tags": [
+        "financial",
+        "research",
+        "guidance",
+        "change",
+        "event",
+        "earnings",
+        "monitoring"
+      ],
+      "domains": [
+        "event",
+        "earnings"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-guidance-change-analyst.zip"
+      }
+    },
+    {
+      "id": "financial-research-idea-intake-analyst",
+      "version": "0.1.0",
+      "title": "Idea Intake Analyst",
+      "summary": "Structures ambiguous stock ideas into a clean research brief with scope, horizon, thesis questions, and evidence needs for public-equity coverage.",
+      "tags": [
+        "financial",
+        "research",
+        "idea",
+        "intake",
+        "equity",
+        "analysis"
+      ],
+      "domains": [
+        "equity",
+        "analysis"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-idea-intake-analyst.zip"
+      }
+    },
+    {
+      "id": "financial-research-idea-prioritization-analyst",
+      "version": "0.1.0",
+      "title": "Idea Prioritization Analyst",
+      "summary": "Ranks candidate research ideas by evidence strength, novelty, catalyst timing, downside ambiguity, and expected follow-up effort without implying execution advice.",
+      "tags": [
+        "financial",
+        "research",
+        "idea",
+        "prioritization",
+        "screening",
+        "comparison"
+      ],
+      "domains": [
+        "screening",
+        "comparison"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-idea-prioritization-analyst.zip"
+      }
+    },
+    {
+      "id": "financial-research-industry-kpi-monitor",
+      "version": "0.1.0",
+      "title": "Industry KPI Monitor",
+      "summary": "Tracks sector-specific KPIs such as pricing, utilization, churn, inventory, shipments, store traffic, or bookings to support ongoing coverage updates.",
+      "tags": [
+        "financial",
+        "research",
+        "kpi",
+        "monitor",
+        "sector",
+        "thematic"
+      ],
+      "domains": [
+        "sector",
+        "thematic"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-industry-kpi-monitor.zip"
+      }
+    },
+    {
+      "id": "financial-research-liquidity-stress-analyst",
+      "version": "0.1.0",
+      "title": "Liquidity & Balance Sheet Stress Analyst",
+      "summary": "Evaluates refinancing needs, covenant headroom, liquidity runway, and balance-sheet flexibility under adverse operating and market conditions.",
+      "tags": [
+        "financial",
+        "research",
+        "liquidity",
+        "stress",
+        "balance",
+        "sheet",
+        "scenario",
+        "analysis"
+      ],
+      "domains": [
+        "scenario",
+        "stress"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-liquidity-stress-analyst.zip"
+      }
+    },
+    {
+      "id": "financial-research-macro-market-monitor-analyst",
+      "version": "0.1.0",
+      "title": "Macro Market Monitor Analyst",
+      "summary": "Tracks macro releases, rate expectations, liquidity backdrop, and broad market regime shifts that may change the interpretation of single-name equity research.",
+      "tags": [
+        "financial",
+        "research",
+        "macro",
+        "market",
+        "monitor",
+        "monitoring"
+      ],
+      "domains": [
+        "market",
+        "monitoring"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-macro-market-monitor-analyst.zip"
+      }
+    },
+    {
+      "id": "financial-research-management-quality-analyst",
+      "version": "0.1.0",
+      "title": "Management Quality Analyst",
+      "summary": "Reviews leadership credibility, capital-markets communication, incentive alignment, governance posture, and execution consistency as research inputs.",
+      "tags": [
+        "financial",
+        "research",
+        "management",
+        "quality",
+        "equity",
+        "analysis"
+      ],
+      "domains": [
+        "equity",
+        "analysis"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-management-quality-analyst.zip"
+      }
+    },
+    {
+      "id": "financial-research-market-map-analyst",
+      "version": "0.1.0",
+      "title": "Market Map Analyst",
+      "summary": "Creates structured market maps that cluster candidate names by subsector, business model, maturity, and key operating drivers before deeper diligence begins.",
+      "tags": [
+        "financial",
+        "research",
+        "market",
+        "map",
+        "screening",
+        "comparison"
+      ],
+      "domains": [
+        "screening",
+        "comparison"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-market-map-analyst.zip"
+      }
+    },
+    {
+      "id": "financial-research-memo-editor-analyst",
+      "version": "0.1.0",
+      "title": "Memo Standardization Analyst",
+      "summary": "Normalizes research memos into a consistent structure covering thesis, evidence, assumptions, risks, catalysts, and source timestamps.",
+      "tags": [
+        "financial",
+        "research",
+        "memo",
+        "editor",
+        "standardization",
+        "ops",
+        "data",
+        "monitoring"
+      ],
+      "domains": [
+        "research",
+        "ops"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-memo-editor-analyst.zip"
+      }
+    },
+    {
+      "id": "financial-research-news-catalyst-monitor-analyst",
+      "version": "0.1.0",
+      "title": "News Catalyst Monitor Analyst",
+      "summary": "Maintains an event-driven watch across company news, policy headlines, litigation developments, financing moves, and sentiment inflections relevant to covered names.",
+      "tags": [
+        "financial",
+        "research",
+        "news",
+        "catalyst",
+        "monitor",
+        "market",
+        "monitoring"
+      ],
+      "domains": [
+        "market",
+        "monitoring"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-news-catalyst-monitor-analyst.zip"
+      }
+    },
+    {
+      "id": "financial-research-peer-comparison-analyst",
+      "version": "0.1.0",
+      "title": "Peer Comparison Analyst",
+      "summary": "Builds clean peer sets and compares operating model, growth quality, margins, capital efficiency, and valuation context across comparable public companies.",
+      "tags": [
+        "financial",
+        "research",
+        "peer",
+        "comparison",
+        "screening"
+      ],
+      "domains": [
+        "screening",
+        "comparison"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-peer-comparison-analyst.zip"
+      }
+    },
+    {
+      "id": "financial-research-policy-monitor-analyst",
+      "version": "0.1.0",
+      "title": "Policy & Regulatory Monitor Analyst",
+      "summary": "Watches policy proposals, rule changes, antitrust developments, reimbursement shifts, and regulatory enforcement trends that can alter sector-level research assumptions.",
+      "tags": [
+        "financial",
+        "research",
+        "policy",
+        "monitor",
+        "regulatory",
+        "market",
+        "monitoring"
+      ],
+      "domains": [
+        "market",
+        "monitoring"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-policy-monitor-analyst.zip"
+      }
+    },
+    {
+      "id": "financial-research-quality-screen-analyst",
+      "version": "0.1.0",
+      "title": "Quality Screen Analyst",
+      "summary": "Builds discovery screens around return quality, balance-sheet discipline, margin durability, and earnings consistency to surface higher-quality candidate names.",
+      "tags": [
+        "financial",
+        "research",
+        "quality",
+        "screen",
+        "screening",
+        "comparison"
+      ],
+      "domains": [
+        "screening",
+        "comparison"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-quality-screen-analyst.zip"
+      }
+    },
+    {
+      "id": "financial-research-relative-value-analyst",
+      "version": "0.1.0",
+      "title": "Relative Value Analyst",
+      "summary": "Compares valuation spreads, implied expectations, and business-quality differences across peer sets to identify where market pricing appears comparatively stretched or discounted.",
+      "tags": [
+        "financial",
+        "research",
+        "relative",
+        "value",
+        "screening",
+        "comparison"
+      ],
+      "domains": [
+        "screening",
+        "comparison"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-relative-value-analyst.zip"
+      }
+    },
+    {
+      "id": "financial-research-research-coverage-coordinator",
+      "version": "0.1.0",
+      "title": "Research Coverage Coordinator",
+      "summary": "Organizes coverage queues, standardizes memo status, tracks follow-up gaps, and keeps a research team aligned on what is ready, stale, blocked, or awaiting human review.",
+      "tags": [
+        "financial",
+        "research",
+        "coverage",
+        "portfolio",
+        "support"
+      ],
+      "domains": [
+        "portfolio",
+        "research"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-research-coverage-coordinator.zip"
+      }
+    },
+    {
+      "id": "financial-research-research-handoff-editor",
+      "version": "0.1.0",
+      "title": "Research Handoff Editor",
+      "summary": "Converts scattered analyst notes into clean handoff memos with scope, current view, unresolved questions, and source references for the next reviewer.",
+      "tags": [
+        "financial",
+        "research",
+        "handoff",
+        "editor",
+        "portfolio",
+        "support"
+      ],
+      "domains": [
+        "portfolio",
+        "research"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-research-handoff-editor.zip"
+      }
+    },
+    {
+      "id": "financial-research-risk-review-analyst",
+      "version": "0.1.0",
+      "title": "Risk Review Analyst",
+      "summary": "Stress-tests an equity thesis for business, financial, market, liquidity, governance, and regulatory downside before any recommendation is formed.",
+      "tags": [
+        "financial",
+        "research",
+        "risk",
+        "review",
+        "equity",
+        "analysis"
+      ],
+      "domains": [
+        "equity",
+        "analysis"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning",
+        "review"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-risk-review-analyst.zip"
+      }
+    },
+    {
+      "id": "financial-research-screener-strategy-analyst",
+      "version": "0.1.0",
+      "title": "Screener Strategy Analyst",
+      "summary": "Designs repeatable stock-screening logic for idea discovery, clarifies inclusion and exclusion rules, and explains why a screen does or does not fit the stated research objective.",
+      "tags": [
+        "financial",
+        "research",
+        "screener",
+        "strategy",
+        "screening",
+        "comparison"
+      ],
+      "domains": [
+        "screening",
+        "comparison"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-screener-strategy-analyst.zip"
+      }
+    },
+    {
+      "id": "financial-research-sector-rotation-monitor-analyst",
+      "version": "0.1.0",
+      "title": "Sector Rotation Monitor Analyst",
+      "summary": "Monitors sector leadership, breadth, relative strength, and narrative rotation to show how top-down flows may affect research coverage priorities.",
+      "tags": [
+        "financial",
+        "research",
+        "sector",
+        "rotation",
+        "monitor",
+        "market",
+        "monitoring"
+      ],
+      "domains": [
+        "market",
+        "monitoring"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-sector-rotation-monitor-analyst.zip"
+      }
+    },
+    {
+      "id": "financial-research-sector-structure-analyst",
+      "version": "0.1.0",
+      "title": "Sector Structure Analyst",
+      "summary": "Explains industry structure, value-chain economics, customer bargaining power, and profit-pool dynamics across a covered sector.",
+      "tags": [
+        "financial",
+        "research",
+        "sector",
+        "structure",
+        "thematic"
+      ],
+      "domains": [
+        "sector",
+        "thematic"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-sector-structure-analyst.zip"
+      }
+    },
+    {
+      "id": "financial-research-sensitivity-matrix-analyst",
+      "version": "0.1.0",
+      "title": "Sensitivity Matrix Analyst",
+      "summary": "Builds sensitivity tables linking valuation, earnings power, and cash generation to a small set of clearly defined driver changes.",
+      "tags": [
+        "financial",
+        "research",
+        "sensitivity",
+        "matrix",
+        "scenario",
+        "stress",
+        "analysis"
+      ],
+      "domains": [
+        "scenario",
+        "stress"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-sensitivity-matrix-analyst.zip"
+      }
+    },
+    {
+      "id": "financial-research-sentiment-monitor-analyst",
+      "version": "0.1.0",
+      "title": "Sentiment & Positioning Monitor Analyst",
+      "summary": "Tracks positioning extremes, narrative crowding, short-interest context, and sentiment swings that may change how price reactions should be interpreted.",
+      "tags": [
+        "financial",
+        "research",
+        "sentiment",
+        "monitor",
+        "positioning",
+        "market",
+        "monitoring"
+      ],
+      "domains": [
+        "market",
+        "monitoring"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-sentiment-monitor-analyst.zip"
+      }
+    },
+    {
+      "id": "financial-research-supply-chain-signal-analyst",
+      "version": "0.1.0",
+      "title": "Supply Chain Signal Analyst",
+      "summary": "Monitors supplier, logistics, inventory, and procurement signals that may reveal demand shifts or operational strain before company reports fully catch up.",
+      "tags": [
+        "financial",
+        "research",
+        "supply",
+        "chain",
+        "signal",
+        "sector",
+        "thematic"
+      ],
+      "domains": [
+        "sector",
+        "thematic"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-supply-chain-signal-analyst.zip"
+      }
+    },
+    {
+      "id": "financial-research-thematic-trend-analyst",
+      "version": "0.1.0",
+      "title": "Thematic Trend Analyst",
+      "summary": "Tracks structural themes such as AI adoption, electrification, reshoring, digitization, or cost deflation and shows how they may reshape coverage priorities.",
+      "tags": [
+        "financial",
+        "research",
+        "thematic",
+        "trend",
+        "sector"
+      ],
+      "domains": [
+        "sector",
+        "thematic"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-thematic-trend-analyst.zip"
+      }
+    },
+    {
+      "id": "financial-research-thesis-maintenance-analyst",
+      "version": "0.1.0",
+      "title": "Thesis Maintenance Analyst",
+      "summary": "Maintains an active thesis ledger showing what has been confirmed, weakened, deferred, or invalidated as new evidence arrives.",
+      "tags": [
+        "financial",
+        "research",
+        "thesis",
+        "maintenance",
+        "equity",
+        "analysis"
+      ],
+      "domains": [
+        "equity",
+        "analysis"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-thesis-maintenance-analyst.zip"
+      }
+    },
+    {
+      "id": "financial-research-thesis-scenario-analyst",
+      "version": "0.1.0",
+      "title": "Thesis Scenario Analyst",
+      "summary": "Builds base, upside, and downside operating scenarios that show which assumptions matter most and where evidence gaps still dominate the range of outcomes.",
+      "tags": [
+        "financial",
+        "research",
+        "thesis",
+        "scenario",
+        "stress",
+        "analysis"
+      ],
+      "domains": [
+        "scenario",
+        "stress"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-thesis-scenario-analyst.zip"
+      }
+    },
+    {
+      "id": "financial-research-transcript-highlight-analyst",
+      "version": "0.1.0",
+      "title": "Transcript Highlight Analyst",
+      "summary": "Extracts management tone shifts, disclosure changes, and decision-useful evidence from transcripts, fireside chats, and conference appearances.",
+      "tags": [
+        "financial",
+        "research",
+        "transcript",
+        "highlight",
+        "event",
+        "earnings",
+        "monitoring"
+      ],
+      "domains": [
+        "event",
+        "earnings"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-transcript-highlight-analyst.zip"
+      }
+    },
+    {
+      "id": "financial-research-valuation-analyst",
+      "version": "0.1.0",
+      "title": "Valuation Analyst",
+      "summary": "Frames defensible valuation ranges using multiples, simplified DCF logic, and scenario analysis without overstating precision.",
+      "tags": [
+        "financial",
+        "research",
+        "valuation",
+        "equity",
+        "analysis"
+      ],
+      "domains": [
+        "equity",
+        "analysis"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-valuation-analyst.zip"
+      }
+    },
+    {
+      "id": "financial-research-variant-perception-analyst",
+      "version": "0.1.0",
+      "title": "Variant Perception Analyst",
+      "summary": "Separates consensus assumptions from differentiated hypotheses so teams can see where the market narrative may diverge from emerging evidence.",
+      "tags": [
+        "financial",
+        "research",
+        "variant",
+        "perception",
+        "screening",
+        "comparison"
+      ],
+      "domains": [
+        "screening",
+        "comparison"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-variant-perception-analyst.zip"
+      }
+    },
+    {
+      "id": "financial-research-watchlist-curator",
+      "version": "0.1.0",
+      "title": "Watchlist Curator",
+      "summary": "Maintains structured watchlists by theme, catalyst window, diligence stage, and thesis status so research teams can review coverage systematically.",
+      "tags": [
+        "financial",
+        "research",
+        "watchlist",
+        "curator",
+        "portfolio",
+        "support"
+      ],
+      "domains": [
+        "portfolio",
+        "research"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-watchlist-curator.zip"
+      }
+    },
+    {
+      "id": "financial-research-watchlist-monitor-analyst",
+      "version": "0.1.0",
+      "title": "Watchlist Monitor Analyst",
+      "summary": "Monitors earnings dates, guidance updates, news catalysts, and thesis-drift signals for names under active research coverage.",
+      "tags": [
+        "financial",
+        "research",
+        "watchlist",
+        "monitor",
+        "equity",
+        "analysis"
+      ],
+      "domains": [
+        "equity",
+        "analysis"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent/packages/financial-research-watchlist-monitor-analyst.zip"
+      }
+    }
+  ]
+}

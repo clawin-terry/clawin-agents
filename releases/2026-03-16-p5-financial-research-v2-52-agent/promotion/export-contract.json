@@ -1,0 +1,107 @@
+{
+  "schemaVersion": "1.0",
+  "contractVersion": "1.0",
+  "generatedBy": "scripts/project_release_bundle.py",
+  "generatedAt": "2026-03-16T01:16:52+08:00",
+  "source": {
+    "repo": "clawin-private",
+    "branch": "feat/stock-analysis-agent-pipeline-test",
+    "commit": "f9062910fe75b781db2b418f7125773b77f19fd7"
+  },
+  "releaseScope": {
+    "totalAgents": 52,
+    "agentIds": [
+      "financial-research-alt-data-analyst",
+      "financial-research-business-model-analyst",
+      "financial-research-capital-allocation-analyst",
+      "financial-research-catalyst-calendar-lead",
+      "financial-research-catalyst-path-analyst",
+      "financial-research-channel-check-planner",
+      "financial-research-company-research-analyst",
+      "financial-research-competitive-landscape-analyst",
+      "financial-research-consensus-estimate-monitor",
+      "financial-research-cross-asset-monitor-analyst",
+      "financial-research-data-quality-steward",
+      "financial-research-diligence-tracker",
+      "financial-research-downside-stress-analyst",
+      "financial-research-earnings-preview-analyst",
+      "financial-research-earnings-reaction-analyst",
+      "financial-research-estimate-revision-analyst",
+      "financial-research-event-calendar-analyst",
+      "financial-research-evidence-gap-tracker",
+      "financial-research-exposure-review-analyst",
+      "financial-research-factor-exposure-analyst",
+      "financial-research-financial-statement-analyst",
+      "financial-research-guidance-change-analyst",
+      "financial-research-idea-intake-analyst",
+      "financial-research-idea-prioritization-analyst",
+      "financial-research-industry-kpi-monitor",
+      "financial-research-liquidity-stress-analyst",
+      "financial-research-macro-market-monitor-analyst",
+      "financial-research-management-quality-analyst",
+      "financial-research-market-map-analyst",
+      "financial-research-memo-editor-analyst",
+      "financial-research-news-catalyst-monitor-analyst",
+      "financial-research-peer-comparison-analyst",
+      "financial-research-policy-monitor-analyst",
+      "financial-research-quality-screen-analyst",
+      "financial-research-relative-value-analyst",
+      "financial-research-research-coverage-coordinator",
+      "financial-research-research-handoff-editor",
+      "financial-research-risk-review-analyst",
+      "financial-research-screener-strategy-analyst",
+      "financial-research-sector-rotation-monitor-analyst",
+      "financial-research-sector-structure-analyst",
+      "financial-research-sensitivity-matrix-analyst",
+      "financial-research-sentiment-monitor-analyst",
+      "financial-research-supply-chain-signal-analyst",
+      "financial-research-thematic-trend-analyst",
+      "financial-research-thesis-maintenance-analyst",
+      "financial-research-thesis-scenario-analyst",
+      "financial-research-transcript-highlight-analyst",
+      "financial-research-valuation-analyst",
+      "financial-research-variant-perception-analyst",
+      "financial-research-watchlist-curator",
+      "financial-research-watchlist-monitor-analyst"
+    ],
+    "industryIds": [
+      "industry-6-financial-research"
+    ],
+    "roleFamilyKeys": [
+      "equity-analysis",
+      "event-earnings-monitoring",
+      "market-monitoring",
+      "portfolio-research-support",
+      "research-ops-data-monitoring",
+      "scenario-stress-analysis",
+      "screening-comparison",
+      "sector-thematic-research"
+    ]
+  },
+  "downstreamPromotion": {
+    "targetRepo": "clawin-agents",
+    "mode": "copy-packages-and-generated-catalogs-only",
+    "expectedInputs": [
+      "release-manifest.json",
+      "promotion/export-contract.json",
+      "packages/*.zip",
+      "catalogs/published/catalog.json",
+      "catalogs/published/catalog-lite.json"
+    ],
+    "forbiddenInputs": [
+      "runs/**",
+      "scripts/**",
+      "data/**",
+      "specs/**",
+      "role/**"
+    ],
+    "publishedBaseUrl": "https://agents.clawin.club/releases/2026-03-16-p5-financial-research-v2-52-agent",
+    "publishReadyWhen": [
+      "validate_release_output.py passes",
+      "published catalog package URLs map 1:1 to packaged zip artifacts",
+      "CLI rehearsal proof passes against the same release bundle",
+      "public promotion copies generated outputs without rebuilding package internals"
+    ],
+    "targetSubdir": "releases/2026-03-16-p5-financial-research-v2-52-agent"
+  }
+}
