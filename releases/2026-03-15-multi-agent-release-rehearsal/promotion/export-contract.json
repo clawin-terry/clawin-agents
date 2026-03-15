@@ -2,11 +2,11 @@
   "schemaVersion": "1.0",
   "contractVersion": "1.0",
   "generatedBy": "scripts/project_release_bundle.py",
-  "generatedAt": "2026-03-15T10:06:18+08:00",
+  "generatedAt": "2026-03-15T10:28:39+08:00",
   "source": {
     "repo": "clawin-private",
     "branch": "feat/clawin-npm-install-foundation",
-    "commit": "e5a858a30a8d4f390b75eef0a77ebcb0e9ef57d7"
+    "commit": "f5171672c8faa635324b81a665f950f861894ad5"
   },
   "releaseScope": {
     "totalAgents": 3,

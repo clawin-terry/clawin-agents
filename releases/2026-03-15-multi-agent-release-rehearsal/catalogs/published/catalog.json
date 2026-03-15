@@ -1,12 +1,12 @@
 {
   "schemaVersion": "1.0",
   "catalogVersion": "0.1.1-dev",
-  "generatedAt": "2026-03-15T10:06:18+08:00",
+  "generatedAt": "2026-03-15T10:28:39+08:00",
   "totalAgents": 3,
   "source": {
     "repo": "clawin-private",
     "branch": "feat/clawin-npm-install-foundation",
-    "commit": "e5a858a30a8d4f390b75eef0a77ebcb0e9ef57d7",
+    "commit": "f5171672c8faa635324b81a665f950f861894ad5",
     "projectionBaseUrl": "https://example.invalid/clawin-agents/releases/2026-03-15-multi-agent-release-rehearsal"
   },
   "generatedBy": "scripts/project_release_bundle.py",
@@ -70,7 +70,7 @@
       "install": {
         "format": "zip",
         "packageUrl": "https://example.invalid/clawin-agents/releases/2026-03-15-multi-agent-release-rehearsal/packages/digital-marketing-livestream-retrospective-optimizer-agency.zip",
-        "packageSha256": "f41795d0a5b3a9507b95acc4b65b48ed761ed85fa7ad40fa2b68f95bc84456a9"
+        "packageSha256": "617d190306c89331d4c537aa80eb48fbc32772e34b0856a3819e2806dc451029"
       }
     },
     {
@@ -130,7 +130,7 @@
       "install": {
         "format": "zip",
         "packageUrl": "https://example.invalid/clawin-agents/releases/2026-03-15-multi-agent-release-rehearsal/packages/marketplace-ecommerce-promotional-mechanics-operations-manager.zip",
-        "packageSha256": "195f77ce5e7502fefbe19b429c5b6f3feda20c2a650a05099d774d01b62fa13c"
+        "packageSha256": "28d52ebe162687354a70aaad5f1e943b1c2d393df7588fd121135497b53c8e6f"
       }
     },
     {
@@ -194,7 +194,7 @@
       "install": {
         "format": "zip",
         "packageUrl": "https://example.invalid/clawin-agents/releases/2026-03-15-multi-agent-release-rehearsal/packages/software-it-web-performance-engineer-js-ts.zip",
-        "packageSha256": "48b901a48611aa985a1c2cfd33a4f87c3d352f2a2c211e8e31cc190904747531"
+        "packageSha256": "14a0c7af7e54fe844f6f28d00ac3e686d817413272fc981e11ef217c5c8ee0d0"
       }
     }
   ]

@@ -1,12 +1,12 @@
 {
   "schemaVersion": "1.0",
   "catalogVersion": "0.1.1-dev",
-  "generatedAt": "2026-03-15T10:06:18+08:00",
+  "generatedAt": "2026-03-15T10:28:39+08:00",
   "totalAgents": 3,
   "source": {
     "repo": "clawin-private",
     "branch": "feat/clawin-npm-install-foundation",
-    "commit": "e5a858a30a8d4f390b75eef0a77ebcb0e9ef57d7",
+    "commit": "f5171672c8faa635324b81a665f950f861894ad5",
     "projectionBaseUrl": "https://example.invalid/clawin-agents/releases/2026-03-15-multi-agent-release-rehearsal"
   },
   "generatedBy": "scripts/project_release_bundle.py",
