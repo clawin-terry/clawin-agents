@@ -1,0 +1,91 @@
+{
+  "schemaVersion": "1.0",
+  "catalogVersion": "0.1.1-dev",
+  "generatedAt": "2026-03-15T10:06:18+08:00",
+  "totalAgents": 3,
+  "source": {
+    "repo": "clawin-private",
+    "branch": "feat/clawin-npm-install-foundation",
+    "commit": "e5a858a30a8d4f390b75eef0a77ebcb0e9ef57d7",
+    "projectionBaseUrl": "https://example.invalid/clawin-agents/releases/2026-03-15-multi-agent-release-rehearsal"
+  },
+  "generatedBy": "scripts/project_release_bundle.py",
+  "agents": [
+    {
+      "id": "digital-marketing-livestream-retrospective-optimizer-agency",
+      "version": "0.1.0",
+      "title": "Livestream Retrospective Optimizer (Agency)",
+      "summary": "Runs livestream retrospectives so agency teams can turn session learning into clearer script, pacing, and offer improvements for future broadcasts.",
+      "tags": [
+        "livestream",
+        "retrospective",
+        "optimizer",
+        "operations"
+      ],
+      "domains": [
+        "livestream",
+        "operations"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://example.invalid/clawin-agents/releases/2026-03-15-multi-agent-release-rehearsal/packages/digital-marketing-livestream-retrospective-optimizer-agency.zip"
+      }
+    },
+    {
+      "id": "marketplace-ecommerce-promotional-mechanics-operations-manager",
+      "version": "0.1.0",
+      "title": "Promotional Mechanics Operations Manager",
+      "summary": "Operates promotional mechanics so coupons, flash sales, group buying, and similar campaign plays launch cleanly and perform as intended.",
+      "tags": [
+        "promotional",
+        "mechanics",
+        "operations",
+        "campaign"
+      ],
+      "domains": [
+        "campaign",
+        "operations"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://example.invalid/clawin-agents/releases/2026-03-15-multi-agent-release-rehearsal/packages/marketplace-ecommerce-promotional-mechanics-operations-manager.zip"
+      }
+    },
+    {
+      "id": "software-it-web-performance-engineer-js-ts",
+      "version": "0.1.0",
+      "title": "Web Performance Engineer (JS/TS)",
+      "summary": "Improves loading speed, runtime efficiency, and user-perceived responsiveness for web products using a JS/TS stack.",
+      "tags": [
+        "web",
+        "performance",
+        "js",
+        "ts",
+        "engineering"
+      ],
+      "domains": [
+        "engineering"
+      ],
+      "taskTypes": [
+        "analysis",
+        "implementation",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://example.invalid/clawin-agents/releases/2026-03-15-multi-agent-release-rehearsal/packages/software-it-web-performance-engineer-js-ts.zip"
+      }
+    }
+  ]
+}

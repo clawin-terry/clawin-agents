@@ -1,0 +1,201 @@
+{
+  "schemaVersion": "1.0",
+  "catalogVersion": "0.1.1-dev",
+  "generatedAt": "2026-03-15T10:06:18+08:00",
+  "totalAgents": 3,
+  "source": {
+    "repo": "clawin-private",
+    "branch": "feat/clawin-npm-install-foundation",
+    "commit": "e5a858a30a8d4f390b75eef0a77ebcb0e9ef57d7",
+    "projectionBaseUrl": "https://example.invalid/clawin-agents/releases/2026-03-15-multi-agent-release-rehearsal"
+  },
+  "generatedBy": "scripts/project_release_bundle.py",
+  "agents": [
+    {
+      "schemaVersion": "1.0",
+      "id": "digital-marketing-livestream-retrospective-optimizer-agency",
+      "version": "0.1.0",
+      "title": "Livestream Retrospective Optimizer (Agency)",
+      "summary": "Runs livestream retrospectives so agency teams can turn session learning into clearer script, pacing, and offer improvements for future broadcasts.",
+      "classification": {
+        "industryId": "industry-4-digital-marketing-agency",
+        "familyKey": "livestream-operations"
+      },
+      "discovery": {
+        "tags": [
+          "livestream",
+          "retrospective",
+          "optimizer",
+          "operations"
+        ],
+        "domains": [
+          "livestream",
+          "operations"
+        ],
+        "taskTypes": [
+          "analysis",
+          "planning"
+        ],
+        "stacks": [
+          "livestream",
+          "retrospective",
+          "optimizer",
+          "operations"
+        ],
+        "deliverables": [
+          "checklist",
+          "implementation-plan",
+          "script",
+          "strategy-doc"
+        ],
+        "capabilities": [
+          "livestream-retrospective",
+          "optimizer-operations"
+        ]
+      },
+      "runtime": {
+        "tools": [
+          "docs",
+          "shell",
+          "coding"
+        ],
+        "bundledSkills": [
+          "coding-agent"
+        ],
+        "recommendedModel": "openai-codex/gpt-5.4",
+        "requiresSecrets": false,
+        "setupCost": "low",
+        "readyAfterInstall": true
+      },
+      "install": {
+        "format": "zip",
+        "packageUrl": "https://example.invalid/clawin-agents/releases/2026-03-15-multi-agent-release-rehearsal/packages/digital-marketing-livestream-retrospective-optimizer-agency.zip",
+        "packageSha256": "f41795d0a5b3a9507b95acc4b65b48ed761ed85fa7ad40fa2b68f95bc84456a9"
+      }
+    },
+    {
+      "schemaVersion": "1.0",
+      "id": "marketplace-ecommerce-promotional-mechanics-operations-manager",
+      "version": "0.1.0",
+      "title": "Promotional Mechanics Operations Manager",
+      "summary": "Operates promotional mechanics so coupons, flash sales, group buying, and similar campaign plays launch cleanly and perform as intended.",
+      "classification": {
+        "industryId": "industry-3-marketplace-ecommerce",
+        "familyKey": "campaign-operations"
+      },
+      "discovery": {
+        "tags": [
+          "promotional",
+          "mechanics",
+          "operations",
+          "campaign"
+        ],
+        "domains": [
+          "campaign",
+          "operations"
+        ],
+        "taskTypes": [
+          "analysis",
+          "planning"
+        ],
+        "stacks": [
+          "promotional",
+          "mechanics",
+          "operations",
+          "campaign"
+        ],
+        "deliverables": [
+          "checklist",
+          "implementation-plan"
+        ],
+        "capabilities": [
+          "promotional-mechanics",
+          "operations-campaign"
+        ]
+      },
+      "runtime": {
+        "tools": [
+          "docs",
+          "shell",
+          "coding"
+        ],
+        "bundledSkills": [
+          "coding-agent"
+        ],
+        "recommendedModel": "openai-codex/gpt-5.4",
+        "requiresSecrets": false,
+        "setupCost": "low",
+        "readyAfterInstall": true
+      },
+      "install": {
+        "format": "zip",
+        "packageUrl": "https://example.invalid/clawin-agents/releases/2026-03-15-multi-agent-release-rehearsal/packages/marketplace-ecommerce-promotional-mechanics-operations-manager.zip",
+        "packageSha256": "195f77ce5e7502fefbe19b429c5b6f3feda20c2a650a05099d774d01b62fa13c"
+      }
+    },
+    {
+      "schemaVersion": "1.0",
+      "id": "software-it-web-performance-engineer-js-ts",
+      "version": "0.1.0",
+      "title": "Web Performance Engineer (JS/TS)",
+      "summary": "Improves loading speed, runtime efficiency, and user-perceived responsiveness for web products using a JS/TS stack.",
+      "classification": {
+        "industryId": "industry-1-software-it",
+        "familyKey": "engineering"
+      },
+      "discovery": {
+        "tags": [
+          "web",
+          "performance",
+          "js",
+          "ts",
+          "engineering"
+        ],
+        "domains": [
+          "engineering"
+        ],
+        "taskTypes": [
+          "analysis",
+          "implementation",
+          "planning"
+        ],
+        "stacks": [
+          "web",
+          "performance",
+          "js",
+          "ts"
+        ],
+        "deliverables": [
+          "checklist",
+          "implementation-plan"
+        ],
+        "capabilities": [
+          "web-performance",
+          "ts-engineering"
+        ]
+      },
+      "runtime": {
+        "tools": [
+          "docs",
+          "shell",
+          "coding",
+          "design",
+          "browser"
+        ],
+        "bundledSkills": [
+          "coding-agent",
+          "ui-ux-pro-max"
+        ],
+        "recommendedModel": "openai-codex/gpt-5.4",
+        "requiresSecrets": false,
+        "setupCost": "low",
+        "readyAfterInstall": true
+      },
+      "install": {
+        "format": "zip",
+        "packageUrl": "https://example.invalid/clawin-agents/releases/2026-03-15-multi-agent-release-rehearsal/packages/software-it-web-performance-engineer-js-ts.zip",
+        "packageSha256": "48b901a48611aa985a1c2cfd33a4f87c3d352f2a2c211e8e31cc190904747531"
+      }
+    }
+  ]
+}

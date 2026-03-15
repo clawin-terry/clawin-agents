@@ -1,0 +1,84 @@
+{
+  "schemaVersion": "1.0",
+  "releaseVersion": "0.1.1-dev",
+  "generatedAt": "2026-03-15T10:06:18+08:00",
+  "generatedBy": "scripts/project_release_bundle.py",
+  "source": {
+    "repo": "clawin-private",
+    "branch": "feat/clawin-npm-install-foundation",
+    "commit": "e5a858a30a8d4f390b75eef0a77ebcb0e9ef57d7"
+  },
+  "publishedBaseUrl": "https://example.invalid/clawin-agents/releases/2026-03-15-multi-agent-release-rehearsal",
+  "totalAgents": 3,
+  "scope": {
+    "industryIds": [
+      "industry-1-software-it",
+      "industry-3-marketplace-ecommerce",
+      "industry-4-digital-marketing-agency"
+    ],
+    "roleFamilyKeys": [
+      "campaign-operations",
+      "engineering",
+      "livestream-operations"
+    ],
+    "agentIds": [
+      "digital-marketing-livestream-retrospective-optimizer-agency",
+      "marketplace-ecommerce-promotional-mechanics-operations-manager",
+      "software-it-web-performance-engineer-js-ts"
+    ]
+  },
+  "packages": [
+    {
+      "agentId": "digital-marketing-livestream-retrospective-optimizer-agency",
+      "version": "0.1.0",
+      "relativePath": "packages/digital-marketing-livestream-retrospective-optimizer-agency.zip",
+      "fileName": "digital-marketing-livestream-retrospective-optimizer-agency.zip",
+      "sizeBytes": 11474,
+      "sha256": "f41795d0a5b3a9507b95acc4b65b48ed761ed85fa7ad40fa2b68f95bc84456a9",
+      "format": "zip",
+      "industryId": "industry-4-digital-marketing-agency",
+      "roleFamilyKey": "livestream-operations"
+    },
+    {
+      "agentId": "marketplace-ecommerce-promotional-mechanics-operations-manager",
+      "version": "0.1.0",
+      "relativePath": "packages/marketplace-ecommerce-promotional-mechanics-operations-manager.zip",
+      "fileName": "marketplace-ecommerce-promotional-mechanics-operations-manager.zip",
+      "sizeBytes": 11432,
+      "sha256": "195f77ce5e7502fefbe19b429c5b6f3feda20c2a650a05099d774d01b62fa13c",
+      "format": "zip",
+      "industryId": "industry-3-marketplace-ecommerce",
+      "roleFamilyKey": "campaign-operations"
+    },
+    {
+      "agentId": "software-it-web-performance-engineer-js-ts",
+      "version": "0.1.0",
+      "relativePath": "packages/software-it-web-performance-engineer-js-ts.zip",
+      "fileName": "software-it-web-performance-engineer-js-ts.zip",
+      "sizeBytes": 372635,
+      "sha256": "48b901a48611aa985a1c2cfd33a4f87c3d352f2a2c211e8e31cc190904747531",
+      "format": "zip",
+      "industryId": "industry-1-software-it",
+      "roleFamilyKey": "engineering"
+    }
+  ],
+  "catalogs": {
+    "bridge": {
+      "catalog": "catalogs/bridge/catalog.json",
+      "catalogLite": "catalogs/bridge/catalog-lite.json"
+    },
+    "published": {
+      "catalog": "catalogs/published/catalog.json",
+      "catalogLite": "catalogs/published/catalog-lite.json"
+    }
+  },
+  "promotion": {
+    "exportContract": "promotion/export-contract.json",
+    "targetRepo": "clawin-agents",
+    "mode": "copy-packages-and-generated-catalogs-only"
+  },
+  "projection": {
+    "targetSubdir": "releases/2026-03-15-multi-agent-release-rehearsal",
+    "projectedBy": "scripts/project_release_bundle.py"
+  }
+}
