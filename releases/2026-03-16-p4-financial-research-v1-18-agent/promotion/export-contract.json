@@ -1,0 +1,70 @@
+{
+  "schemaVersion": "1.0",
+  "contractVersion": "1.0",
+  "generatedBy": "scripts/project_release_bundle.py",
+  "generatedAt": "2026-03-16T00:31:28+08:00",
+  "source": {
+    "repo": "clawin",
+    "branch": "feat/stock-analysis-agent-pipeline-test",
+    "commit": "f9062910fe75b781db2b418f7125773b77f19fd7"
+  },
+  "releaseScope": {
+    "totalAgents": 18,
+    "agentIds": [
+      "financial-research-company-research-analyst",
+      "financial-research-earnings-preview-analyst",
+      "financial-research-earnings-reaction-analyst",
+      "financial-research-exposure-review-analyst",
+      "financial-research-factor-exposure-analyst",
+      "financial-research-financial-statement-analyst",
+      "financial-research-guidance-change-analyst",
+      "financial-research-idea-intake-analyst",
+      "financial-research-idea-prioritization-analyst",
+      "financial-research-macro-market-monitor-analyst",
+      "financial-research-news-catalyst-monitor-analyst",
+      "financial-research-peer-comparison-analyst",
+      "financial-research-research-coverage-coordinator",
+      "financial-research-risk-review-analyst",
+      "financial-research-screener-strategy-analyst",
+      "financial-research-sector-rotation-monitor-analyst",
+      "financial-research-valuation-analyst",
+      "financial-research-watchlist-monitor-analyst"
+    ],
+    "industryIds": [
+      "industry-6-financial-research"
+    ],
+    "roleFamilyKeys": [
+      "equity-analysis",
+      "event-earnings-monitoring",
+      "market-monitoring",
+      "portfolio-research-support",
+      "screening-comparison"
+    ]
+  },
+  "downstreamPromotion": {
+    "targetRepo": "clawin-agents",
+    "mode": "copy-packages-and-generated-catalogs-only",
+    "expectedInputs": [
+      "release-manifest.json",
+      "promotion/export-contract.json",
+      "packages/*.zip",
+      "catalogs/published/catalog.json",
+      "catalogs/published/catalog-lite.json"
+    ],
+    "forbiddenInputs": [
+      "runs/**",
+      "scripts/**",
+      "data/**",
+      "specs/**",
+      "role/**"
+    ],
+    "publishedBaseUrl": "https://agents.clawin.club/releases/2026-03-16-p4-financial-research-v1-18-agent",
+    "publishReadyWhen": [
+      "validate_release_output.py passes",
+      "published catalog package URLs map 1:1 to packaged zip artifacts",
+      "CLI rehearsal proof passes against the same release bundle",
+      "public promotion copies generated outputs without rebuilding package internals"
+    ],
+    "targetSubdir": "releases/2026-03-16-p4-financial-research-v1-18-agent"
+  }
+}

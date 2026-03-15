@@ -1,0 +1,13 @@
+{
+    "id":  "financial-research-macro-market-monitor-analyst",
+    "default":  false,
+    "name":  "Macro Market Monitor Analyst",
+    "workspace":  "~/.openclaw/agents/financial-research-macro-market-monitor-analyst/workspace",
+    "agentDir":  "~/.openclaw/agents/financial-research-macro-market-monitor-analyst/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

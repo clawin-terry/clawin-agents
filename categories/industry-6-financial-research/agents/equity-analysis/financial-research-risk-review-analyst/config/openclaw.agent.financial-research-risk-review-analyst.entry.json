@@ -1,0 +1,13 @@
+{
+    "id":  "financial-research-risk-review-analyst",
+    "default":  false,
+    "name":  "Risk Review Analyst",
+    "workspace":  "~/.openclaw/agents/financial-research-risk-review-analyst/workspace",
+    "agentDir":  "~/.openclaw/agents/financial-research-risk-review-analyst/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

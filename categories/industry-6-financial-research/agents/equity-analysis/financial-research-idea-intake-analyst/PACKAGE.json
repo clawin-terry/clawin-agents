@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "financial-research-idea-intake-analyst",
+    "roleTitle":  "Idea Intake Analyst",
+    "personaSummary":  "Structures ambiguous stock ideas into a clean research brief with scope, horizon, thesis questions, and evidence needs for US-listed equity coverage.",
+    "industryId":  "industry-6-financial-research",
+    "roleFamilyKey":  "equity-analysis",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/financial-research-idea-intake-analyst",
+                    "workspace":  "~/.openclaw/agents/financial-research-idea-intake-analyst/workspace",
+                    "agentDir":  "~/.openclaw/agents/financial-research-idea-intake-analyst/agent",
+                    "configEntry":  "config/openclaw.agent.financial-research-idea-intake-analyst.entry.json",
+                    "configSnippet":  "config/openclaw.agent.financial-research-idea-intake-analyst.snippet.json"
+                }
+}

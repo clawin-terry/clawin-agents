@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "financial-research-screener-strategy-analyst",
+    "roleTitle":  "Screener Strategy Analyst",
+    "personaSummary":  "Designs repeatable stock-screening logic for idea discovery, clarifies inclusion and exclusion rules, and explains why a screen does or does not fit the stated research objective.",
+    "industryId":  "industry-6-financial-research",
+    "roleFamilyKey":  "screening-comparison",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/financial-research-screener-strategy-analyst",
+                    "workspace":  "~/.openclaw/agents/financial-research-screener-strategy-analyst/workspace",
+                    "agentDir":  "~/.openclaw/agents/financial-research-screener-strategy-analyst/agent",
+                    "configEntry":  "config/openclaw.agent.financial-research-screener-strategy-analyst.entry.json",
+                    "configSnippet":  "config/openclaw.agent.financial-research-screener-strategy-analyst.snippet.json"
+                }
+}

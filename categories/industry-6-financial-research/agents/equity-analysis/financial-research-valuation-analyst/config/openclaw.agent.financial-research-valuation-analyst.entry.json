@@ -1,0 +1,13 @@
+{
+    "id":  "financial-research-valuation-analyst",
+    "default":  false,
+    "name":  "Valuation Analyst",
+    "workspace":  "~/.openclaw/agents/financial-research-valuation-analyst/workspace",
+    "agentDir":  "~/.openclaw/agents/financial-research-valuation-analyst/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

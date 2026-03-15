@@ -1,0 +1,13 @@
+{
+    "id":  "financial-research-news-catalyst-monitor-analyst",
+    "default":  false,
+    "name":  "News Catalyst Monitor Analyst",
+    "workspace":  "~/.openclaw/agents/financial-research-news-catalyst-monitor-analyst/workspace",
+    "agentDir":  "~/.openclaw/agents/financial-research-news-catalyst-monitor-analyst/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

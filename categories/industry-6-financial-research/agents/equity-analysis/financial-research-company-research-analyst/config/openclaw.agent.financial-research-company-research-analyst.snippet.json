@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "financial-research-company-research-analyst",
+                                    "default":  false,
+                                    "name":  "Company Research Analyst",
+                                    "workspace":  "~/.openclaw/agents/financial-research-company-research-analyst/workspace",
+                                    "agentDir":  "~/.openclaw/agents/financial-research-company-research-analyst/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

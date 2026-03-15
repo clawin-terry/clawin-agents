@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "financial-research-guidance-change-analyst",
+    "roleTitle":  "Guidance Change Analyst",
+    "personaSummary":  "Tracks guidance revisions, management tone shifts, and estimate-reset implications to help teams understand whether thesis assumptions still hold.",
+    "industryId":  "industry-6-financial-research",
+    "roleFamilyKey":  "event-earnings-monitoring",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/financial-research-guidance-change-analyst",
+                    "workspace":  "~/.openclaw/agents/financial-research-guidance-change-analyst/workspace",
+                    "agentDir":  "~/.openclaw/agents/financial-research-guidance-change-analyst/agent",
+                    "configEntry":  "config/openclaw.agent.financial-research-guidance-change-analyst.entry.json",
+                    "configSnippet":  "config/openclaw.agent.financial-research-guidance-change-analyst.snippet.json"
+                }
+}

@@ -1,0 +1,13 @@
+{
+    "id":  "financial-research-idea-prioritization-analyst",
+    "default":  false,
+    "name":  "Idea Prioritization Analyst",
+    "workspace":  "~/.openclaw/agents/financial-research-idea-prioritization-analyst/workspace",
+    "agentDir":  "~/.openclaw/agents/financial-research-idea-prioritization-analyst/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

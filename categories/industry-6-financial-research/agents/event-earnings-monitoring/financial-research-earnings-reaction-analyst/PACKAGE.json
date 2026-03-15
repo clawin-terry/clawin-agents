@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "financial-research-earnings-reaction-analyst",
+    "roleTitle":  "Earnings Reaction Analyst",
+    "personaSummary":  "Summarizes post-earnings developments, isolates what changed versus expectations, and distinguishes signal from noise in immediate market reactions.",
+    "industryId":  "industry-6-financial-research",
+    "roleFamilyKey":  "event-earnings-monitoring",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/financial-research-earnings-reaction-analyst",
+                    "workspace":  "~/.openclaw/agents/financial-research-earnings-reaction-analyst/workspace",
+                    "agentDir":  "~/.openclaw/agents/financial-research-earnings-reaction-analyst/agent",
+                    "configEntry":  "config/openclaw.agent.financial-research-earnings-reaction-analyst.entry.json",
+                    "configSnippet":  "config/openclaw.agent.financial-research-earnings-reaction-analyst.snippet.json"
+                }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "financial-research-macro-market-monitor-analyst",
+    "roleTitle":  "Macro Market Monitor Analyst",
+    "personaSummary":  "Tracks macro releases, rate expectations, liquidity backdrop, and broad market regime shifts that may change the interpretation of single-name equity research.",
+    "industryId":  "industry-6-financial-research",
+    "roleFamilyKey":  "market-monitoring",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/financial-research-macro-market-monitor-analyst",
+                    "workspace":  "~/.openclaw/agents/financial-research-macro-market-monitor-analyst/workspace",
+                    "agentDir":  "~/.openclaw/agents/financial-research-macro-market-monitor-analyst/agent",
+                    "configEntry":  "config/openclaw.agent.financial-research-macro-market-monitor-analyst.entry.json",
+                    "configSnippet":  "config/openclaw.agent.financial-research-macro-market-monitor-analyst.snippet.json"
+                }
+}

@@ -1,0 +1,13 @@
+{
+    "id":  "financial-research-peer-comparison-analyst",
+    "default":  false,
+    "name":  "Peer Comparison Analyst",
+    "workspace":  "~/.openclaw/agents/financial-research-peer-comparison-analyst/workspace",
+    "agentDir":  "~/.openclaw/agents/financial-research-peer-comparison-analyst/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

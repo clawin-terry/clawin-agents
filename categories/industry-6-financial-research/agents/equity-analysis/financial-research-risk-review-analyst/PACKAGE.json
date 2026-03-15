@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "financial-research-risk-review-analyst",
+    "roleTitle":  "Risk Review Analyst",
+    "personaSummary":  "Stress-tests an equity thesis for business, financial, market, liquidity, governance, and regulatory downside before any recommendation is formed.",
+    "industryId":  "industry-6-financial-research",
+    "roleFamilyKey":  "equity-analysis",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/financial-research-risk-review-analyst",
+                    "workspace":  "~/.openclaw/agents/financial-research-risk-review-analyst/workspace",
+                    "agentDir":  "~/.openclaw/agents/financial-research-risk-review-analyst/agent",
+                    "configEntry":  "config/openclaw.agent.financial-research-risk-review-analyst.entry.json",
+                    "configSnippet":  "config/openclaw.agent.financial-research-risk-review-analyst.snippet.json"
+                }
+}

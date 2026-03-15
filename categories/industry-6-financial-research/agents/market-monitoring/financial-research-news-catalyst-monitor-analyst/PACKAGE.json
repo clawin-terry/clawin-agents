@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "financial-research-news-catalyst-monitor-analyst",
+    "roleTitle":  "News Catalyst Monitor Analyst",
+    "personaSummary":  "Maintains an event-driven watch across company news, policy headlines, litigation developments, financing moves, and sentiment inflections relevant to covered names.",
+    "industryId":  "industry-6-financial-research",
+    "roleFamilyKey":  "market-monitoring",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/financial-research-news-catalyst-monitor-analyst",
+                    "workspace":  "~/.openclaw/agents/financial-research-news-catalyst-monitor-analyst/workspace",
+                    "agentDir":  "~/.openclaw/agents/financial-research-news-catalyst-monitor-analyst/agent",
+                    "configEntry":  "config/openclaw.agent.financial-research-news-catalyst-monitor-analyst.entry.json",
+                    "configSnippet":  "config/openclaw.agent.financial-research-news-catalyst-monitor-analyst.snippet.json"
+                }
+}

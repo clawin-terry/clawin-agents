@@ -1,0 +1,264 @@
+{
+  "schemaVersion": "1.0",
+  "releaseVersion": "2026-03-16-p4-financial-research-v1-18-agent",
+  "generatedAt": "2026-03-16T00:31:28+08:00",
+  "generatedBy": "scripts/project_release_bundle.py",
+  "source": {
+    "repo": "clawin",
+    "branch": "feat/stock-analysis-agent-pipeline-test",
+    "commit": "f9062910fe75b781db2b418f7125773b77f19fd7"
+  },
+  "publishedBaseUrl": "https://agents.clawin.club/releases/2026-03-16-p4-financial-research-v1-18-agent",
+  "totalAgents": 18,
+  "scope": {
+    "industryIds": [
+      "industry-6-financial-research"
+    ],
+    "roleFamilyKeys": [
+      "equity-analysis",
+      "event-earnings-monitoring",
+      "market-monitoring",
+      "portfolio-research-support",
+      "screening-comparison"
+    ],
+    "agentIds": [
+      "financial-research-company-research-analyst",
+      "financial-research-earnings-preview-analyst",
+      "financial-research-earnings-reaction-analyst",
+      "financial-research-exposure-review-analyst",
+      "financial-research-factor-exposure-analyst",
+      "financial-research-financial-statement-analyst",
+      "financial-research-guidance-change-analyst",
+      "financial-research-idea-intake-analyst",
+      "financial-research-idea-prioritization-analyst",
+      "financial-research-macro-market-monitor-analyst",
+      "financial-research-news-catalyst-monitor-analyst",
+      "financial-research-peer-comparison-analyst",
+      "financial-research-research-coverage-coordinator",
+      "financial-research-risk-review-analyst",
+      "financial-research-screener-strategy-analyst",
+      "financial-research-sector-rotation-monitor-analyst",
+      "financial-research-valuation-analyst",
+      "financial-research-watchlist-monitor-analyst"
+    ]
+  },
+  "packages": [
+    {
+      "agentId": "financial-research-company-research-analyst",
+      "version": "0.1.0",
+      "relativePath": "packages/financial-research-company-research-analyst.zip",
+      "fileName": "financial-research-company-research-analyst.zip",
+      "sizeBytes": 12150,
+      "sha256": "5973fdfb64d8125e509ba3fa478826d39c78cb2e4b6db1c0e6f9b3e88388393e",
+      "format": "zip",
+      "industryId": "industry-6-financial-research",
+      "roleFamilyKey": "equity-analysis"
+    },
+    {
+      "agentId": "financial-research-earnings-preview-analyst",
+      "version": "0.1.0",
+      "relativePath": "packages/financial-research-earnings-preview-analyst.zip",
+      "fileName": "financial-research-earnings-preview-analyst.zip",
+      "sizeBytes": 12163,
+      "sha256": "e2483a0caf9233ef71c1d4dff45b1ae42d42501be41aede9121f4e2aca34268a",
+      "format": "zip",
+      "industryId": "industry-6-financial-research",
+      "roleFamilyKey": "event-earnings-monitoring"
+    },
+    {
+      "agentId": "financial-research-earnings-reaction-analyst",
+      "version": "0.1.0",
+      "relativePath": "packages/financial-research-earnings-reaction-analyst.zip",
+      "fileName": "financial-research-earnings-reaction-analyst.zip",
+      "sizeBytes": 12131,
+      "sha256": "ad54485c039fe40bf025c36bc529014a3cd59a92fe2be0beb3af422ed0bcbbd0",
+      "format": "zip",
+      "industryId": "industry-6-financial-research",
+      "roleFamilyKey": "event-earnings-monitoring"
+    },
+    {
+      "agentId": "financial-research-exposure-review-analyst",
+      "version": "0.1.0",
+      "relativePath": "packages/financial-research-exposure-review-analyst.zip",
+      "fileName": "financial-research-exposure-review-analyst.zip",
+      "sizeBytes": 12229,
+      "sha256": "f0c9553d477498de238b86693a6a3d65f9860dd4b034c0b494b50e39dc661be3",
+      "format": "zip",
+      "industryId": "industry-6-financial-research",
+      "roleFamilyKey": "portfolio-research-support"
+    },
+    {
+      "agentId": "financial-research-factor-exposure-analyst",
+      "version": "0.1.0",
+      "relativePath": "packages/financial-research-factor-exposure-analyst.zip",
+      "fileName": "financial-research-factor-exposure-analyst.zip",
+      "sizeBytes": 12128,
+      "sha256": "9325f08099ca3f38a84f22811947c6fb5363ff87d1a59cabda168824e61609c9",
+      "format": "zip",
+      "industryId": "industry-6-financial-research",
+      "roleFamilyKey": "screening-comparison"
+    },
+    {
+      "agentId": "financial-research-financial-statement-analyst",
+      "version": "0.1.0",
+      "relativePath": "packages/financial-research-financial-statement-analyst.zip",
+      "fileName": "financial-research-financial-statement-analyst.zip",
+      "sizeBytes": 12126,
+      "sha256": "d8ce550ea593f7d4d3094c46c821f16443a5c1fcf3305331464ff8281ef713e8",
+      "format": "zip",
+      "industryId": "industry-6-financial-research",
+      "roleFamilyKey": "equity-analysis"
+    },
+    {
+      "agentId": "financial-research-guidance-change-analyst",
+      "version": "0.1.0",
+      "relativePath": "packages/financial-research-guidance-change-analyst.zip",
+      "fileName": "financial-research-guidance-change-analyst.zip",
+      "sizeBytes": 12120,
+      "sha256": "3c81df8d5726a90956f2d7d0eddbdae0b179e233ec2ebe3045323de44337e5bf",
+      "format": "zip",
+      "industryId": "industry-6-financial-research",
+      "roleFamilyKey": "event-earnings-monitoring"
+    },
+    {
+      "agentId": "financial-research-idea-intake-analyst",
+      "version": "0.1.0",
+      "relativePath": "packages/financial-research-idea-intake-analyst.zip",
+      "fileName": "financial-research-idea-intake-analyst.zip",
+      "sizeBytes": 12077,
+      "sha256": "985fbd65e46f6c75fc1b1cd261228f59365bdbdb35175f81d5b7fd8cf5079eab",
+      "format": "zip",
+      "industryId": "industry-6-financial-research",
+      "roleFamilyKey": "equity-analysis"
+    },
+    {
+      "agentId": "financial-research-idea-prioritization-analyst",
+      "version": "0.1.0",
+      "relativePath": "packages/financial-research-idea-prioritization-analyst.zip",
+      "fileName": "financial-research-idea-prioritization-analyst.zip",
+      "sizeBytes": 12200,
+      "sha256": "fdd2eaaa7cb1ea0fa1310b58b12d8e69a4cc35cd10ebae47816367485356cad8",
+      "format": "zip",
+      "industryId": "industry-6-financial-research",
+      "roleFamilyKey": "screening-comparison"
+    },
+    {
+      "agentId": "financial-research-macro-market-monitor-analyst",
+      "version": "0.1.0",
+      "relativePath": "packages/financial-research-macro-market-monitor-analyst.zip",
+      "fileName": "financial-research-macro-market-monitor-analyst.zip",
+      "sizeBytes": 12193,
+      "sha256": "cf97ff331cf8dd063b0e92940122d1e31f9b7d3408b12413802e4f4095aa14e2",
+      "format": "zip",
+      "industryId": "industry-6-financial-research",
+      "roleFamilyKey": "market-monitoring"
+    },
+    {
+      "agentId": "financial-research-news-catalyst-monitor-analyst",
+      "version": "0.1.0",
+      "relativePath": "packages/financial-research-news-catalyst-monitor-analyst.zip",
+      "fileName": "financial-research-news-catalyst-monitor-analyst.zip",
+      "sizeBytes": 12233,
+      "sha256": "c9bd5eeb3f1f1af1a40792abad8dc47477d54092c37c2de1337365a86839dd45",
+      "format": "zip",
+      "industryId": "industry-6-financial-research",
+      "roleFamilyKey": "market-monitoring"
+    },
+    {
+      "agentId": "financial-research-peer-comparison-analyst",
+      "version": "0.1.0",
+      "relativePath": "packages/financial-research-peer-comparison-analyst.zip",
+      "fileName": "financial-research-peer-comparison-analyst.zip",
+      "sizeBytes": 12124,
+      "sha256": "ab9d93329ded6a96f1a33304d47c0435cca86ad629bfdfff14f00bda6cdc348c",
+      "format": "zip",
+      "industryId": "industry-6-financial-research",
+      "roleFamilyKey": "screening-comparison"
+    },
+    {
+      "agentId": "financial-research-research-coverage-coordinator",
+      "version": "0.1.0",
+      "relativePath": "packages/financial-research-research-coverage-coordinator.zip",
+      "fileName": "financial-research-research-coverage-coordinator.zip",
+      "sizeBytes": 12195,
+      "sha256": "d94e87c549ae9884720606bc5c18b31b9a924c26e5982e7f1cc74f8b48a82fca",
+      "format": "zip",
+      "industryId": "industry-6-financial-research",
+      "roleFamilyKey": "portfolio-research-support"
+    },
+    {
+      "agentId": "financial-research-risk-review-analyst",
+      "version": "0.1.0",
+      "relativePath": "packages/financial-research-risk-review-analyst.zip",
+      "fileName": "financial-research-risk-review-analyst.zip",
+      "sizeBytes": 12076,
+      "sha256": "4f0daff8d055fcb62ed19d89ba822ea5c30967705a9a42c0b778f6ac49b06439",
+      "format": "zip",
+      "industryId": "industry-6-financial-research",
+      "roleFamilyKey": "equity-analysis"
+    },
+    {
+      "agentId": "financial-research-screener-strategy-analyst",
+      "version": "0.1.0",
+      "relativePath": "packages/financial-research-screener-strategy-analyst.zip",
+      "fileName": "financial-research-screener-strategy-analyst.zip",
+      "sizeBytes": 12177,
+      "sha256": "aa88af10f3abbf4d20741e1cdde622334ef82181e0907839bd5e128c3196dd4e",
+      "format": "zip",
+      "industryId": "industry-6-financial-research",
+      "roleFamilyKey": "screening-comparison"
+    },
+    {
+      "agentId": "financial-research-sector-rotation-monitor-analyst",
+      "version": "0.1.0",
+      "relativePath": "packages/financial-research-sector-rotation-monitor-analyst.zip",
+      "fileName": "financial-research-sector-rotation-monitor-analyst.zip",
+      "sizeBytes": 12191,
+      "sha256": "f735895ad94449b5980f446f234d5770d847b2064cf99eb0739bf9349fc5676a",
+      "format": "zip",
+      "industryId": "industry-6-financial-research",
+      "roleFamilyKey": "market-monitoring"
+    },
+    {
+      "agentId": "financial-research-valuation-analyst",
+      "version": "0.1.0",
+      "relativePath": "packages/financial-research-valuation-analyst.zip",
+      "fileName": "financial-research-valuation-analyst.zip",
+      "sizeBytes": 11986,
+      "sha256": "bc0faa9d96a729250c4b375adf92136b75e741ac15e077ea7f93eff5bec6916e",
+      "format": "zip",
+      "industryId": "industry-6-financial-research",
+      "roleFamilyKey": "equity-analysis"
+    },
+    {
+      "agentId": "financial-research-watchlist-monitor-analyst",
+      "version": "0.1.0",
+      "relativePath": "packages/financial-research-watchlist-monitor-analyst.zip",
+      "fileName": "financial-research-watchlist-monitor-analyst.zip",
+      "sizeBytes": 12107,
+      "sha256": "6a8e57043f9f2adab921e58a26c5bfdc7ace90e8a3b4e8579e970581bc6504ab",
+      "format": "zip",
+      "industryId": "industry-6-financial-research",
+      "roleFamilyKey": "equity-analysis"
+    }
+  ],
+  "catalogs": {
+    "bridge": {
+      "catalog": "catalogs/bridge/catalog.json",
+      "catalogLite": "catalogs/bridge/catalog-lite.json"
+    },
+    "published": {
+      "catalog": "catalogs/published/catalog.json",
+      "catalogLite": "catalogs/published/catalog-lite.json"
+    }
+  },
+  "promotion": {
+    "exportContract": "promotion/export-contract.json",
+    "targetRepo": "clawin-agents",
+    "mode": "copy-packages-and-generated-catalogs-only"
+  },
+  "projection": {
+    "targetSubdir": "releases/2026-03-16-p4-financial-research-v1-18-agent",
+    "projectedBy": "scripts/project_release_bundle.py"
+  }
+}

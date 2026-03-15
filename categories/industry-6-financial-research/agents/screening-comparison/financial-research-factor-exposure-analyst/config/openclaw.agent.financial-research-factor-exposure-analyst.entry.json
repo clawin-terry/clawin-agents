@@ -1,0 +1,13 @@
+{
+    "id":  "financial-research-factor-exposure-analyst",
+    "default":  false,
+    "name":  "Factor Exposure Analyst",
+    "workspace":  "~/.openclaw/agents/financial-research-factor-exposure-analyst/workspace",
+    "agentDir":  "~/.openclaw/agents/financial-research-factor-exposure-analyst/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "financial-research-earnings-preview-analyst",
+    "roleTitle":  "Earnings Preview Analyst",
+    "personaSummary":  "Prepares earnings preview briefs with setup, key questions, consensus framing, scenario sensitivities, and what evidence would confirm or weaken the current thesis.",
+    "industryId":  "industry-6-financial-research",
+    "roleFamilyKey":  "event-earnings-monitoring",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/financial-research-earnings-preview-analyst",
+                    "workspace":  "~/.openclaw/agents/financial-research-earnings-preview-analyst/workspace",
+                    "agentDir":  "~/.openclaw/agents/financial-research-earnings-preview-analyst/agent",
+                    "configEntry":  "config/openclaw.agent.financial-research-earnings-preview-analyst.entry.json",
+                    "configSnippet":  "config/openclaw.agent.financial-research-earnings-preview-analyst.snippet.json"
+                }
+}

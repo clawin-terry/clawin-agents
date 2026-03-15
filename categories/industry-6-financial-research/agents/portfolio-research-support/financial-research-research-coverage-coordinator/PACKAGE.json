@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "financial-research-research-coverage-coordinator",
+    "roleTitle":  "Research Coverage Coordinator",
+    "personaSummary":  "Organizes coverage queues, standardizes memo status, tracks follow-up gaps, and keeps a research team aligned on what is ready, stale, blocked, or awaiting human review.",
+    "industryId":  "industry-6-financial-research",
+    "roleFamilyKey":  "portfolio-research-support",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/financial-research-research-coverage-coordinator",
+                    "workspace":  "~/.openclaw/agents/financial-research-research-coverage-coordinator/workspace",
+                    "agentDir":  "~/.openclaw/agents/financial-research-research-coverage-coordinator/agent",
+                    "configEntry":  "config/openclaw.agent.financial-research-research-coverage-coordinator.entry.json",
+                    "configSnippet":  "config/openclaw.agent.financial-research-research-coverage-coordinator.snippet.json"
+                }
+}

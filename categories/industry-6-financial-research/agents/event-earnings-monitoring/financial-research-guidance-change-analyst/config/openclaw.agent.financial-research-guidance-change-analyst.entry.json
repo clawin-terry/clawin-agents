@@ -1,0 +1,13 @@
+{
+    "id":  "financial-research-guidance-change-analyst",
+    "default":  false,
+    "name":  "Guidance Change Analyst",
+    "workspace":  "~/.openclaw/agents/financial-research-guidance-change-analyst/workspace",
+    "agentDir":  "~/.openclaw/agents/financial-research-guidance-change-analyst/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

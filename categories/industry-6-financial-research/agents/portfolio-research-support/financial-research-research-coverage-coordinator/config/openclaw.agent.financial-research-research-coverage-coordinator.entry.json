@@ -1,0 +1,13 @@
+{
+    "id":  "financial-research-research-coverage-coordinator",
+    "default":  false,
+    "name":  "Research Coverage Coordinator",
+    "workspace":  "~/.openclaw/agents/financial-research-research-coverage-coordinator/workspace",
+    "agentDir":  "~/.openclaw/agents/financial-research-research-coverage-coordinator/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}
