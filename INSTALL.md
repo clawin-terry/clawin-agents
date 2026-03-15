@@ -41,27 +41,27 @@ Use the published release you want. The URL always points to a release-scoped ca
 
 ### 4. Search and inspect agents
 
-Search the catalog:
+Search the current canary catalog:
 
 ```bash
-clawin search "frontend engineer"
+clawin search "web performance"
 ```
 
 Inspect one package before install:
 
 ```bash
-clawin info software-it-frontend-engineer-js-ts
+clawin info software-it-web-performance-engineer-js-ts
 ```
 
-You can use any published agent id. Current examples should use real public ids such as:
-- `software-it-frontend-engineer-js-ts`
-- `software-it-backend-engineer-java`
-- `software-it-kubernetes-platform-engineer-go`
+The current public canary publishes only these agent ids:
+- `digital-marketing-livestream-retrospective-optimizer-agency`
+- `marketplace-ecommerce-promotional-mechanics-operations-manager`
+- `software-it-web-performance-engineer-js-ts`
 
 ### 5. Install the agent
 
 ```bash
-clawin install software-it-frontend-engineer-js-ts
+clawin install software-it-web-performance-engineer-js-ts
 ```
 
 The install command handles the package fetch and local placement for you. You do not need to manually copy a folder from `categories/...` into `~/.openclaw/agents/<agentId>/`.
