@@ -1,0 +1,175 @@
+{
+  "schemaVersion": "1.0",
+  "catalogVersion": "0.1.0",
+  "generatedAt": "2026-03-15T23:02:54+08:00",
+  "totalAgents": 6,
+  "source": {
+    "repo": "clawin-private",
+    "branch": "feat/stock-analysis-agent-pipeline-test",
+    "commit": "4def737e962f1b365603ae8cb65592606367ca1e",
+    "projectionBaseUrl": "https://agents.clawin.club/releases/2026-03-15-p3-financial-research-equity-analysis-6-agent"
+  },
+  "generatedBy": "scripts/project_release_bundle.py",
+  "agents": [
+    {
+      "id": "financial-research-company-research-analyst",
+      "version": "0.1.0",
+      "title": "Company Research Analyst",
+      "summary": "Builds a fundamentals-first company view covering business model, management quality, competitive position, operating drivers, and catalyst context for US-listed equities.",
+      "tags": [
+        "financial",
+        "research",
+        "company",
+        "equity",
+        "analysis"
+      ],
+      "domains": [
+        "equity",
+        "analysis"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-15-p3-financial-research-equity-analysis-6-agent/packages/financial-research-company-research-analyst.zip"
+      }
+    },
+    {
+      "id": "financial-research-financial-statement-analyst",
+      "version": "0.1.0",
+      "title": "Financial Statement Analyst",
+      "summary": "Assesses income statement, balance sheet, and cash flow quality to surface trend direction, capital intensity, balance-sheet resilience, and accounting red flags.",
+      "tags": [
+        "financial",
+        "research",
+        "statement",
+        "equity",
+        "analysis"
+      ],
+      "domains": [
+        "equity",
+        "analysis"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-15-p3-financial-research-equity-analysis-6-agent/packages/financial-research-financial-statement-analyst.zip"
+      }
+    },
+    {
+      "id": "financial-research-idea-intake-analyst",
+      "version": "0.1.0",
+      "title": "Idea Intake Analyst",
+      "summary": "Structures ambiguous stock ideas into a clean research brief with scope, horizon, thesis questions, and evidence needs for US-listed equity coverage.",
+      "tags": [
+        "financial",
+        "research",
+        "idea",
+        "intake",
+        "equity",
+        "analysis"
+      ],
+      "domains": [
+        "equity",
+        "analysis"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-15-p3-financial-research-equity-analysis-6-agent/packages/financial-research-idea-intake-analyst.zip"
+      }
+    },
+    {
+      "id": "financial-research-risk-review-analyst",
+      "version": "0.1.0",
+      "title": "Risk Review Analyst",
+      "summary": "Stress-tests an equity thesis for business, financial, market, liquidity, governance, and regulatory downside before any recommendation is formed.",
+      "tags": [
+        "financial",
+        "research",
+        "risk",
+        "review",
+        "equity",
+        "analysis"
+      ],
+      "domains": [
+        "equity",
+        "analysis"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning",
+        "review"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-15-p3-financial-research-equity-analysis-6-agent/packages/financial-research-risk-review-analyst.zip"
+      }
+    },
+    {
+      "id": "financial-research-valuation-analyst",
+      "version": "0.1.0",
+      "title": "Valuation Analyst",
+      "summary": "Frames defensible valuation ranges using multiples, simplified DCF logic, and scenario analysis without overstating precision.",
+      "tags": [
+        "financial",
+        "research",
+        "valuation",
+        "equity",
+        "analysis"
+      ],
+      "domains": [
+        "equity",
+        "analysis"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-15-p3-financial-research-equity-analysis-6-agent/packages/financial-research-valuation-analyst.zip"
+      }
+    },
+    {
+      "id": "financial-research-watchlist-monitor-analyst",
+      "version": "0.1.0",
+      "title": "Watchlist Monitor Analyst",
+      "summary": "Monitors earnings dates, guidance updates, news catalysts, and thesis-drift signals for US-listed names under active research coverage.",
+      "tags": [
+        "financial",
+        "research",
+        "watchlist",
+        "monitor",
+        "equity",
+        "analysis"
+      ],
+      "domains": [
+        "equity",
+        "analysis"
+      ],
+      "taskTypes": [
+        "analysis",
+        "planning"
+      ],
+      "requiresSecrets": false,
+      "readyAfterInstall": true,
+      "install": {
+        "packageUrl": "https://agents.clawin.club/releases/2026-03-15-p3-financial-research-equity-analysis-6-agent/packages/financial-research-watchlist-monitor-analyst.zip"
+      }
+    }
+  ]
+}

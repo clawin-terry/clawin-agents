@@ -1,0 +1,116 @@
+{
+  "schemaVersion": "1.0",
+  "releaseVersion": "0.1.0",
+  "generatedAt": "2026-03-15T23:02:54+08:00",
+  "generatedBy": "scripts/project_release_bundle.py",
+  "source": {
+    "repo": "clawin-private",
+    "branch": "feat/stock-analysis-agent-pipeline-test",
+    "commit": "4def737e962f1b365603ae8cb65592606367ca1e"
+  },
+  "publishedBaseUrl": "https://agents.clawin.club/releases/2026-03-15-p3-financial-research-equity-analysis-6-agent",
+  "totalAgents": 6,
+  "scope": {
+    "industryIds": [
+      "industry-6-financial-research"
+    ],
+    "roleFamilyKeys": [
+      "equity-analysis"
+    ],
+    "agentIds": [
+      "financial-research-company-research-analyst",
+      "financial-research-financial-statement-analyst",
+      "financial-research-idea-intake-analyst",
+      "financial-research-risk-review-analyst",
+      "financial-research-valuation-analyst",
+      "financial-research-watchlist-monitor-analyst"
+    ]
+  },
+  "packages": [
+    {
+      "agentId": "financial-research-company-research-analyst",
+      "version": "0.1.0",
+      "relativePath": "packages/financial-research-company-research-analyst.zip",
+      "fileName": "financial-research-company-research-analyst.zip",
+      "sizeBytes": 12385,
+      "sha256": "7c6910be8da1ba5a008470b2d450d52c2c1ac26911cafb60056396603a348118",
+      "format": "zip",
+      "industryId": "industry-6-financial-research",
+      "roleFamilyKey": "equity-analysis"
+    },
+    {
+      "agentId": "financial-research-financial-statement-analyst",
+      "version": "0.1.0",
+      "relativePath": "packages/financial-research-financial-statement-analyst.zip",
+      "fileName": "financial-research-financial-statement-analyst.zip",
+      "sizeBytes": 12368,
+      "sha256": "c16487f9814566abc4da6cbf364fb77865896f12b220fa2f6d9dd88ad3393f3c",
+      "format": "zip",
+      "industryId": "industry-6-financial-research",
+      "roleFamilyKey": "equity-analysis"
+    },
+    {
+      "agentId": "financial-research-idea-intake-analyst",
+      "version": "0.1.0",
+      "relativePath": "packages/financial-research-idea-intake-analyst.zip",
+      "fileName": "financial-research-idea-intake-analyst.zip",
+      "sizeBytes": 12311,
+      "sha256": "675c48202e865d0929cd3539302eed76f2e81060fa3680e22c0fe696193114d3",
+      "format": "zip",
+      "industryId": "industry-6-financial-research",
+      "roleFamilyKey": "equity-analysis"
+    },
+    {
+      "agentId": "financial-research-risk-review-analyst",
+      "version": "0.1.0",
+      "relativePath": "packages/financial-research-risk-review-analyst.zip",
+      "fileName": "financial-research-risk-review-analyst.zip",
+      "sizeBytes": 12309,
+      "sha256": "64060d00d9dcfb7b78c705d800a4478688b506072d3538455cfd1b72571acade",
+      "format": "zip",
+      "industryId": "industry-6-financial-research",
+      "roleFamilyKey": "equity-analysis"
+    },
+    {
+      "agentId": "financial-research-valuation-analyst",
+      "version": "0.1.0",
+      "relativePath": "packages/financial-research-valuation-analyst.zip",
+      "fileName": "financial-research-valuation-analyst.zip",
+      "sizeBytes": 12217,
+      "sha256": "c198eb9c68a021cf813018a65ba7837359a261ac2ae556f9e7baec591fba7202",
+      "format": "zip",
+      "industryId": "industry-6-financial-research",
+      "roleFamilyKey": "equity-analysis"
+    },
+    {
+      "agentId": "financial-research-watchlist-monitor-analyst",
+      "version": "0.1.0",
+      "relativePath": "packages/financial-research-watchlist-monitor-analyst.zip",
+      "fileName": "financial-research-watchlist-monitor-analyst.zip",
+      "sizeBytes": 12334,
+      "sha256": "c49dc3a0b38488dc47b9d3773761812311cb6a248686af37575e7af01631f6aa",
+      "format": "zip",
+      "industryId": "industry-6-financial-research",
+      "roleFamilyKey": "equity-analysis"
+    }
+  ],
+  "catalogs": {
+    "bridge": {
+      "catalog": "catalogs/bridge/catalog.json",
+      "catalogLite": "catalogs/bridge/catalog-lite.json"
+    },
+    "published": {
+      "catalog": "catalogs/published/catalog.json",
+      "catalogLite": "catalogs/published/catalog-lite.json"
+    }
+  },
+  "promotion": {
+    "exportContract": "promotion/export-contract.json",
+    "targetRepo": "clawin-agents",
+    "mode": "copy-packages-and-generated-catalogs-only"
+  },
+  "projection": {
+    "targetSubdir": "releases/2026-03-15-p3-financial-research-equity-analysis-6-agent",
+    "projectedBy": "scripts/project_release_bundle.py"
+  }
+}
