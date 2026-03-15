@@ -71,7 +71,7 @@ The install command handles the package fetch and local placement for you. You d
 Check the local install result:
 
 ```bash
-clawin status software-it-frontend-engineer-js-ts
+clawin status software-it-web-performance-engineer-js-ts
 ```
 
 After install, finish the local-only pieces required by your environment:

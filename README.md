@@ -82,12 +82,12 @@ See the full catalog in:
 3. Refresh from a published catalog:
    - `clawin catalog refresh --catalog https://agents.clawin.club/releases/2026-03-15-p0-canary-3-agent/catalogs/published/catalog.json`
 4. Search or inspect an agent:
-   - `clawin search "frontend engineer"`
-   - `clawin info software-it-frontend-engineer-js-ts`
+   - `clawin search "web performance"`
+   - `clawin info software-it-web-performance-engineer-js-ts`
 5. Install the agent:
-   - `clawin install software-it-frontend-engineer-js-ts`
+   - `clawin install software-it-web-performance-engineer-js-ts`
 6. Review local result and config follow-up:
-   - `clawin status software-it-frontend-engineer-js-ts`
+   - `clawin status software-it-web-performance-engineer-js-ts`
 
 Detailed instructions:
 - [INSTALL.md](./INSTALL.md)
