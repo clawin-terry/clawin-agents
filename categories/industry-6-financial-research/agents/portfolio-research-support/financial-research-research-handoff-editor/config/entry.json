@@ -1,0 +1,13 @@
+{
+    "id":  "financial-research-research-handoff-editor",
+    "default":  false,
+    "name":  "Research Handoff Editor",
+    "workspace":  "~/.openclaw/agents/financial-research-research-handoff-editor/workspace",
+    "agentDir":  "~/.openclaw/agents/financial-research-research-handoff-editor/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

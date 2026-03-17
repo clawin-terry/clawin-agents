@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-government-enterprise-partnership-manager",
+  "version": "0.1.0",
+  "title": "Government and Enterprise Partnership Manager",
+  "summary": "Builds government and enterprise partnerships that support business access, ecosystem alignment, and strategic external collaboration.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "government-relations"
+  },
+  "discovery": {
+    "tags": [
+      "government",
+      "enterprise",
+      "partnership",
+      "and",
+      "relations"
+    ],
+    "domains": [
+      "government",
+      "relations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "government",
+      "enterprise",
+      "partnership",
+      "relations"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "government-enterprise",
+      "partnership-relations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/government-relations/software-it-government-enterprise-partnership-manager"
+  }
+}

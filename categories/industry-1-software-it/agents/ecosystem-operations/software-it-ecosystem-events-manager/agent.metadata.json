@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-ecosystem-events-manager",
+  "version": "0.1.0",
+  "title": "Ecosystem Events Manager",
+  "summary": "Leads ecosystem event programs so community moments, external education, and relationship-building activities are delivered with discipline and impact.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "ecosystem-operations"
+  },
+  "discovery": {
+    "tags": [
+      "ecosystem",
+      "events",
+      "operations"
+    ],
+    "domains": [
+      "ecosystem",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "ecosystem",
+      "events",
+      "operations"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "ecosystem-events",
+      "events-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/ecosystem-operations/software-it-ecosystem-events-manager"
+  }
+}

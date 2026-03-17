@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-frequency-and-audience-expansion-specialist-agency",
+  "version": "0.1.0",
+  "title": "Frequency and Audience Expansion Specialist (Agency)",
+  "summary": "Optimizes frequency control and audience expansion so agency programmatic campaigns can scale reach without losing efficiency discipline.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "programmatic-ad-operations"
+  },
+  "discovery": {
+    "tags": [
+      "frequency",
+      "and",
+      "audience",
+      "expansion",
+      "programmatic",
+      "ad",
+      "operations"
+    ],
+    "domains": [
+      "programmatic",
+      "ad"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "frequency",
+      "and",
+      "audience",
+      "expansion"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "frequency-and",
+      "ad-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/programmatic-ad-operations/digital-marketing-frequency-and-audience-expansion-specialist-agency"
+  }
+}

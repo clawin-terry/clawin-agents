@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-special-feature-page-operations-manager-platform",
+  "version": "0.1.0",
+  "title": "Special Feature Page Operations Manager (Platform)",
+  "summary": "Operates special feature pages so long-form content collections, seasonal programming, and editorial showcases are packaged consistently for users.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "long-form-content-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "special",
+      "feature",
+      "page",
+      "operations",
+      "long",
+      "form"
+    ],
+    "domains": [
+      "long",
+      "form"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "special",
+      "feature"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "long-form"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/long-form-content-operations/content-platform-special-feature-page-operations-manager-platform"
+  }
+}

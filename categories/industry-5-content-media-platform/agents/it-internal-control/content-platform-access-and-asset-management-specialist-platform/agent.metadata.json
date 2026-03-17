@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-access-and-asset-management-specialist-platform",
+  "version": "0.1.0",
+  "title": "Access and Asset Management Specialist (Platform)",
+  "summary": "Owns access and IT asset administration so account permissions, device ownership, and control records remain current, auditable, and least-privilege aligned.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "it-internal-control"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "access",
+      "and",
+      "asset",
+      "management",
+      "internal",
+      "control"
+    ],
+    "domains": [
+      "internal",
+      "control"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "access",
+      "and"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "internal-control"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/it-internal-control/content-platform-access-and-asset-management-specialist-platform"
+  }
+}

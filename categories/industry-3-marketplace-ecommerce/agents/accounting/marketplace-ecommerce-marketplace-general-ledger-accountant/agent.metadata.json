@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-marketplace-general-ledger-accountant",
+  "version": "0.1.0",
+  "title": "Marketplace General Ledger Accountant",
+  "summary": "Maintains marketplace general ledger accuracy so period closes, balances, and financial statements remain complete and reliable.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "accounting"
+  },
+  "discovery": {
+    "tags": [
+      "general",
+      "ledger",
+      "accountant",
+      "accounting"
+    ],
+    "domains": [
+      "accounting"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "general",
+      "ledger",
+      "accountant",
+      "accounting"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "general-ledger",
+      "accountant-accounting"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/accounting/marketplace-ecommerce-marketplace-general-ledger-accountant"
+  }
+}

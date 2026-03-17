@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-association-ecosystem-operations-manager",
+  "version": "0.1.0",
+  "title": "Association and Ecosystem Operations Manager",
+  "summary": "Runs association and ecosystem engagement programs that improve partner coordination, external visibility, and institutional relationships.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "government-relations"
+  },
+  "discovery": {
+    "tags": [
+      "association",
+      "ecosystem",
+      "operations",
+      "and",
+      "government",
+      "relations"
+    ],
+    "domains": [
+      "government",
+      "relations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "association",
+      "ecosystem",
+      "operations",
+      "government"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "association-ecosystem",
+      "government-relations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/government-relations/software-it-association-ecosystem-operations-manager"
+  }
+}

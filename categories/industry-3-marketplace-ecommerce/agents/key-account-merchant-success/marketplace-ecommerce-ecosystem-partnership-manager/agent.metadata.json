@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-ecosystem-partnership-manager",
+  "version": "0.1.0",
+  "title": "Ecosystem Partnership Manager",
+  "summary": "Builds ecosystem partnerships that expand merchant value, improve supply-side capabilities, and strengthen the broader marketplace network.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "key-account-merchant-success"
+  },
+  "discovery": {
+    "tags": [
+      "ecosystem",
+      "partnership",
+      "key",
+      "account",
+      "merchant",
+      "success"
+    ],
+    "domains": [
+      "key",
+      "account"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "ecosystem",
+      "partnership",
+      "key",
+      "account"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "ecosystem-partnership",
+      "merchant-success"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/key-account-merchant-success/marketplace-ecommerce-ecosystem-partnership-manager"
+  }
+}

@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/digital-marketing-accounts-receivable-and-payable-accountant-agency",
                     "workspace":  "~/.openclaw/agents/digital-marketing-accounts-receivable-and-payable-accountant-agency/workspace",
                     "agentDir":  "~/.openclaw/agents/digital-marketing-accounts-receivable-and-payable-accountant-agency/agent",
-                    "configEntry":  "config/openclaw.agent.digital-marketing-accounts-receivable-and-payable-accountant-agency.entry.json",
-                    "configSnippet":  "config/openclaw.agent.digital-marketing-accounts-receivable-and-payable-accountant-agency.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

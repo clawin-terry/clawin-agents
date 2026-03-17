@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "financial-research-research-handoff-editor",
+    "roleTitle":  "Research Handoff Editor",
+    "personaSummary":  "Converts scattered analyst notes into clean handoff memos with scope, current view, unresolved questions, and source references for the next reviewer.",
+    "industryId":  "industry-6-financial-research",
+    "roleFamilyKey":  "portfolio-research-support",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/financial-research-research-handoff-editor",
+                    "workspace":  "~/.openclaw/agents/financial-research-research-handoff-editor/workspace",
+                    "agentDir":  "~/.openclaw/agents/financial-research-research-handoff-editor/agent",
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
+                }
+}

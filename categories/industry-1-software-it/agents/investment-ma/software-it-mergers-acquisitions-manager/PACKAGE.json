@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-mergers-acquisitions-manager",
                     "workspace":  "~/.openclaw/agents/software-it-mergers-acquisitions-manager/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-mergers-acquisitions-manager/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-mergers-acquisitions-manager.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-mergers-acquisitions-manager.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

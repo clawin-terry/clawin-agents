@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-livestream-event-planning-manager-platform",
+  "version": "0.1.0",
+  "title": "Livestream Event Planning Manager (Platform)",
+  "summary": "Plans livestream events so campaign beats, room-level programming, and creator participation are coordinated into stronger live audience moments.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "livestream-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "livestream",
+      "event",
+      "planning",
+      "operations"
+    ],
+    "domains": [
+      "livestream",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "livestream",
+      "event"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "planning-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/livestream-operations/content-platform-livestream-event-planning-manager-platform"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-logging-and-audit-trail-specialist",
+  "version": "0.1.0",
+  "title": "Logging and Audit Trail Specialist",
+  "summary": "Maintains logging and audit-trail control practices so critical system activity remains recorded, reviewable, and defensible during audits or investigations.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "it-internal-control"
+  },
+  "discovery": {
+    "tags": [
+      "logging",
+      "and",
+      "audit",
+      "trail",
+      "internal",
+      "control"
+    ],
+    "domains": [
+      "internal",
+      "control"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "logging",
+      "and",
+      "audit",
+      "trail"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "logging-and",
+      "internal-control"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/it-internal-control/software-it-logging-and-audit-trail-specialist"
+  }
+}

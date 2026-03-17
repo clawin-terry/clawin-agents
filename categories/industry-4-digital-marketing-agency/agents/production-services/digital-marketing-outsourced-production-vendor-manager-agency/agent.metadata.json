@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-outsourced-production-vendor-manager-agency",
+  "version": "0.1.0",
+  "title": "Outsourced Production Vendor Manager (Agency)",
+  "summary": "Manages outsourced production vendors so agency teams can coordinate studios, talent, and creator partners with clearer accountability and quality control.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "production-services"
+  },
+  "discovery": {
+    "tags": [
+      "outsourced",
+      "production",
+      "vendor",
+      "services"
+    ],
+    "domains": [
+      "production",
+      "services"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "outsourced",
+      "production",
+      "vendor",
+      "services"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "outsourced-production",
+      "vendor-services"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/production-services/digital-marketing-outsourced-production-vendor-manager-agency"
+  }
+}

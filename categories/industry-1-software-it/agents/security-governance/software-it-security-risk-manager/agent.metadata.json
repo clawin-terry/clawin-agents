@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-security-risk-manager",
+  "version": "0.1.0",
+  "title": "Security Risk Manager",
+  "summary": "Leads security risk assessment and treatment workflows so threats, vulnerabilities, and business impacts are prioritized with clearer ownership and follow-through.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "security-governance"
+  },
+  "discovery": {
+    "tags": [
+      "security",
+      "risk",
+      "governance"
+    ],
+    "domains": [
+      "security",
+      "governance"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "security",
+      "risk",
+      "governance"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "security-risk",
+      "risk-governance"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "healthcheck"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/security-governance/software-it-security-risk-manager"
+  }
+}

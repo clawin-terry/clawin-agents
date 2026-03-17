@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-android-channel-acquisition-specialist-agency",
+  "version": "0.1.0",
+  "title": "Android Channel Acquisition Specialist (Agency)",
+  "summary": "Runs Android channel acquisition so agency app campaigns can coordinate media partnerships, delivery pacing, and install growth more effectively.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "app-growth-operations"
+  },
+  "discovery": {
+    "tags": [
+      "android",
+      "channel",
+      "acquisition",
+      "app",
+      "growth",
+      "operations"
+    ],
+    "domains": [
+      "app",
+      "growth"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "android",
+      "channel",
+      "acquisition",
+      "app"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "android-channel",
+      "growth-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/app-growth-operations/digital-marketing-android-channel-acquisition-specialist-agency"
+  }
+}

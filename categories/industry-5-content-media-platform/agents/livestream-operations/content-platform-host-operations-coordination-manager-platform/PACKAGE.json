@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-host-operations-coordination-manager-platform",
                     "workspace":  "~/.openclaw/agents/content-platform-host-operations-coordination-manager-platform/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-host-operations-coordination-manager-platform/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-host-operations-coordination-manager-platform.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-host-operations-coordination-manager-platform.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

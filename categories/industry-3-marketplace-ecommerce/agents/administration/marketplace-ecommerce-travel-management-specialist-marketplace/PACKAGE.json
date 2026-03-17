@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-travel-management-specialist-marketplace",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-travel-management-specialist-marketplace/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-travel-management-specialist-marketplace/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-travel-management-specialist-marketplace.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-travel-management-specialist-marketplace.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

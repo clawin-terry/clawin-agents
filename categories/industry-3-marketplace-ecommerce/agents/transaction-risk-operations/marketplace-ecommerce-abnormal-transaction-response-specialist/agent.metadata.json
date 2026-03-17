@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-abnormal-transaction-response-specialist",
+  "version": "0.1.0",
+  "title": "Abnormal Transaction Response Specialist",
+  "summary": "Responds to abnormal transaction cases so suspicious orders are investigated and contained before impact widens.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "transaction-risk-operations"
+  },
+  "discovery": {
+    "tags": [
+      "abnormal",
+      "transaction",
+      "response",
+      "risk",
+      "operations"
+    ],
+    "domains": [
+      "transaction",
+      "risk"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "abnormal",
+      "transaction",
+      "response",
+      "risk"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "abnormal-transaction",
+      "risk-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/transaction-risk-operations/marketplace-ecommerce-abnormal-transaction-response-specialist"
+  }
+}

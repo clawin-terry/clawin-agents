@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-general-ledger-accountant-agency",
+  "version": "0.1.0",
+  "title": "General Ledger Accountant",
+  "summary": "Maintains agency general ledger accuracy so period close, financial statements, and control evidence remain complete and dependable.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "accounting"
+  },
+  "discovery": {
+    "tags": [
+      "general",
+      "ledger",
+      "accountant",
+      "accounting"
+    ],
+    "domains": [
+      "accounting"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "general",
+      "ledger",
+      "accountant",
+      "accounting"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "general-ledger",
+      "accountant-accounting"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/accounting/digital-marketing-general-ledger-accountant-agency"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-risk-monitoring-analyst-platform",
+  "version": "0.1.0",
+  "title": "Risk Monitoring Analyst (Platform)",
+  "summary": "Monitors trust-and-safety risk signals so emerging platform threats can be detected earlier and routed into faster operational response.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "risk-and-incident-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "risk",
+      "monitoring",
+      "and",
+      "incident",
+      "operations"
+    ],
+    "domains": [
+      "risk",
+      "and"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "risk",
+      "monitoring"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "incident-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/risk-and-incident-operations/content-platform-risk-monitoring-analyst-platform"
+  }
+}

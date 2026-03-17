@@ -16,7 +16,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-desktop-client-engineer-cpp-csharp",
                     "workspace":  "~/.openclaw/agents/software-it-desktop-client-engineer-cpp-csharp/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-desktop-client-engineer-cpp-csharp/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-desktop-client-engineer-cpp-csharp.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-desktop-client-engineer-cpp-csharp.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

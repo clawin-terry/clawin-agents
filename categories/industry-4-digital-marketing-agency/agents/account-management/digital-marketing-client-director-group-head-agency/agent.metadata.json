@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-client-director-group-head-agency",
+  "version": "0.1.0",
+  "title": "Client Director / Group Head (Agency)",
+  "summary": "Leads key client groups so agency account direction, team quality, and delivery alignment stay strong across portfolios.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "account-management"
+  },
+  "discovery": {
+    "tags": [
+      "client",
+      "group",
+      "head",
+      "account",
+      "management"
+    ],
+    "domains": [
+      "account",
+      "management"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "client",
+      "group",
+      "head",
+      "account"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "client-group",
+      "account-management"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/account-management/digital-marketing-client-director-group-head-agency"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-wave-strategy-operations-manager",
+  "version": "0.1.0",
+  "title": "Wave Strategy Operations Manager",
+  "summary": "Operates wave planning strategy so picking and allocation workflows stay efficient under changing order volume and warehouse constraints.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "warehouse-operations"
+  },
+  "discovery": {
+    "tags": [
+      "wave",
+      "strategy",
+      "operations",
+      "warehouse"
+    ],
+    "domains": [
+      "warehouse",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "wave",
+      "strategy",
+      "operations",
+      "warehouse"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "wave-strategy",
+      "operations-warehouse"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/warehouse-operations/marketplace-ecommerce-wave-strategy-operations-manager"
+  }
+}

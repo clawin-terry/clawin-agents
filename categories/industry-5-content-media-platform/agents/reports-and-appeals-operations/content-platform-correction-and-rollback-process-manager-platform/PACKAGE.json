@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-correction-and-rollback-process-manager-platform",
                     "workspace":  "~/.openclaw/agents/content-platform-correction-and-rollback-process-manager-platform/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-correction-and-rollback-process-manager-platform/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-correction-and-rollback-process-manager-platform.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-correction-and-rollback-process-manager-platform.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

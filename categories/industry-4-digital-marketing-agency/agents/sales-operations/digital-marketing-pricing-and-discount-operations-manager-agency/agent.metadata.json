@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-pricing-and-discount-operations-manager-agency",
+  "version": "0.1.0",
+  "title": "Pricing and Discount Operations Manager (Agency)",
+  "summary": "Manages pricing and discount operations so agency deal terms stay controlled, explainable, and aligned with commercial guardrails.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "sales-operations"
+  },
+  "discovery": {
+    "tags": [
+      "pricing",
+      "and",
+      "discount",
+      "operations",
+      "sales"
+    ],
+    "domains": [
+      "sales",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "pricing",
+      "and",
+      "discount",
+      "operations"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "pricing-and",
+      "operations-sales"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/sales-operations/digital-marketing-pricing-and-discount-operations-manager-agency"
+  }
+}

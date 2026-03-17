@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-pre-sales-director",
+  "version": "0.1.0",
+  "title": "Pre-Sales Director",
+  "summary": "Leads pre-sales strategy, team execution, and solution support so opportunities progress with strong technical and commercial alignment.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "pre-sales"
+  },
+  "discovery": {
+    "tags": [
+      "pre",
+      "sales"
+    ],
+    "domains": [
+      "pre",
+      "sales"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "pre",
+      "sales"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "pre-sales"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/pre-sales/software-it-pre-sales-director"
+  }
+}

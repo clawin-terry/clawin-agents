@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-reporting-systems-lead",
+  "version": "0.1.0",
+  "title": "Reporting Systems Lead",
+  "summary": "Owns the agency reporting framework so dashboards, metric definitions, and delivery cadences stay consistent, trusted, and decision-ready across teams.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "business-intelligence"
+  },
+  "discovery": {
+    "tags": [
+      "reporting",
+      "systems",
+      "business",
+      "intelligence"
+    ],
+    "domains": [
+      "business",
+      "intelligence"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "reporting",
+      "systems",
+      "business",
+      "intelligence"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "reporting-systems",
+      "business-intelligence"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/business-intelligence/digital-marketing-reporting-systems-lead"
+  }
+}

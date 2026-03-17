@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-jd-jingzhuntong-specialist-agency",
+  "version": "0.1.0",
+  "title": "JD Jingzhuntong Specialist (Agency)",
+  "summary": "Operates JD Jingzhuntong campaigns so agency teams can manage ecommerce demand capture, budget pacing, and channel execution with better control.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "ecommerce-ad-operations"
+  },
+  "discovery": {
+    "tags": [
+      "jd",
+      "jingzhuntong",
+      "ad",
+      "operations"
+    ],
+    "domains": [
+      "ad",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "jd",
+      "jingzhuntong",
+      "ad",
+      "operations"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "jd-jingzhuntong",
+      "ad-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/ecommerce-ad-operations/digital-marketing-jd-jingzhuntong-specialist-agency"
+  }
+}

@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/digital-marketing-activation-to-payment-funnel-operator-agency",
                     "workspace":  "~/.openclaw/agents/digital-marketing-activation-to-payment-funnel-operator-agency/workspace",
                     "agentDir":  "~/.openclaw/agents/digital-marketing-activation-to-payment-funnel-operator-agency/agent",
-                    "configEntry":  "config/openclaw.agent.digital-marketing-activation-to-payment-funnel-operator-agency.entry.json",
-                    "configSnippet":  "config/openclaw.agent.digital-marketing-activation-to-payment-funnel-operator-agency.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

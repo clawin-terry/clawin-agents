@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-brand-events-planning-manager",
+  "version": "0.1.0",
+  "title": "Brand Events Planning Manager",
+  "summary": "Plans brand events so campaigns, media moments, and audience-facing activations reinforce platform positioning with stronger execution quality.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "brand-marketing"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "brand",
+      "events",
+      "planning"
+    ],
+    "domains": [
+      "brand"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "brand",
+      "events"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "content-platform",
+      "events-planning"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/brand-marketing/content-platform-brand-events-planning-manager"
+  }
+}

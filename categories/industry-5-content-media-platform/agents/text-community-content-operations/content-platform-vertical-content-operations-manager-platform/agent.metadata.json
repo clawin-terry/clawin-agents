@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-vertical-content-operations-manager-platform",
+  "version": "0.1.0",
+  "title": "Vertical Content Operations Manager (Platform)",
+  "summary": "Runs vertical content operations so category communities such as film, gaming, and sports receive tailored programming, supply attention, and operating rhythm.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "text-community-content-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "vertical",
+      "operations",
+      "text",
+      "community"
+    ],
+    "domains": [
+      "text",
+      "community"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "vertical",
+      "operations"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "text-community"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/text-community-content-operations/content-platform-vertical-content-operations-manager-platform"
+  }
+}

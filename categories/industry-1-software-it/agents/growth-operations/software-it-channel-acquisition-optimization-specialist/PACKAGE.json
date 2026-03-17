@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-channel-acquisition-optimization-specialist",
                     "workspace":  "~/.openclaw/agents/software-it-channel-acquisition-optimization-specialist/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-channel-acquisition-optimization-specialist/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-channel-acquisition-optimization-specialist.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-channel-acquisition-optimization-specialist.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

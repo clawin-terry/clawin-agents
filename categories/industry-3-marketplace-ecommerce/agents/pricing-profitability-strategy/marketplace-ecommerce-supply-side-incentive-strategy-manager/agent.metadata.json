@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-supply-side-incentive-strategy-manager",
+  "version": "0.1.0",
+  "title": "Supply-Side Incentive Strategy Manager",
+  "summary": "Designs supply-side incentive strategies so merchant behavior, assortment quality, and commercial goals stay aligned on the platform.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "pricing-profitability-strategy"
+  },
+  "discovery": {
+    "tags": [
+      "supply",
+      "side",
+      "incentive",
+      "strategy",
+      "pricing",
+      "profitability"
+    ],
+    "domains": [
+      "pricing",
+      "profitability"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "supply",
+      "side",
+      "incentive",
+      "strategy"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "supply-side",
+      "pricing-profitability"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/pricing-profitability-strategy/marketplace-ecommerce-supply-side-incentive-strategy-manager"
+  }
+}

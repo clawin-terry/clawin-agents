@@ -16,7 +16,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-order-and-fulfillment-engineer-go",
                     "workspace":  "~/.openclaw/agents/content-platform-order-and-fulfillment-engineer-go/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-order-and-fulfillment-engineer-go/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-order-and-fulfillment-engineer-go.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-order-and-fulfillment-engineer-go.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

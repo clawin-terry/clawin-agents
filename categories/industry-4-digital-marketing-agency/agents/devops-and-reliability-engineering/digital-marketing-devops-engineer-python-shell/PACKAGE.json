@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/digital-marketing-devops-engineer-python-shell",
                     "workspace":  "~/.openclaw/agents/digital-marketing-devops-engineer-python-shell/workspace",
                     "agentDir":  "~/.openclaw/agents/digital-marketing-devops-engineer-python-shell/agent",
-                    "configEntry":  "config/openclaw.agent.digital-marketing-devops-engineer-python-shell.entry.json",
-                    "configSnippet":  "config/openclaw.agent.digital-marketing-devops-engineer-python-shell.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-tier-2-support-coordinator-technical-data-agency",
+  "version": "0.1.0",
+  "title": "Tier 2 Support Coordinator, Technical and Data Liaison (Agency)",
+  "summary": "Coordinates escalated support so agency technical, data, and service teams can resolve more complex client issues with clearer ownership.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "customer-support"
+  },
+  "discovery": {
+    "tags": [
+      "tier",
+      "support",
+      "technical",
+      "data",
+      "and",
+      "liaison",
+      "customer"
+    ],
+    "domains": [
+      "customer",
+      "support"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "tier",
+      "support",
+      "technical",
+      "data"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "tier-support",
+      "data-customer"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/customer-support/digital-marketing-tier-2-support-coordinator-technical-data-agency"
+  }
+}

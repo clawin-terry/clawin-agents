@@ -16,7 +16,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-cross-platform-engineer-flutter-dart",
                     "workspace":  "~/.openclaw/agents/software-it-cross-platform-engineer-flutter-dart/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-cross-platform-engineer-flutter-dart/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-cross-platform-engineer-flutter-dart.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-cross-platform-engineer-flutter-dart.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

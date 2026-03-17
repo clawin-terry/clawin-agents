@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-merchant-invoicing-guidance-specialist",
+  "version": "0.1.0",
+  "title": "Merchant Invoicing Guidance Specialist",
+  "summary": "Guides merchants on invoicing workflows so seller tax documentation and issuance processes are handled more consistently.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "tax-invoice-operations"
+  },
+  "discovery": {
+    "tags": [
+      "merchant",
+      "invoicing",
+      "guidance",
+      "tax",
+      "invoice",
+      "operations"
+    ],
+    "domains": [
+      "tax",
+      "invoice"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "merchant",
+      "invoicing",
+      "guidance",
+      "tax"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "merchant-invoicing",
+      "invoice-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/tax-invoice-operations/marketplace-ecommerce-merchant-invoicing-guidance-specialist"
+  }
+}

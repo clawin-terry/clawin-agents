@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-voc-analyst",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-voc-analyst/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-voc-analyst/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-voc-analyst.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-voc-analyst.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

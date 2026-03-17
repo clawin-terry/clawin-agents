@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-case-study-white-paper-manager",
+  "version": "0.1.0",
+  "title": "Case Study and White Paper Manager",
+  "summary": "Owns case study and white paper programs that turn customer outcomes and product insight into reusable proof assets for the market.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "product-marketing"
+  },
+  "discovery": {
+    "tags": [
+      "case",
+      "study",
+      "white",
+      "paper",
+      "and",
+      "product"
+    ],
+    "domains": [
+      "product"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "case",
+      "study",
+      "white",
+      "paper"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "case-study",
+      "paper-product"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/product-marketing/software-it-case-study-white-paper-manager"
+  }
+}

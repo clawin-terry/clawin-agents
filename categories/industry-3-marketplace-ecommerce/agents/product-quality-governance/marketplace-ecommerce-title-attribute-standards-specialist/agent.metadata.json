@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-title-attribute-standards-specialist",
+  "version": "0.1.0",
+  "title": "Title and Attribute Standards Specialist",
+  "summary": "Defines and enforces title and attribute standards so product listings remain structured, searchable, and policy-aligned.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "product-quality-governance"
+  },
+  "discovery": {
+    "tags": [
+      "title",
+      "attribute",
+      "standards",
+      "and",
+      "product",
+      "quality",
+      "governance"
+    ],
+    "domains": [
+      "product",
+      "quality"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "title",
+      "attribute",
+      "standards",
+      "product"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "title-attribute",
+      "quality-governance"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/product-quality-governance/marketplace-ecommerce-title-attribute-standards-specialist"
+  }
+}

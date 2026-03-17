@@ -1,0 +1,56 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-sales-training-coach",
+  "version": "0.1.0",
+  "title": "Sales Training Coach",
+  "summary": "Improves sales capability through coaching, playbook reinforcement, and practical training aligned to field performance needs.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "sales"
+  },
+  "discovery": {
+    "tags": [
+      "sales",
+      "training",
+      "coach"
+    ],
+    "domains": [
+      "sales"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "sales",
+      "training",
+      "coach"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "sales-training",
+      "training-coach"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/sales/software-it-sales-training-coach"
+  }
+}

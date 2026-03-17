@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-sourcing-manager-platform",
                     "workspace":  "~/.openclaw/agents/content-platform-sourcing-manager-platform/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-sourcing-manager-platform/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-sourcing-manager-platform.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-sourcing-manager-platform.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

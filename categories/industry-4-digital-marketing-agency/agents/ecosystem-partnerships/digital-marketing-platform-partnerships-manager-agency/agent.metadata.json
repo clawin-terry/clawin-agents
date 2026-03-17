@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-platform-partnerships-manager-agency",
+  "version": "0.1.0",
+  "title": "Platform Partnerships Manager (Agency)",
+  "summary": "Manages platform partnerships so agency collaboration with media, ecommerce, and tooling ecosystems produces usable commercial leverage.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "ecosystem-partnerships"
+  },
+  "discovery": {
+    "tags": [
+      "platform",
+      "partnerships",
+      "ecosystem"
+    ],
+    "domains": [
+      "ecosystem",
+      "partnerships"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "platform",
+      "partnerships",
+      "ecosystem"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "platform-partnerships",
+      "partnerships-ecosystem"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/ecosystem-partnerships/digital-marketing-platform-partnerships-manager-agency"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-treasury-manager",
+  "version": "0.1.0",
+  "title": "Treasury Manager",
+  "summary": "Leads treasury operations so liquidity, cash positioning, and banking coordination support safe and efficient financial management.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "tax-treasury"
+  },
+  "discovery": {
+    "tags": [
+      "treasury",
+      "tax"
+    ],
+    "domains": [
+      "tax",
+      "treasury"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "treasury",
+      "tax"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "treasury-tax"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/tax-treasury/software-it-treasury-manager"
+  }
+}

@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-customs-clearance-coordination-manager",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-customs-clearance-coordination-manager/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-customs-clearance-coordination-manager/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-customs-clearance-coordination-manager.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-customs-clearance-coordination-manager.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-audit-liaison-accounting-specialist",
+  "version": "0.1.0",
+  "title": "Audit Liaison Accounting Specialist",
+  "summary": "Coordinates audit-facing accounting support so evidence, reconciliations, and issue follow-up remain organized and defensible.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "accounting"
+  },
+  "discovery": {
+    "tags": [
+      "audit",
+      "liaison",
+      "accounting"
+    ],
+    "domains": [
+      "accounting"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "audit",
+      "liaison",
+      "accounting"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "audit-liaison",
+      "liaison-accounting"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/accounting/marketplace-ecommerce-audit-liaison-accounting-specialist"
+  }
+}

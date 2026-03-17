@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/digital-marketing-head-of-attribution-and-measurement",
                     "workspace":  "~/.openclaw/agents/digital-marketing-head-of-attribution-and-measurement/workspace",
                     "agentDir":  "~/.openclaw/agents/digital-marketing-head-of-attribution-and-measurement/agent",
-                    "configEntry":  "config/openclaw.agent.digital-marketing-head-of-attribution-and-measurement.entry.json",
-                    "configSnippet":  "config/openclaw.agent.digital-marketing-head-of-attribution-and-measurement.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

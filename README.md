@@ -33,17 +33,19 @@ It does not contain:
 ## Current public release
 
 Current published catalog snapshot:
-- Industries (`4`):
+- Industries (`5`):
   - `industry-1-software-it`
   - `industry-3-marketplace-ecommerce`
   - `industry-4-digital-marketing-agency`
   - `industry-5-content-media-platform`
-- Total install-ready agent packages: **1343**
+  - `industry-6-financial-research`
+- Total install-ready agent packages: **1395**
 - Breakdown by industry:
   - `industry-1-software-it` — **394**
   - `industry-3-marketplace-ecommerce` — **355**
   - `industry-4-digital-marketing-agency` — **283**
   - `industry-5-content-media-platform` — **311**
+  - `industry-6-financial-research` — **52**
 
 For the full breakdown by role family and per-agent links, see:
 - [CATALOG.md](./CATALOG.md)
@@ -70,7 +72,7 @@ See the full catalog in:
 2. Initialize it:
    - `clawin init`
 3. Refresh from a published catalog:
-   - `clawin catalog refresh --catalog https://agents.clawin.club/releases/2026-03-15-p0-canary-3-agent/catalogs/published/catalog.json`
+   - `clawin catalog refresh --catalog https://agents.clawin.club/releases/2026-03-18-p6-full-catalog-1395-agent/catalogs/published/catalog.json`
 4. Search or inspect an agent:
    - `clawin search "web performance"`
    - `clawin info software-it-web-performance-engineer-js-ts`

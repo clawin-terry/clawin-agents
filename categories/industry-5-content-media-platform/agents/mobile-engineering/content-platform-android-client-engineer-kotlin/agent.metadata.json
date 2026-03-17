@@ -1,0 +1,66 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-android-client-engineer-kotlin",
+  "version": "0.1.0",
+  "title": "Android Client Engineer (Kotlin)",
+  "summary": "Builds Android client features in Kotlin so creators and viewers get more reliable, responsive, and maintainable experiences across Android devices.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "mobile-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "android",
+      "client",
+      "kotlin",
+      "mobile",
+      "engineering"
+    ],
+    "domains": [
+      "mobile",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "android",
+      "client"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "mobile-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "clawin-mobile-engineering",
+      "clawin-native-client-engineering"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/mobile-engineering/content-platform-android-client-engineer-kotlin"
+  }
+}

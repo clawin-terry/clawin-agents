@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-delivery-director",
+  "version": "0.1.0",
+  "title": "Delivery Director",
+  "summary": "Leads delivery execution across projects and implementation teams so commitments, governance, and customer outcomes stay aligned.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "delivery-implementation"
+  },
+  "discovery": {
+    "tags": [
+      "delivery",
+      "implementation"
+    ],
+    "domains": [
+      "delivery",
+      "implementation"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "delivery",
+      "implementation"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "delivery-implementation"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/delivery-implementation/software-it-delivery-director"
+  }
+}

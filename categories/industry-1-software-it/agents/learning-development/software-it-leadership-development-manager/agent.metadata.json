@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-leadership-development-manager",
+  "version": "0.1.0",
+  "title": "Leadership Development Manager",
+  "summary": "Runs leadership development programs so managers and leaders build stronger capability, judgment, and organizational impact.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "learning-development"
+  },
+  "discovery": {
+    "tags": [
+      "leadership",
+      "development",
+      "learning"
+    ],
+    "domains": [
+      "learning",
+      "development"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "leadership",
+      "development",
+      "learning"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "leadership-development",
+      "development-learning"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/learning-development/software-it-leadership-development-manager"
+  }
+}

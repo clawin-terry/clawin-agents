@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-creator-mentor-program-manager-platform",
+  "version": "0.1.0",
+  "title": "Creator Mentor Program Manager (Platform)",
+  "summary": "Builds the creator mentor system so experienced creators and coaches can scale guidance, feedback, and peer learning across the platform ecosystem.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "creator-education-enablement"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "creator",
+      "mentor",
+      "program",
+      "education",
+      "enablement"
+    ],
+    "domains": [
+      "creator",
+      "education"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "creator",
+      "mentor"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "education-enablement"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/creator-education-enablement/content-platform-creator-mentor-program-manager-platform"
+  }
+}

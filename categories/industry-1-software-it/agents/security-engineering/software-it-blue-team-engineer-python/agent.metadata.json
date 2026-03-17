@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-blue-team-engineer-python",
+  "version": "0.1.0",
+  "title": "Blue Team Engineer (Python)",
+  "summary": "Builds and improves defensive detection and response workflows with Python, strengthening monitoring quality, triage speed, and containment readiness.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "security-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "blue",
+      "team",
+      "python",
+      "security",
+      "engineering"
+    ],
+    "domains": [
+      "security",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "blue",
+      "team",
+      "python",
+      "security"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "blue-team",
+      "security-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "healthcheck"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/security-engineering/software-it-blue-team-engineer-python"
+  }
+}

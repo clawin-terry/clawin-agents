@@ -1,0 +1,66 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-review-consistency-analyst-platform",
+  "version": "0.1.0",
+  "title": "Review Consistency Analyst (Platform)",
+  "summary": "Analyzes review consistency so moderation judgments, escalations, and policy interpretations stay aligned across reviewer cohorts and changing risk conditions.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "review-analytics-and-evaluation"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "review",
+      "consistency",
+      "analytics",
+      "and",
+      "evaluation"
+    ],
+    "domains": [
+      "review",
+      "analytics"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "review",
+      "consistency"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "and-evaluation"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/review-analytics-and-evaluation/content-platform-review-consistency-analyst-platform"
+  }
+}

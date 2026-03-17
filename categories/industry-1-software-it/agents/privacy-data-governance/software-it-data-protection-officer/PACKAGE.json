@@ -16,7 +16,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-data-protection-officer",
                     "workspace":  "~/.openclaw/agents/software-it-data-protection-officer/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-data-protection-officer/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-data-protection-officer.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-data-protection-officer.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-live-penalty-and-appeals-coordination-manager",
+  "version": "0.1.0",
+  "title": "Live Penalty and Appeals Coordination Manager",
+  "summary": "Coordinates live penalties and appeals so marketplace enforcement actions, merchant communications, and review decisions stay traceable and fair.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "live-risk-and-compliance-operations"
+  },
+  "discovery": {
+    "tags": [
+      "live",
+      "penalty",
+      "and",
+      "appeals",
+      "coordination",
+      "risk",
+      "compliance",
+      "operations"
+    ],
+    "domains": [
+      "live",
+      "risk"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "live",
+      "penalty",
+      "and",
+      "appeals"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "live-penalty",
+      "compliance-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/live-risk-and-compliance-operations/marketplace-ecommerce-live-penalty-and-appeals-coordination-manager"
+  }
+}

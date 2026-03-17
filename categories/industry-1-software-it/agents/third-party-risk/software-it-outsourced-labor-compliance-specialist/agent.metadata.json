@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-outsourced-labor-compliance-specialist",
+  "version": "0.1.0",
+  "title": "Outsourced Labor Compliance Specialist",
+  "summary": "Monitors outsourced labor compliance so external staffing arrangements remain aligned with labor rules, contract terms, and internal governance standards.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "third-party-risk"
+  },
+  "discovery": {
+    "tags": [
+      "outsourced",
+      "labor",
+      "compliance",
+      "third",
+      "party",
+      "risk"
+    ],
+    "domains": [
+      "third",
+      "party"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "outsourced",
+      "labor",
+      "compliance",
+      "third"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "outsourced-labor",
+      "party-risk"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/third-party-risk/software-it-outsourced-labor-compliance-specialist"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-helpdesk-specialist-agency",
+  "version": "0.1.0",
+  "title": "Helpdesk Specialist (Agency)",
+  "summary": "Handles helpdesk requests so agency staff receive timely troubleshooting, setup support, and issue follow-through across daily workplace tooling.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "technical-support"
+  },
+  "discovery": {
+    "tags": [
+      "helpdesk",
+      "technical",
+      "support"
+    ],
+    "domains": [
+      "technical",
+      "support"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "helpdesk",
+      "technical",
+      "support"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "helpdesk-technical",
+      "technical-support"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/technical-support/digital-marketing-helpdesk-specialist-agency"
+  }
+}

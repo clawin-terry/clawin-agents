@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-api-test-engineer-python",
+  "version": "0.1.0",
+  "title": "API Test Engineer (Python)",
+  "summary": "Designs and automates API test coverage with Python, focusing on contract correctness, edge cases, and service reliability.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "test-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "api",
+      "test",
+      "python",
+      "engineering"
+    ],
+    "domains": [
+      "test",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "api",
+      "test",
+      "python",
+      "engineering"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "api-test",
+      "python-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/test-engineering/software-it-api-test-engineer-python"
+  }
+}

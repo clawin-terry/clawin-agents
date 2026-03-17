@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-mentorship-program-manager-agency",
+  "version": "0.1.0",
+  "title": "Mentorship Program Manager (Agency)",
+  "summary": "Runs mentorship programs so agency onboarding, skills transfer, and development support become more structured and sustainable.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "learning-development"
+  },
+  "discovery": {
+    "tags": [
+      "mentorship",
+      "program",
+      "learning",
+      "development"
+    ],
+    "domains": [
+      "learning",
+      "development"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "mentorship",
+      "program",
+      "learning",
+      "development"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "mentorship-program",
+      "learning-development"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/learning-development/digital-marketing-mentorship-program-manager-agency"
+  }
+}

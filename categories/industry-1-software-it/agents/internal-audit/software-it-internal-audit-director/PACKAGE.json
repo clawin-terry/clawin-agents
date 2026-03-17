@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-internal-audit-director",
                     "workspace":  "~/.openclaw/agents/software-it-internal-audit-director/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-internal-audit-director/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-internal-audit-director.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-internal-audit-director.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-on-call-incident-response-lead",
+  "version": "0.1.0",
+  "title": "On-Call Incident Response Lead",
+  "summary": "Leads on-call and incident response practices, improving escalation quality, coordination, post-incident learning, and operational readiness.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "site-reliability-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "on",
+      "call",
+      "incident",
+      "response",
+      "site",
+      "reliability",
+      "engineering"
+    ],
+    "domains": [
+      "site",
+      "reliability"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "on",
+      "call",
+      "incident",
+      "response"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "on-call",
+      "reliability-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "healthcheck"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/site-reliability-engineering/software-it-on-call-incident-response-lead"
+  }
+}

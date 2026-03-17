@@ -16,7 +16,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-data-masking-encryption-controls-engineer",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-data-masking-encryption-controls-engineer/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-data-masking-encryption-controls-engineer/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-data-masking-encryption-controls-engineer.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-data-masking-encryption-controls-engineer.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

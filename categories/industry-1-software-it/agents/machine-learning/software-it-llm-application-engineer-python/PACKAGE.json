@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-llm-application-engineer-python",
                     "workspace":  "~/.openclaw/agents/software-it-llm-application-engineer-python/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-llm-application-engineer-python/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-llm-application-engineer-python.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-llm-application-engineer-python.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

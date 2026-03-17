@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/digital-marketing-etl-engineer-python",
                     "workspace":  "~/.openclaw/agents/digital-marketing-etl-engineer-python/workspace",
                     "agentDir":  "~/.openclaw/agents/digital-marketing-etl-engineer-python/agent",
-                    "configEntry":  "config/openclaw.agent.digital-marketing-etl-engineer-python.entry.json",
-                    "configSnippet":  "config/openclaw.agent.digital-marketing-etl-engineer-python.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

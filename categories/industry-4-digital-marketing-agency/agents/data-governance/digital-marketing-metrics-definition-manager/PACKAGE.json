@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/digital-marketing-metrics-definition-manager",
                     "workspace":  "~/.openclaw/agents/digital-marketing-metrics-definition-manager/workspace",
                     "agentDir":  "~/.openclaw/agents/digital-marketing-metrics-definition-manager/agent",
-                    "configEntry":  "config/openclaw.agent.digital-marketing-metrics-definition-manager.entry.json",
-                    "configSnippet":  "config/openclaw.agent.digital-marketing-metrics-definition-manager.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

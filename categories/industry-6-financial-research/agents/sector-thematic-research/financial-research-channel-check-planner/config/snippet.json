@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "financial-research-channel-check-planner",
+                                    "default":  false,
+                                    "name":  "Channel Check Planner",
+                                    "workspace":  "~/.openclaw/agents/financial-research-channel-check-planner/workspace",
+                                    "agentDir":  "~/.openclaw/agents/financial-research-channel-check-planner/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

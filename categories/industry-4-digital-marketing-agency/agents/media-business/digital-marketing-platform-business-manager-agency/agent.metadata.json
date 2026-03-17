@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-platform-business-manager-agency",
+  "version": "0.1.0",
+  "title": "Platform Business Manager (Agency)",
+  "summary": "Manages media-platform business relationships so agency teams can secure better partner access, commercial coordination, and execution support for client campaigns.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "media-business"
+  },
+  "discovery": {
+    "tags": [
+      "platform",
+      "business",
+      "media"
+    ],
+    "domains": [
+      "media",
+      "business"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "platform",
+      "business",
+      "media"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "platform-business",
+      "business-media"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/media-business/digital-marketing-platform-business-manager-agency"
+  }
+}

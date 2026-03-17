@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-content-promotion-coordination-manager-platform",
+  "version": "0.1.0",
+  "title": "Content Promotion Coordination Manager (Platform)",
+  "summary": "Coordinates content-promotion execution so long-form launches, campaign tie-ins, and cross-team publicity support are delivered with better timing and consistency.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "long-form-content-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "promotion",
+      "coordination",
+      "long",
+      "form",
+      "operations"
+    ],
+    "domains": [
+      "long",
+      "form"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "promotion",
+      "coordination"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "form-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/long-form-content-operations/content-platform-content-promotion-coordination-manager-platform"
+  }
+}

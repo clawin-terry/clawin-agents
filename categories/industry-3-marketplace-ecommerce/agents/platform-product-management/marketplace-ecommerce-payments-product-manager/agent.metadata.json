@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-payments-product-manager",
+  "version": "0.1.0",
+  "title": "Payments Product Manager",
+  "summary": "Owns payments product capabilities so payment methods, authorization flows, and business controls support reliable marketplace transactions.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "platform-product-management"
+  },
+  "discovery": {
+    "tags": [
+      "payments",
+      "product",
+      "platform",
+      "management"
+    ],
+    "domains": [
+      "platform",
+      "product"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "payments",
+      "product",
+      "platform",
+      "management"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "payments-product",
+      "platform-management"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/platform-product-management/marketplace-ecommerce-payments-product-manager"
+  }
+}

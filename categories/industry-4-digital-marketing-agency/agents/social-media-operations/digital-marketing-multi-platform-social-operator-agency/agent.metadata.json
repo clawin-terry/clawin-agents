@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-multi-platform-social-operator-agency",
+  "version": "0.1.0",
+  "title": "Multi-Platform Social Operator (Agency)",
+  "summary": "Operates brand social channels so agency teams can adapt publishing, community handling, and content execution across different platform environments.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "social-media-operations"
+  },
+  "discovery": {
+    "tags": [
+      "multi",
+      "platform",
+      "social",
+      "operator",
+      "media",
+      "operations"
+    ],
+    "domains": [
+      "social",
+      "media"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "multi",
+      "platform",
+      "social",
+      "operator"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "multi-platform",
+      "media-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/social-media-operations/digital-marketing-multi-platform-social-operator-agency"
+  }
+}

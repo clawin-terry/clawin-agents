@@ -16,7 +16,7 @@
                     "targetRoot":  "~/.openclaw/agents/digital-marketing-security-engineer-python-agency",
                     "workspace":  "~/.openclaw/agents/digital-marketing-security-engineer-python-agency/workspace",
                     "agentDir":  "~/.openclaw/agents/digital-marketing-security-engineer-python-agency/agent",
-                    "configEntry":  "config/openclaw.agent.digital-marketing-security-engineer-python-agency.entry.json",
-                    "configSnippet":  "config/openclaw.agent.digital-marketing-security-engineer-python-agency.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

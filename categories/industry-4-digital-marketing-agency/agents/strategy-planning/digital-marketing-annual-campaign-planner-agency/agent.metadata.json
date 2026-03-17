@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-annual-campaign-planner-agency",
+  "version": "0.1.0",
+  "title": "Annual Campaign Planner (Agency)",
+  "summary": "Plans annual campaign programs so agency teams can sequence major initiatives, budget priorities, and brand moments with stronger continuity.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "strategy-planning"
+  },
+  "discovery": {
+    "tags": [
+      "annual",
+      "campaign",
+      "planner",
+      "strategy",
+      "planning"
+    ],
+    "domains": [
+      "strategy",
+      "planning"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "annual",
+      "campaign",
+      "planner",
+      "strategy"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "annual-campaign",
+      "strategy-planning"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/strategy-planning/digital-marketing-annual-campaign-planner-agency"
+  }
+}

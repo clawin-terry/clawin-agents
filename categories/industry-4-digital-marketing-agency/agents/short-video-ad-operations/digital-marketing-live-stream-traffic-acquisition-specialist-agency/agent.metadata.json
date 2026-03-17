@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-live-stream-traffic-acquisition-specialist-agency",
+  "version": "0.1.0",
+  "title": "Live Stream Traffic Acquisition Specialist (Agency)",
+  "summary": "Drives live-stream traffic acquisition so agency teams can connect advertising spend with stronger audience inflow to live commerce or event sessions.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "short-video-ad-operations"
+  },
+  "discovery": {
+    "tags": [
+      "live",
+      "stream",
+      "traffic",
+      "acquisition",
+      "short",
+      "video",
+      "ad",
+      "operations"
+    ],
+    "domains": [
+      "short",
+      "video"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "live",
+      "stream",
+      "traffic",
+      "acquisition"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "live-stream",
+      "ad-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/short-video-ad-operations/digital-marketing-live-stream-traffic-acquisition-specialist-agency"
+  }
+}

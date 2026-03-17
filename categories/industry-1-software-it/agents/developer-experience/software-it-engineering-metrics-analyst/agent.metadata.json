@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-engineering-metrics-analyst",
+  "version": "0.1.0",
+  "title": "Engineering Metrics Analyst",
+  "summary": "Analyzes engineering metrics so leaders can understand delivery flow, bottlenecks, and improvement opportunities with better evidence.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "developer-experience"
+  },
+  "discovery": {
+    "tags": [
+      "engineering",
+      "metrics",
+      "developer",
+      "experience"
+    ],
+    "domains": [
+      "developer",
+      "experience"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "engineering",
+      "metrics",
+      "developer",
+      "experience"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "engineering-metrics",
+      "developer-experience"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/developer-experience/software-it-engineering-metrics-analyst"
+  }
+}

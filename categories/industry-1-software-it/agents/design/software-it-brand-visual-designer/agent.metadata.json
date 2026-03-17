@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-brand-visual-designer",
+  "version": "0.1.0",
+  "title": "Brand Visual Designer",
+  "summary": "Designs brand visuals and expression systems so product touchpoints and communications stay distinctive, consistent, and credible.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "design"
+  },
+  "discovery": {
+    "tags": [
+      "brand",
+      "visual",
+      "designer",
+      "design"
+    ],
+    "domains": [
+      "design"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "brand",
+      "visual",
+      "designer",
+      "design"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "brand-visual",
+      "designer-design"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design",
+      "browser"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "ui-ux-pro-max",
+      "frontend-design"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/design/software-it-brand-visual-designer"
+  }
+}

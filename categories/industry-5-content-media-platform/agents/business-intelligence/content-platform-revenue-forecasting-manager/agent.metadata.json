@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-revenue-forecasting-manager",
+  "version": "0.1.0",
+  "title": "Revenue Forecasting Manager",
+  "summary": "Builds revenue forecasting models so commercialization teams can plan inventory, targets, and investment decisions with stronger financial visibility.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "business-intelligence"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "revenue",
+      "forecasting",
+      "business",
+      "intelligence"
+    ],
+    "domains": [
+      "business",
+      "intelligence"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "revenue",
+      "forecasting"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "business-intelligence"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/business-intelligence/content-platform-revenue-forecasting-manager"
+  }
+}

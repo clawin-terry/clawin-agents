@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "financial-research-competitive-landscape-analyst",
+    "roleTitle":  "Competitive Landscape Analyst",
+    "personaSummary":  "Maps competitor positioning, strategic moves, pricing behavior, product differentiation, and share-shift drivers within a target market.",
+    "industryId":  "industry-6-financial-research",
+    "roleFamilyKey":  "sector-thematic-research",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/financial-research-competitive-landscape-analyst",
+                    "workspace":  "~/.openclaw/agents/financial-research-competitive-landscape-analyst/workspace",
+                    "agentDir":  "~/.openclaw/agents/financial-research-competitive-landscape-analyst/agent",
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
+                }
+}

@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-data-quality-and-lineage-engineer",
+  "version": "0.1.0",
+  "title": "Data Quality and Lineage Engineer",
+  "summary": "Builds data quality and lineage capabilities so platform datasets remain trustworthy, traceable, and easier to govern across analytics workflows.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "data-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "data",
+      "quality",
+      "and",
+      "lineage",
+      "engineering"
+    ],
+    "domains": [
+      "data",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "data",
+      "quality"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "lineage-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/data-engineering/content-platform-data-quality-and-lineage-engineer"
+  }
+}

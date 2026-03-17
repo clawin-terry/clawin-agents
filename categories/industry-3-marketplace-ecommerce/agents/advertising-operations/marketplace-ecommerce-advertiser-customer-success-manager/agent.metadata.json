@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-advertiser-customer-success-manager",
+  "version": "0.1.0",
+  "title": "Advertiser Customer Success Manager",
+  "summary": "Owns advertiser customer success so marketplace ad clients onboard smoothly, realize value, and expand through strong ongoing support.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "advertising-operations"
+  },
+  "discovery": {
+    "tags": [
+      "advertiser",
+      "customer",
+      "success",
+      "advertising",
+      "operations"
+    ],
+    "domains": [
+      "advertising",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "advertiser",
+      "customer",
+      "success",
+      "advertising"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "advertiser-customer",
+      "advertising-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/advertising-operations/marketplace-ecommerce-advertiser-customer-success-manager"
+  }
+}

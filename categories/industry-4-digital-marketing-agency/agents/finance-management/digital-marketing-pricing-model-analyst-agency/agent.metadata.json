@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-pricing-model-analyst-agency",
+  "version": "0.1.0",
+  "title": "Pricing Model Analyst",
+  "summary": "Builds and evaluates pricing models so agency proposals, service packaging, and margin assumptions remain commercially sound and easier to defend.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "finance-management"
+  },
+  "discovery": {
+    "tags": [
+      "pricing",
+      "model",
+      "finance",
+      "management"
+    ],
+    "domains": [
+      "finance",
+      "management"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "pricing",
+      "model",
+      "finance",
+      "management"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "pricing-model",
+      "finance-management"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/finance-management/digital-marketing-pricing-model-analyst-agency"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-instructional-designer",
+  "version": "0.1.0",
+  "title": "Instructional Designer",
+  "summary": "Designs learning content and curricula so training programs are structured clearly, engaging, and aligned with measurable outcomes.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "learning-development"
+  },
+  "discovery": {
+    "tags": [
+      "instructional",
+      "designer",
+      "learning",
+      "development"
+    ],
+    "domains": [
+      "learning",
+      "development"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "instructional",
+      "designer",
+      "learning",
+      "development"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "instructional-designer",
+      "learning-development"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/learning-development/software-it-instructional-designer"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-creator-guidelines-communications-manager-platform",
+  "version": "0.1.0",
+  "title": "Creator Guidelines Communications Manager (Platform)",
+  "summary": "Communicates creator standards and guidelines so policy expectations are easier to understand, adopt, and reinforce through creator education programs.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "creator-education-enablement"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "creator",
+      "guidelines",
+      "communications",
+      "education",
+      "enablement"
+    ],
+    "domains": [
+      "creator",
+      "education"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "creator",
+      "guidelines"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "education-enablement"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/creator-education-enablement/content-platform-creator-guidelines-communications-manager-platform"
+  }
+}

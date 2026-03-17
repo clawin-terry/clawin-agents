@@ -16,7 +16,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-motion-designer",
                     "workspace":  "~/.openclaw/agents/content-platform-motion-designer/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-motion-designer/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-motion-designer.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-motion-designer.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

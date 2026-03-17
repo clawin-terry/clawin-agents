@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-sla-ola-management-specialist",
+  "version": "0.1.0",
+  "title": "SLA and OLA Management Specialist",
+  "summary": "Runs SLA and OLA management so service commitments, measurement, and accountability remain visible and enforceable across support operations.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "service-management"
+  },
+  "discovery": {
+    "tags": [
+      "sla",
+      "ola",
+      "management",
+      "and",
+      "service"
+    ],
+    "domains": [
+      "service",
+      "management"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "sla",
+      "ola",
+      "management",
+      "service"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "sla-ola",
+      "management-service"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/service-management/software-it-sla-ola-management-specialist"
+  }
+}

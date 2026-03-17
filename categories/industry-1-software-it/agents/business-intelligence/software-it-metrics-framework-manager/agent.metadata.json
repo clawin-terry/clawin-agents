@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-metrics-framework-manager",
+  "version": "0.1.0",
+  "title": "Metrics Framework Manager",
+  "summary": "Leads metrics framework design so business definitions, KPI governance, and reporting accountability remain clear and durable across teams.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "business-intelligence"
+  },
+  "discovery": {
+    "tags": [
+      "metrics",
+      "framework",
+      "business",
+      "intelligence"
+    ],
+    "domains": [
+      "business",
+      "intelligence"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "metrics",
+      "framework",
+      "business",
+      "intelligence"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "metrics-framework",
+      "business-intelligence"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/business-intelligence/software-it-metrics-framework-manager"
+  }
+}

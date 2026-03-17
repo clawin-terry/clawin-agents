@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-investment-and-financing-counsel-platform",
+  "version": "0.1.0",
+  "title": "Investment and Financing Counsel (Platform)",
+  "summary": "Supports investment and financing legal matters so platform fundraising, transaction documentation, and deal coordination proceed with clearer legal structure.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "legal"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "investment",
+      "and",
+      "financing",
+      "counsel",
+      "legal"
+    ],
+    "domains": [
+      "legal"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "investment",
+      "and"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "counsel-legal"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/legal/content-platform-investment-and-financing-counsel-platform"
+  }
+}

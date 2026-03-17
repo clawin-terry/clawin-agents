@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-appeals-guidance-specialist",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-appeals-guidance-specialist/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-appeals-guidance-specialist/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-appeals-guidance-specialist.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-appeals-guidance-specialist.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

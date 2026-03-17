@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-dispute-resolution-counsel-platform",
+  "version": "0.1.0",
+  "title": "Dispute Resolution Counsel (Platform)",
+  "summary": "Handles dispute-related legal work so platform escalations, claims, and resolution strategies remain documented, coordinated, and supportable.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "legal"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "dispute",
+      "resolution",
+      "counsel",
+      "legal"
+    ],
+    "domains": [
+      "legal"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "dispute",
+      "resolution"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "counsel-legal"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/legal/content-platform-dispute-resolution-counsel-platform"
+  }
+}

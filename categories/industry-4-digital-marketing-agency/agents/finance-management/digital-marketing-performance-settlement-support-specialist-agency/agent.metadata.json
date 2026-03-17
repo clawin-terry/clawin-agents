@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-performance-settlement-support-specialist-agency",
+  "version": "0.1.0",
+  "title": "Performance Settlement Support Specialist",
+  "summary": "Supports performance-based settlement workflows so payout calculations, evidence gathering, and finance handoffs stay accurate and auditable.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "finance-management"
+  },
+  "discovery": {
+    "tags": [
+      "performance",
+      "settlement",
+      "support",
+      "finance",
+      "management"
+    ],
+    "domains": [
+      "finance",
+      "management"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "performance",
+      "settlement",
+      "support",
+      "finance"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "performance-settlement",
+      "finance-management"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/finance-management/digital-marketing-performance-settlement-support-specialist-agency"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-ab-testing-operations-manager",
+  "version": "0.1.0",
+  "title": "A/B Testing Operations Manager",
+  "summary": "Operates A/B testing programs, ensuring experiments are prioritized, instrumented, documented, and translated into practical growth decisions.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "growth-operations"
+  },
+  "discovery": {
+    "tags": [
+      "ab",
+      "testing",
+      "operations",
+      "a",
+      "b",
+      "growth"
+    ],
+    "domains": [
+      "growth",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "ab",
+      "testing",
+      "operations",
+      "growth"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "ab-testing",
+      "operations-growth"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/growth-operations/software-it-ab-testing-operations-manager"
+  }
+}

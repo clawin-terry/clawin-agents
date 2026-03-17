@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-technical-evangelist",
                     "workspace":  "~/.openclaw/agents/software-it-technical-evangelist/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-technical-evangelist/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-technical-evangelist.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-technical-evangelist.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

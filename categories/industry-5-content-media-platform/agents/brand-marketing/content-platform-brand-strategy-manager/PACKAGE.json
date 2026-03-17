@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-brand-strategy-manager",
                     "workspace":  "~/.openclaw/agents/content-platform-brand-strategy-manager/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-brand-strategy-manager/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-brand-strategy-manager.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-brand-strategy-manager.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

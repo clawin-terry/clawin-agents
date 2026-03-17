@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-employer-brand-manager-marketplace",
+  "version": "0.1.0",
+  "title": "Employer Brand Manager (Marketplace)",
+  "summary": "Leads employer-brand work so the marketplace organization attracts talent with clearer positioning, stronger storytelling, and consistent candidate messaging.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "talent-acquisition"
+  },
+  "discovery": {
+    "tags": [
+      "employer",
+      "brand",
+      "talent",
+      "acquisition"
+    ],
+    "domains": [
+      "talent",
+      "acquisition"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "employer",
+      "brand",
+      "talent",
+      "acquisition"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "employer-brand",
+      "talent-acquisition"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/talent-acquisition/marketplace-ecommerce-employer-brand-manager-marketplace"
+  }
+}

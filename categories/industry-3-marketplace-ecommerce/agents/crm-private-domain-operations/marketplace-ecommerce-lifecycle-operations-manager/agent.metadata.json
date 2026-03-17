@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-lifecycle-operations-manager",
+  "version": "0.1.0",
+  "title": "Lifecycle Operations Manager",
+  "summary": "Runs lifecycle operations so marketplace users receive stage-appropriate engagement, incentives, and follow-through across the user journey.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "crm-private-domain-operations"
+  },
+  "discovery": {
+    "tags": [
+      "lifecycle",
+      "operations",
+      "crm",
+      "private",
+      "domain"
+    ],
+    "domains": [
+      "crm",
+      "private"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "lifecycle",
+      "operations",
+      "crm",
+      "private"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "lifecycle-operations",
+      "private-domain"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/crm-private-domain-operations/marketplace-ecommerce-lifecycle-operations-manager"
+  }
+}

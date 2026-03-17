@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-investor-relations-manager",
+  "version": "0.1.0",
+  "title": "Investor Relations Manager",
+  "summary": "Leads investor relations communication so external stakeholders receive clear, consistent, and well-supported updates about company performance and direction.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "governance-secretariat"
+  },
+  "discovery": {
+    "tags": [
+      "investor",
+      "relations",
+      "governance",
+      "secretariat"
+    ],
+    "domains": [
+      "governance",
+      "secretariat"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "investor",
+      "relations",
+      "governance",
+      "secretariat"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "investor-relations",
+      "governance-secretariat"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/governance-secretariat/software-it-investor-relations-manager"
+  }
+}

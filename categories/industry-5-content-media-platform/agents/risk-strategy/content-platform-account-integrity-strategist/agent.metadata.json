@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-account-integrity-strategist",
+  "version": "0.1.0",
+  "title": "Account Integrity Strategist",
+  "summary": "Shapes account-integrity strategy so abusive account behavior can be detected earlier, scored more accurately, and controlled with stronger enforcement logic.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "risk-strategy"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "account",
+      "integrity",
+      "strategist",
+      "risk",
+      "strategy"
+    ],
+    "domains": [
+      "risk",
+      "strategy"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "account",
+      "integrity"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "content-platform",
+      "risk-strategy"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/risk-strategy/content-platform-account-integrity-strategist"
+  }
+}

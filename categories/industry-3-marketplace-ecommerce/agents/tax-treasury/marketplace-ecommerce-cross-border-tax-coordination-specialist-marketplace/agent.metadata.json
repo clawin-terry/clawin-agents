@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-cross-border-tax-coordination-specialist-marketplace",
+  "version": "0.1.0",
+  "title": "Cross-Border Tax Coordination Specialist (Marketplace)",
+  "summary": "Coordinates cross-border tax work so marketplace international expansion, settlement flows, and compliance handoffs remain aligned and supportable.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "tax-treasury"
+  },
+  "discovery": {
+    "tags": [
+      "cross",
+      "border",
+      "tax",
+      "coordination",
+      "treasury"
+    ],
+    "domains": [
+      "tax",
+      "treasury"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "cross",
+      "border",
+      "tax",
+      "coordination"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "cross-border",
+      "coordination-treasury"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/tax-treasury/marketplace-ecommerce-cross-border-tax-coordination-specialist-marketplace"
+  }
+}

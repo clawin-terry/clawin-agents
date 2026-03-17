@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-it-internal-control-manager",
+  "version": "0.1.0",
+  "title": "IT Internal Control Manager",
+  "summary": "Leads IT internal control programs so technology processes, evidence trails, and control ownership stay audit-ready and aligned with governance requirements.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "it-internal-control"
+  },
+  "discovery": {
+    "tags": [
+      "internal",
+      "control"
+    ],
+    "domains": [
+      "internal",
+      "control"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "internal",
+      "control"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "internal-control"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/it-internal-control/software-it-it-internal-control-manager"
+  }
+}

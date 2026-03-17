@@ -1,0 +1,66 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-audience-and-creative-performance-prediction-specialist-python",
+  "version": "0.1.0",
+  "title": "Audience and Creative Performance Prediction Specialist (Python)",
+  "summary": "Builds prediction models with Python so audience targeting and creative selection decisions can be informed by stronger performance expectations.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "data-science"
+  },
+  "discovery": {
+    "tags": [
+      "audience",
+      "and",
+      "creative",
+      "performance",
+      "prediction",
+      "python",
+      "data",
+      "science"
+    ],
+    "domains": [
+      "data",
+      "science"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "audience",
+      "and",
+      "creative",
+      "performance"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "audience-and",
+      "data-science"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/data-science/digital-marketing-audience-and-creative-performance-prediction-specialist-python"
+  }
+}

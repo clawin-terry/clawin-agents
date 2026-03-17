@@ -1,0 +1,66 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-real-time-computing-engineer-java",
+  "version": "0.1.0",
+  "title": "Real-Time Computing Engineer (Java)",
+  "summary": "Builds Java real-time computing systems so streaming content, user, and platform events can be processed reliably at production scale.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "data-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "real",
+      "time",
+      "computing",
+      "java",
+      "data",
+      "engineering"
+    ],
+    "domains": [
+      "data",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "real",
+      "time"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "data-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/data-engineering/content-platform-real-time-computing-engineer-java"
+  }
+}

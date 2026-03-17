@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-livestream-compliance-coordinator-platform",
+  "version": "0.1.0",
+  "title": "Livestream Compliance Coordinator (Platform)",
+  "summary": "Coordinates livestream compliance so trust-and-safety, policy, and business teams stay aligned on high-risk live-content handling.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "livestream-review-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "livestream",
+      "compliance",
+      "review",
+      "operations"
+    ],
+    "domains": [
+      "livestream",
+      "review"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "livestream",
+      "compliance"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "review-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/livestream-review-operations/content-platform-livestream-compliance-coordinator-platform"
+  }
+}

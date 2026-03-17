@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-search-engine-ads-specialist-360-sogou-agency",
+  "version": "0.1.0",
+  "title": "360 and Sogou Search Ads Specialist (Agency)",
+  "summary": "Operates 360 and Sogou search ads so agency teams can extend search coverage while maintaining consistent account execution and optimization.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "paid-search-operations"
+  },
+  "discovery": {
+    "tags": [
+      "search",
+      "engine",
+      "ads",
+      "sogou",
+      "and",
+      "paid",
+      "operations"
+    ],
+    "domains": [
+      "paid",
+      "search"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "search",
+      "engine",
+      "ads",
+      "sogou"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "search-engine",
+      "paid-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/paid-search-operations/digital-marketing-search-engine-ads-specialist-360-sogou-agency"
+  }
+}

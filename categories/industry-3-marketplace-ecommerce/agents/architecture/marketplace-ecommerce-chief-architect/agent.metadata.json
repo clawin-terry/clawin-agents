@@ -1,0 +1,56 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-chief-architect",
+  "version": "0.1.0",
+  "title": "Chief Architect",
+  "summary": "Leads platform architecture direction so the marketplace technology stack evolves with clear technical principles, scalable design, and long-term execution discipline.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "architecture"
+  },
+  "discovery": {
+    "tags": [
+      "chief",
+      "architect",
+      "architecture"
+    ],
+    "domains": [
+      "architecture"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "chief",
+      "architect",
+      "architecture"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "chief-architect",
+      "architect-architecture"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/architecture/marketplace-ecommerce-chief-architect"
+  }
+}

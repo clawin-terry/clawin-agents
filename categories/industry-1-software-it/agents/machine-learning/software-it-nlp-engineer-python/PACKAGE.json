@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-nlp-engineer-python",
                     "workspace":  "~/.openclaw/agents/software-it-nlp-engineer-python/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-nlp-engineer-python/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-nlp-engineer-python.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-nlp-engineer-python.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

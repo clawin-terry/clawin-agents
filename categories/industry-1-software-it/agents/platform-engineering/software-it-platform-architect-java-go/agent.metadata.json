@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-platform-architect-java-go",
+  "version": "0.1.0",
+  "title": "Platform Architect (Java/Go)",
+  "summary": "Designs platform architecture foundations, shared engineering capabilities, and scalable service patterns with Java and Go.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "platform-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "platform",
+      "architect",
+      "java",
+      "go",
+      "engineering"
+    ],
+    "domains": [
+      "platform",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "platform",
+      "architect",
+      "java",
+      "go"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "platform-architect",
+      "go-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "healthcheck"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/platform-engineering/software-it-platform-architect-java-go"
+  }
+}

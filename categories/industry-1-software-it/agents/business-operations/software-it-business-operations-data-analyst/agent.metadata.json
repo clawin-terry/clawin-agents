@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-business-operations-data-analyst",
+  "version": "0.1.0",
+  "title": "Business Operations Data Analyst",
+  "summary": "Analyzes operating data to surface trends, issues, and practical insights that improve planning and execution quality.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "business-operations"
+  },
+  "discovery": {
+    "tags": [
+      "business",
+      "operations",
+      "data"
+    ],
+    "domains": [
+      "business",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "business",
+      "operations",
+      "data"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "business-operations",
+      "operations-data"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/business-operations/software-it-business-operations-data-analyst"
+  }
+}

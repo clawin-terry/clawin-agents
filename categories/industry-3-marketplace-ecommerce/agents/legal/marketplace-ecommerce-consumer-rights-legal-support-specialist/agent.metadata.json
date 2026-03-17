@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-consumer-rights-legal-support-specialist",
+  "version": "0.1.0",
+  "title": "Consumer Rights Legal Support Specialist",
+  "summary": "Supports consumer-rights legal matters so marketplace buyer protections, complaint handling, and policy interpretation stay aligned with regulatory expectations.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "legal"
+  },
+  "discovery": {
+    "tags": [
+      "consumer",
+      "rights",
+      "legal",
+      "support"
+    ],
+    "domains": [
+      "legal"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "consumer",
+      "rights",
+      "legal",
+      "support"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "consumer-rights",
+      "legal-support"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/legal/marketplace-ecommerce-consumer-rights-legal-support-specialist"
+  }
+}

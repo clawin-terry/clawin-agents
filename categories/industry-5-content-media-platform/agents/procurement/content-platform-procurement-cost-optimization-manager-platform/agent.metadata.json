@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-procurement-cost-optimization-manager-platform",
+  "version": "0.1.0",
+  "title": "Procurement Cost Optimization Manager (Platform)",
+  "summary": "Drives procurement cost optimization so spend categories, negotiation levers, and buying patterns produce stronger value without weakening service reliability.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "procurement"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "procurement",
+      "cost",
+      "optimization"
+    ],
+    "domains": [
+      "procurement"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "procurement",
+      "cost"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "cost-optimization"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/procurement/content-platform-procurement-cost-optimization-manager-platform"
+  }
+}

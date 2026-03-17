@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-order-operations-specialist",
+  "version": "0.1.0",
+  "title": "Order Operations Specialist",
+  "summary": "Runs order operations so booking accuracy, internal handoffs, and execution readiness remain reliable across commercial workflows.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "commercial-support"
+  },
+  "discovery": {
+    "tags": [
+      "order",
+      "operations",
+      "commercial",
+      "support"
+    ],
+    "domains": [
+      "commercial",
+      "support"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "order",
+      "operations",
+      "commercial",
+      "support"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "order-operations",
+      "commercial-support"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/commercial-support/software-it-order-operations-specialist"
+  }
+}

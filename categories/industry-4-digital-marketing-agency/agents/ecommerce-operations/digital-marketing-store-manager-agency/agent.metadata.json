@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-store-manager-agency",
+  "version": "0.1.0",
+  "title": "Store Manager (Agency)",
+  "summary": "Manages store execution so agency-operated ecommerce accounts can maintain trading rhythm, storefront quality, and daily performance discipline.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "ecommerce-operations"
+  },
+  "discovery": {
+    "tags": [
+      "store",
+      "operations"
+    ],
+    "domains": [
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "store",
+      "operations"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "store-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/ecommerce-operations/digital-marketing-store-manager-agency"
+  }
+}

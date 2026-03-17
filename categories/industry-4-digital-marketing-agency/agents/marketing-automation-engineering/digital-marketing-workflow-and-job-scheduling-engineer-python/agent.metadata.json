@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-workflow-and-job-scheduling-engineer-python",
+  "version": "0.1.0",
+  "title": "Workflow and Job Scheduling Engineer (Python)",
+  "summary": "Builds workflow orchestration and scheduled jobs with Python so message delivery, trigger logic, and automation pipelines run dependably.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "marketing-automation-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "workflow",
+      "and",
+      "job",
+      "scheduling",
+      "python",
+      "automation",
+      "engineering"
+    ],
+    "domains": [
+      "automation",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "workflow",
+      "and",
+      "job",
+      "scheduling"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "workflow-and",
+      "automation-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/marketing-automation-engineering/digital-marketing-workflow-and-job-scheduling-engineer-python"
+  }
+}

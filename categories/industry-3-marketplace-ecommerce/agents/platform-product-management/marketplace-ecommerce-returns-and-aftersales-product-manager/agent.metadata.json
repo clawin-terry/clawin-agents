@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-returns-and-aftersales-product-manager",
+  "version": "0.1.0",
+  "title": "Returns and Aftersales Product Manager",
+  "summary": "Owns returns and aftersales product experiences so refund, exchange, and support workflows stay clear, fair, and operationally efficient.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "platform-product-management"
+  },
+  "discovery": {
+    "tags": [
+      "returns",
+      "and",
+      "aftersales",
+      "product",
+      "platform",
+      "management"
+    ],
+    "domains": [
+      "platform",
+      "product"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "returns",
+      "and",
+      "aftersales",
+      "product"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "returns-and",
+      "platform-management"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/platform-product-management/marketplace-ecommerce-returns-and-aftersales-product-manager"
+  }
+}

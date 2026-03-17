@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-content-support-strategy-manager-platform",
+  "version": "0.1.0",
+  "title": "Content Support Strategy Manager (Platform)",
+  "summary": "Shapes content support strategy so promising creators receive timely support, stronger momentum, and better alignment with platform supply goals.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "creator-growth-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "support",
+      "strategy",
+      "creator",
+      "growth",
+      "operations"
+    ],
+    "domains": [
+      "creator",
+      "growth"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "support",
+      "strategy"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "content-platform",
+      "growth-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/creator-growth-operations/content-platform-content-support-strategy-manager-platform"
+  }
+}

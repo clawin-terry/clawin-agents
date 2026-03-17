@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-technical-content-writer",
+  "version": "0.1.0",
+  "title": "Technical Content Writer",
+  "summary": "Creates technical content that helps developers understand product capabilities, implementation patterns, and practical usage guidance.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "ecosystem-operations"
+  },
+  "discovery": {
+    "tags": [
+      "technical",
+      "content",
+      "writer",
+      "ecosystem",
+      "operations"
+    ],
+    "domains": [
+      "ecosystem",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "technical",
+      "content",
+      "writer",
+      "ecosystem"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "technical-content",
+      "ecosystem-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/ecosystem-operations/software-it-technical-content-writer"
+  }
+}

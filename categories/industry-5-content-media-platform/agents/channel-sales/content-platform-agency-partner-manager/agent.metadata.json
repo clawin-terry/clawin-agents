@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-agency-partner-manager",
+  "version": "0.1.0",
+  "title": "Agency Partner Manager",
+  "summary": "Manages agency partners so indirect sales channels stay productive, aligned, and well supported across advertiser portfolios.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "channel-sales"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "partner",
+      "channel",
+      "sales"
+    ],
+    "domains": [
+      "channel",
+      "sales"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "partner",
+      "channel"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "channel-sales"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/channel-sales/content-platform-agency-partner-manager"
+  }
+}

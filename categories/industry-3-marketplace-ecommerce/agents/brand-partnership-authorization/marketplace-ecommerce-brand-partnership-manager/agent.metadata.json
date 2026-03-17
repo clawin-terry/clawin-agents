@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-brand-partnership-manager",
+  "version": "0.1.0",
+  "title": "Brand Partnership Manager",
+  "summary": "Builds brand partnerships so the marketplace can expand trusted supply, strengthen assortment quality, and deepen strategic brand relationships.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "brand-partnership-authorization"
+  },
+  "discovery": {
+    "tags": [
+      "brand",
+      "partnership",
+      "authorization"
+    ],
+    "domains": [
+      "brand",
+      "partnership"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "brand",
+      "partnership",
+      "authorization"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "brand-partnership",
+      "partnership-authorization"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/brand-partnership-authorization/marketplace-ecommerce-brand-partnership-manager"
+  }
+}

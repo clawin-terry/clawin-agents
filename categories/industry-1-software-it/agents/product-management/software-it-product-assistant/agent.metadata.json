@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-product-assistant",
+  "version": "0.1.0",
+  "title": "Product Assistant",
+  "summary": "Supports product managers with coordination, documentation, and follow-through so product work stays organized and execution details do not slip.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "product-management"
+  },
+  "discovery": {
+    "tags": [
+      "product",
+      "management"
+    ],
+    "domains": [
+      "product",
+      "management"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "product",
+      "management"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "product-management"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/product-management/software-it-product-assistant"
+  }
+}

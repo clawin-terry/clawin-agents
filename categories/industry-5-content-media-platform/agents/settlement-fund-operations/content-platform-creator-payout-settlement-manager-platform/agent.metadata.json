@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-creator-payout-settlement-manager-platform",
+  "version": "0.1.0",
+  "title": "Creator Payout Settlement Manager (Platform)",
+  "summary": "Runs creator, MCN, and livestreamer revenue share settlement so payouts, reconciliations, and partner trust remain reliable at platform scale.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "settlement-fund-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "creator",
+      "payout",
+      "settlement",
+      "fund",
+      "operations"
+    ],
+    "domains": [
+      "settlement",
+      "fund"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "creator",
+      "payout"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "fund-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/settlement-fund-operations/content-platform-creator-payout-settlement-manager-platform"
+  }
+}

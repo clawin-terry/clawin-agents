@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-platform-partnership-business-development-manager",
+  "version": "0.1.0",
+  "title": "Platform Partnership Business Development Manager",
+  "summary": "Builds marketplace supply through platform partnerships, business development outreach, and commercially grounded negotiation.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "merchant-acquisition-sales"
+  },
+  "discovery": {
+    "tags": [
+      "platform",
+      "partnership",
+      "business",
+      "development",
+      "merchant",
+      "acquisition",
+      "sales"
+    ],
+    "domains": [
+      "merchant",
+      "acquisition"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "platform",
+      "partnership",
+      "business",
+      "development"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "platform-partnership",
+      "acquisition-sales"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/merchant-acquisition-sales/marketplace-ecommerce-platform-partnership-business-development-manager"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-ab-experimentation-platform-manager",
+  "version": "0.1.0",
+  "title": "A/B Experimentation Platform Manager",
+  "summary": "Owns the experimentation platform so teams can launch, monitor, and learn from A/B tests with stronger rigor and operational consistency.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "business-intelligence"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "ab",
+      "experimentation",
+      "a",
+      "b",
+      "business",
+      "intelligence"
+    ],
+    "domains": [
+      "business",
+      "intelligence"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "ab",
+      "experimentation"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "business-intelligence"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/business-intelligence/content-platform-ab-experimentation-platform-manager"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-project-management-training-instructor",
+  "version": "0.1.0",
+  "title": "Project Management Training Instructor",
+  "summary": "Delivers project management training so teams build shared methods, better execution habits, and more consistent management capability across the organization.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "methodology-process"
+  },
+  "discovery": {
+    "tags": [
+      "project",
+      "management",
+      "training",
+      "instructor",
+      "methodology",
+      "process"
+    ],
+    "domains": [
+      "methodology",
+      "process"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "project",
+      "management",
+      "training",
+      "instructor"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "project-management",
+      "methodology-process"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/methodology-process/software-it-project-management-training-instructor"
+  }
+}

@@ -16,7 +16,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-service-governance-engineer-go-java",
                     "workspace":  "~/.openclaw/agents/software-it-service-governance-engineer-go-java/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-service-governance-engineer-go-java/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-service-governance-engineer-go-java.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-service-governance-engineer-go-java.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

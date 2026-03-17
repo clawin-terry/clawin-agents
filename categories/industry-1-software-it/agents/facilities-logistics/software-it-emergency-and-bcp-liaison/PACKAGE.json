@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-emergency-and-bcp-liaison",
                     "workspace":  "~/.openclaw/agents/software-it-emergency-and-bcp-liaison/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-emergency-and-bcp-liaison/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-emergency-and-bcp-liaison.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-emergency-and-bcp-liaison.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

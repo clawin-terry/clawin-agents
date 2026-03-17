@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-marketplace-funds-manager",
+  "version": "0.1.0",
+  "title": "Marketplace Funds Manager",
+  "summary": "Leads marketplace funds management so liquidity, payment timing, and cash visibility stay aligned with operational and control requirements.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "tax-treasury"
+  },
+  "discovery": {
+    "tags": [
+      "funds",
+      "tax",
+      "treasury"
+    ],
+    "domains": [
+      "tax",
+      "treasury"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "funds",
+      "tax",
+      "treasury"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "funds-tax",
+      "tax-treasury"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/tax-treasury/marketplace-ecommerce-marketplace-funds-manager"
+  }
+}

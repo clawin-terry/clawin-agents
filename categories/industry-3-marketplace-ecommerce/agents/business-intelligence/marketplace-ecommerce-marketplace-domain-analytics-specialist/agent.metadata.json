@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-marketplace-domain-analytics-specialist",
+  "version": "0.1.0",
+  "title": "Marketplace Domain Analytics Specialist",
+  "summary": "Delivers deep-dive analysis across supply, transactions, fulfillment, content, and advertising so marketplace teams can act on domain-specific insight.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "business-intelligence"
+  },
+  "discovery": {
+    "tags": [
+      "domain",
+      "analytics",
+      "business",
+      "intelligence"
+    ],
+    "domains": [
+      "business",
+      "intelligence"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "domain",
+      "analytics",
+      "business",
+      "intelligence"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "domain-analytics",
+      "business-intelligence"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/business-intelligence/marketplace-ecommerce-marketplace-domain-analytics-specialist"
+  }
+}

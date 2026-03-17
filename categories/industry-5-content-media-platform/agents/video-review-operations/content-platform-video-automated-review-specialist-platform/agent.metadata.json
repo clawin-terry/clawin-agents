@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-video-automated-review-specialist-platform",
+  "version": "0.1.0",
+  "title": "Video Automated Review Specialist (Platform)",
+  "summary": "Reviews machine-flagged video decisions so automated moderation outcomes are checked, corrected, and improved with stronger human oversight.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "video-review-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "video",
+      "automated",
+      "review",
+      "operations"
+    ],
+    "domains": [
+      "video",
+      "review"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "video",
+      "automated"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "review-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/video-review-operations/content-platform-video-automated-review-specialist-platform"
+  }
+}

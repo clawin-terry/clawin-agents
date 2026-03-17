@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-infringement-response-coordinator-platform",
+  "version": "0.1.0",
+  "title": "Infringement Response Coordinator (Platform)",
+  "summary": "Coordinates infringement leads so suspected violations are routed, tracked, and followed through across rights, legal, and platform enforcement workflows.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "content-rights-and-partnerships"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "infringement",
+      "response",
+      "rights",
+      "and",
+      "partnerships"
+    ],
+    "domains": [
+      "content",
+      "rights"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "infringement",
+      "response"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "and-partnerships"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/content-rights-and-partnerships/content-platform-infringement-response-coordinator-platform"
+  }
+}

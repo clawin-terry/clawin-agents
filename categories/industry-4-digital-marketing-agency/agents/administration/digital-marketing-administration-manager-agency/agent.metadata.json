@@ -1,0 +1,52 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-administration-manager-agency",
+  "version": "0.1.0",
+  "title": "Administration Manager (Agency)",
+  "summary": "Leads agency administration so workplace services, office coordination, and daily support workflows stay orderly, responsive, and cost-aware.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "administration"
+  },
+  "discovery": {
+    "tags": [
+      "administration"
+    ],
+    "domains": [
+      "administration"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "administration"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "administration"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/administration/digital-marketing-administration-manager-agency"
+  }
+}

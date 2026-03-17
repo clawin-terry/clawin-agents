@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-internal-control-process-manager-platform",
+  "version": "0.1.0",
+  "title": "Internal Control Process Manager (Platform)",
+  "summary": "Designs and improves internal control processes so operational workflows, approval checkpoints, and evidence routines remain consistent across the platform organization.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "process-internal-control"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "internal",
+      "control",
+      "process"
+    ],
+    "domains": [
+      "process",
+      "internal"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "internal",
+      "control"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "control-process"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/process-internal-control/content-platform-internal-control-process-manager-platform"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-human-resources-director-manager-agency",
+  "version": "0.1.0",
+  "title": "Human Resources Director / Manager (Agency)",
+  "summary": "Leads agency people operations and recruiting direction so workforce plans, team policies, and hiring execution stay aligned with business growth.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "talent-acquisition"
+  },
+  "discovery": {
+    "tags": [
+      "human",
+      "resources",
+      "talent",
+      "acquisition"
+    ],
+    "domains": [
+      "talent",
+      "acquisition"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "human",
+      "resources",
+      "talent",
+      "acquisition"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "human-resources",
+      "talent-acquisition"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/talent-acquisition/digital-marketing-human-resources-director-manager-agency"
+  }
+}

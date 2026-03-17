@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-database-support-engineer-sql",
+  "version": "0.1.0",
+  "title": "Database Support Engineer (SQL)",
+  "summary": "Supports database-related incidents with strong SQL discipline, improving issue triage, data correctness checks, and recovery coordination.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "technical-support"
+  },
+  "discovery": {
+    "tags": [
+      "database",
+      "support",
+      "sql",
+      "technical"
+    ],
+    "domains": [
+      "technical",
+      "support"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "database",
+      "support",
+      "sql",
+      "technical"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "database-support",
+      "sql-technical"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/technical-support/software-it-database-support-engineer-sql"
+  }
+}

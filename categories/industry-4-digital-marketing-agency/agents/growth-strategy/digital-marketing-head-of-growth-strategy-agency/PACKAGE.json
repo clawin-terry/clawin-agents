@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/digital-marketing-head-of-growth-strategy-agency",
                     "workspace":  "~/.openclaw/agents/digital-marketing-head-of-growth-strategy-agency/workspace",
                     "agentDir":  "~/.openclaw/agents/digital-marketing-head-of-growth-strategy-agency/agent",
-                    "configEntry":  "config/openclaw.agent.digital-marketing-head-of-growth-strategy-agency.entry.json",
-                    "configSnippet":  "config/openclaw.agent.digital-marketing-head-of-growth-strategy-agency.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

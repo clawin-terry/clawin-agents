@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-marketing-design-support-specialist-agency",
+  "version": "0.1.0",
+  "title": "Marketing Design Support Specialist (Agency)",
+  "summary": "Supports marketing design delivery so campaign visuals, pitch materials, and launch assets remain polished and on brand.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "market-growth"
+  },
+  "discovery": {
+    "tags": [
+      "design",
+      "support",
+      "market",
+      "growth"
+    ],
+    "domains": [
+      "market",
+      "growth"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "design",
+      "support",
+      "market",
+      "growth"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "design-support",
+      "market-growth"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/market-growth/digital-marketing-marketing-design-support-specialist-agency"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-settlement-reconciliation-operations-specialist",
+  "version": "0.1.0",
+  "title": "Settlement and Reconciliation Operations Specialist",
+  "summary": "Runs settlement and reconciliation operations to keep billing outcomes, financial records, and commercial workflows accurate and auditable.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "commercial-operations"
+  },
+  "discovery": {
+    "tags": [
+      "settlement",
+      "reconciliation",
+      "operations",
+      "and",
+      "commercial"
+    ],
+    "domains": [
+      "commercial",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "settlement",
+      "reconciliation",
+      "operations",
+      "commercial"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "settlement-reconciliation",
+      "operations-commercial"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/commercial-operations/software-it-settlement-reconciliation-operations-specialist"
+  }
+}

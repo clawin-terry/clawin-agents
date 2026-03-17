@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-intellectual-property-protection-specialist",
+  "version": "0.1.0",
+  "title": "Intellectual Property Protection Specialist",
+  "summary": "Protects marketplace intellectual property rights so infringement cases are reviewed quickly and enforcement actions stay well documented.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "content-product-compliance-governance"
+  },
+  "discovery": {
+    "tags": [
+      "intellectual",
+      "property",
+      "protection",
+      "content",
+      "product",
+      "compliance",
+      "governance"
+    ],
+    "domains": [
+      "content",
+      "product"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "intellectual",
+      "property",
+      "protection",
+      "content"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "intellectual-property",
+      "compliance-governance"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/content-product-compliance-governance/marketplace-ecommerce-intellectual-property-protection-specialist"
+  }
+}

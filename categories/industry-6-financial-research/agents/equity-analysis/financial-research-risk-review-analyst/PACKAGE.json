@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/financial-research-risk-review-analyst",
                     "workspace":  "~/.openclaw/agents/financial-research-risk-review-analyst/workspace",
                     "agentDir":  "~/.openclaw/agents/financial-research-risk-review-analyst/agent",
-                    "configEntry":  "config/openclaw.agent.financial-research-risk-review-analyst.entry.json",
-                    "configSnippet":  "config/openclaw.agent.financial-research-risk-review-analyst.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

@@ -1,0 +1,66 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-review-platform-backend-engineer-go",
+  "version": "0.1.0",
+  "title": "Review Platform Backend Engineer (Go)",
+  "summary": "Builds review-platform backend services in Go so moderation systems support higher throughput, clearer workflows, and more dependable operator tooling.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "backend-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "review",
+      "backend",
+      "go",
+      "engineering"
+    ],
+    "domains": [
+      "backend",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "review",
+      "backend"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "go-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "clawin-backend-service-engineering"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/backend-engineering/content-platform-review-platform-backend-engineer-go"
+  }
+}

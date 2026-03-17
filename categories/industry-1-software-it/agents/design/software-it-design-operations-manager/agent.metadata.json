@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-design-operations-manager",
+  "version": "0.1.0",
+  "title": "Design Operations Manager",
+  "summary": "Builds design operations and design system workflows so teams can scale quality, reuse, and execution consistency across product work.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "design"
+  },
+  "discovery": {
+    "tags": [
+      "design",
+      "operations"
+    ],
+    "domains": [
+      "design"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "design",
+      "operations"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "design-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design",
+      "browser"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "ui-ux-pro-max",
+      "frontend-design"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/design/software-it-design-operations-manager"
+  }
+}

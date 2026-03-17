@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-account-executive",
                     "workspace":  "~/.openclaw/agents/software-it-account-executive/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-account-executive/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-account-executive.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-account-executive.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

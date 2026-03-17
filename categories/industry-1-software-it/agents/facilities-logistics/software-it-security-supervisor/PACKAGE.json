@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-security-supervisor",
                     "workspace":  "~/.openclaw/agents/software-it-security-supervisor/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-security-supervisor/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-security-supervisor.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-security-supervisor.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-security-supervisor",
+  "version": "0.1.0",
+  "title": "Security Supervisor",
+  "summary": "Supervises site security operations so physical safety, guard routines, and incident response remain controlled and dependable.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "facilities-logistics"
+  },
+  "discovery": {
+    "tags": [
+      "security",
+      "supervisor",
+      "facilities",
+      "logistics"
+    ],
+    "domains": [
+      "facilities",
+      "logistics"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "security",
+      "supervisor",
+      "facilities",
+      "logistics"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "security-supervisor",
+      "facilities-logistics"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/facilities-logistics/software-it-security-supervisor"
+  }
+}

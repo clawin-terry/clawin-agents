@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-agile-coach-scrum-master",
                     "workspace":  "~/.openclaw/agents/software-it-agile-coach-scrum-master/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-agile-coach-scrum-master/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-agile-coach-scrum-master.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-agile-coach-scrum-master.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

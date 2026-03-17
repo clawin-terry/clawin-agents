@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-contract-and-collections-coordinator",
+  "version": "0.1.0",
+  "title": "Contract and Collections Coordinator",
+  "summary": "Coordinates contracts and collections so advertiser deals move through signature, billing, and payment follow-up with fewer operational gaps.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "sales-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "contract",
+      "and",
+      "collections",
+      "sales",
+      "operations"
+    ],
+    "domains": [
+      "sales",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "contract",
+      "and"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "sales-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/sales-operations/content-platform-contract-and-collections-coordinator"
+  }
+}

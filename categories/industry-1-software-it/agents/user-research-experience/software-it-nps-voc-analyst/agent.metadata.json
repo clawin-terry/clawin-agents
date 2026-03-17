@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-nps-voc-analyst",
+  "version": "0.1.0",
+  "title": "NPS and VoC Analyst",
+  "summary": "Analyzes NPS and voice-of-customer signals so teams can detect experience issues, understand sentiment trends, and prioritize meaningful improvements.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "user-research-experience"
+  },
+  "discovery": {
+    "tags": [
+      "nps",
+      "voc",
+      "and",
+      "user",
+      "research",
+      "experience"
+    ],
+    "domains": [
+      "user",
+      "research"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "nps",
+      "voc",
+      "user",
+      "research"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "nps-voc",
+      "research-experience"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "ui-ux-pro-max"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/user-research-experience/software-it-nps-voc-analyst"
+  }
+}

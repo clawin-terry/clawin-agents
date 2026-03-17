@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-ux-designer",
+  "version": "0.1.0",
+  "title": "UX Designer",
+  "summary": "Designs user journeys, interaction patterns, and information structure so products feel intuitive, efficient, and aligned with user goals.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "design"
+  },
+  "discovery": {
+    "tags": [
+      "ux",
+      "designer",
+      "design"
+    ],
+    "domains": [
+      "design"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "ux",
+      "designer",
+      "design"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "ux-designer",
+      "designer-design"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design",
+      "browser"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "ui-ux-pro-max",
+      "frontend-design"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/design/software-it-ux-designer"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-livestream-guild-operations-manager-platform",
+  "version": "0.1.0",
+  "title": "Livestream Guild Operations Manager (Platform)",
+  "summary": "Manages livestream guild operations so guild partners, creator recruitment, and live-content performance stay aligned with platform policies and growth goals.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "creator-partner-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "livestream",
+      "guild",
+      "operations",
+      "creator",
+      "partner"
+    ],
+    "domains": [
+      "creator",
+      "partner"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "livestream",
+      "guild"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "creator-partner"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/creator-partner-operations/content-platform-livestream-guild-operations-manager-platform"
+  }
+}

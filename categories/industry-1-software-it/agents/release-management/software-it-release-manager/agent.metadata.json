@@ -1,0 +1,55 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-release-manager",
+  "version": "0.1.0",
+  "title": "Release Manager",
+  "summary": "Leads release planning and execution so software changes move into production with predictable timing, clear readiness criteria, and controlled risk.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "release-management"
+  },
+  "discovery": {
+    "tags": [
+      "release",
+      "management"
+    ],
+    "domains": [
+      "release",
+      "management"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "release",
+      "management"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "release-management"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "healthcheck"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/release-management/software-it-release-manager"
+  }
+}

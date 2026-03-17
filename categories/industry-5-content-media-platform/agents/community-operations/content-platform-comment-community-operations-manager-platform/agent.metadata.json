@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-comment-community-operations-manager-platform",
+  "version": "0.1.0",
+  "title": "Comment Community Operations Manager (Platform)",
+  "summary": "Runs comment-community operations so high-volume discussion areas stay healthier, more engaging, and easier to guide toward productive interaction.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "community-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "comment",
+      "community",
+      "operations"
+    ],
+    "domains": [
+      "community",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "comment",
+      "community"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "community-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/community-operations/content-platform-comment-community-operations-manager-platform"
+  }
+}

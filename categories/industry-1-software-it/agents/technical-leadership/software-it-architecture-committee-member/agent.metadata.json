@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-architecture-committee-member",
+  "version": "0.1.0",
+  "title": "Architecture Committee Member",
+  "summary": "Participates in architecture governance so major technical decisions are reviewed consistently with shared standards, risk awareness, and cross-team alignment.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "technical-leadership"
+  },
+  "discovery": {
+    "tags": [
+      "architecture",
+      "committee",
+      "member",
+      "technical",
+      "leadership"
+    ],
+    "domains": [
+      "technical",
+      "leadership"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "architecture",
+      "committee",
+      "member",
+      "technical"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "architecture-committee",
+      "technical-leadership"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/technical-leadership/software-it-architecture-committee-member"
+  }
+}

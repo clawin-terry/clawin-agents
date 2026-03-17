@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-quality-gate-manager",
+  "version": "0.1.0",
+  "title": "Quality Gate Manager",
+  "summary": "Defines and enforces release quality gates so changes meet agreed standards for stability, risk, and production readiness.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "quality-assurance"
+  },
+  "discovery": {
+    "tags": [
+      "quality",
+      "gate",
+      "assurance"
+    ],
+    "domains": [
+      "quality",
+      "assurance"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "quality",
+      "gate",
+      "assurance"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "quality-gate",
+      "gate-assurance"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/quality-assurance/software-it-quality-gate-manager"
+  }
+}

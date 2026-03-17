@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-data-migration-engineer-python-sql",
+  "version": "0.1.0",
+  "title": "Data Migration Engineer (Python/SQL)",
+  "summary": "Builds and runs data migration workflows with Python and SQL so customer data moves accurately, safely, and with clear operational controls.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "delivery-implementation"
+  },
+  "discovery": {
+    "tags": [
+      "data",
+      "migration",
+      "python",
+      "sql",
+      "delivery",
+      "implementation"
+    ],
+    "domains": [
+      "delivery",
+      "implementation"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "data",
+      "migration",
+      "python",
+      "sql"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "data-migration",
+      "delivery-implementation"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/delivery-implementation/software-it-data-migration-engineer-python-sql"
+  }
+}

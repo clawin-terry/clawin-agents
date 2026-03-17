@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-platform-product-manager",
                     "workspace":  "~/.openclaw/agents/software-it-platform-product-manager/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-platform-product-manager/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-platform-product-manager.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-platform-product-manager.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

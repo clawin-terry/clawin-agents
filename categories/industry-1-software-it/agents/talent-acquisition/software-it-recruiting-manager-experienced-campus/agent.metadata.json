@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-recruiting-manager-experienced-campus",
+  "version": "0.1.0",
+  "title": "Recruiting Manager (Experienced / Campus)",
+  "summary": "Leads experienced-hire and campus recruiting so hiring plans, team execution, and candidate pipelines stay aligned with workforce demand.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "talent-acquisition"
+  },
+  "discovery": {
+    "tags": [
+      "recruiting",
+      "experienced",
+      "campus",
+      "talent",
+      "acquisition"
+    ],
+    "domains": [
+      "talent",
+      "acquisition"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "recruiting",
+      "experienced",
+      "campus",
+      "talent"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "recruiting-experienced",
+      "talent-acquisition"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/talent-acquisition/software-it-recruiting-manager-experienced-campus"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-duplicate-upload-governance-manager-platform",
+  "version": "0.1.0",
+  "title": "Duplicate Upload Governance Manager (Platform)",
+  "summary": "Owns duplicate-upload governance so reposted or duplicative content can be identified, handled, and suppressed with better consistency across rights and quality workflows.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "content-rights-and-partnerships"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "duplicate",
+      "upload",
+      "governance",
+      "rights",
+      "and",
+      "partnerships"
+    ],
+    "domains": [
+      "content",
+      "rights"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "duplicate",
+      "upload"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "and-partnerships"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/content-rights-and-partnerships/content-platform-duplicate-upload-governance-manager-platform"
+  }
+}

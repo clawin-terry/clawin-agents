@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-audit-project-manager-marketplace",
+  "version": "0.1.0",
+  "title": "Audit Project Manager (Marketplace)",
+  "summary": "Runs marketplace audit projects so scope, fieldwork coordination, and reporting progress remain visible and well controlled.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "internal-audit"
+  },
+  "discovery": {
+    "tags": [
+      "audit",
+      "project",
+      "internal"
+    ],
+    "domains": [
+      "internal",
+      "audit"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "audit",
+      "project",
+      "internal"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "audit-project",
+      "project-internal"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/internal-audit/marketplace-ecommerce-audit-project-manager-marketplace"
+  }
+}

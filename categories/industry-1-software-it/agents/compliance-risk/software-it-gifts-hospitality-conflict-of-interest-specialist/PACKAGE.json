@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-gifts-hospitality-conflict-of-interest-specialist",
                     "workspace":  "~/.openclaw/agents/software-it-gifts-hospitality-conflict-of-interest-specialist/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-gifts-hospitality-conflict-of-interest-specialist/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-gifts-hospitality-conflict-of-interest-specialist.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-gifts-hospitality-conflict-of-interest-specialist.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

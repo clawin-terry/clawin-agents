@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-build-release-engineer-python-shell",
+  "version": "0.1.0",
+  "title": "Build and Release Engineer (Python/Shell)",
+  "summary": "Builds and operates build and release workflows with Python and shell tooling so software changes move through delivery pipelines safely and predictably.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "developer-experience"
+  },
+  "discovery": {
+    "tags": [
+      "build",
+      "release",
+      "python",
+      "shell",
+      "and",
+      "developer",
+      "experience"
+    ],
+    "domains": [
+      "developer",
+      "experience"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "build",
+      "release",
+      "python",
+      "shell"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "build-release",
+      "developer-experience"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/developer-experience/software-it-build-release-engineer-python-shell"
+  }
+}

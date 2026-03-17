@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-host-monetization-operations-manager",
+  "version": "0.1.0",
+  "title": "Host Monetization Operations Manager",
+  "summary": "Runs host monetization operations so livestream creators can adopt monetization programs, improve payout performance, and operate with clearer commercial guidance.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "content-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "host",
+      "monetization",
+      "operations"
+    ],
+    "domains": [
+      "content",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "host",
+      "monetization"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "monetization-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/content-operations/content-platform-host-monetization-operations-manager"
+  }
+}

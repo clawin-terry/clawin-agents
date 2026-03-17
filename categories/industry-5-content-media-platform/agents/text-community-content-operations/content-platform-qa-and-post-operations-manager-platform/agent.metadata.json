@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-qa-and-post-operations-manager-platform",
+  "version": "0.1.0",
+  "title": "Q&A and Post Operations Manager (Platform)",
+  "summary": "Operates Q&A and post-based communities so discussions stay active, structured, and better aligned with audience participation and platform standards.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "text-community-content-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "qa",
+      "and",
+      "post",
+      "operations",
+      "q",
+      "a"
+    ],
+    "domains": [
+      "text",
+      "community"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "qa",
+      "and"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "text-community"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/text-community-content-operations/content-platform-qa-and-post-operations-manager-platform"
+  }
+}

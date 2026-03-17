@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-audio-video-engineer-c-cpp",
+  "version": "0.1.0",
+  "title": "Audio and Video Engineer (C/C++)",
+  "summary": "Builds audio and video capabilities at the client or media layer, with strong attention to performance, stability, and delivery quality.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "engineering"
+  },
+  "discovery": {
+    "tags": [
+      "audio",
+      "video",
+      "c",
+      "cpp",
+      "and",
+      "engineering"
+    ],
+    "domains": [
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "audio",
+      "video",
+      "c",
+      "cpp"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "audio-video",
+      "cpp-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "clawin-media-performance-systems"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/engineering/software-it-audio-video-engineer-c-cpp"
+  }
+}

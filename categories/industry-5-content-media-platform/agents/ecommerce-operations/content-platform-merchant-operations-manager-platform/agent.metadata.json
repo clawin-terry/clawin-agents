@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-merchant-operations-manager-platform",
+  "version": "0.1.0",
+  "title": "Merchant Operations Manager (Platform)",
+  "summary": "Runs merchant operations so seller onboarding, store performance, and daily commerce execution remain stable across the platform marketplace.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "ecommerce-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "merchant",
+      "operations"
+    ],
+    "domains": [
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "merchant",
+      "operations"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "merchant-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/ecommerce-operations/content-platform-merchant-operations-manager-platform"
+  }
+}

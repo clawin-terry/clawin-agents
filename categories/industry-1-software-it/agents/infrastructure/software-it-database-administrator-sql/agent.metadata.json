@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-database-administrator-sql",
+  "version": "0.1.0",
+  "title": "Database Administrator (SQL)",
+  "summary": "Administers production SQL databases with strong attention to availability, performance, backup safety, and operational discipline.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "infrastructure"
+  },
+  "discovery": {
+    "tags": [
+      "database",
+      "administrator",
+      "sql",
+      "infrastructure"
+    ],
+    "domains": [
+      "infrastructure"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "database",
+      "administrator",
+      "sql",
+      "infrastructure"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "database-administrator",
+      "sql-infrastructure"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "healthcheck"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/infrastructure/software-it-database-administrator-sql"
+  }
+}

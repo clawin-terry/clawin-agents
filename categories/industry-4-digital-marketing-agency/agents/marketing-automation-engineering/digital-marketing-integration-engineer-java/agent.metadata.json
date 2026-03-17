@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-integration-engineer-java",
+  "version": "0.1.0",
+  "title": "Integration Engineer (Java)",
+  "summary": "Builds platform integrations in Java so CRM, marketing automation, and customer data workflows stay connected and operational.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "marketing-automation-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "integration",
+      "java",
+      "automation",
+      "engineering"
+    ],
+    "domains": [
+      "automation",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "integration",
+      "java",
+      "automation",
+      "engineering"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "integration-java",
+      "automation-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/marketing-automation-engineering/digital-marketing-integration-engineer-java"
+  }
+}

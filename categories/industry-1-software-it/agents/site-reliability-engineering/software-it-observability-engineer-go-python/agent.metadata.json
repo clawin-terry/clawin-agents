@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-observability-engineer-go-python",
+  "version": "0.1.0",
+  "title": "Observability Engineer (Go/Python)",
+  "summary": "Builds observability platforms and telemetry workflows with Go and Python to improve visibility, diagnosis speed, and service reliability.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "site-reliability-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "observability",
+      "go",
+      "python",
+      "site",
+      "reliability",
+      "engineering"
+    ],
+    "domains": [
+      "site",
+      "reliability"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "observability",
+      "go",
+      "python",
+      "site"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "observability-go",
+      "reliability-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "healthcheck"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/site-reliability-engineering/software-it-observability-engineer-go-python"
+  }
+}

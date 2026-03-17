@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-budget-and-bidding-strategy-researcher-python",
+  "version": "0.1.0",
+  "title": "Budget and Bidding Strategy Researcher (Python)",
+  "summary": "Researches budget allocation and bidding strategies with Python so paid media teams can improve efficiency, pacing, and return across campaigns.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "data-science"
+  },
+  "discovery": {
+    "tags": [
+      "budget",
+      "and",
+      "bidding",
+      "strategy",
+      "researcher",
+      "python",
+      "data",
+      "science"
+    ],
+    "domains": [
+      "data",
+      "science"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "budget",
+      "and",
+      "bidding",
+      "strategy"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "budget-and",
+      "data-science"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/data-science/digital-marketing-budget-and-bidding-strategy-researcher-python"
+  }
+}

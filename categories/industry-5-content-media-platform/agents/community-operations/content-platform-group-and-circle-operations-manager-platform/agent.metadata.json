@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-group-and-circle-operations-manager-platform",
+  "version": "0.1.0",
+  "title": "Group and Circle Operations Manager (Platform)",
+  "summary": "Operates groups and circles so smaller communities maintain stronger activity, structure, and operating support across interest-based user spaces.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "community-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "group",
+      "and",
+      "circle",
+      "operations",
+      "community"
+    ],
+    "domains": [
+      "community",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "group",
+      "and"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "operations-community"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/community-operations/content-platform-group-and-circle-operations-manager-platform"
+  }
+}

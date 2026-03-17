@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-post-campaign-creator-review-analyst-agency",
+  "version": "0.1.0",
+  "title": "Post-Campaign Creator Review Analyst (Agency)",
+  "summary": "Reviews creator campaign outcomes so agency teams can capture performance learning, partnership quality signals, and future optimization actions.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "creator-marketing"
+  },
+  "discovery": {
+    "tags": [
+      "post",
+      "campaign",
+      "creator",
+      "review"
+    ],
+    "domains": [
+      "creator"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "post",
+      "campaign",
+      "creator",
+      "review"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "post-campaign",
+      "creator-review"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/creator-marketing/digital-marketing-post-campaign-creator-review-analyst-agency"
+  }
+}

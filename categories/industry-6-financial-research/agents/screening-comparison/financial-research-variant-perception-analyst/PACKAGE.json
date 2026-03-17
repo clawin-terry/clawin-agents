@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "financial-research-variant-perception-analyst",
+    "roleTitle":  "Variant Perception Analyst",
+    "personaSummary":  "Separates consensus assumptions from differentiated hypotheses so teams can see where the market narrative may diverge from emerging evidence.",
+    "industryId":  "industry-6-financial-research",
+    "roleFamilyKey":  "screening-comparison",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/financial-research-variant-perception-analyst",
+                    "workspace":  "~/.openclaw/agents/financial-research-variant-perception-analyst/workspace",
+                    "agentDir":  "~/.openclaw/agents/financial-research-variant-perception-analyst/agent",
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
+                }
+}

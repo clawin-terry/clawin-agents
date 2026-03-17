@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-contract-register-coordination-specialist-agency",
+  "version": "0.1.0",
+  "title": "Contract Register Coordination Specialist (Agency)",
+  "summary": "Maintains contract-register coordination so agency purchasing commitments, supplier records, and related handoffs remain complete and easy to audit.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "procurement"
+  },
+  "discovery": {
+    "tags": [
+      "contract",
+      "register",
+      "coordination",
+      "procurement"
+    ],
+    "domains": [
+      "procurement"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "contract",
+      "register",
+      "coordination",
+      "procurement"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "contract-register",
+      "coordination-procurement"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/procurement/digital-marketing-contract-register-coordination-specialist-agency"
+  }
+}

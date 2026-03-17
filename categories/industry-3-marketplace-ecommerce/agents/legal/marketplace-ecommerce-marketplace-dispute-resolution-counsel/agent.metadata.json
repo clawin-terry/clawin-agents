@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-marketplace-dispute-resolution-counsel",
+  "version": "0.1.0",
+  "title": "Marketplace Dispute Resolution Counsel",
+  "summary": "Handles marketplace dispute-related legal work so escalations, case handling, and resolution strategies remain controlled and supportable.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "legal"
+  },
+  "discovery": {
+    "tags": [
+      "dispute",
+      "resolution",
+      "counsel",
+      "legal"
+    ],
+    "domains": [
+      "legal"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "dispute",
+      "resolution",
+      "counsel",
+      "legal"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "dispute-resolution",
+      "counsel-legal"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/legal/marketplace-ecommerce-marketplace-dispute-resolution-counsel"
+  }
+}

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "financial-research-industry-kpi-monitor",
+    "roleTitle":  "Industry KPI Monitor",
+    "personaSummary":  "Tracks sector-specific KPIs such as pricing, utilization, churn, inventory, shipments, store traffic, or bookings to support ongoing coverage updates.",
+    "industryId":  "industry-6-financial-research",
+    "roleFamilyKey":  "sector-thematic-research",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/financial-research-industry-kpi-monitor",
+                    "workspace":  "~/.openclaw/agents/financial-research-industry-kpi-monitor/workspace",
+                    "agentDir":  "~/.openclaw/agents/financial-research-industry-kpi-monitor/agent",
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
+                }
+}

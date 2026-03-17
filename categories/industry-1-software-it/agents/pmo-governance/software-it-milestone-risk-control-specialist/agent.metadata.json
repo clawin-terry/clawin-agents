@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-milestone-risk-control-specialist",
+  "version": "0.1.0",
+  "title": "Milestone and Risk Control Specialist",
+  "summary": "Tracks milestones and risk controls so programs stay on course with earlier warning, clearer escalation, and stronger execution discipline.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "pmo-governance"
+  },
+  "discovery": {
+    "tags": [
+      "milestone",
+      "risk",
+      "control",
+      "and",
+      "pmo",
+      "governance"
+    ],
+    "domains": [
+      "pmo",
+      "governance"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "milestone",
+      "risk",
+      "control",
+      "pmo"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "milestone-risk",
+      "pmo-governance"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/pmo-governance/software-it-milestone-risk-control-specialist"
+  }
+}

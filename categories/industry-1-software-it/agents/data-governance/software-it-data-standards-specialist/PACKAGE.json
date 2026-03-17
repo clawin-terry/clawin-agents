@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-data-standards-specialist",
                     "workspace":  "~/.openclaw/agents/software-it-data-standards-specialist/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-data-standards-specialist/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-data-standards-specialist.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-data-standards-specialist.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

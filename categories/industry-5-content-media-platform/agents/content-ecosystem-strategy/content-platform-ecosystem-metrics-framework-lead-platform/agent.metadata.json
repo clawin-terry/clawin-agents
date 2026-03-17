@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-ecosystem-metrics-framework-lead-platform",
+  "version": "0.1.0",
+  "title": "Ecosystem Metrics Framework Lead (Platform)",
+  "summary": "Owns the ecosystem metrics framework so supply, quality, and creator-health decisions can be guided by stable measures and accountable targets.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "content-ecosystem-strategy"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "ecosystem",
+      "metrics",
+      "framework",
+      "strategy"
+    ],
+    "domains": [
+      "content",
+      "ecosystem"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "ecosystem",
+      "metrics"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "content-platform",
+      "framework-strategy"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/content-ecosystem-strategy/content-platform-ecosystem-metrics-framework-lead-platform"
+  }
+}

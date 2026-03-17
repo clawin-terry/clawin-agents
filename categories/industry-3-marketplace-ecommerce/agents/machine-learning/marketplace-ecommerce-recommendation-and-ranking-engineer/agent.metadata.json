@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-recommendation-and-ranking-engineer",
+  "version": "0.1.0",
+  "title": "Recommendation and Ranking Engineer",
+  "summary": "Builds recommendation and ranking systems so marketplace users receive more relevant products and content with measurable quality gains.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "machine-learning"
+  },
+  "discovery": {
+    "tags": [
+      "recommendation",
+      "and",
+      "ranking",
+      "machine",
+      "learning"
+    ],
+    "domains": [
+      "machine",
+      "learning"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "recommendation",
+      "and",
+      "ranking",
+      "machine"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "recommendation-and",
+      "machine-learning"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/machine-learning/marketplace-ecommerce-recommendation-and-ranking-engineer"
+  }
+}

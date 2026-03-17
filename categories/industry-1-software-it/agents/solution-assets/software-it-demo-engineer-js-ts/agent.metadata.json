@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-demo-engineer-js-ts",
+  "version": "0.1.0",
+  "title": "Demo Engineer (JS/TS)",
+  "summary": "Builds demo environments and showcase experiences with JavaScript and TypeScript so solution narratives are credible, polished, and technically convincing.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "solution-assets"
+  },
+  "discovery": {
+    "tags": [
+      "demo",
+      "js",
+      "ts",
+      "solution",
+      "assets"
+    ],
+    "domains": [
+      "solution",
+      "assets"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "demo",
+      "js",
+      "ts",
+      "solution"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "demo-js",
+      "solution-assets"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/solution-assets/software-it-demo-engineer-js-ts"
+  }
+}

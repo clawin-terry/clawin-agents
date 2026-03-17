@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-price-comparison-and-sourcing-specialist-agency",
+  "version": "0.1.0",
+  "title": "Price Comparison and Sourcing Specialist (Agency)",
+  "summary": "Runs price-comparison and sourcing workflows so agency purchasing decisions are supported by clearer bids, vendor evaluation, and documentation.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "procurement"
+  },
+  "discovery": {
+    "tags": [
+      "price",
+      "comparison",
+      "and",
+      "sourcing",
+      "procurement"
+    ],
+    "domains": [
+      "procurement"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "price",
+      "comparison",
+      "and",
+      "sourcing"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "price-comparison",
+      "sourcing-procurement"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/procurement/digital-marketing-price-comparison-and-sourcing-specialist-agency"
+  }
+}

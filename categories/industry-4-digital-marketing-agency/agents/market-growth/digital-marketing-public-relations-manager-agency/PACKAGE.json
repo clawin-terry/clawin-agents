@@ -16,7 +16,7 @@
                     "targetRoot":  "~/.openclaw/agents/digital-marketing-public-relations-manager-agency",
                     "workspace":  "~/.openclaw/agents/digital-marketing-public-relations-manager-agency/workspace",
                     "agentDir":  "~/.openclaw/agents/digital-marketing-public-relations-manager-agency/agent",
-                    "configEntry":  "config/openclaw.agent.digital-marketing-public-relations-manager-agency.entry.json",
-                    "configSnippet":  "config/openclaw.agent.digital-marketing-public-relations-manager-agency.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

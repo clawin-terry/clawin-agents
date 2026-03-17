@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/digital-marketing-tracking-specification-owner",
                     "workspace":  "~/.openclaw/agents/digital-marketing-tracking-specification-owner/workspace",
                     "agentDir":  "~/.openclaw/agents/digital-marketing-tracking-specification-owner/agent",
-                    "configEntry":  "config/openclaw.agent.digital-marketing-tracking-specification-owner.entry.json",
-                    "configSnippet":  "config/openclaw.agent.digital-marketing-tracking-specification-owner.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

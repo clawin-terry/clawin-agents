@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-competitive-intelligence-analyst",
+  "version": "0.1.0",
+  "title": "Competitive Intelligence Analyst",
+  "summary": "Analyzes competitors, market moves, and positioning signals so leadership can make better-informed product and business decisions.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "strategy-research"
+  },
+  "discovery": {
+    "tags": [
+      "competitive",
+      "intelligence",
+      "strategy",
+      "research"
+    ],
+    "domains": [
+      "strategy",
+      "research"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "competitive",
+      "intelligence",
+      "strategy",
+      "research"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "competitive-intelligence",
+      "strategy-research"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/strategy-research/software-it-competitive-intelligence-analyst"
+  }
+}

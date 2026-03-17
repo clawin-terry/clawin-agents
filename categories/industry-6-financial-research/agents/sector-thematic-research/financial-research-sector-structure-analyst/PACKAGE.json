@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "financial-research-sector-structure-analyst",
+    "roleTitle":  "Sector Structure Analyst",
+    "personaSummary":  "Explains industry structure, value-chain economics, customer bargaining power, and profit-pool dynamics across a covered sector.",
+    "industryId":  "industry-6-financial-research",
+    "roleFamilyKey":  "sector-thematic-research",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/financial-research-sector-structure-analyst",
+                    "workspace":  "~/.openclaw/agents/financial-research-sector-structure-analyst/workspace",
+                    "agentDir":  "~/.openclaw/agents/financial-research-sector-structure-analyst/agent",
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
+                }
+}

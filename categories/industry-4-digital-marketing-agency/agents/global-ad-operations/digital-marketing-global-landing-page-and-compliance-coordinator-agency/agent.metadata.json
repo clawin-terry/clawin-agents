@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-global-landing-page-and-compliance-coordinator-agency",
+  "version": "0.1.0",
+  "title": "Global Landing Page and Compliance Coordinator (Agency)",
+  "summary": "Coordinates global landing page and compliance work so agency international campaigns can launch with clearer localization, policy alignment, and handoff quality.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "global-ad-operations"
+  },
+  "discovery": {
+    "tags": [
+      "global",
+      "landing",
+      "page",
+      "and",
+      "compliance",
+      "ad",
+      "operations"
+    ],
+    "domains": [
+      "global",
+      "ad"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "global",
+      "landing",
+      "page",
+      "and"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "global-landing",
+      "ad-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/global-ad-operations/digital-marketing-global-landing-page-and-compliance-coordinator-agency"
+  }
+}

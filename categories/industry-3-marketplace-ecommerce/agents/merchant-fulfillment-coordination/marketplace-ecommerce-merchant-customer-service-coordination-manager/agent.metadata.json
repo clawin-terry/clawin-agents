@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-merchant-customer-service-coordination-manager",
+  "version": "0.1.0",
+  "title": "Merchant Customer Service Coordination Manager",
+  "summary": "Coordinates merchant customer service workflows so service issues are routed, resolved, and improved across teams more effectively.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "merchant-fulfillment-coordination"
+  },
+  "discovery": {
+    "tags": [
+      "merchant",
+      "customer",
+      "service",
+      "coordination",
+      "fulfillment"
+    ],
+    "domains": [
+      "merchant",
+      "fulfillment"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "merchant",
+      "customer",
+      "service",
+      "coordination"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "merchant-customer",
+      "coordination-fulfillment"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/merchant-fulfillment-coordination/marketplace-ecommerce-merchant-customer-service-coordination-manager"
+  }
+}

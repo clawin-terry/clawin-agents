@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-job-architecture-and-levels-specialist-agency",
+  "version": "0.1.0",
+  "title": "Job Architecture and Levels Specialist (Agency)",
+  "summary": "Maintains job architecture and level frameworks so agency role definitions, career paths, and grading standards remain consistent and usable.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "hrbp-organization-development"
+  },
+  "discovery": {
+    "tags": [
+      "job",
+      "architecture",
+      "and",
+      "levels",
+      "hrbp",
+      "organization",
+      "development"
+    ],
+    "domains": [
+      "hrbp",
+      "organization"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "job",
+      "architecture",
+      "and",
+      "levels"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "job-architecture",
+      "organization-development"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/hrbp-organization-development/digital-marketing-job-architecture-and-levels-specialist-agency"
+  }
+}

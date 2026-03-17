@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-proof-of-concept-manager",
+  "version": "0.1.0",
+  "title": "Proof of Concept Manager",
+  "summary": "Runs proof-of-concept programs so evaluation scope, success criteria, and cross-functional execution stay controlled and persuasive.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "pre-sales"
+  },
+  "discovery": {
+    "tags": [
+      "proof",
+      "of",
+      "concept",
+      "pre",
+      "sales"
+    ],
+    "domains": [
+      "pre",
+      "sales"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "proof",
+      "of",
+      "concept",
+      "pre"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "proof-of",
+      "pre-sales"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/pre-sales/software-it-proof-of-concept-manager"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-livestream-floor-manager-agency",
+  "version": "0.1.0",
+  "title": "Livestream Floor Manager (Agency)",
+  "summary": "Controls live session execution so agency teams can coordinate timing, cues, and issue handling during broadcasts with fewer disruptions.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "livestream-operations"
+  },
+  "discovery": {
+    "tags": [
+      "livestream",
+      "floor",
+      "operations"
+    ],
+    "domains": [
+      "livestream",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "livestream",
+      "floor",
+      "operations"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "livestream-floor",
+      "floor-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/livestream-operations/digital-marketing-livestream-floor-manager-agency"
+  }
+}

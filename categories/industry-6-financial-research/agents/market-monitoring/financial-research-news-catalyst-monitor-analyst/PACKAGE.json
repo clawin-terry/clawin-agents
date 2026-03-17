@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/financial-research-news-catalyst-monitor-analyst",
                     "workspace":  "~/.openclaw/agents/financial-research-news-catalyst-monitor-analyst/workspace",
                     "agentDir":  "~/.openclaw/agents/financial-research-news-catalyst-monitor-analyst/agent",
-                    "configEntry":  "config/openclaw.agent.financial-research-news-catalyst-monitor-analyst.entry.json",
-                    "configSnippet":  "config/openclaw.agent.financial-research-news-catalyst-monitor-analyst.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-incident-playbook-manager-platform",
+  "version": "0.1.0",
+  "title": "Incident Playbook Manager (Platform)",
+  "summary": "Owns incident playbooks so trust-and-safety teams can respond to high-severity events with clearer procedures, roles, and fallback actions.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "risk-and-incident-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "incident",
+      "playbook",
+      "risk",
+      "and",
+      "operations"
+    ],
+    "domains": [
+      "risk",
+      "and"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "incident",
+      "playbook"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "and-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/risk-and-incident-operations/content-platform-incident-playbook-manager-platform"
+  }
+}

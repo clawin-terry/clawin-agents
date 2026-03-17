@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-campaign-retrospective-manager",
+  "version": "0.1.0",
+  "title": "Campaign Retrospective Manager",
+  "summary": "Leads campaign retrospectives so marketplace event learnings, issue patterns, and next-cycle improvements are captured with clear accountability.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "campaign-operations"
+  },
+  "discovery": {
+    "tags": [
+      "campaign",
+      "retrospective",
+      "operations"
+    ],
+    "domains": [
+      "campaign",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "campaign",
+      "retrospective",
+      "operations"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "campaign-retrospective",
+      "retrospective-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/campaign-operations/marketplace-ecommerce-campaign-retrospective-manager"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-fake-engagement-traffic-abuse-strategist",
+  "version": "0.1.0",
+  "title": "Fake Engagement and Traffic Abuse Strategist",
+  "summary": "Designs countermeasures for fake traffic and engagement abuse so inflated metrics, coordinated manipulation, and low-quality interactions are reduced at platform scale.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "risk-strategy"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "fake",
+      "engagement",
+      "traffic",
+      "abuse",
+      "strategist",
+      "and"
+    ],
+    "domains": [
+      "risk",
+      "strategy"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "fake",
+      "engagement"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "content-platform",
+      "risk-strategy"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/risk-strategy/content-platform-fake-engagement-traffic-abuse-strategist"
+  }
+}

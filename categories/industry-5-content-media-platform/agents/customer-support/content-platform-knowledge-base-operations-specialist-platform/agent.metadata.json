@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-knowledge-base-operations-specialist-platform",
+  "version": "0.1.0",
+  "title": "Knowledge Base Operations Specialist (Platform)",
+  "summary": "Operates support knowledge content so service teams and platform users can find current answers, reusable guidance, and clearer issue-prevention materials.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "customer-support"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "knowledge",
+      "base",
+      "operations",
+      "customer",
+      "support"
+    ],
+    "domains": [
+      "customer",
+      "support"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "knowledge",
+      "base"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "customer-support"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/customer-support/content-platform-knowledge-base-operations-specialist-platform"
+  }
+}

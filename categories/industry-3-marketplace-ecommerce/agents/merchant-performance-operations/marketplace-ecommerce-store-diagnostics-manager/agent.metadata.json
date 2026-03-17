@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-store-diagnostics-manager",
+  "version": "0.1.0",
+  "title": "Store Diagnostics Manager",
+  "summary": "Diagnoses store performance issues so merchants can identify operational gaps and take practical actions to improve marketplace results.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "merchant-performance-operations"
+  },
+  "discovery": {
+    "tags": [
+      "store",
+      "diagnostics",
+      "merchant",
+      "performance",
+      "operations"
+    ],
+    "domains": [
+      "merchant",
+      "performance"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "store",
+      "diagnostics",
+      "merchant",
+      "performance"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "store-diagnostics",
+      "performance-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/merchant-performance-operations/marketplace-ecommerce-store-diagnostics-manager"
+  }
+}

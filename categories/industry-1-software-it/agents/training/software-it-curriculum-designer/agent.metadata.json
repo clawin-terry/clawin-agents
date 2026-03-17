@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-curriculum-designer",
+  "version": "0.1.0",
+  "title": "Curriculum Designer",
+  "summary": "Designs training curricula so learning paths, course structure, and supporting materials remain clear, progressive, and outcome-oriented.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "training"
+  },
+  "discovery": {
+    "tags": [
+      "curriculum",
+      "designer",
+      "training"
+    ],
+    "domains": [
+      "training"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "curriculum",
+      "designer",
+      "training"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "curriculum-designer",
+      "designer-training"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/training/software-it-curriculum-designer"
+  }
+}

@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-stockout-governance-manager",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-stockout-governance-manager/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-stockout-governance-manager/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-stockout-governance-manager.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-stockout-governance-manager.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

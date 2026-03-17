@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/digital-marketing-general-ledger-accountant-agency",
                     "workspace":  "~/.openclaw/agents/digital-marketing-general-ledger-accountant-agency/workspace",
                     "agentDir":  "~/.openclaw/agents/digital-marketing-general-ledger-accountant-agency/agent",
-                    "configEntry":  "config/openclaw.agent.digital-marketing-general-ledger-accountant-agency.entry.json",
-                    "configSnippet":  "config/openclaw.agent.digital-marketing-general-ledger-accountant-agency.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

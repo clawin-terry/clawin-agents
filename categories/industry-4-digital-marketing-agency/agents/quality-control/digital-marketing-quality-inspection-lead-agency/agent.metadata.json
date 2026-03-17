@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-quality-inspection-lead-agency",
+  "version": "0.1.0",
+  "title": "Quality Inspection Lead (Agency)",
+  "summary": "Leads quality inspection practices so agency reviews, defect standards, and escalation decisions stay consistent across delivery work.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "quality-control"
+  },
+  "discovery": {
+    "tags": [
+      "quality",
+      "inspection",
+      "control"
+    ],
+    "domains": [
+      "quality",
+      "control"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "quality",
+      "inspection",
+      "control"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "quality-inspection",
+      "inspection-control"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/quality-control/digital-marketing-quality-inspection-lead-agency"
+  }
+}

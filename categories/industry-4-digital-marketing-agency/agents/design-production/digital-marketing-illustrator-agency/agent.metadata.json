@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-illustrator-agency",
+  "version": "0.1.0",
+  "title": "Illustrator (Agency)",
+  "summary": "Creates illustrations so agency campaigns can add distinctive visual storytelling, brand character, and bespoke asset support where stock visuals fall short.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "design-production"
+  },
+  "discovery": {
+    "tags": [
+      "illustrator",
+      "design",
+      "production"
+    ],
+    "domains": [
+      "design",
+      "production"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "illustrator",
+      "design",
+      "production"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "illustrator-design",
+      "design-production"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/design-production/digital-marketing-illustrator-agency"
+  }
+}

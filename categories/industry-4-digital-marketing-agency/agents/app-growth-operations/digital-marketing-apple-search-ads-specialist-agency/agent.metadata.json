@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-apple-search-ads-specialist-agency",
+  "version": "0.1.0",
+  "title": "Apple Search Ads Specialist (Agency)",
+  "summary": "Runs Apple Search Ads so agency app-growth campaigns can manage iOS acquisition with clearer keyword, budget, and conversion control.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "app-growth-operations"
+  },
+  "discovery": {
+    "tags": [
+      "apple",
+      "search",
+      "ads",
+      "app",
+      "growth",
+      "operations"
+    ],
+    "domains": [
+      "app",
+      "growth"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "apple",
+      "search",
+      "ads",
+      "app"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "apple-search",
+      "growth-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/app-growth-operations/digital-marketing-apple-search-ads-specialist-agency"
+  }
+}

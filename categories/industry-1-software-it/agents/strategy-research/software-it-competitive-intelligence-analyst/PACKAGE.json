@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-competitive-intelligence-analyst",
                     "workspace":  "~/.openclaw/agents/software-it-competitive-intelligence-analyst/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-competitive-intelligence-analyst/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-competitive-intelligence-analyst.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-competitive-intelligence-analyst.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

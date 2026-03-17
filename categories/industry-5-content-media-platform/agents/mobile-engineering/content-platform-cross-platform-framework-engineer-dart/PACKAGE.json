@@ -16,7 +16,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-cross-platform-framework-engineer-dart",
                     "workspace":  "~/.openclaw/agents/content-platform-cross-platform-framework-engineer-dart/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-cross-platform-framework-engineer-dart/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-cross-platform-framework-engineer-dart.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-cross-platform-framework-engineer-dart.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

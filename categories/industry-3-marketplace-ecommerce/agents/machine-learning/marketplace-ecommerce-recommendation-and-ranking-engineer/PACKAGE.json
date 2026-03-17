@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-recommendation-and-ranking-engineer",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-recommendation-and-ranking-engineer/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-recommendation-and-ranking-engineer/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-recommendation-and-ranking-engineer.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-recommendation-and-ranking-engineer.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

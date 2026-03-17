@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-administration-manager-platform",
+  "version": "0.1.0",
+  "title": "Administration Manager (Platform)",
+  "summary": "Leads platform administration so workplace services, internal support routines, and day-to-day office coordination stay reliable as teams scale.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "administration"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "administration"
+    ],
+    "domains": [
+      "administration"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "administration"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "platform-administration"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/administration/content-platform-administration-manager-platform"
+  }
+}

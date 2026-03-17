@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-object-storage-engineer-go",
+  "version": "0.1.0",
+  "title": "Object Storage Engineer (Go)",
+  "summary": "Builds and operates object storage capabilities with Go, emphasizing durability, scalability, access controls, and production reliability.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "infrastructure"
+  },
+  "discovery": {
+    "tags": [
+      "object",
+      "storage",
+      "go",
+      "infrastructure"
+    ],
+    "domains": [
+      "infrastructure"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "object",
+      "storage",
+      "go",
+      "infrastructure"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "object-storage",
+      "go-infrastructure"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "healthcheck"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/infrastructure/software-it-object-storage-engineer-go"
+  }
+}

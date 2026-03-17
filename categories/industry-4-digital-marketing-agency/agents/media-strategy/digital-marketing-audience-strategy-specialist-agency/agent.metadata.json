@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-audience-strategy-specialist-agency",
+  "version": "0.1.0",
+  "title": "Audience Strategy Specialist (Agency)",
+  "summary": "Builds audience strategy so agency targeting, segment design, and cohort prioritization reflect clearer reach and conversion intent.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "media-strategy"
+  },
+  "discovery": {
+    "tags": [
+      "audience",
+      "strategy",
+      "media"
+    ],
+    "domains": [
+      "media",
+      "strategy"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "audience",
+      "strategy",
+      "media"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "audience-strategy",
+      "strategy-media"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/media-strategy/digital-marketing-audience-strategy-specialist-agency"
+  }
+}

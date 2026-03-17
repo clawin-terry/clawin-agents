@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-transport-route-planning-manager",
+  "version": "0.1.0",
+  "title": "Transport Route Planning Manager",
+  "summary": "Plans transport routes so fulfillment flows meet cost, service-level, and operational resilience requirements across the network.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "fulfillment-network-planning"
+  },
+  "discovery": {
+    "tags": [
+      "transport",
+      "route",
+      "planning",
+      "fulfillment",
+      "network"
+    ],
+    "domains": [
+      "fulfillment",
+      "network"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "transport",
+      "route",
+      "planning",
+      "fulfillment"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "transport-route",
+      "fulfillment-network"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/fulfillment-network-planning/marketplace-ecommerce-transport-route-planning-manager"
+  }
+}

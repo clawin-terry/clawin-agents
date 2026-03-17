@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/digital-marketing-facilities-and-workplace-vendor-coordinator-agency",
                     "workspace":  "~/.openclaw/agents/digital-marketing-facilities-and-workplace-vendor-coordinator-agency/workspace",
                     "agentDir":  "~/.openclaw/agents/digital-marketing-facilities-and-workplace-vendor-coordinator-agency/agent",
-                    "configEntry":  "config/openclaw.agent.digital-marketing-facilities-and-workplace-vendor-coordinator-agency.entry.json",
-                    "configSnippet":  "config/openclaw.agent.digital-marketing-facilities-and-workplace-vendor-coordinator-agency.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

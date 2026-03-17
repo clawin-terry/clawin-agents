@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-ads-tools-frontend-engineer-javascript-typescript",
+  "version": "0.1.0",
+  "title": "Ads Tools Frontend Engineer (JavaScript/TypeScript)",
+  "summary": "Builds frontend interfaces for advertising tools so operators can manage campaigns, assets, and diagnostics through efficient internal workflows.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "ads-tools-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "ads",
+      "tools",
+      "frontend",
+      "javascript",
+      "typescript",
+      "engineering"
+    ],
+    "domains": [
+      "ads",
+      "tools"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "ads",
+      "tools",
+      "frontend",
+      "javascript"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "ads-tools",
+      "typescript-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "browser"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/ads-tools-engineering/digital-marketing-ads-tools-frontend-engineer-javascript-typescript"
+  }
+}

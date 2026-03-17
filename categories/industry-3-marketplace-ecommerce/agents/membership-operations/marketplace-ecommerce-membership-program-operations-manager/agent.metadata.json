@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-membership-program-operations-manager",
+  "version": "0.1.0",
+  "title": "Membership Program Operations Manager",
+  "summary": "Runs membership program operations so marketplace loyalty benefits, user value delivery, and program performance stay measurable and reliable.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "membership-operations"
+  },
+  "discovery": {
+    "tags": [
+      "membership",
+      "program",
+      "operations"
+    ],
+    "domains": [
+      "membership",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "membership",
+      "program",
+      "operations"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "membership-program",
+      "program-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/membership-operations/marketplace-ecommerce-membership-program-operations-manager"
+  }
+}

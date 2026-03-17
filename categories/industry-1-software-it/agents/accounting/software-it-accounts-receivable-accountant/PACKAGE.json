@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-accounts-receivable-accountant",
                     "workspace":  "~/.openclaw/agents/software-it-accounts-receivable-accountant/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-accounts-receivable-accountant/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-accounts-receivable-accountant.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-accounts-receivable-accountant.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

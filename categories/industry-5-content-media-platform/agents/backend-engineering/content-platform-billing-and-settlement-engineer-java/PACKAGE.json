@@ -16,7 +16,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-billing-and-settlement-engineer-java",
                     "workspace":  "~/.openclaw/agents/content-platform-billing-and-settlement-engineer-java/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-billing-and-settlement-engineer-java/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-billing-and-settlement-engineer-java.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-billing-and-settlement-engineer-java.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

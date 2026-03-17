@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-marketing-automation-operations-manager",
                     "workspace":  "~/.openclaw/agents/software-it-marketing-automation-operations-manager/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-marketing-automation-operations-manager/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-marketing-automation-operations-manager.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-marketing-automation-operations-manager.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

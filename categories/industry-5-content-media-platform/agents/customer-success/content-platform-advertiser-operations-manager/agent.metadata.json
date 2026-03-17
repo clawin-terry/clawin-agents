@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-advertiser-operations-manager",
+  "version": "0.1.0",
+  "title": "Advertiser Operations Manager",
+  "summary": "Runs advertiser operations so campaign execution, service coordination, and account workflows stay organized across active advertiser portfolios.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "customer-success"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "advertiser",
+      "operations",
+      "customer",
+      "success"
+    ],
+    "domains": [
+      "customer",
+      "success"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "advertiser",
+      "operations"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "customer-success"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/customer-success/content-platform-advertiser-operations-manager"
+  }
+}

@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-technical-content-writer",
                     "workspace":  "~/.openclaw/agents/software-it-technical-content-writer/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-technical-content-writer/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-technical-content-writer.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-technical-content-writer.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

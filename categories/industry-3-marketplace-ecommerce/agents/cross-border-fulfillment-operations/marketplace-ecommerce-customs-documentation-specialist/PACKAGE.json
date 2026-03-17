@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-customs-documentation-specialist",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-customs-documentation-specialist/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-customs-documentation-specialist/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-customs-documentation-specialist.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-customs-documentation-specialist.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

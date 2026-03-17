@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-vice-president-of-sales",
                     "workspace":  "~/.openclaw/agents/software-it-vice-president-of-sales/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-vice-president-of-sales/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-vice-president-of-sales.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-vice-president-of-sales.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

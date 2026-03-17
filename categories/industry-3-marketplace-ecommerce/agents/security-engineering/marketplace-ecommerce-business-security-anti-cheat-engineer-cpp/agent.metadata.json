@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-business-security-anti-cheat-engineer-cpp",
+  "version": "0.1.0",
+  "title": "Business Security Anti-Cheat Engineer (C++)",
+  "summary": "Builds business security and anti-cheat systems with C++ so marketplace abuse prevention can respond faster to adversarial behavior and technical evasion.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "security-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "business",
+      "security",
+      "anti",
+      "cheat",
+      "cpp",
+      "c",
+      "engineering"
+    ],
+    "domains": [
+      "security",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "business",
+      "security",
+      "anti",
+      "cheat"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "business-security",
+      "cpp-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "healthcheck"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/security-engineering/marketplace-ecommerce-business-security-anti-cheat-engineer-cpp"
+  }
+}

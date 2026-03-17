@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-technical-standards-and-review-manager",
+  "version": "0.1.0",
+  "title": "Technical Standards and Review Manager",
+  "summary": "Owns technical standards and architecture review practices so engineering decisions remain consistent, reviewable, and aligned with platform strategy.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "architecture"
+  },
+  "discovery": {
+    "tags": [
+      "technical",
+      "standards",
+      "and",
+      "review",
+      "architecture"
+    ],
+    "domains": [
+      "architecture"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "technical",
+      "standards",
+      "and",
+      "review"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "technical-standards",
+      "review-architecture"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/architecture/marketplace-ecommerce-technical-standards-and-review-manager"
+  }
+}

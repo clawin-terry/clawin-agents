@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-operational-audit-manager",
+  "version": "0.1.0",
+  "title": "Operational Audit Manager",
+  "summary": "Runs operational audits so business processes, controls, and execution risks are evaluated with practical recommendations for stronger performance and compliance.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "internal-audit"
+  },
+  "discovery": {
+    "tags": [
+      "operational",
+      "audit",
+      "internal"
+    ],
+    "domains": [
+      "internal",
+      "audit"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "operational",
+      "audit",
+      "internal"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "operational-audit",
+      "audit-internal"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/internal-audit/software-it-operational-audit-manager"
+  }
+}

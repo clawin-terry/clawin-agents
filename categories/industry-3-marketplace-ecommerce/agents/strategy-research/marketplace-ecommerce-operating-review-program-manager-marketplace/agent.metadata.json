@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-operating-review-program-manager-marketplace",
+  "version": "0.1.0",
+  "title": "Operating Review Program Manager (Marketplace)",
+  "summary": "Coordinates marketplace operating-review cadences so business performance discussions, leadership routines, and issue escalation stay disciplined and actionable.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "strategy-research"
+  },
+  "discovery": {
+    "tags": [
+      "operating",
+      "review",
+      "program",
+      "strategy",
+      "research"
+    ],
+    "domains": [
+      "strategy",
+      "research"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "operating",
+      "review",
+      "program",
+      "strategy"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "operating-review",
+      "strategy-research"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/strategy-research/marketplace-ecommerce-operating-review-program-manager-marketplace"
+  }
+}

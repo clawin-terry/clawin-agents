@@ -1,0 +1,66 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-compliance-audit-specialist-platform",
+  "version": "0.1.0",
+  "title": "Compliance Audit Specialist (Platform)",
+  "summary": "Coordinates compliance audit follow-through so privacy, content, and operational controls can be evidenced clearly during internal and external reviews.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "privacy-data-governance"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "compliance",
+      "audit",
+      "privacy",
+      "data",
+      "governance"
+    ],
+    "domains": [
+      "privacy",
+      "data"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "compliance",
+      "audit"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "data-governance"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/privacy-data-governance/content-platform-compliance-audit-specialist-platform"
+  }
+}

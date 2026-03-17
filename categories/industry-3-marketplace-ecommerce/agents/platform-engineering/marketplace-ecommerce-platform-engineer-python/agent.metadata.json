@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-platform-engineer-python",
+  "version": "0.1.0",
+  "title": "Platform Engineer (Python)",
+  "summary": "Builds internal platform capabilities with Python automation so marketplace engineering workflows remain efficient, maintainable, and dependable.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "platform-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "platform",
+      "python",
+      "engineering"
+    ],
+    "domains": [
+      "platform",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "platform",
+      "python",
+      "engineering"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "platform-python",
+      "python-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "healthcheck"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/platform-engineering/marketplace-ecommerce-platform-engineer-python"
+  }
+}

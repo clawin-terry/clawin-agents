@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-subsidy-analysis-manager",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-subsidy-analysis-manager/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-subsidy-analysis-manager/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-subsidy-analysis-manager.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-subsidy-analysis-manager.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-content-planner-agency",
+  "version": "0.1.0",
+  "title": "Content Planner (Agency)",
+  "summary": "Plans editorial content so agency teams can match campaign objectives, audience needs, and publishing windows with clearer topic structures.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "content-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "planner",
+      "operations"
+    ],
+    "domains": [
+      "content",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "planner",
+      "operations"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "content-planner",
+      "planner-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/content-operations/digital-marketing-content-planner-agency"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-electronic-invoice-operations-manager",
+  "version": "0.1.0",
+  "title": "Electronic Invoice Operations Manager",
+  "summary": "Operates electronic invoice workflows so digital billing documents are issued, tracked, and supported at marketplace scale.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "tax-invoice-operations"
+  },
+  "discovery": {
+    "tags": [
+      "electronic",
+      "invoice",
+      "operations",
+      "tax"
+    ],
+    "domains": [
+      "tax",
+      "invoice"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "electronic",
+      "invoice",
+      "operations",
+      "tax"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "electronic-invoice",
+      "operations-tax"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/tax-invoice-operations/marketplace-ecommerce-electronic-invoice-operations-manager"
+  }
+}

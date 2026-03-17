@@ -1,0 +1,67 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-recall-and-false-positive-metrics-analyst-platform",
+  "version": "0.1.0",
+  "title": "Recall and False Positive Metrics Analyst (Platform)",
+  "summary": "Owns recall and false-positive metrics so policy controls can be tuned with clearer tradeoff analysis between risk capture, user impact, and review efficiency.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "review-analytics-and-evaluation"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "recall",
+      "and",
+      "false",
+      "positive",
+      "metrics",
+      "review"
+    ],
+    "domains": [
+      "review",
+      "analytics"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "recall",
+      "and"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "analytics-evaluation"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/review-analytics-and-evaluation/content-platform-recall-and-false-positive-metrics-analyst-platform"
+  }
+}

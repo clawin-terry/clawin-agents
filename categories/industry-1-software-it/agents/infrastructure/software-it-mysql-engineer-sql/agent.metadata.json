@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-mysql-engineer-sql",
+  "version": "0.1.0",
+  "title": "MySQL Engineer (SQL)",
+  "summary": "Builds and operates MySQL database capabilities with attention to performance, replication, reliability, and safe change management.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "infrastructure"
+  },
+  "discovery": {
+    "tags": [
+      "mysql",
+      "sql",
+      "infrastructure"
+    ],
+    "domains": [
+      "infrastructure"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "mysql",
+      "sql",
+      "infrastructure"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "mysql-sql",
+      "sql-infrastructure"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "healthcheck"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/infrastructure/software-it-mysql-engineer-sql"
+  }
+}

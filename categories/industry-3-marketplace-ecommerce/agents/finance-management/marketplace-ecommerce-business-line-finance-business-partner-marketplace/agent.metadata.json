@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-business-line-finance-business-partner-marketplace",
+  "version": "0.1.0",
+  "title": "Business Line Finance Business Partner (Marketplace)",
+  "summary": "Partners with marketplace business lines on planning and performance decisions so supply, transaction, fulfillment, and commercialization tradeoffs are financially grounded.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "finance-management"
+  },
+  "discovery": {
+    "tags": [
+      "business",
+      "line",
+      "finance",
+      "partner",
+      "management"
+    ],
+    "domains": [
+      "finance",
+      "management"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "business",
+      "line",
+      "finance",
+      "partner"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "business-line",
+      "partner-management"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/finance-management/marketplace-ecommerce-business-line-finance-business-partner-marketplace"
+  }
+}

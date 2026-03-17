@@ -1,0 +1,56 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-contract-counsel",
+  "version": "0.1.0",
+  "title": "Contract Counsel",
+  "summary": "Supports contract drafting, review, and negotiation so commercial agreements stay workable, compliant, and aligned with business intent.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "legal"
+  },
+  "discovery": {
+    "tags": [
+      "contract",
+      "counsel",
+      "legal"
+    ],
+    "domains": [
+      "legal"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "contract",
+      "counsel",
+      "legal"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "contract-counsel",
+      "counsel-legal"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/legal/software-it-contract-counsel"
+  }
+}

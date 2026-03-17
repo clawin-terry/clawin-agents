@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-consolidated-reporting-manager",
+  "version": "0.1.0",
+  "title": "Consolidated Reporting Manager",
+  "summary": "Leads consolidation and group reporting so multi-entity financial results are aligned, adjusted correctly, and reported with consistency.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "accounting"
+  },
+  "discovery": {
+    "tags": [
+      "consolidated",
+      "reporting",
+      "accounting"
+    ],
+    "domains": [
+      "accounting"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "consolidated",
+      "reporting",
+      "accounting"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "consolidated-reporting",
+      "reporting-accounting"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/accounting/software-it-consolidated-reporting-manager"
+  }
+}

@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-architecture-committee-member",
                     "workspace":  "~/.openclaw/agents/software-it-architecture-committee-member/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-architecture-committee-member/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-architecture-committee-member.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-architecture-committee-member.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

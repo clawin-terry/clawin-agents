@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-editor-in-chief-platform",
                     "workspace":  "~/.openclaw/agents/content-platform-editor-in-chief-platform/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-editor-in-chief-platform/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-editor-in-chief-platform.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-editor-in-chief-platform.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

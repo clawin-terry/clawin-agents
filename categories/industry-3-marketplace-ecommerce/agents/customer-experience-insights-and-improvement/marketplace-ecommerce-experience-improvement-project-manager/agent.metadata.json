@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-experience-improvement-project-manager",
+  "version": "0.1.0",
+  "title": "Experience Improvement Project Manager",
+  "summary": "Leads experience improvement projects so recurring customer pain points are resolved through coordinated cross-functional action.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "customer-experience-insights-and-improvement"
+  },
+  "discovery": {
+    "tags": [
+      "experience",
+      "improvement",
+      "project",
+      "customer",
+      "insights",
+      "and"
+    ],
+    "domains": [
+      "customer",
+      "experience"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "experience",
+      "improvement",
+      "project",
+      "customer"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "experience-improvement",
+      "insights-and"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/customer-experience-insights-and-improvement/marketplace-ecommerce-experience-improvement-project-manager"
+  }
+}

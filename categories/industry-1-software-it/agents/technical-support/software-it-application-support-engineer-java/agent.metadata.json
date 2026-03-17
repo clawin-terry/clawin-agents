@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-application-support-engineer-java",
+  "version": "0.1.0",
+  "title": "Application Support Engineer (Java)",
+  "summary": "Supports production applications with Java-focused diagnosis and change understanding so customer-impacting issues are resolved with discipline.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "technical-support"
+  },
+  "discovery": {
+    "tags": [
+      "application",
+      "support",
+      "java",
+      "technical"
+    ],
+    "domains": [
+      "technical",
+      "support"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "application",
+      "support",
+      "java",
+      "technical"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "application-support",
+      "java-technical"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/technical-support/software-it-application-support-engineer-java"
+  }
+}

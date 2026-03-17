@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-customer-follow-up-specialist",
                     "workspace":  "~/.openclaw/agents/software-it-customer-follow-up-specialist/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-customer-follow-up-specialist/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-customer-follow-up-specialist.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-customer-follow-up-specialist.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

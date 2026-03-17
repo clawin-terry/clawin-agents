@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-martech-product-manager-core-stack",
+  "version": "0.1.0",
+  "title": "MarTech Product Manager (CDP, Marketing Automation, BI, Attribution, and Asset Management)",
+  "summary": "Owns MarTech product requirements across CDP, marketing automation, BI, attribution, and asset management so agency teams get practical platforms that improve execution.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "product-management"
+  },
+  "discovery": {
+    "tags": [
+      "martech",
+      "product",
+      "core",
+      "stack",
+      "cdp",
+      "automation",
+      "bi",
+      "attribution"
+    ],
+    "domains": [
+      "product",
+      "management"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "martech",
+      "product",
+      "core",
+      "stack"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "martech-product",
+      "stack-management"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/product-management/digital-marketing-martech-product-manager-core-stack"
+  }
+}

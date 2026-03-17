@@ -1,0 +1,55 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-account-executive-agency",
+  "version": "0.1.0",
+  "title": "Account Executive (Agency)",
+  "summary": "Supports account execution so agency deliverables, client requests, and follow-up actions move forward on schedule.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "account-management"
+  },
+  "discovery": {
+    "tags": [
+      "account",
+      "management"
+    ],
+    "domains": [
+      "account",
+      "management"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "account",
+      "management"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "account-management"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/account-management/digital-marketing-account-executive-agency"
+  }
+}

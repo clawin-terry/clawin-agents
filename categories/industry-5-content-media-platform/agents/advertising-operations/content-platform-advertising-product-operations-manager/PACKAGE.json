@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-advertising-product-operations-manager",
                     "workspace":  "~/.openclaw/agents/content-platform-advertising-product-operations-manager/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-advertising-product-operations-manager/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-advertising-product-operations-manager.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-advertising-product-operations-manager.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

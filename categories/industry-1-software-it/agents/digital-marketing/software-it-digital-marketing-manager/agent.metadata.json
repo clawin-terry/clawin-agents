@@ -1,0 +1,52 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-digital-marketing-manager",
+  "version": "0.1.0",
+  "title": "Digital Marketing Manager",
+  "summary": "Leads digital demand programs across channel mix, performance governance, and execution rhythm to improve measurable pipeline contribution.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "digital-marketing"
+  },
+  "discovery": {
+    "tags": [
+      "general"
+    ],
+    "domains": [
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "general"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "general-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/digital-marketing/software-it-digital-marketing-manager"
+  }
+}

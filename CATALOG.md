@@ -2491,3 +2491,91 @@ Published role families:
 - `content-platform-review-workforce-capacity-manager-platform` — Review Workforce Capacity Manager (Platform)
 - `content-platform-video-automated-review-specialist-platform` — Video Automated Review Specialist (Platform)
 
+## industry-6-financial-research
+
+Published role families:
+- `equity-analysis` — 10 agents
+- `event-earnings-monitoring` — 6 agents
+- `market-monitoring` — 6 agents
+- `portfolio-research-support` — 5 agents
+- `research-ops-data-monitoring` — 6 agents
+- `scenario-stress-analysis` — 5 agents
+- `screening-comparison` — 8 agents
+- `sector-thematic-research` — 6 agents
+
+## equity-analysis
+
+- `financial-research-business-model-analyst` — Business Model Analyst
+- `financial-research-capital-allocation-analyst` — Capital Allocation Analyst
+- `financial-research-company-research-analyst` — Company Research Analyst
+- `financial-research-financial-statement-analyst` — Financial Statement Analyst
+- `financial-research-idea-intake-analyst` — Idea Intake Analyst
+- `financial-research-management-quality-analyst` — Management Quality Analyst
+- `financial-research-risk-review-analyst` — Risk Review Analyst
+- `financial-research-thesis-maintenance-analyst` — Thesis Maintenance Analyst
+- `financial-research-valuation-analyst` — Valuation Analyst
+- `financial-research-watchlist-monitor-analyst` — Watchlist Monitor Analyst
+
+## event-earnings-monitoring
+
+- `financial-research-earnings-preview-analyst` — Earnings Preview Analyst
+- `financial-research-earnings-reaction-analyst` — Earnings Reaction Analyst
+- `financial-research-estimate-revision-analyst` — Estimate Revision Analyst
+- `financial-research-event-calendar-analyst` — Event Calendar Analyst
+- `financial-research-guidance-change-analyst` — Guidance Change Analyst
+- `financial-research-transcript-highlight-analyst` — Transcript Highlight Analyst
+
+## market-monitoring
+
+- `financial-research-cross-asset-monitor-analyst` — Cross-Asset Signal Monitor Analyst
+- `financial-research-macro-market-monitor-analyst` — Macro Market Monitor Analyst
+- `financial-research-news-catalyst-monitor-analyst` — News Catalyst Monitor Analyst
+- `financial-research-policy-monitor-analyst` — Policy & Regulatory Monitor Analyst
+- `financial-research-sector-rotation-monitor-analyst` — Sector Rotation Monitor Analyst
+- `financial-research-sentiment-monitor-analyst` — Sentiment & Positioning Monitor Analyst
+
+## portfolio-research-support
+
+- `financial-research-diligence-tracker` — Diligence Tracker
+- `financial-research-exposure-review-analyst` — Portfolio Exposure Review Analyst
+- `financial-research-research-coverage-coordinator` — Research Coverage Coordinator
+- `financial-research-research-handoff-editor` — Research Handoff Editor
+- `financial-research-watchlist-curator` — Watchlist Curator
+
+## research-ops-data-monitoring
+
+- `financial-research-alt-data-analyst` — Alternative Data Signal Analyst
+- `financial-research-catalyst-calendar-lead` — Catalyst Calendar Coordinator
+- `financial-research-consensus-estimate-monitor` — Consensus Estimate Monitor
+- `financial-research-data-quality-steward` — Data Quality Steward
+- `financial-research-evidence-gap-tracker` — Evidence Gap Tracker
+- `financial-research-memo-editor-analyst` — Memo Standardization Analyst
+
+## scenario-stress-analysis
+
+- `financial-research-catalyst-path-analyst` — Catalyst Path Analyst
+- `financial-research-downside-stress-analyst` — Downside Stress Analyst
+- `financial-research-liquidity-stress-analyst` — Liquidity & Balance Sheet Stress Analyst
+- `financial-research-sensitivity-matrix-analyst` — Sensitivity Matrix Analyst
+- `financial-research-thesis-scenario-analyst` — Thesis Scenario Analyst
+
+## screening-comparison
+
+- `financial-research-factor-exposure-analyst` — Factor Exposure Analyst
+- `financial-research-idea-prioritization-analyst` — Idea Prioritization Analyst
+- `financial-research-market-map-analyst` — Market Map Analyst
+- `financial-research-peer-comparison-analyst` — Peer Comparison Analyst
+- `financial-research-quality-screen-analyst` — Quality Screen Analyst
+- `financial-research-relative-value-analyst` — Relative Value Analyst
+- `financial-research-screener-strategy-analyst` — Screener Strategy Analyst
+- `financial-research-variant-perception-analyst` — Variant Perception Analyst
+
+## sector-thematic-research
+
+- `financial-research-channel-check-planner` — Channel Check Planner
+- `financial-research-competitive-landscape-analyst` — Competitive Landscape Analyst
+- `financial-research-industry-kpi-monitor` — Industry KPI Monitor
+- `financial-research-sector-structure-analyst` — Sector Structure Analyst
+- `financial-research-supply-chain-signal-analyst` — Supply Chain Signal Analyst
+- `financial-research-thematic-trend-analyst` — Thematic Trend Analyst
+

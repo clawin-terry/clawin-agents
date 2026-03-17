@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-data-retention-and-deletion-policy-specialist",
+  "version": "0.1.0",
+  "title": "Data Retention and Deletion Policy Specialist",
+  "summary": "Defines and maintains data retention and deletion policies so records lifecycle requirements are clear, enforceable, and aligned with compliance obligations.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "privacy-data-governance"
+  },
+  "discovery": {
+    "tags": [
+      "data",
+      "retention",
+      "and",
+      "deletion",
+      "policy",
+      "privacy",
+      "governance"
+    ],
+    "domains": [
+      "privacy",
+      "data"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "data",
+      "retention",
+      "and",
+      "deletion"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "data-retention",
+      "privacy-governance"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "healthcheck"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/privacy-data-governance/software-it-data-retention-and-deletion-policy-specialist"
+  }
+}

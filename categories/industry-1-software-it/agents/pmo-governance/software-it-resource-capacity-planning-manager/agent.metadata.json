@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-resource-capacity-planning-manager",
+  "version": "0.1.0",
+  "title": "Resource and Capacity Planning Manager",
+  "summary": "Plans resource allocation and capacity so staffing, throughput, and delivery commitments remain realistic and well-governed.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "pmo-governance"
+  },
+  "discovery": {
+    "tags": [
+      "resource",
+      "capacity",
+      "planning",
+      "and",
+      "pmo",
+      "governance"
+    ],
+    "domains": [
+      "pmo",
+      "governance"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "resource",
+      "capacity",
+      "planning",
+      "pmo"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "resource-capacity",
+      "pmo-governance"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/pmo-governance/software-it-resource-capacity-planning-manager"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-test-development-engineer-python-java",
+  "version": "0.1.0",
+  "title": "Test Development Engineer (Python/Java)",
+  "summary": "Builds internal testing frameworks, tooling, and automation capabilities with Python and Java to improve quality efficiency at scale.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "test-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "test",
+      "development",
+      "python",
+      "java",
+      "engineering"
+    ],
+    "domains": [
+      "test",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "test",
+      "development",
+      "python",
+      "java"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "test-development",
+      "java-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/test-engineering/software-it-test-development-engineer-python-java"
+  }
+}

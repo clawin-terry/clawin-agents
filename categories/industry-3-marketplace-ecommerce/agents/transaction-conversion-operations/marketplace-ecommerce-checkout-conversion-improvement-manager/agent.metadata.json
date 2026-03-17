@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-checkout-conversion-improvement-manager",
+  "version": "0.1.0",
+  "title": "Checkout Conversion Improvement Manager",
+  "summary": "Improves checkout conversion so more buyers complete orders through smoother purchase flows and clearer operational interventions.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "transaction-conversion-operations"
+  },
+  "discovery": {
+    "tags": [
+      "checkout",
+      "conversion",
+      "improvement",
+      "transaction",
+      "operations"
+    ],
+    "domains": [
+      "transaction",
+      "conversion"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "checkout",
+      "conversion",
+      "improvement",
+      "transaction"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "checkout-conversion",
+      "transaction-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/transaction-conversion-operations/marketplace-ecommerce-checkout-conversion-improvement-manager"
+  }
+}

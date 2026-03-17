@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-qa-director",
                     "workspace":  "~/.openclaw/agents/software-it-qa-director/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-qa-director/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-qa-director.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-qa-director.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

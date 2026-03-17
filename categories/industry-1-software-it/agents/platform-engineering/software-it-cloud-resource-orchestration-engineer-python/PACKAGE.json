@@ -16,7 +16,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-cloud-resource-orchestration-engineer-python",
                     "workspace":  "~/.openclaw/agents/software-it-cloud-resource-orchestration-engineer-python/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-cloud-resource-orchestration-engineer-python/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-cloud-resource-orchestration-engineer-python.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-cloud-resource-orchestration-engineer-python.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

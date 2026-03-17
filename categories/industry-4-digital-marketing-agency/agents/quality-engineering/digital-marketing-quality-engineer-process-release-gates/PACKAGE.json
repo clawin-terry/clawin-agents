@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/digital-marketing-quality-engineer-process-release-gates",
                     "workspace":  "~/.openclaw/agents/digital-marketing-quality-engineer-process-release-gates/workspace",
                     "agentDir":  "~/.openclaw/agents/digital-marketing-quality-engineer-process-release-gates/agent",
-                    "configEntry":  "config/openclaw.agent.digital-marketing-quality-engineer-process-release-gates.entry.json",
-                    "configSnippet":  "config/openclaw.agent.digital-marketing-quality-engineer-process-release-gates.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

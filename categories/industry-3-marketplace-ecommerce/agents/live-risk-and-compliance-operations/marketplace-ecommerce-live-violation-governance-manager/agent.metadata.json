@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-live-violation-governance-manager",
+  "version": "0.1.0",
+  "title": "Live Violation Governance Manager",
+  "summary": "Runs live violation governance so low-quality, inappropriate, and policy-breaking marketplace streams are handled consistently and quickly.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "live-risk-and-compliance-operations"
+  },
+  "discovery": {
+    "tags": [
+      "live",
+      "violation",
+      "governance",
+      "risk",
+      "and",
+      "compliance",
+      "operations"
+    ],
+    "domains": [
+      "live",
+      "risk"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "live",
+      "violation",
+      "governance",
+      "risk"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "live-violation",
+      "compliance-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/live-risk-and-compliance-operations/marketplace-ecommerce-live-violation-governance-manager"
+  }
+}

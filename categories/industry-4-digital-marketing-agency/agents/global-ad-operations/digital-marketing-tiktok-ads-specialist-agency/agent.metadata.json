@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-tiktok-ads-specialist-agency",
+  "version": "0.1.0",
+  "title": "TikTok Ads Specialist (Agency)",
+  "summary": "Runs TikTok Ads so agency global campaigns can scale short-form video acquisition with stronger platform execution and learning loops.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "global-ad-operations"
+  },
+  "discovery": {
+    "tags": [
+      "tiktok",
+      "ads",
+      "global",
+      "ad",
+      "operations"
+    ],
+    "domains": [
+      "global",
+      "ad"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "tiktok",
+      "ads",
+      "global",
+      "ad"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "tiktok-ads",
+      "ad-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/global-ad-operations/digital-marketing-tiktok-ads-specialist-agency"
+  }
+}

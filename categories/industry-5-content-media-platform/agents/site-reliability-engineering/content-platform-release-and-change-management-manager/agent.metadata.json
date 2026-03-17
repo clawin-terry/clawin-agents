@@ -1,0 +1,66 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-release-and-change-management-manager",
+  "version": "0.1.0",
+  "title": "Release and Change Management Manager",
+  "summary": "Leads release and change management so production changes move with stronger risk controls, rollback readiness, and cross-team operational coordination.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "site-reliability-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "release",
+      "and",
+      "change",
+      "management",
+      "site",
+      "reliability"
+    ],
+    "domains": [
+      "site",
+      "reliability"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "release",
+      "and"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "reliability-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "healthcheck"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/site-reliability-engineering/content-platform-release-and-change-management-manager"
+  }
+}

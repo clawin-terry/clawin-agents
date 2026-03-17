@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-solutions-architect",
+  "version": "0.1.0",
+  "title": "Solutions Architect",
+  "summary": "Designs practical solution architectures that connect customer needs, product capabilities, and delivery feasibility during the pre-sales cycle.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "pre-sales"
+  },
+  "discovery": {
+    "tags": [
+      "solutions",
+      "architect",
+      "pre",
+      "sales"
+    ],
+    "domains": [
+      "pre",
+      "sales"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "solutions",
+      "architect",
+      "pre",
+      "sales"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "solutions-architect",
+      "pre-sales"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/pre-sales/software-it-solutions-architect"
+  }
+}

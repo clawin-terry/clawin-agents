@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-head-of-commercial-operations",
+  "version": "0.1.0",
+  "title": "Head of Commercial Operations",
+  "summary": "Leads pricing, packaging, and revenue operations so commercial systems stay coherent, measurable, and aligned with business growth goals.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "commercial-operations"
+  },
+  "discovery": {
+    "tags": [
+      "head",
+      "of",
+      "commercial",
+      "operations"
+    ],
+    "domains": [
+      "commercial",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "head",
+      "of",
+      "commercial",
+      "operations"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "head-of",
+      "commercial-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/commercial-operations/software-it-head-of-commercial-operations"
+  }
+}

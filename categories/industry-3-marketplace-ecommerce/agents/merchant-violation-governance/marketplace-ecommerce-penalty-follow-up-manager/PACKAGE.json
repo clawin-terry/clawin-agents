@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-penalty-follow-up-manager",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-penalty-follow-up-manager/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-penalty-follow-up-manager/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-penalty-follow-up-manager.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-penalty-follow-up-manager.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

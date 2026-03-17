@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-accessibility-usability-engineer-js-ts",
+  "version": "0.1.0",
+  "title": "Accessibility and Usability Engineer (JS/TS)",
+  "summary": "Improves accessibility, usability, and inclusive interaction quality across web products using a JS/TS stack.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "engineering"
+  },
+  "discovery": {
+    "tags": [
+      "accessibility",
+      "usability",
+      "js",
+      "ts",
+      "and",
+      "engineering"
+    ],
+    "domains": [
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "accessibility",
+      "usability",
+      "js",
+      "ts"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "accessibility-usability",
+      "ts-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "ui-ux-pro-max"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/engineering/software-it-accessibility-usability-engineer-js-ts"
+  }
+}

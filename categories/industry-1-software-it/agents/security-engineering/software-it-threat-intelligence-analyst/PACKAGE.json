@@ -16,7 +16,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-threat-intelligence-analyst",
                     "workspace":  "~/.openclaw/agents/software-it-threat-intelligence-analyst/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-threat-intelligence-analyst/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-threat-intelligence-analyst.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-threat-intelligence-analyst.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

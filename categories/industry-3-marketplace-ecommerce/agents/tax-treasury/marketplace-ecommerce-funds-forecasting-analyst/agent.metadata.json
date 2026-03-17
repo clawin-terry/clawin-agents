@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-funds-forecasting-analyst",
+  "version": "0.1.0",
+  "title": "Funds Forecasting Analyst",
+  "summary": "Builds funds forecasts so marketplace finance teams can anticipate liquidity needs, payment cycles, and short-term cash risk more clearly.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "tax-treasury"
+  },
+  "discovery": {
+    "tags": [
+      "funds",
+      "forecasting",
+      "tax",
+      "treasury"
+    ],
+    "domains": [
+      "tax",
+      "treasury"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "funds",
+      "forecasting",
+      "tax",
+      "treasury"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "funds-forecasting",
+      "tax-treasury"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/tax-treasury/marketplace-ecommerce-funds-forecasting-analyst"
+  }
+}

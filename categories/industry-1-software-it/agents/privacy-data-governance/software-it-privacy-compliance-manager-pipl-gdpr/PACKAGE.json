@@ -16,7 +16,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-privacy-compliance-manager-pipl-gdpr",
                     "workspace":  "~/.openclaw/agents/software-it-privacy-compliance-manager-pipl-gdpr/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-privacy-compliance-manager-pipl-gdpr/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-privacy-compliance-manager-pipl-gdpr.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-privacy-compliance-manager-pipl-gdpr.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

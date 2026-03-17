@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "financial-research-evidence-gap-tracker",
+                                    "default":  false,
+                                    "name":  "Evidence Gap Tracker",
+                                    "workspace":  "~/.openclaw/agents/financial-research-evidence-gap-tracker/workspace",
+                                    "agentDir":  "~/.openclaw/agents/financial-research-evidence-gap-tracker/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

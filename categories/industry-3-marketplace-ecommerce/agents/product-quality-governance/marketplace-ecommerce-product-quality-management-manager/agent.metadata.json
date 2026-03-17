@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-product-quality-management-manager",
+  "version": "0.1.0",
+  "title": "Product Quality Management Manager",
+  "summary": "Runs product quality management so marketplace goods meet quality standards, inspection expectations, and seller accountability requirements.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "product-quality-governance"
+  },
+  "discovery": {
+    "tags": [
+      "product",
+      "quality",
+      "management",
+      "governance"
+    ],
+    "domains": [
+      "product",
+      "quality"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "product",
+      "quality",
+      "management",
+      "governance"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "product-quality",
+      "management-governance"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/product-quality-governance/marketplace-ecommerce-product-quality-management-manager"
+  }
+}

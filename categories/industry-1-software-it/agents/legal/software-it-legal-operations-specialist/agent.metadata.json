@@ -1,0 +1,56 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-legal-operations-specialist",
+  "version": "0.1.0",
+  "title": "Legal Operations Specialist (Registers / Company Seals)",
+  "summary": "Runs legal operations administration so registers, approvals, company seals, and supporting records remain accurate, controlled, and easy to audit.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "legal"
+  },
+  "discovery": {
+    "tags": [
+      "legal",
+      "operations",
+      "registers",
+      "company",
+      "seals"
+    ],
+    "domains": [
+      "legal"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "legal",
+      "operations"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "legal-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/legal/software-it-legal-operations-specialist"
+  }
+}

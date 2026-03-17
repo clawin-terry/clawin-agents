@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-gifting-and-cohost-rules-product-manager",
+  "version": "0.1.0",
+  "title": "Gifting and Co-Host Rules Product Manager",
+  "summary": "Owns gifting systems and co-host rule products so monetization, collaborative live formats, and participation safeguards stay balanced and easier to govern.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "product-management"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "gifting",
+      "and",
+      "cohost",
+      "rules",
+      "product",
+      "co"
+    ],
+    "domains": [
+      "product",
+      "management"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "gifting",
+      "and"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "product-management"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/product-management/content-platform-gifting-and-cohost-rules-product-manager"
+  }
+}

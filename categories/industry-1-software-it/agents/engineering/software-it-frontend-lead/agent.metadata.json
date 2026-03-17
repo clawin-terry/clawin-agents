@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-frontend-lead",
+  "version": "0.1.0",
+  "title": "Frontend Lead",
+  "summary": "Leads frontend architecture, code quality, and delivery for modern web products built on a JS/TS stack.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "engineering"
+  },
+  "discovery": {
+    "tags": [
+      "frontend",
+      "engineering"
+    ],
+    "domains": [
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "frontend",
+      "engineering"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "frontend-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design",
+      "browser"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "ui-ux-pro-max",
+      "frontend-design"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/engineering/software-it-frontend-lead"
+  }
+}

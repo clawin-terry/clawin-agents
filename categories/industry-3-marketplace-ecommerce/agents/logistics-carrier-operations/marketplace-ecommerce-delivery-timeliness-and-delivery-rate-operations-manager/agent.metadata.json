@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-delivery-timeliness-and-delivery-rate-operations-manager",
+  "version": "0.1.0",
+  "title": "Delivery Timeliness and Delivery Rate Operations Manager",
+  "summary": "Improves delivery timeliness and successful delivery rates so fulfillment outcomes meet buyer expectations and platform standards.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "logistics-carrier-operations"
+  },
+  "discovery": {
+    "tags": [
+      "delivery",
+      "timeliness",
+      "and",
+      "rate",
+      "operations",
+      "logistics",
+      "carrier"
+    ],
+    "domains": [
+      "logistics",
+      "carrier"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "delivery",
+      "timeliness",
+      "and",
+      "rate"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "delivery-timeliness",
+      "logistics-carrier"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/logistics-carrier-operations/marketplace-ecommerce-delivery-timeliness-and-delivery-rate-operations-manager"
+  }
+}

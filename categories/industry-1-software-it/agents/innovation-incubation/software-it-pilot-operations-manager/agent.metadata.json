@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-pilot-operations-manager",
+  "version": "0.1.0",
+  "title": "Pilot Operations Manager",
+  "summary": "Runs pilot operations so early programs are coordinated well, measured clearly, and translated into practical launch or shutdown decisions.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "innovation-incubation"
+  },
+  "discovery": {
+    "tags": [
+      "pilot",
+      "operations",
+      "innovation",
+      "incubation"
+    ],
+    "domains": [
+      "innovation",
+      "incubation"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "pilot",
+      "operations",
+      "innovation",
+      "incubation"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "pilot-operations",
+      "innovation-incubation"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/innovation-incubation/software-it-pilot-operations-manager"
+  }
+}

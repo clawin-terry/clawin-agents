@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-meetings-and-reception-specialist",
+  "version": "0.1.0",
+  "title": "Meetings and Reception Specialist",
+  "summary": "Coordinates meetings and reception workflows so events, guests, and internal logistics are handled with reliable operational support.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "administration"
+  },
+  "discovery": {
+    "tags": [
+      "meetings",
+      "and",
+      "reception",
+      "administration"
+    ],
+    "domains": [
+      "administration"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "meetings",
+      "and",
+      "reception",
+      "administration"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "meetings-and",
+      "reception-administration"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/administration/software-it-meetings-and-reception-specialist"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-livestream-retrospective-optimizer-agency",
+  "version": "0.1.0",
+  "title": "Livestream Retrospective Optimizer (Agency)",
+  "summary": "Runs livestream retrospectives so agency teams can turn session learning into clearer script, pacing, and offer improvements for future broadcasts.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "livestream-operations"
+  },
+  "discovery": {
+    "tags": [
+      "livestream",
+      "retrospective",
+      "optimizer",
+      "operations"
+    ],
+    "domains": [
+      "livestream",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "livestream",
+      "retrospective",
+      "optimizer",
+      "operations"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "livestream-retrospective",
+      "optimizer-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/livestream-operations/digital-marketing-livestream-retrospective-optimizer-agency"
+  }
+}

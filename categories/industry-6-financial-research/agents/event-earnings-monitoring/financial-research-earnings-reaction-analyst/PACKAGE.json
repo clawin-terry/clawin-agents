@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/financial-research-earnings-reaction-analyst",
                     "workspace":  "~/.openclaw/agents/financial-research-earnings-reaction-analyst/workspace",
                     "agentDir":  "~/.openclaw/agents/financial-research-earnings-reaction-analyst/agent",
-                    "configEntry":  "config/openclaw.agent.financial-research-earnings-reaction-analyst.entry.json",
-                    "configSnippet":  "config/openclaw.agent.financial-research-earnings-reaction-analyst.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

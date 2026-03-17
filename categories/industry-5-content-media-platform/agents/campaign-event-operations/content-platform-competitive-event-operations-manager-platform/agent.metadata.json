@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-competitive-event-operations-manager-platform",
+  "version": "0.1.0",
+  "title": "Competitive Event Operations Manager (Platform)",
+  "summary": "Operates competitive events so rules, schedules, participants, and promotional support come together in stronger platform event execution.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "campaign-event-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "competitive",
+      "event",
+      "operations",
+      "campaign"
+    ],
+    "domains": [
+      "campaign",
+      "event"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "competitive",
+      "event"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "operations-campaign"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/campaign-event-operations/content-platform-competitive-event-operations-manager-platform"
+  }
+}

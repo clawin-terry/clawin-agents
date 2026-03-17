@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-creator-signing-and-relationship-manager-platform",
+  "version": "0.1.0",
+  "title": "Creator Signing and Relationship Manager (Platform)",
+  "summary": "Leads creator signing and relationship management so key partnerships, renewals, and creator commitments remain stable and well coordinated.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "creator-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "creator",
+      "signing",
+      "and",
+      "relationship",
+      "operations"
+    ],
+    "domains": [
+      "creator",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "creator",
+      "signing"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "relationship-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/creator-operations/content-platform-creator-signing-and-relationship-manager-platform"
+  }
+}

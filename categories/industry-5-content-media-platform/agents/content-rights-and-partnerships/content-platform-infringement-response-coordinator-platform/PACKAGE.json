@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-infringement-response-coordinator-platform",
                     "workspace":  "~/.openclaw/agents/content-platform-infringement-response-coordinator-platform/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-infringement-response-coordinator-platform/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-infringement-response-coordinator-platform.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-infringement-response-coordinator-platform.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

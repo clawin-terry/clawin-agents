@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-creative-presentation-packaging-specialist-agency",
+  "version": "0.1.0",
+  "title": "Creative Presentation Packaging Specialist (Agency)",
+  "summary": "Packages creative proposals so agency concepts, story arcs, and recommendation decks look polished and are easier for clients to evaluate.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "creative-planning"
+  },
+  "discovery": {
+    "tags": [
+      "creative",
+      "presentation",
+      "packaging",
+      "planning"
+    ],
+    "domains": [
+      "creative",
+      "planning"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "creative",
+      "presentation",
+      "packaging",
+      "planning"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "creative-presentation",
+      "packaging-planning"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/creative-planning/digital-marketing-creative-presentation-packaging-specialist-agency"
+  }
+}

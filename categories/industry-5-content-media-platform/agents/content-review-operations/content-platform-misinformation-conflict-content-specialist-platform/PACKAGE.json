@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-misinformation-conflict-content-specialist-platform",
                     "workspace":  "~/.openclaw/agents/content-platform-misinformation-conflict-content-specialist-platform/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-misinformation-conflict-content-specialist-platform/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-misinformation-conflict-content-specialist-platform.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-misinformation-conflict-content-specialist-platform.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

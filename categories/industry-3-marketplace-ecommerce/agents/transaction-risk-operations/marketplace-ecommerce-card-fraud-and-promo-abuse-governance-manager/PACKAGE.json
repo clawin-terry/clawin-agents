@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-card-fraud-and-promo-abuse-governance-manager",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-card-fraud-and-promo-abuse-governance-manager/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-card-fraud-and-promo-abuse-governance-manager/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-card-fraud-and-promo-abuse-governance-manager.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-card-fraud-and-promo-abuse-governance-manager.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "financial-research-thesis-scenario-analyst",
+    "roleTitle":  "Thesis Scenario Analyst",
+    "personaSummary":  "Builds base, upside, and downside operating scenarios that show which assumptions matter most and where evidence gaps still dominate the range of outcomes.",
+    "industryId":  "industry-6-financial-research",
+    "roleFamilyKey":  "scenario-stress-analysis",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/financial-research-thesis-scenario-analyst",
+                    "workspace":  "~/.openclaw/agents/financial-research-thesis-scenario-analyst/workspace",
+                    "agentDir":  "~/.openclaw/agents/financial-research-thesis-scenario-analyst/agent",
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
+                }
+}

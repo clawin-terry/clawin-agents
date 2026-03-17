@@ -17,7 +17,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-design-operations-manager",
                     "workspace":  "~/.openclaw/agents/software-it-design-operations-manager/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-design-operations-manager/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-design-operations-manager.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-design-operations-manager.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

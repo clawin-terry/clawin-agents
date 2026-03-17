@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-reporting-funnel-operations-coordinator-platform",
+  "version": "0.1.0",
+  "title": "Reporting Funnel Operations Coordinator (Platform)",
+  "summary": "Coordinates reporting-entry operations so abuse reports are easier to submit, triage, and route into the right governance and response workflows.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "community-governance-risk"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "reporting",
+      "funnel",
+      "operations",
+      "community",
+      "governance",
+      "risk"
+    ],
+    "domains": [
+      "community",
+      "governance"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "reporting",
+      "funnel"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "governance-risk"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/community-governance-risk/content-platform-reporting-funnel-operations-coordinator-platform"
+  }
+}

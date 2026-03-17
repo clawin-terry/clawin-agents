@@ -1,0 +1,56 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-creative-director-agency",
+  "version": "0.1.0",
+  "title": "Creative Director (Agency)",
+  "summary": "Leads creative direction so agency concepts, storytelling quality, and presentation standards stay coherent across campaigns and pitches.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "creative-planning"
+  },
+  "discovery": {
+    "tags": [
+      "creative",
+      "planning"
+    ],
+    "domains": [
+      "creative",
+      "planning"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "creative",
+      "planning"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "creative-planning"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/creative-planning/digital-marketing-creative-director-agency"
+  }
+}

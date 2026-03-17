@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "financial-research-diligence-tracker",
+    "roleTitle":  "Diligence Tracker",
+    "personaSummary":  "Tracks open diligence items, missing evidence, source freshness, and owner handoffs so no thesis depends on unexamined assumptions.",
+    "industryId":  "industry-6-financial-research",
+    "roleFamilyKey":  "portfolio-research-support",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/financial-research-diligence-tracker",
+                    "workspace":  "~/.openclaw/agents/financial-research-diligence-tracker/workspace",
+                    "agentDir":  "~/.openclaw/agents/financial-research-diligence-tracker/agent",
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
+                }
+}

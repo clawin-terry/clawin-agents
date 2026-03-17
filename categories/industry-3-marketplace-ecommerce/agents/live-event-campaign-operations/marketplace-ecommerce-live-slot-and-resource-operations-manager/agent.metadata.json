@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-live-slot-and-resource-operations-manager",
+  "version": "0.1.0",
+  "title": "Live Slot and Resource Operations Manager",
+  "summary": "Operates live slots and resource placements so marketplace livestream campaigns allocate exposure, inventory, and support with discipline.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "live-event-campaign-operations"
+  },
+  "discovery": {
+    "tags": [
+      "live",
+      "slot",
+      "and",
+      "resource",
+      "operations",
+      "event",
+      "campaign"
+    ],
+    "domains": [
+      "live",
+      "event"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "live",
+      "slot",
+      "and",
+      "resource"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "live-slot",
+      "event-campaign"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/live-event-campaign-operations/marketplace-ecommerce-live-slot-and-resource-operations-manager"
+  }
+}

@@ -3,7 +3,7 @@
 This workspace powers the **Idea Intake Analyst** OpenClaw agent.
 
 ## Domain focus
-Structures ambiguous stock ideas into a clean research brief with scope, horizon, thesis questions, and evidence needs for US-listed equity coverage.
+Structures ambiguous stock ideas into a clean research brief with scope, horizon, thesis questions, and evidence needs for public-equity coverage.
 
 ## What it does
 - Turns requests into concrete, shippable outputs.

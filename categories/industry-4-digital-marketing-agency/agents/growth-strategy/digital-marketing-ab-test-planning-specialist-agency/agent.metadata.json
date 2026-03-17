@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-ab-test-planning-specialist-agency",
+  "version": "0.1.0",
+  "title": "A/B Test Planning Specialist (Agency)",
+  "summary": "Designs A/B testing plans so agency teams can evaluate campaign changes with clearer hypotheses, variants, and learning loops.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "growth-strategy"
+  },
+  "discovery": {
+    "tags": [
+      "ab",
+      "test",
+      "planning",
+      "a",
+      "b",
+      "growth",
+      "strategy"
+    ],
+    "domains": [
+      "growth",
+      "strategy"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "ab",
+      "test",
+      "planning",
+      "growth"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "ab-test",
+      "growth-strategy"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/growth-strategy/digital-marketing-ab-test-planning-specialist-agency"
+  }
+}

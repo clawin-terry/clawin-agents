@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-culture-and-employee-events-coordinator-platform",
+  "version": "0.1.0",
+  "title": "Culture and Employee Events Coordinator (Platform)",
+  "summary": "Coordinates culture initiatives and employee events so internal engagement programs, celebrations, and cross-team activities run smoothly and strengthen workplace cohesion.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "administration"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "culture",
+      "and",
+      "employee",
+      "events",
+      "administration"
+    ],
+    "domains": [
+      "administration"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "culture",
+      "and"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "events-administration"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/administration/content-platform-culture-and-employee-events-coordinator-platform"
+  }
+}

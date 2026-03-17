@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-etl-elt-engineer-python-sql",
+  "version": "0.1.0",
+  "title": "ETL and ELT Engineer (Python/SQL)",
+  "summary": "Builds ETL and ELT workflows with Python and SQL, improving ingestion quality, transformation reliability, and operational transparency across the data stack.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "data-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "etl",
+      "elt",
+      "python",
+      "sql",
+      "and",
+      "data",
+      "engineering"
+    ],
+    "domains": [
+      "data",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "etl",
+      "elt",
+      "python",
+      "sql"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "etl-elt",
+      "data-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/data-engineering/software-it-etl-elt-engineer-python-sql"
+  }
+}

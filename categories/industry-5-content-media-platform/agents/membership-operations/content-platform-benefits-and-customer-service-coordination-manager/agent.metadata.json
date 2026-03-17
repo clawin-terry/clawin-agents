@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-benefits-and-customer-service-coordination-manager",
+  "version": "0.1.0",
+  "title": "Benefits and Customer Service Coordination Manager",
+  "summary": "Coordinates membership benefits and customer service workflows so premium entitlements are delivered clearly and support issues are resolved without eroding member trust.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "membership-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "benefits",
+      "and",
+      "customer",
+      "service",
+      "coordination",
+      "membership"
+    ],
+    "domains": [
+      "membership",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "benefits",
+      "and"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "membership-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/membership-operations/content-platform-benefits-and-customer-service-coordination-manager"
+  }
+}

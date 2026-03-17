@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-appeals-guidance-specialist",
+  "version": "0.1.0",
+  "title": "Appeals Guidance Specialist",
+  "summary": "Guides merchants through appeals so cases are prepared more clearly and resolved with stronger procedural consistency.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "merchant-violation-governance"
+  },
+  "discovery": {
+    "tags": [
+      "appeals",
+      "guidance",
+      "merchant",
+      "violation",
+      "governance"
+    ],
+    "domains": [
+      "merchant",
+      "violation"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "appeals",
+      "guidance",
+      "merchant",
+      "violation"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "appeals-guidance",
+      "violation-governance"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/merchant-violation-governance/marketplace-ecommerce-appeals-guidance-specialist"
+  }
+}

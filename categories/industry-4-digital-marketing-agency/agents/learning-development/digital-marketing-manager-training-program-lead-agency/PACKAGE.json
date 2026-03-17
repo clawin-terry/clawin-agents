@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/digital-marketing-manager-training-program-lead-agency",
                     "workspace":  "~/.openclaw/agents/digital-marketing-manager-training-program-lead-agency/workspace",
                     "agentDir":  "~/.openclaw/agents/digital-marketing-manager-training-program-lead-agency/agent",
-                    "configEntry":  "config/openclaw.agent.digital-marketing-manager-training-program-lead-agency.entry.json",
-                    "configSnippet":  "config/openclaw.agent.digital-marketing-manager-training-program-lead-agency.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

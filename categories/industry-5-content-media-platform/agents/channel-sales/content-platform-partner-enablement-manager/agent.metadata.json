@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-partner-enablement-manager",
+  "version": "0.1.0",
+  "title": "Partner Enablement Manager",
+  "summary": "Builds partner training and enablement programs so agencies can adopt platform products, policies, and operating practices more effectively.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "channel-sales"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "partner",
+      "enablement",
+      "channel",
+      "sales"
+    ],
+    "domains": [
+      "channel",
+      "sales"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "partner",
+      "enablement"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "channel-sales"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/channel-sales/content-platform-partner-enablement-manager"
+  }
+}

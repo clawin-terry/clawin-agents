@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-commercial-business-analyst",
                     "workspace":  "~/.openclaw/agents/content-platform-commercial-business-analyst/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-commercial-business-analyst/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-commercial-business-analyst.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-commercial-business-analyst.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

@@ -16,7 +16,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-review-and-operations-workbench-frontend-engineer-typescript",
                     "workspace":  "~/.openclaw/agents/content-platform-review-and-operations-workbench-frontend-engineer-typescript/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-review-and-operations-workbench-frontend-engineer-typescript/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-review-and-operations-workbench-frontend-engineer-typescript.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-review-and-operations-workbench-frontend-engineer-typescript.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

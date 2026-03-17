@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-board-affairs-manager",
                     "workspace":  "~/.openclaw/agents/software-it-board-affairs-manager/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-board-affairs-manager/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-board-affairs-manager.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-board-affairs-manager.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

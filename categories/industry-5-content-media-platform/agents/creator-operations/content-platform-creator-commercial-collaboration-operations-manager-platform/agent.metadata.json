@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-creator-commercial-collaboration-operations-manager-platform",
+  "version": "0.1.0",
+  "title": "Creator Commercial Collaboration Operations Manager (Platform)",
+  "summary": "Coordinates creator-side commercial collaboration so monetization opportunities, campaign handoffs, and platform priorities stay aligned without disrupting creator success.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "creator-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "creator",
+      "commercial",
+      "collaboration",
+      "operations"
+    ],
+    "domains": [
+      "creator",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "creator",
+      "commercial"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "collaboration-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/creator-operations/content-platform-creator-commercial-collaboration-operations-manager-platform"
+  }
+}

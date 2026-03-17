@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-ci-cd-engineer",
+  "version": "0.1.0",
+  "title": "CI/CD Engineer",
+  "summary": "Builds CI/CD capabilities so marketplace engineering teams can validate, package, and release changes with faster feedback and safer delivery workflows.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "platform-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "ci",
+      "cd",
+      "platform",
+      "engineering"
+    ],
+    "domains": [
+      "platform",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "ci",
+      "cd",
+      "platform",
+      "engineering"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "ci-cd",
+      "platform-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "healthcheck"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/platform-engineering/marketplace-ecommerce-ci-cd-engineer"
+  }
+}

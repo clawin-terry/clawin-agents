@@ -17,7 +17,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-android-client-engineer-kotlin",
                     "workspace":  "~/.openclaw/agents/content-platform-android-client-engineer-kotlin/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-android-client-engineer-kotlin/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-android-client-engineer-kotlin.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-android-client-engineer-kotlin.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

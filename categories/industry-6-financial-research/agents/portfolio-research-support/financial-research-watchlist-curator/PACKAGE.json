@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "financial-research-watchlist-curator",
+    "roleTitle":  "Watchlist Curator",
+    "personaSummary":  "Maintains structured watchlists by theme, catalyst window, diligence stage, and thesis status so research teams can review coverage systematically.",
+    "industryId":  "industry-6-financial-research",
+    "roleFamilyKey":  "portfolio-research-support",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/financial-research-watchlist-curator",
+                    "workspace":  "~/.openclaw/agents/financial-research-watchlist-curator/workspace",
+                    "agentDir":  "~/.openclaw/agents/financial-research-watchlist-curator/agent",
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
+                }
+}

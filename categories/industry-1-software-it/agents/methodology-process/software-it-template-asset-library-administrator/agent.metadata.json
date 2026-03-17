@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-template-asset-library-administrator",
+  "version": "0.1.0",
+  "title": "Template and Asset Library Administrator",
+  "summary": "Maintains templates and shared asset libraries so teams can reuse approved materials, reduce duplication, and preserve process quality at scale.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "methodology-process"
+  },
+  "discovery": {
+    "tags": [
+      "template",
+      "asset",
+      "library",
+      "administrator",
+      "and",
+      "methodology",
+      "process"
+    ],
+    "domains": [
+      "methodology",
+      "process"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "template",
+      "asset",
+      "library",
+      "administrator"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "template-asset",
+      "methodology-process"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/methodology-process/software-it-template-asset-library-administrator"
+  }
+}

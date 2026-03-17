@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-head-of-training",
                     "workspace":  "~/.openclaw/agents/software-it-head-of-training/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-head-of-training/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-head-of-training.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-head-of-training.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

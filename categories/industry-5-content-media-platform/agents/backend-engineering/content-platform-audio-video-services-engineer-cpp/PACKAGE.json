@@ -17,7 +17,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-audio-video-services-engineer-cpp",
                     "workspace":  "~/.openclaw/agents/content-platform-audio-video-services-engineer-cpp/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-audio-video-services-engineer-cpp/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-audio-video-services-engineer-cpp.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-audio-video-services-engineer-cpp.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

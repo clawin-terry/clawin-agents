@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-customer-service-and-aftersales-coordinator-agency",
+  "version": "0.1.0",
+  "title": "Customer Service and Aftersales Coordinator (Agency)",
+  "summary": "Coordinates customer service and aftersales workflows so agency ecommerce programs can connect storefront operations with issue resolution and service follow-through.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "ecommerce-operations"
+  },
+  "discovery": {
+    "tags": [
+      "customer",
+      "service",
+      "and",
+      "aftersales",
+      "operations"
+    ],
+    "domains": [
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "customer",
+      "service",
+      "and",
+      "aftersales"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "customer-service",
+      "aftersales-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/ecommerce-operations/digital-marketing-customer-service-and-aftersales-coordinator-agency"
+  }
+}

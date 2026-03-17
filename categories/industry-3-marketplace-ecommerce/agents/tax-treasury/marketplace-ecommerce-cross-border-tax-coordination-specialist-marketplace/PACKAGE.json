@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-cross-border-tax-coordination-specialist-marketplace",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-cross-border-tax-coordination-specialist-marketplace/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-cross-border-tax-coordination-specialist-marketplace/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-cross-border-tax-coordination-specialist-marketplace.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-cross-border-tax-coordination-specialist-marketplace.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

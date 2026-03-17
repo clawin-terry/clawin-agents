@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-tax-compliance-coordination-manager",
+  "version": "0.1.0",
+  "title": "Tax Compliance Coordination Manager",
+  "summary": "Coordinates tax compliance work so marketplace tax operations stay aligned with policy requirements and external stakeholders.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "tax-invoice-operations"
+  },
+  "discovery": {
+    "tags": [
+      "tax",
+      "compliance",
+      "coordination",
+      "invoice",
+      "operations"
+    ],
+    "domains": [
+      "tax",
+      "invoice"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "tax",
+      "compliance",
+      "coordination",
+      "invoice"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "tax-compliance",
+      "invoice-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/tax-invoice-operations/marketplace-ecommerce-tax-compliance-coordination-manager"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-topic-planning-manager-platform",
+  "version": "0.1.0",
+  "title": "Topic Planning Manager (Platform)",
+  "summary": "Plans content topics so the platform can organize narrative focus, mobilize creator participation, and sustain richer programming around priority themes.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "short-video-content-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "topic",
+      "planning",
+      "short",
+      "video",
+      "operations"
+    ],
+    "domains": [
+      "short",
+      "video"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "topic",
+      "planning"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "video-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/short-video-content-operations/content-platform-topic-planning-manager-platform"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-head-of-machine-learning",
+  "version": "0.1.0",
+  "title": "Head of Machine Learning",
+  "summary": "Leads machine learning strategy, technical direction, and team execution for practical model delivery aligned with product and business outcomes.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "machine-learning"
+  },
+  "discovery": {
+    "tags": [
+      "head",
+      "of",
+      "machine",
+      "learning"
+    ],
+    "domains": [
+      "machine",
+      "learning"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "head",
+      "of",
+      "machine",
+      "learning"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "head-of",
+      "machine-learning"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/machine-learning/software-it-head-of-machine-learning"
+  }
+}

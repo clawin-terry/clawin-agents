@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-expense-reimbursement-specialist-agency",
+  "version": "0.1.0",
+  "title": "Expense Reimbursement Specialist",
+  "summary": "Operates reimbursement workflows so employee expenses are reviewed, processed, and documented in line with agency policy and finance controls.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "accounting"
+  },
+  "discovery": {
+    "tags": [
+      "expense",
+      "reimbursement",
+      "accounting"
+    ],
+    "domains": [
+      "accounting"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "expense",
+      "reimbursement",
+      "accounting"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "expense-reimbursement",
+      "reimbursement-accounting"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/accounting/digital-marketing-expense-reimbursement-specialist-agency"
+  }
+}

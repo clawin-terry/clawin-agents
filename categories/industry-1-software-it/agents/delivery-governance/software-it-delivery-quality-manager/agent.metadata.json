@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-delivery-quality-manager",
+  "version": "0.1.0",
+  "title": "Delivery Quality Manager",
+  "summary": "Owns delivery quality practices so project execution, acceptance readiness, and service outcomes meet agreed standards.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "delivery-governance"
+  },
+  "discovery": {
+    "tags": [
+      "delivery",
+      "quality",
+      "governance"
+    ],
+    "domains": [
+      "delivery",
+      "governance"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "delivery",
+      "quality",
+      "governance"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "delivery-quality",
+      "quality-governance"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/delivery-governance/software-it-delivery-quality-manager"
+  }
+}

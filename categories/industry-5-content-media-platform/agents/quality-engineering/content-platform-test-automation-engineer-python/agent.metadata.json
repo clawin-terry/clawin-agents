@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-test-automation-engineer-python",
+  "version": "0.1.0",
+  "title": "Test Automation Engineer (Python)",
+  "summary": "Builds Python-based test automation so regression coverage expands and engineering teams get faster confidence in release quality.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "quality-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "test",
+      "automation",
+      "python",
+      "quality",
+      "engineering"
+    ],
+    "domains": [
+      "quality",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "test",
+      "automation"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "quality-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/quality-engineering/content-platform-test-automation-engineer-python"
+  }
+}

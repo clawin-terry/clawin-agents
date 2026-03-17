@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-enterprise-it-support-manager-platform",
+  "version": "0.1.0",
+  "title": "Enterprise IT Support Manager (Platform)",
+  "summary": "Leads enterprise IT support so employee hardware, software access, and workplace technology issues are resolved consistently and with clear service ownership.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "it-internal-control"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "enterprise",
+      "support",
+      "internal",
+      "control"
+    ],
+    "domains": [
+      "internal",
+      "control"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "enterprise",
+      "support"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "internal-control"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/it-internal-control/content-platform-enterprise-it-support-manager-platform"
+  }
+}

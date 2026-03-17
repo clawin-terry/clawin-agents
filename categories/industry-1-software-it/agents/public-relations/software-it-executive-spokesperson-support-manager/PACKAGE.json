@@ -16,7 +16,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-executive-spokesperson-support-manager",
                     "workspace":  "~/.openclaw/agents/software-it-executive-spokesperson-support-manager/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-executive-spokesperson-support-manager/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-executive-spokesperson-support-manager.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-executive-spokesperson-support-manager.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-major-customer-complaint-response-lead",
                     "workspace":  "~/.openclaw/agents/software-it-major-customer-complaint-response-lead/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-major-customer-complaint-response-lead/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-major-customer-complaint-response-lead.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-major-customer-complaint-response-lead.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

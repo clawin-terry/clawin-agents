@@ -1,0 +1,51 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-legal-director",
+  "version": "0.1.0",
+  "title": "Legal Director",
+  "summary": "Leads legal strategy, risk judgment, and team coordination so business decisions and transactions are supported with sound legal guidance.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "legal"
+  },
+  "discovery": {
+    "tags": [
+      "legal"
+    ],
+    "domains": [
+      "legal"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "legal"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "legal"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/legal/software-it-legal-director"
+  }
+}

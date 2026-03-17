@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-martech-product-director",
+  "version": "0.1.0",
+  "title": "MarTech Product Director",
+  "summary": "Leads MarTech product strategy so internal platforms, measurement capabilities, and workflow tooling align with agency delivery and data needs.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "product-management"
+  },
+  "discovery": {
+    "tags": [
+      "martech",
+      "product",
+      "management"
+    ],
+    "domains": [
+      "product",
+      "management"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "martech",
+      "product",
+      "management"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "martech-product",
+      "product-management"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/product-management/digital-marketing-martech-product-director"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-performance-manager-platform",
+  "version": "0.1.0",
+  "title": "Performance Manager (Platform)",
+  "summary": "Runs performance management so goal setting, evaluation cycles, and talent review decisions stay aligned with platform strategy and organizational standards.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "compensation-benefits-performance"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "performance",
+      "compensation",
+      "benefits"
+    ],
+    "domains": [
+      "compensation",
+      "benefits"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "performance",
+      "compensation"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "compensation-benefits"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/compensation-benefits-performance/content-platform-performance-manager-platform"
+  }
+}

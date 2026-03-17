@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-job-scheduling-engineer-java",
+  "version": "0.1.0",
+  "title": "Job Scheduling Engineer (Java)",
+  "summary": "Builds job scheduling capabilities for reliable asynchronous execution, orchestration, and operational safety.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "platform-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "job",
+      "scheduling",
+      "java",
+      "platform",
+      "engineering"
+    ],
+    "domains": [
+      "platform",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "job",
+      "scheduling",
+      "java",
+      "platform"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "job-scheduling",
+      "platform-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "healthcheck"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/platform-engineering/software-it-job-scheduling-engineer-java"
+  }
+}

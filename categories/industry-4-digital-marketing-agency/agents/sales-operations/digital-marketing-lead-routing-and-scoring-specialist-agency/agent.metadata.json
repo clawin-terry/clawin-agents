@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-lead-routing-and-scoring-specialist-agency",
+  "version": "0.1.0",
+  "title": "Lead Routing and Scoring Specialist (Agency)",
+  "summary": "Runs lead routing and scoring so agency opportunities reach the right owners with clearer prioritization and follow-up speed.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "sales-operations"
+  },
+  "discovery": {
+    "tags": [
+      "routing",
+      "and",
+      "scoring",
+      "sales",
+      "operations"
+    ],
+    "domains": [
+      "sales",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "routing",
+      "and",
+      "scoring",
+      "sales"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "routing-and",
+      "sales-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/sales-operations/digital-marketing-lead-routing-and-scoring-specialist-agency"
+  }
+}

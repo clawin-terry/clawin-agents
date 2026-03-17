@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-creative-and-copyright-ip-manager-agency",
+  "version": "0.1.0",
+  "title": "Creative and Copyright IP Manager",
+  "summary": "Manages creative and copyright intellectual property matters so campaign assets, usage rights, and infringement risks are governed more consistently.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "legal"
+  },
+  "discovery": {
+    "tags": [
+      "creative",
+      "and",
+      "copyright",
+      "ip",
+      "legal"
+    ],
+    "domains": [
+      "legal"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "creative",
+      "and",
+      "copyright",
+      "ip"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "creative-and",
+      "ip-legal"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/legal/digital-marketing-creative-and-copyright-ip-manager-agency"
+  }
+}

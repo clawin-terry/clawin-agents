@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-office-space-workstation-manager",
+  "version": "0.1.0",
+  "title": "Office Space and Workstation Manager",
+  "summary": "Manages office space and workstation allocation so seating, moves, and workspace planning stay organized and efficient.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "administration"
+  },
+  "discovery": {
+    "tags": [
+      "office",
+      "space",
+      "workstation",
+      "and",
+      "administration"
+    ],
+    "domains": [
+      "administration"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "office",
+      "space",
+      "workstation",
+      "administration"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "office-space",
+      "workstation-administration"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/administration/software-it-office-space-workstation-manager"
+  }
+}

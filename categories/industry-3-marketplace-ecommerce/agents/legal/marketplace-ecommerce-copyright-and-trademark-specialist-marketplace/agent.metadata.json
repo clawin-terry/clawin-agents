@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-copyright-and-trademark-specialist-marketplace",
+  "version": "0.1.0",
+  "title": "Copyright and Trademark Specialist (Marketplace)",
+  "summary": "Supports copyright and trademark matters so marketplace content, listings, and brand assets are protected with stronger legal consistency.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "legal"
+  },
+  "discovery": {
+    "tags": [
+      "copyright",
+      "and",
+      "trademark",
+      "legal"
+    ],
+    "domains": [
+      "legal"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "copyright",
+      "and",
+      "trademark",
+      "legal"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "copyright-and",
+      "trademark-legal"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/legal/marketplace-ecommerce-copyright-and-trademark-specialist-marketplace"
+  }
+}

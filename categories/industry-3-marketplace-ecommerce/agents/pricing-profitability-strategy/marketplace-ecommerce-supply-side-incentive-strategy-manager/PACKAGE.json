@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-supply-side-incentive-strategy-manager",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-supply-side-incentive-strategy-manager/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-supply-side-incentive-strategy-manager/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-supply-side-incentive-strategy-manager.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-supply-side-incentive-strategy-manager.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

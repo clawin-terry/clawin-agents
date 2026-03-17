@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-emergency-and-bcp-liaison",
+  "version": "0.1.0",
+  "title": "Emergency and BCP Liaison",
+  "summary": "Coordinates emergency response and business continuity liaison work so preparedness plans, contacts, and response handoffs remain current and actionable.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "facilities-logistics"
+  },
+  "discovery": {
+    "tags": [
+      "emergency",
+      "and",
+      "bcp",
+      "liaison",
+      "facilities",
+      "logistics"
+    ],
+    "domains": [
+      "facilities",
+      "logistics"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "emergency",
+      "and",
+      "bcp",
+      "liaison"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "emergency-and",
+      "facilities-logistics"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/facilities-logistics/software-it-emergency-and-bcp-liaison"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-account-access-support-specialist",
+  "version": "0.1.0",
+  "title": "Account and Access Support Specialist (Marketplace)",
+  "summary": "Handles account and access support so marketplace employees receive timely permissions, account changes, and access issue resolution with controlled execution.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "technical-support"
+  },
+  "discovery": {
+    "tags": [
+      "account",
+      "access",
+      "support",
+      "and",
+      "technical"
+    ],
+    "domains": [
+      "technical",
+      "support"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "account",
+      "access",
+      "support",
+      "technical"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "account-access",
+      "support-technical"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/technical-support/marketplace-ecommerce-account-access-support-specialist"
+  }
+}

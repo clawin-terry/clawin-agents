@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-douyin-ads-specialist-agency",
+  "version": "0.1.0",
+  "title": "Douyin Ads Specialist (Agency)",
+  "summary": "Runs Douyin ads so agency clients can execute short-video acquisition with stronger setup quality, pacing control, and optimization follow-through.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "short-video-ad-operations"
+  },
+  "discovery": {
+    "tags": [
+      "douyin",
+      "ads",
+      "short",
+      "video",
+      "ad",
+      "operations"
+    ],
+    "domains": [
+      "short",
+      "video"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "douyin",
+      "ads",
+      "short",
+      "video"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "douyin-ads",
+      "ad-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/short-video-ad-operations/digital-marketing-douyin-ads-specialist-agency"
+  }
+}

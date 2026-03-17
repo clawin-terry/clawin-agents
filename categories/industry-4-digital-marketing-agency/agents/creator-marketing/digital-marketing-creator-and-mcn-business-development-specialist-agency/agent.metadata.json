@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-creator-and-mcn-business-development-specialist-agency",
+  "version": "0.1.0",
+  "title": "Creator and MCN Business Development Specialist (Agency)",
+  "summary": "Builds creator and MCN partnerships so agency programs can expand supply, negotiate access, and support client campaign needs faster.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "creator-marketing"
+  },
+  "discovery": {
+    "tags": [
+      "creator",
+      "and",
+      "mcn",
+      "business",
+      "development"
+    ],
+    "domains": [
+      "creator"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "creator",
+      "and",
+      "mcn",
+      "business"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "creator-and",
+      "business-development"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/creator-marketing/digital-marketing-creator-and-mcn-business-development-specialist-agency"
+  }
+}

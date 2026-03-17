@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-promotions-and-major-campaign-operations-manager",
+  "version": "0.1.0",
+  "title": "Promotions and Major Campaign Operations Manager",
+  "summary": "Leads promotions and major campaign operations so tentpole commerce events launch on time, coordinate cross-functional execution, and hit conversion targets.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "ecommerce-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "promotions",
+      "and",
+      "major",
+      "campaign",
+      "operations"
+    ],
+    "domains": [
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "promotions",
+      "and"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "campaign-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/ecommerce-operations/content-platform-promotions-and-major-campaign-operations-manager"
+  }
+}

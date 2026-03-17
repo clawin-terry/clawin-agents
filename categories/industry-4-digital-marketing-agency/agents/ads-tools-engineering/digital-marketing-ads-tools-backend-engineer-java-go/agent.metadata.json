@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-ads-tools-backend-engineer-java-go",
+  "version": "0.1.0",
+  "title": "Ads Tools Backend Engineer (Java/Go)",
+  "summary": "Builds backend services for advertising tools so account operations, campaign workflows, and internal automation can scale safely.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "ads-tools-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "ads",
+      "tools",
+      "backend",
+      "java",
+      "go",
+      "engineering"
+    ],
+    "domains": [
+      "ads",
+      "tools"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "ads",
+      "tools",
+      "backend",
+      "java"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "ads-tools",
+      "go-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/ads-tools-engineering/digital-marketing-ads-tools-backend-engineer-java-go"
+  }
+}

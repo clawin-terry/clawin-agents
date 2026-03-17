@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "financial-research-relative-value-analyst",
+    "roleTitle":  "Relative Value Analyst",
+    "personaSummary":  "Compares valuation spreads, implied expectations, and business-quality differences across peer sets to identify where market pricing appears comparatively stretched or discounted.",
+    "industryId":  "industry-6-financial-research",
+    "roleFamilyKey":  "screening-comparison",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/financial-research-relative-value-analyst",
+                    "workspace":  "~/.openclaw/agents/financial-research-relative-value-analyst/workspace",
+                    "agentDir":  "~/.openclaw/agents/financial-research-relative-value-analyst/agent",
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
+                }
+}

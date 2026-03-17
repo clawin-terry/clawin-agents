@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-online-quality-and-stability-manager",
+  "version": "0.1.0",
+  "title": "Online Quality and Stability Manager",
+  "summary": "Leads online quality and stability programs so release readiness, production feedback, and cross-team quality accountability stay visible and actionable.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "quality-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "online",
+      "quality",
+      "and",
+      "stability",
+      "engineering"
+    ],
+    "domains": [
+      "quality",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "online",
+      "quality"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "stability-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/quality-engineering/content-platform-online-quality-and-stability-manager"
+  }
+}

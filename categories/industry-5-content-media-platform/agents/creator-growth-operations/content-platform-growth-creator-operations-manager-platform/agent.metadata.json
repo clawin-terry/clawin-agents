@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-growth-creator-operations-manager-platform",
+  "version": "0.1.0",
+  "title": "Growth Creator Operations Manager (Platform)",
+  "summary": "Runs growth-creator operations so developing creators receive structured guidance, better progression support, and clearer operating priorities on the platform.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "creator-growth-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "growth",
+      "creator",
+      "operations"
+    ],
+    "domains": [
+      "creator",
+      "growth"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "growth",
+      "creator"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "content-platform",
+      "creator-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/creator-growth-operations/content-platform-growth-creator-operations-manager-platform"
+  }
+}

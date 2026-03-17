@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-evidence-review-specialist",
+  "version": "0.1.0",
+  "title": "Evidence Review Specialist",
+  "summary": "Reviews dispute evidence so aftersales and arbitration decisions are grounded in complete, well-structured case materials.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "aftersales-dispute-arbitration"
+  },
+  "discovery": {
+    "tags": [
+      "evidence",
+      "review",
+      "aftersales",
+      "dispute",
+      "arbitration"
+    ],
+    "domains": [
+      "aftersales",
+      "dispute"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "evidence",
+      "review",
+      "aftersales",
+      "dispute"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "evidence-review",
+      "dispute-arbitration"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/aftersales-dispute-arbitration/marketplace-ecommerce-evidence-review-specialist"
+  }
+}

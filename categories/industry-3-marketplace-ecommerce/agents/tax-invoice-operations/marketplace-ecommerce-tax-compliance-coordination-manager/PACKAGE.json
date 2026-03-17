@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-tax-compliance-coordination-manager",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-tax-compliance-coordination-manager/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-tax-compliance-coordination-manager/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-tax-compliance-coordination-manager.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-tax-compliance-coordination-manager.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

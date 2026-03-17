@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-livestream-content-operations-manager-platform",
+  "version": "0.1.0",
+  "title": "Livestream Content Operations Manager (Platform)",
+  "summary": "Runs livestream content operations so live rooms maintain stronger programming quality, clearer operating rhythm, and better alignment with audience demand.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "livestream-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "livestream",
+      "operations"
+    ],
+    "domains": [
+      "livestream",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "livestream",
+      "operations"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "livestream-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/livestream-operations/content-platform-livestream-content-operations-manager-platform"
+  }
+}

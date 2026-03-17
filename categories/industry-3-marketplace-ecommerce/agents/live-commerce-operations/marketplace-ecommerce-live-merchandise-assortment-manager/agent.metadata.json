@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-live-merchandise-assortment-manager",
+  "version": "0.1.0",
+  "title": "Live Merchandise Assortment Manager",
+  "summary": "Curates live merchandise assortments so marketplace livestreams feature the right products, sequencing, and commercial balance.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "live-commerce-operations"
+  },
+  "discovery": {
+    "tags": [
+      "live",
+      "merchandise",
+      "assortment",
+      "commerce",
+      "operations"
+    ],
+    "domains": [
+      "live",
+      "commerce"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "live",
+      "merchandise",
+      "assortment",
+      "commerce"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "live-merchandise",
+      "commerce-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/live-commerce-operations/marketplace-ecommerce-live-merchandise-assortment-manager"
+  }
+}

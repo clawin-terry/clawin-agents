@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/digital-marketing-photographer-agency",
                     "workspace":  "~/.openclaw/agents/digital-marketing-photographer-agency/workspace",
                     "agentDir":  "~/.openclaw/agents/digital-marketing-photographer-agency/agent",
-                    "configEntry":  "config/openclaw.agent.digital-marketing-photographer-agency.entry.json",
-                    "configSnippet":  "config/openclaw.agent.digital-marketing-photographer-agency.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

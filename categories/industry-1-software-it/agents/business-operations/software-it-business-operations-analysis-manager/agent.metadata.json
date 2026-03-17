@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-business-operations-analysis-manager",
+  "version": "0.1.0",
+  "title": "Business Operations Analysis Manager",
+  "summary": "Leads operating analysis to clarify performance signals, management questions, and decision options across the business.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "business-operations"
+  },
+  "discovery": {
+    "tags": [
+      "business",
+      "operations",
+      "analysis"
+    ],
+    "domains": [
+      "business",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "business",
+      "operations",
+      "analysis"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "business-operations",
+      "operations-analysis"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/business-operations/software-it-business-operations-analysis-manager"
+  }
+}

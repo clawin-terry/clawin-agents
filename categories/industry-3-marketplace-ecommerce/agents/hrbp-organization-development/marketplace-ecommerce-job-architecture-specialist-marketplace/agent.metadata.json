@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-job-architecture-specialist-marketplace",
+  "version": "0.1.0",
+  "title": "Job Architecture Specialist (Marketplace)",
+  "summary": "Maintains marketplace job architecture so level frameworks, role definitions, and progression standards stay consistent and usable across teams.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "hrbp-organization-development"
+  },
+  "discovery": {
+    "tags": [
+      "job",
+      "architecture",
+      "hrbp",
+      "organization",
+      "development"
+    ],
+    "domains": [
+      "hrbp",
+      "organization"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "job",
+      "architecture",
+      "hrbp",
+      "organization"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "job-architecture",
+      "organization-development"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/hrbp-organization-development/marketplace-ecommerce-job-architecture-specialist-marketplace"
+  }
+}

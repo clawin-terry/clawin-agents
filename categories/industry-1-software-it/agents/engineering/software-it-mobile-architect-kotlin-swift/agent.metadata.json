@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-mobile-architect-kotlin-swift",
+  "version": "0.1.0",
+  "title": "Mobile Architect (Kotlin/Swift)",
+  "summary": "Defines mobile architecture standards, platform foundations, and long-term maintainability across Kotlin and Swift client systems.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "engineering"
+  },
+  "discovery": {
+    "tags": [
+      "mobile",
+      "architect",
+      "kotlin",
+      "swift",
+      "engineering"
+    ],
+    "domains": [
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "mobile",
+      "architect",
+      "kotlin",
+      "swift"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "mobile-architect",
+      "swift-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "clawin-mobile-engineering"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/engineering/software-it-mobile-architect-kotlin-swift"
+  }
+}

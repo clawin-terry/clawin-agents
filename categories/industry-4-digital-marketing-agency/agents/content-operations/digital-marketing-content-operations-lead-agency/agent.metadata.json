@@ -1,0 +1,56 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-content-operations-lead-agency",
+  "version": "0.1.0",
+  "title": "Content Operations Lead (Agency)",
+  "summary": "Leads content operations so agency editorial planning, production cadence, and content workflows remain aligned with campaign and account priorities.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "content-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "operations"
+    ],
+    "domains": [
+      "content",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "operations"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "content-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/content-operations/digital-marketing-content-operations-lead-agency"
+  }
+}

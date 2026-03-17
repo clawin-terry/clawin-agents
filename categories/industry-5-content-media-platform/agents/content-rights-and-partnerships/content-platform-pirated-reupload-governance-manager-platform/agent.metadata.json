@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-pirated-reupload-governance-manager-platform",
+  "version": "0.1.0",
+  "title": "Pirated Reupload Governance Manager (Platform)",
+  "summary": "Leads pirated reupload governance so unauthorized redistribution can be detected faster, escalated more consistently, and reduced with stronger operational controls.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "content-rights-and-partnerships"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "pirated",
+      "reupload",
+      "governance",
+      "rights",
+      "and",
+      "partnerships"
+    ],
+    "domains": [
+      "content",
+      "rights"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "pirated",
+      "reupload"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "and-partnerships"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/content-rights-and-partnerships/content-platform-pirated-reupload-governance-manager-platform"
+  }
+}

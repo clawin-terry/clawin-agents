@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-computer-vision-engineer-python",
+  "version": "0.1.0",
+  "title": "Computer Vision Engineer (Python)",
+  "summary": "Builds computer vision systems with Python, improving image or video understanding, evaluation quality, and production integration readiness.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "machine-learning"
+  },
+  "discovery": {
+    "tags": [
+      "computer",
+      "vision",
+      "python",
+      "machine",
+      "learning"
+    ],
+    "domains": [
+      "machine",
+      "learning"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "computer",
+      "vision",
+      "python",
+      "machine"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "computer-vision",
+      "machine-learning"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/machine-learning/software-it-computer-vision-engineer-python"
+  }
+}

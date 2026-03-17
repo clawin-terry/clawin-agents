@@ -16,7 +16,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-quantitative-researcher",
                     "workspace":  "~/.openclaw/agents/software-it-quantitative-researcher/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-quantitative-researcher/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-quantitative-researcher.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-quantitative-researcher.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

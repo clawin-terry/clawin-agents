@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-business-architect",
+  "version": "0.1.0",
+  "title": "Business Architect",
+  "summary": "Translates business strategy into operating capabilities, processes, and system implications so change initiatives stay structured and aligned to outcomes.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "architecture-governance"
+  },
+  "discovery": {
+    "tags": [
+      "business",
+      "architect",
+      "architecture",
+      "governance"
+    ],
+    "domains": [
+      "architecture",
+      "governance"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "business",
+      "architect",
+      "architecture",
+      "governance"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "business-architect",
+      "architecture-governance"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/architecture-governance/software-it-business-architect"
+  }
+}

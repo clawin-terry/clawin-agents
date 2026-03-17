@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-sast-dast-platform-engineer-java-python",
+  "version": "0.1.0",
+  "title": "SAST and DAST Platform Engineer (Java/Python)",
+  "summary": "Builds SAST and DAST platform capabilities with Java and Python to improve scalable application security testing and actionable developer feedback.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "security-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "sast",
+      "dast",
+      "platform",
+      "java",
+      "python",
+      "and",
+      "security",
+      "engineering"
+    ],
+    "domains": [
+      "security",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "sast",
+      "dast",
+      "platform",
+      "java"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "sast-dast",
+      "security-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "healthcheck"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/security-engineering/software-it-sast-dast-platform-engineer-java-python"
+  }
+}

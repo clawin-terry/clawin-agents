@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-workplace-asset-manager-marketplace",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-workplace-asset-manager-marketplace/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-workplace-asset-manager-marketplace/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-workplace-asset-manager-marketplace.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-workplace-asset-manager-marketplace.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

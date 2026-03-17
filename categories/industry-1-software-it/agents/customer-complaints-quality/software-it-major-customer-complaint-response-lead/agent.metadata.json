@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-major-customer-complaint-response-lead",
+  "version": "0.1.0",
+  "title": "Major Customer Complaint Response Lead",
+  "summary": "Leads major customer complaint response so urgent issues are coordinated quickly with clear escalation, communication, and recovery actions.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "customer-complaints-quality"
+  },
+  "discovery": {
+    "tags": [
+      "major",
+      "customer",
+      "complaint",
+      "response",
+      "complaints",
+      "quality"
+    ],
+    "domains": [
+      "customer",
+      "complaints"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "major",
+      "customer",
+      "complaint",
+      "response"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "major-customer",
+      "complaints-quality"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/customer-complaints-quality/software-it-major-customer-complaint-response-lead"
+  }
+}

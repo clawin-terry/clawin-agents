@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-content-supply-strategy-manager",
+  "version": "0.1.0",
+  "title": "Content Supply Strategy Manager",
+  "summary": "Shapes content supply strategy so marketplace content volume, format mix, and creator coverage align with business priorities and demand patterns.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "content-creator-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "supply",
+      "strategy",
+      "creator",
+      "operations"
+    ],
+    "domains": [
+      "content",
+      "creator"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "supply",
+      "strategy",
+      "creator"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "content-supply",
+      "creator-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/content-creator-operations/marketplace-ecommerce-content-supply-strategy-manager"
+  }
+}

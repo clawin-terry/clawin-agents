@@ -1,0 +1,52 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-procurement-manager-agency",
+  "version": "0.1.0",
+  "title": "Procurement Manager (Agency)",
+  "summary": "Leads agency procurement so sourcing priorities, purchasing execution, and supplier governance support delivery, production, and office operations.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "procurement"
+  },
+  "discovery": {
+    "tags": [
+      "procurement"
+    ],
+    "domains": [
+      "procurement"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "procurement"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "procurement"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/procurement/digital-marketing-procurement-manager-agency"
+  }
+}

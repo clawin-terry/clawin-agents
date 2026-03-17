@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-jinritoutiao-and-juliang-feed-specialist-agency",
+  "version": "0.1.0",
+  "title": "Jinri Toutiao and Ocean Engine Feed Ads Specialist (Agency)",
+  "summary": "Runs Jinri Toutiao and Ocean Engine feed ads so agency campaigns can manage high-volume traffic acquisition with tighter platform execution.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "paid-social-operations"
+  },
+  "discovery": {
+    "tags": [
+      "jinritoutiao",
+      "and",
+      "juliang",
+      "feed",
+      "jinri",
+      "toutiao",
+      "ocean",
+      "engine"
+    ],
+    "domains": [
+      "paid",
+      "social"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "jinritoutiao",
+      "and",
+      "juliang",
+      "feed"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "jinritoutiao-and",
+      "social-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/paid-social-operations/digital-marketing-jinritoutiao-and-juliang-feed-specialist-agency"
+  }
+}

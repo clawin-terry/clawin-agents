@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-audit-coordination-manager-platform",
+  "version": "0.1.0",
+  "title": "Audit Coordination Manager (Platform)",
+  "summary": "Coordinates audit collaboration so request tracking, evidence assembly, and cross-functional follow-through stay timely during internal and external reviews.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "internal-audit"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "audit",
+      "coordination",
+      "internal"
+    ],
+    "domains": [
+      "internal",
+      "audit"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "audit",
+      "coordination"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "coordination-internal"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/internal-audit/content-platform-audit-coordination-manager-platform"
+  }
+}

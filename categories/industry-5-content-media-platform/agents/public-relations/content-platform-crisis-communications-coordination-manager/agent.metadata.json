@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-crisis-communications-coordination-manager",
+  "version": "0.1.0",
+  "title": "Crisis Communications Coordination Manager",
+  "summary": "Coordinates crisis communications so reputational incidents, policy-sensitive moments, and external escalations are handled with speed, clarity, and alignment.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "public-relations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "crisis",
+      "communications",
+      "coordination",
+      "public",
+      "relations"
+    ],
+    "domains": [
+      "public",
+      "relations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "crisis",
+      "communications"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "public-relations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/public-relations/content-platform-crisis-communications-coordination-manager"
+  }
+}

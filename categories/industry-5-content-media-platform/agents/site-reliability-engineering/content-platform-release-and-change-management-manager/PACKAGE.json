@@ -16,7 +16,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-release-and-change-management-manager",
                     "workspace":  "~/.openclaw/agents/content-platform-release-and-change-management-manager/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-release-and-change-management-manager/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-release-and-change-management-manager.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-release-and-change-management-manager.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

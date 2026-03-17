@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-collections-follow-up-specialist",
+  "version": "0.1.0",
+  "title": "Collections Follow-Up Specialist",
+  "summary": "Follows up on receivables so payment status, customer communication, and internal escalation remain organized and persistent.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "commercial-support"
+  },
+  "discovery": {
+    "tags": [
+      "collections",
+      "follow",
+      "up",
+      "commercial",
+      "support"
+    ],
+    "domains": [
+      "commercial",
+      "support"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "collections",
+      "follow",
+      "up",
+      "commercial"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "collections-follow",
+      "commercial-support"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/commercial-support/software-it-collections-follow-up-specialist"
+  }
+}

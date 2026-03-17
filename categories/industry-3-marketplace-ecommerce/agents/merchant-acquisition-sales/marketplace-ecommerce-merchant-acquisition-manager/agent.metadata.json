@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-merchant-acquisition-manager",
+  "version": "0.1.0",
+  "title": "Merchant Acquisition Manager",
+  "summary": "Leads merchant acquisition for a marketplace, growing seller supply through pipeline management, negotiation, and conversion discipline.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "merchant-acquisition-sales"
+  },
+  "discovery": {
+    "tags": [
+      "merchant",
+      "acquisition",
+      "sales"
+    ],
+    "domains": [
+      "merchant",
+      "acquisition"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "merchant",
+      "acquisition",
+      "sales"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "merchant-acquisition",
+      "acquisition-sales"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/merchant-acquisition-sales/marketplace-ecommerce-merchant-acquisition-manager"
+  }
+}

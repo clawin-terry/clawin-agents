@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-new-user-onboarding-operations-manager",
+  "version": "0.1.0",
+  "title": "New User Onboarding Operations Manager",
+  "summary": "Runs new-user onboarding operations so first-time marketplace users activate faster and understand how to complete their earliest high-value actions.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "user-lifecycle-operations"
+  },
+  "discovery": {
+    "tags": [
+      "new",
+      "user",
+      "onboarding",
+      "operations",
+      "lifecycle"
+    ],
+    "domains": [
+      "user",
+      "lifecycle"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "new",
+      "user",
+      "onboarding",
+      "operations"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "new-user",
+      "operations-lifecycle"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/user-lifecycle-operations/marketplace-ecommerce-new-user-onboarding-operations-manager"
+  }
+}

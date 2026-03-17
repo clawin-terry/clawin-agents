@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-channel-director",
                     "workspace":  "~/.openclaw/agents/software-it-channel-director/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-channel-director/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-channel-director.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-channel-director.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

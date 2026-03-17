@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-invoice-management-specialist",
+  "version": "0.1.0",
+  "title": "Invoice Management Specialist",
+  "summary": "Administers invoice-management processes so invoice issuance, receipt, verification, and records remain complete and policy-aligned.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "finance-shared-services"
+  },
+  "discovery": {
+    "tags": [
+      "invoice",
+      "management",
+      "finance",
+      "shared",
+      "services"
+    ],
+    "domains": [
+      "finance",
+      "shared"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "invoice",
+      "management",
+      "finance",
+      "shared"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "invoice-management",
+      "shared-services"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/finance-shared-services/software-it-invoice-management-specialist"
+  }
+}

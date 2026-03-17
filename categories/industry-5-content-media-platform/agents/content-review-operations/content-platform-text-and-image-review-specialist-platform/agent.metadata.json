@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-text-and-image-review-specialist-platform",
+  "version": "0.1.0",
+  "title": "Text and Image Review Specialist (Platform)",
+  "summary": "Reviews text and image content so non-video surfaces stay aligned with platform policy standards and moderation expectations.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "content-review-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "text",
+      "and",
+      "image",
+      "review",
+      "operations"
+    ],
+    "domains": [
+      "content",
+      "review"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "text",
+      "and"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "review-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/content-review-operations/content-platform-text-and-image-review-specialist-platform"
+  }
+}

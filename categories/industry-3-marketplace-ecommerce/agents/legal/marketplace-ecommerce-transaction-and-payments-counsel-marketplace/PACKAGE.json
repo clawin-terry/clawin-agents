@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-transaction-and-payments-counsel-marketplace",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-transaction-and-payments-counsel-marketplace/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-transaction-and-payments-counsel-marketplace/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-transaction-and-payments-counsel-marketplace.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-transaction-and-payments-counsel-marketplace.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

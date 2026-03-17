@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-short-video-scriptwriter-agency",
+  "version": "0.1.0",
+  "title": "Short Video Scriptwriter (Agency)",
+  "summary": "Develops short-video scripts so agency teams can turn campaign goals into tighter narratives, scene logic, and creator-friendly execution briefs.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "copywriting-and-scripting"
+  },
+  "discovery": {
+    "tags": [
+      "short",
+      "video",
+      "scriptwriter",
+      "copywriting",
+      "and",
+      "scripting"
+    ],
+    "domains": [
+      "copywriting",
+      "and"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "short",
+      "video",
+      "scriptwriter",
+      "copywriting"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "short-video",
+      "and-scripting"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/copywriting-and-scripting/digital-marketing-short-video-scriptwriter-agency"
+  }
+}

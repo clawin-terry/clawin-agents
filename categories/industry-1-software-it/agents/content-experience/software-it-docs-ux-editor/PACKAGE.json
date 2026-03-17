@@ -16,7 +16,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-docs-ux-editor",
                     "workspace":  "~/.openclaw/agents/software-it-docs-ux-editor/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-docs-ux-editor/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-docs-ux-editor.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-docs-ux-editor.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

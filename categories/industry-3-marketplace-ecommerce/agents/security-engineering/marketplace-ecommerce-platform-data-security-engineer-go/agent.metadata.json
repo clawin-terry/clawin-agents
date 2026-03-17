@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-platform-data-security-engineer-go",
+  "version": "0.1.0",
+  "title": "Platform Data Security Engineer (Go)",
+  "summary": "Builds platform data security controls with Go so marketplace access, transport, and storage protections remain enforceable across critical systems.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "security-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "platform",
+      "data",
+      "security",
+      "go",
+      "engineering"
+    ],
+    "domains": [
+      "security",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "platform",
+      "data",
+      "security",
+      "go"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "platform-data",
+      "go-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "healthcheck"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/security-engineering/marketplace-ecommerce-platform-data-security-engineer-go"
+  }
+}

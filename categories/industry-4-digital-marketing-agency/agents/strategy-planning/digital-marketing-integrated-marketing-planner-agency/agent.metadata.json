@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-integrated-marketing-planner-agency",
+  "version": "0.1.0",
+  "title": "Integrated Marketing Planner (Agency)",
+  "summary": "Builds integrated marketing plans so agency teams can connect channels, messaging, and execution timing into stronger campaign programs.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "strategy-planning"
+  },
+  "discovery": {
+    "tags": [
+      "integrated",
+      "planner",
+      "strategy",
+      "planning"
+    ],
+    "domains": [
+      "strategy",
+      "planning"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "integrated",
+      "planner",
+      "strategy",
+      "planning"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "integrated-planner",
+      "strategy-planning"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/strategy-planning/digital-marketing-integrated-marketing-planner-agency"
+  }
+}

@@ -16,7 +16,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-tracking-and-delivery-timeliness-services-engineer",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-tracking-and-delivery-timeliness-services-engineer/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-tracking-and-delivery-timeliness-services-engineer/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-tracking-and-delivery-timeliness-services-engineer.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-tracking-and-delivery-timeliness-services-engineer.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

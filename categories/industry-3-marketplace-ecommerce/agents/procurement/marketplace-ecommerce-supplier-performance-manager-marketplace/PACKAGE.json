@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-supplier-performance-manager-marketplace",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-supplier-performance-manager-marketplace/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-supplier-performance-manager-marketplace/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-supplier-performance-manager-marketplace.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-supplier-performance-manager-marketplace.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

@@ -1,0 +1,56 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-audit-analyst",
+  "version": "0.1.0",
+  "title": "Audit Analyst",
+  "summary": "Supports audit planning, fieldwork, and reporting so evidence is analyzed systematically and findings are documented with clarity and traceability.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "internal-audit"
+  },
+  "discovery": {
+    "tags": [
+      "audit",
+      "internal"
+    ],
+    "domains": [
+      "internal",
+      "audit"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "audit",
+      "internal"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "audit-internal"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/internal-audit/software-it-audit-analyst"
+  }
+}

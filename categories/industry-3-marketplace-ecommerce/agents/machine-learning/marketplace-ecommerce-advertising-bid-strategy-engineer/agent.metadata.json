@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-advertising-bid-strategy-engineer",
+  "version": "0.1.0",
+  "title": "Advertising Bid Strategy Engineer",
+  "summary": "Builds advertising bid strategies so marketplace monetization systems can improve auction efficiency, return on spend, and commercial performance.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "machine-learning"
+  },
+  "discovery": {
+    "tags": [
+      "advertising",
+      "bid",
+      "strategy",
+      "machine",
+      "learning"
+    ],
+    "domains": [
+      "machine",
+      "learning"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "advertising",
+      "bid",
+      "strategy",
+      "machine"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "advertising-bid",
+      "machine-learning"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/machine-learning/marketplace-ecommerce-advertising-bid-strategy-engineer"
+  }
+}

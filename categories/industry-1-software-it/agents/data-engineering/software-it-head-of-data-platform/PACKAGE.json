@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-head-of-data-platform",
                     "workspace":  "~/.openclaw/agents/software-it-head-of-data-platform/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-head-of-data-platform/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-head-of-data-platform.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-head-of-data-platform.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

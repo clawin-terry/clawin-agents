@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-data-analyst",
                     "workspace":  "~/.openclaw/agents/software-it-data-analyst/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-data-analyst/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-data-analyst.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-data-analyst.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

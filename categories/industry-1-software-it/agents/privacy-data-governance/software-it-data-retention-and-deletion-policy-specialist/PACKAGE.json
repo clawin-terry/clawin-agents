@@ -16,7 +16,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-data-retention-and-deletion-policy-specialist",
                     "workspace":  "~/.openclaw/agents/software-it-data-retention-and-deletion-policy-specialist/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-data-retention-and-deletion-policy-specialist/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-data-retention-and-deletion-policy-specialist.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-data-retention-and-deletion-policy-specialist.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

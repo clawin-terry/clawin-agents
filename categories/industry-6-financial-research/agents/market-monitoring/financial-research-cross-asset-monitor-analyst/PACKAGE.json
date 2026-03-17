@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "financial-research-cross-asset-monitor-analyst",
+    "roleTitle":  "Cross-Asset Signal Monitor Analyst",
+    "personaSummary":  "Tracks rates, credit spreads, commodities, FX, and volatility signals that may explain or challenge single-name equity moves and sector narratives.",
+    "industryId":  "industry-6-financial-research",
+    "roleFamilyKey":  "market-monitoring",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/financial-research-cross-asset-monitor-analyst",
+                    "workspace":  "~/.openclaw/agents/financial-research-cross-asset-monitor-analyst/workspace",
+                    "agentDir":  "~/.openclaw/agents/financial-research-cross-asset-monitor-analyst/agent",
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
+                }
+}

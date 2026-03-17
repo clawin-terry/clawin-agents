@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-retrospective-improvement-specialist",
+  "version": "0.1.0",
+  "title": "Retrospective and Improvement Specialist",
+  "summary": "Runs retrospectives and improvement follow-through so service failures produce concrete lessons, ownership, and durable operational change.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "customer-complaints-quality"
+  },
+  "discovery": {
+    "tags": [
+      "retrospective",
+      "improvement",
+      "and",
+      "customer",
+      "complaints",
+      "quality"
+    ],
+    "domains": [
+      "customer",
+      "complaints"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "retrospective",
+      "improvement",
+      "customer",
+      "complaints"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "retrospective-improvement",
+      "complaints-quality"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/customer-complaints-quality/software-it-retrospective-improvement-specialist"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-policy-design-manager",
+  "version": "0.1.0",
+  "title": "Policy Design Manager",
+  "summary": "Designs marketplace policies so platform rules stay clear, enforceable, and aligned with trust and compliance objectives.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "platform-governance-operations"
+  },
+  "discovery": {
+    "tags": [
+      "policy",
+      "design",
+      "platform",
+      "governance",
+      "operations"
+    ],
+    "domains": [
+      "platform",
+      "governance"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "policy",
+      "design",
+      "platform",
+      "governance"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "policy-design",
+      "governance-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/platform-governance-operations/marketplace-ecommerce-policy-design-manager"
+  }
+}

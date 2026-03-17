@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-community-conflict-resolution-specialist-platform",
+  "version": "0.1.0",
+  "title": "Community Conflict Resolution Specialist (Platform)",
+  "summary": "Handles community conflict resolution so disputes, interpersonal tension, and escalated disagreements can be defused with clearer process and fairer outcomes.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "community-governance-risk"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "community",
+      "conflict",
+      "resolution",
+      "governance",
+      "risk"
+    ],
+    "domains": [
+      "community",
+      "governance"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "community",
+      "conflict"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "governance-risk"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/community-governance-risk/content-platform-community-conflict-resolution-specialist-platform"
+  }
+}

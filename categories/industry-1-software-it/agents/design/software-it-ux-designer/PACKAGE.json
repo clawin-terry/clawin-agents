@@ -17,7 +17,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-ux-designer",
                     "workspace":  "~/.openclaw/agents/software-it-ux-designer/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-ux-designer/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-ux-designer.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-ux-designer.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

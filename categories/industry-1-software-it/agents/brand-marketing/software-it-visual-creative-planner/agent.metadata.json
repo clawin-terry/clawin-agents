@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-visual-creative-planner",
+  "version": "0.1.0",
+  "title": "Visual and Creative Planner",
+  "summary": "Translates brand strategy into visual and creative concepts that improve consistency, campaign clarity, and audience resonance.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "brand-marketing"
+  },
+  "discovery": {
+    "tags": [
+      "visual",
+      "creative",
+      "planner",
+      "and",
+      "brand"
+    ],
+    "domains": [
+      "brand"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "visual",
+      "creative",
+      "planner",
+      "brand"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "visual-creative",
+      "planner-brand"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/brand-marketing/software-it-visual-creative-planner"
+  }
+}

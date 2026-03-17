@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-compensation-coordination-manager",
+  "version": "0.1.0",
+  "title": "Compensation Coordination Manager",
+  "summary": "Coordinates compensation handling so shipping claims and responsibility-sharing outcomes are executed accurately across partners.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "logistics-carrier-operations"
+  },
+  "discovery": {
+    "tags": [
+      "compensation",
+      "coordination",
+      "logistics",
+      "carrier",
+      "operations"
+    ],
+    "domains": [
+      "logistics",
+      "carrier"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "compensation",
+      "coordination",
+      "logistics",
+      "carrier"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "compensation-coordination",
+      "carrier-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/logistics-carrier-operations/marketplace-ecommerce-compensation-coordination-manager"
+  }
+}

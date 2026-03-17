@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-payment-fee-negotiation-support-manager",
+  "version": "0.1.0",
+  "title": "Payment Fee Negotiation Support Manager",
+  "summary": "Supports payment fee negotiations so channel economics improve without weakening operational performance or coverage.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "payment-channel-operations"
+  },
+  "discovery": {
+    "tags": [
+      "payment",
+      "fee",
+      "negotiation",
+      "support",
+      "channel",
+      "operations"
+    ],
+    "domains": [
+      "payment",
+      "channel"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "payment",
+      "fee",
+      "negotiation",
+      "support"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "payment-fee",
+      "channel-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/payment-channel-operations/marketplace-ecommerce-payment-fee-negotiation-support-manager"
+  }
+}

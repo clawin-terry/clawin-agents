@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-funds-arrival-timeliness-manager",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-funds-arrival-timeliness-manager/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-funds-arrival-timeliness-manager/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-funds-arrival-timeliness-manager.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-funds-arrival-timeliness-manager.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

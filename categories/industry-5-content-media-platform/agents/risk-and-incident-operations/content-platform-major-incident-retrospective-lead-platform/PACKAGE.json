@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-major-incident-retrospective-lead-platform",
                     "workspace":  "~/.openclaw/agents/content-platform-major-incident-retrospective-lead-platform/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-major-incident-retrospective-lead-platform/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-major-incident-retrospective-lead-platform.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-major-incident-retrospective-lead-platform.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

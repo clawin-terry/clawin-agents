@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-partner-enablement-manager",
+  "version": "0.1.0",
+  "title": "Partner Enablement Manager",
+  "summary": "Enables partners with training, tools, and operating guidance so partner-led selling becomes repeatable and effective.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "channel-sales"
+  },
+  "discovery": {
+    "tags": [
+      "partner",
+      "enablement",
+      "channel",
+      "sales"
+    ],
+    "domains": [
+      "channel",
+      "sales"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "partner",
+      "enablement",
+      "channel",
+      "sales"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "partner-enablement",
+      "channel-sales"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/channel-sales/software-it-partner-enablement-manager"
+  }
+}

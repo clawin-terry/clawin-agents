@@ -1,0 +1,55 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-search-engine-marketing-specialist",
+  "version": "0.1.0",
+  "title": "Search Engine Marketing Specialist",
+  "summary": "Runs paid search and feed-based media programs with a focus on intent capture, budget efficiency, and conversion performance.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "digital-marketing"
+  },
+  "discovery": {
+    "tags": [
+      "search",
+      "engine"
+    ],
+    "domains": [
+      "search",
+      "engine"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "search",
+      "engine"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "search-engine"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/digital-marketing/software-it-search-engine-marketing-specialist"
+  }
+}

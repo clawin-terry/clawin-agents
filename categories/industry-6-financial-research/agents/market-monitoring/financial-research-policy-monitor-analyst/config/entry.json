@@ -1,0 +1,13 @@
+{
+    "id":  "financial-research-policy-monitor-analyst",
+    "default":  false,
+    "name":  "Policy & Regulatory Monitor Analyst",
+    "workspace":  "~/.openclaw/agents/financial-research-policy-monitor-analyst/workspace",
+    "agentDir":  "~/.openclaw/agents/financial-research-policy-monitor-analyst/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

@@ -16,7 +16,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-penetration-tester-python",
                     "workspace":  "~/.openclaw/agents/software-it-penetration-tester-python/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-penetration-tester-python/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-penetration-tester-python.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-penetration-tester-python.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

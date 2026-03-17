@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-customer-tagging-system-operations-manager",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-customer-tagging-system-operations-manager/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-customer-tagging-system-operations-manager/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-customer-tagging-system-operations-manager.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-customer-tagging-system-operations-manager.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

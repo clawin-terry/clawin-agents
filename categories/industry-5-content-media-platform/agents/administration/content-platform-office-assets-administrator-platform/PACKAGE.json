@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-office-assets-administrator-platform",
                     "workspace":  "~/.openclaw/agents/content-platform-office-assets-administrator-platform/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-office-assets-administrator-platform/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-office-assets-administrator-platform.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-office-assets-administrator-platform.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

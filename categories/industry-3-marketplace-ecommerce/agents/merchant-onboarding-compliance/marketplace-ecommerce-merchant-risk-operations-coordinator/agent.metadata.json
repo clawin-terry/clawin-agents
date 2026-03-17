@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-merchant-risk-operations-coordinator",
+  "version": "0.1.0",
+  "title": "Merchant Risk Operations Coordinator",
+  "summary": "Coordinates merchant risk workflows across onboarding and operations, helping teams surface issues early and manage follow-up actions consistently.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "merchant-onboarding-compliance"
+  },
+  "discovery": {
+    "tags": [
+      "merchant",
+      "risk",
+      "operations",
+      "onboarding",
+      "compliance"
+    ],
+    "domains": [
+      "merchant",
+      "onboarding"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "merchant",
+      "risk",
+      "operations",
+      "onboarding"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "merchant-risk",
+      "onboarding-compliance"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/merchant-onboarding-compliance/marketplace-ecommerce-merchant-risk-operations-coordinator"
+  }
+}

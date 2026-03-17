@@ -16,7 +16,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-soc-analyst",
                     "workspace":  "~/.openclaw/agents/software-it-soc-analyst/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-soc-analyst/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-soc-analyst.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-soc-analyst.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

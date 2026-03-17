@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-finance-systems-administrator",
+  "version": "0.1.0",
+  "title": "Finance Systems Administrator",
+  "summary": "Maintains finance systems and access workflows so core finance tooling remains reliable, controlled, and usable for daily operations.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "finance-shared-services"
+  },
+  "discovery": {
+    "tags": [
+      "finance",
+      "systems",
+      "administrator",
+      "shared",
+      "services"
+    ],
+    "domains": [
+      "finance",
+      "shared"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "finance",
+      "systems",
+      "administrator",
+      "shared"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "finance-systems",
+      "shared-services"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/finance-shared-services/software-it-finance-systems-administrator"
+  }
+}

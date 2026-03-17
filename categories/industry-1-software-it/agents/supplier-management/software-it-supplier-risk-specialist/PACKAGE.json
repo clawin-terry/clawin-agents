@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-supplier-risk-specialist",
                     "workspace":  "~/.openclaw/agents/software-it-supplier-risk-specialist/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-supplier-risk-specialist/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-supplier-risk-specialist.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-supplier-risk-specialist.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

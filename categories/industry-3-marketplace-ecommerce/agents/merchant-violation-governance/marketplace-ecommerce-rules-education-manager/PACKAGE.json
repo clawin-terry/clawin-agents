@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-rules-education-manager",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-rules-education-manager/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-rules-education-manager/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-rules-education-manager.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-rules-education-manager.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

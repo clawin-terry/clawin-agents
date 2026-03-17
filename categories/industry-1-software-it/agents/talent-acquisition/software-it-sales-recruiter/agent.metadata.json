@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-sales-recruiter",
+  "version": "0.1.0",
+  "title": "Sales Recruiter",
+  "summary": "Recruits sales talent so frontline hiring demand is met with better sourcing focus, process coordination, and closing support.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "talent-acquisition"
+  },
+  "discovery": {
+    "tags": [
+      "sales",
+      "recruiter",
+      "talent",
+      "acquisition"
+    ],
+    "domains": [
+      "talent",
+      "acquisition"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "sales",
+      "recruiter",
+      "talent",
+      "acquisition"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "sales-recruiter",
+      "talent-acquisition"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/talent-acquisition/software-it-sales-recruiter"
+  }
+}

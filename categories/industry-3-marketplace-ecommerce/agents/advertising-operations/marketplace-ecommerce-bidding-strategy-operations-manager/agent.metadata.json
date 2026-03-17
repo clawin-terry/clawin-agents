@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-bidding-strategy-operations-manager",
+  "version": "0.1.0",
+  "title": "Bidding Strategy Operations Manager",
+  "summary": "Runs bidding strategy operations so marketplace ad auctions balance revenue, advertiser value, and inventory quality.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "advertising-operations"
+  },
+  "discovery": {
+    "tags": [
+      "bidding",
+      "strategy",
+      "operations",
+      "advertising"
+    ],
+    "domains": [
+      "advertising",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "bidding",
+      "strategy",
+      "operations",
+      "advertising"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "bidding-strategy",
+      "operations-advertising"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/advertising-operations/marketplace-ecommerce-bidding-strategy-operations-manager"
+  }
+}

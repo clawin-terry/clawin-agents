@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-head-of-commercial-operations",
                     "workspace":  "~/.openclaw/agents/software-it-head-of-commercial-operations/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-head-of-commercial-operations/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-head-of-commercial-operations.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-head-of-commercial-operations.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

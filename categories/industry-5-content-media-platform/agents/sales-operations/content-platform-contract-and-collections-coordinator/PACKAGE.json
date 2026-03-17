@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-contract-and-collections-coordinator",
                     "workspace":  "~/.openclaw/agents/content-platform-contract-and-collections-coordinator/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-contract-and-collections-coordinator/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-contract-and-collections-coordinator.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-contract-and-collections-coordinator.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

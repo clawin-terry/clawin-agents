@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-delivery-invoicing-coordination-specialist",
                     "workspace":  "~/.openclaw/agents/software-it-delivery-invoicing-coordination-specialist/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-delivery-invoicing-coordination-specialist/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-delivery-invoicing-coordination-specialist.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-delivery-invoicing-coordination-specialist.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

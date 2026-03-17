@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-channel-operations-manager",
+  "version": "0.1.0",
+  "title": "Channel Operations Manager",
+  "summary": "Runs acquisition channel operations so campaign execution, partner coordination, and performance tracking stay disciplined across growth channels.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "growth-acquisition"
+  },
+  "discovery": {
+    "tags": [
+      "channel",
+      "operations",
+      "growth",
+      "acquisition"
+    ],
+    "domains": [
+      "growth",
+      "acquisition"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "channel",
+      "operations",
+      "growth",
+      "acquisition"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "channel-operations",
+      "growth-acquisition"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/growth-acquisition/marketplace-ecommerce-channel-operations-manager"
+  }
+}

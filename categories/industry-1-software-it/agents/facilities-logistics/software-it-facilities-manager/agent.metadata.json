@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-facilities-manager",
+  "version": "0.1.0",
+  "title": "Facilities Manager",
+  "summary": "Leads facilities operations so sites, maintenance coordination, and workplace service standards remain safe, functional, and well-managed.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "facilities-logistics"
+  },
+  "discovery": {
+    "tags": [
+      "facilities",
+      "logistics"
+    ],
+    "domains": [
+      "facilities",
+      "logistics"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "facilities",
+      "logistics"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "facilities-logistics"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/facilities-logistics/software-it-facilities-manager"
+  }
+}

@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-competitive-pricing-analyst",
                     "workspace":  "~/.openclaw/agents/software-it-competitive-pricing-analyst/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-competitive-pricing-analyst/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-competitive-pricing-analyst.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-competitive-pricing-analyst.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

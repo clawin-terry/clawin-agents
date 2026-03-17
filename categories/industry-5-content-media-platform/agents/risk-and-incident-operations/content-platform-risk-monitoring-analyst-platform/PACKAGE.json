@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-risk-monitoring-analyst-platform",
                     "workspace":  "~/.openclaw/agents/content-platform-risk-monitoring-analyst-platform/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-risk-monitoring-analyst-platform/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-risk-monitoring-analyst-platform.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-risk-monitoring-analyst-platform.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-organization-development-manager-marketplace",
+  "version": "0.1.0",
+  "title": "Organization Development Manager (Marketplace)",
+  "summary": "Leads organization development work so marketplace team structures, change priorities, and capability programs stay aligned with business growth.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "hrbp-organization-development"
+  },
+  "discovery": {
+    "tags": [
+      "organization",
+      "development",
+      "hrbp"
+    ],
+    "domains": [
+      "hrbp",
+      "organization"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "organization",
+      "development",
+      "hrbp"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "organization-development",
+      "development-hrbp"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/hrbp-organization-development/marketplace-ecommerce-organization-development-manager-marketplace"
+  }
+}

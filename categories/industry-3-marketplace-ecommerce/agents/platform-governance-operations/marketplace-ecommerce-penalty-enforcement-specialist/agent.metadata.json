@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-penalty-enforcement-specialist",
+  "version": "0.1.0",
+  "title": "Penalty Enforcement Specialist",
+  "summary": "Executes penalty enforcement so violations are handled consistently and rule consequences are applied with procedural rigor.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "platform-governance-operations"
+  },
+  "discovery": {
+    "tags": [
+      "penalty",
+      "enforcement",
+      "platform",
+      "governance",
+      "operations"
+    ],
+    "domains": [
+      "platform",
+      "governance"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "penalty",
+      "enforcement",
+      "platform",
+      "governance"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "penalty-enforcement",
+      "governance-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/platform-governance-operations/marketplace-ecommerce-penalty-enforcement-specialist"
+  }
+}

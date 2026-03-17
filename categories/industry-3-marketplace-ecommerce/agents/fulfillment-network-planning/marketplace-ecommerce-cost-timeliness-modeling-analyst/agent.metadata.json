@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-cost-timeliness-modeling-analyst",
+  "version": "0.1.0",
+  "title": "Cost and Timeliness Modeling Analyst",
+  "summary": "Builds cost and timeliness models so fulfillment network decisions can balance service speed, capacity, and operating efficiency.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "fulfillment-network-planning"
+  },
+  "discovery": {
+    "tags": [
+      "cost",
+      "timeliness",
+      "modeling",
+      "and",
+      "fulfillment",
+      "network",
+      "planning"
+    ],
+    "domains": [
+      "fulfillment",
+      "network"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "cost",
+      "timeliness",
+      "modeling",
+      "fulfillment"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "cost-timeliness",
+      "network-planning"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/fulfillment-network-planning/marketplace-ecommerce-cost-timeliness-modeling-analyst"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-employer-brand-manager",
+  "version": "0.1.0",
+  "title": "Employer Brand Manager",
+  "summary": "Leads employer-brand programs so the company attracts talent with clearer positioning, stronger campaigns, and more consistent candidate messaging.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "talent-acquisition"
+  },
+  "discovery": {
+    "tags": [
+      "employer",
+      "brand",
+      "talent",
+      "acquisition"
+    ],
+    "domains": [
+      "talent",
+      "acquisition"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "employer",
+      "brand",
+      "talent",
+      "acquisition"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "employer-brand",
+      "talent-acquisition"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/talent-acquisition/software-it-employer-brand-manager"
+  }
+}

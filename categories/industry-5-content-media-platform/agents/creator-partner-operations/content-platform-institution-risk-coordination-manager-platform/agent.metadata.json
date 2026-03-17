@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-institution-risk-coordination-manager-platform",
+  "version": "0.1.0",
+  "title": "Institution Risk Coordination Manager (Platform)",
+  "summary": "Coordinates institution risk processes so partner organizations, guilds, and agency-side operations stay aligned with platform control standards and issue response workflows.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "creator-partner-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "institution",
+      "risk",
+      "coordination",
+      "creator",
+      "partner",
+      "operations"
+    ],
+    "domains": [
+      "creator",
+      "partner"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "institution",
+      "risk"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "partner-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/creator-partner-operations/content-platform-institution-risk-coordination-manager-platform"
+  }
+}

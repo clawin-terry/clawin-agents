@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-media-relations-manager",
+  "version": "0.1.0",
+  "title": "Media Relations Manager",
+  "summary": "Manages media relationships, briefing flow, and press coordination so external coverage stays timely, accurate, and strategically useful.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "public-relations"
+  },
+  "discovery": {
+    "tags": [
+      "media",
+      "relations",
+      "public"
+    ],
+    "domains": [
+      "public",
+      "relations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "media",
+      "relations",
+      "public"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "media-relations",
+      "relations-public"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/public-relations/software-it-media-relations-manager"
+  }
+}

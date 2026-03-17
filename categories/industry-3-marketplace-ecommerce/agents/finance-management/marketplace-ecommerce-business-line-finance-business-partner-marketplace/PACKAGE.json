@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-business-line-finance-business-partner-marketplace",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-business-line-finance-business-partner-marketplace/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-business-line-finance-business-partner-marketplace/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-business-line-finance-business-partner-marketplace.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-business-line-finance-business-partner-marketplace.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

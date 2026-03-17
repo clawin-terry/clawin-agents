@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-content-supply-strategy-manager-platform",
+  "version": "0.1.0",
+  "title": "Content Supply Strategy Manager (Platform)",
+  "summary": "Shapes content-supply strategy so the platform can grow creator participation, balance category coverage, and keep supply aligned with audience demand.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "content-ecosystem-strategy"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "supply",
+      "strategy",
+      "ecosystem"
+    ],
+    "domains": [
+      "content",
+      "ecosystem"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "supply",
+      "strategy"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "content-platform",
+      "strategy-ecosystem"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/content-ecosystem-strategy/content-platform-content-supply-strategy-manager-platform"
+  }
+}

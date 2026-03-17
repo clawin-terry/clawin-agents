@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-compatibility-test-engineer-python",
+  "version": "0.1.0",
+  "title": "Compatibility Test Engineer (Python)",
+  "summary": "Validates compatibility across environments, platforms, and dependency combinations with Python-based test tooling and disciplined coverage.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "test-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "compatibility",
+      "test",
+      "python",
+      "engineering"
+    ],
+    "domains": [
+      "test",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "compatibility",
+      "test",
+      "python",
+      "engineering"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "compatibility-test",
+      "python-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/test-engineering/software-it-compatibility-test-engineer-python"
+  }
+}

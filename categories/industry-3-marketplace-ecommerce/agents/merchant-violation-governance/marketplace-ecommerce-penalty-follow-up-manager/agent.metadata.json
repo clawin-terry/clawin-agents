@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-penalty-follow-up-manager",
+  "version": "0.1.0",
+  "title": "Penalty Follow-Up Manager",
+  "summary": "Tracks penalty follow-up so enforcement actions are executed consistently and downstream remediation is completed as required.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "merchant-violation-governance"
+  },
+  "discovery": {
+    "tags": [
+      "penalty",
+      "follow",
+      "up",
+      "merchant",
+      "violation",
+      "governance"
+    ],
+    "domains": [
+      "merchant",
+      "violation"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "penalty",
+      "follow",
+      "up",
+      "merchant"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "penalty-follow",
+      "violation-governance"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/merchant-violation-governance/marketplace-ecommerce-penalty-follow-up-manager"
+  }
+}

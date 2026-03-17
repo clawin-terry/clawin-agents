@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-renewal-and-churn-governance-manager",
+  "version": "0.1.0",
+  "title": "Renewal and Churn Governance Manager",
+  "summary": "Leads renewal and churn governance so paid members stay engaged, cancellation drivers become clearer, and win-back actions can be executed with tighter operating discipline.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "membership-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "renewal",
+      "and",
+      "churn",
+      "governance",
+      "membership",
+      "operations"
+    ],
+    "domains": [
+      "membership",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "renewal",
+      "and"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "membership-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/membership-operations/content-platform-renewal-and-churn-governance-manager"
+  }
+}

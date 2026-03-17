@@ -16,7 +16,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-data-assets-and-catalog-administrator",
                     "workspace":  "~/.openclaw/agents/software-it-data-assets-and-catalog-administrator/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-data-assets-and-catalog-administrator/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-data-assets-and-catalog-administrator.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-data-assets-and-catalog-administrator.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

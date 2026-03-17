@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-press-release-editor",
                     "workspace":  "~/.openclaw/agents/software-it-press-release-editor/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-press-release-editor/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-press-release-editor.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-press-release-editor.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

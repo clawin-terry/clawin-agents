@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/digital-marketing-creative-strategy-manager-data-collaboration-agency",
                     "workspace":  "~/.openclaw/agents/digital-marketing-creative-strategy-manager-data-collaboration-agency/workspace",
                     "agentDir":  "~/.openclaw/agents/digital-marketing-creative-strategy-manager-data-collaboration-agency/agent",
-                    "configEntry":  "config/openclaw.agent.digital-marketing-creative-strategy-manager-data-collaboration-agency.entry.json",
-                    "configSnippet":  "config/openclaw.agent.digital-marketing-creative-strategy-manager-data-collaboration-agency.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

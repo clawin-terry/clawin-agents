@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-in-warehouse-quality-control-manager",
+  "version": "0.1.0",
+  "title": "In-Warehouse Quality Control Manager",
+  "summary": "Leads in-warehouse quality control so storage, handling, and fulfillment readiness remain consistent across inventory operations.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "warehouse-operations"
+  },
+  "discovery": {
+    "tags": [
+      "in",
+      "warehouse",
+      "quality",
+      "control",
+      "operations"
+    ],
+    "domains": [
+      "warehouse",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "in",
+      "warehouse",
+      "quality",
+      "control"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "in-warehouse",
+      "control-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/warehouse-operations/marketplace-ecommerce-in-warehouse-quality-control-manager"
+  }
+}

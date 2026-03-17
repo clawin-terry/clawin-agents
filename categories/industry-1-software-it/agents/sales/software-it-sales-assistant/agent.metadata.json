@@ -1,0 +1,51 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-sales-assistant",
+  "version": "0.1.0",
+  "title": "Sales Assistant",
+  "summary": "Supports sales execution through administrative coordination, opportunity follow-up, and clean operating support for field teams.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "sales"
+  },
+  "discovery": {
+    "tags": [
+      "sales"
+    ],
+    "domains": [
+      "sales"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "sales"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "sales"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/sales/software-it-sales-assistant"
+  }
+}

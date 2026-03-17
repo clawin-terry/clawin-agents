@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-brand-events-manager",
                     "workspace":  "~/.openclaw/agents/software-it-brand-events-manager/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-brand-events-manager/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-brand-events-manager.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-brand-events-manager.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

@@ -1,0 +1,13 @@
+{
+    "id":  "financial-research-sensitivity-matrix-analyst",
+    "default":  false,
+    "name":  "Sensitivity Matrix Analyst",
+    "workspace":  "~/.openclaw/agents/financial-research-sensitivity-matrix-analyst/workspace",
+    "agentDir":  "~/.openclaw/agents/financial-research-sensitivity-matrix-analyst/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

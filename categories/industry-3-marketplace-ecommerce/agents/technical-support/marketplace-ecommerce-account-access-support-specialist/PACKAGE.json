@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-account-access-support-specialist",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-account-access-support-specialist/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-account-access-support-specialist/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-account-access-support-specialist.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-account-access-support-specialist.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

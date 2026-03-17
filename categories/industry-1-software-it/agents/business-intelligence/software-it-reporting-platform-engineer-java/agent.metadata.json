@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-reporting-platform-engineer-java",
+  "version": "0.1.0",
+  "title": "Reporting Platform Engineer (Java)",
+  "summary": "Builds reporting platform capabilities with Java, improving report generation reliability, access patterns, and operational scalability.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "business-intelligence"
+  },
+  "discovery": {
+    "tags": [
+      "reporting",
+      "platform",
+      "java",
+      "business",
+      "intelligence"
+    ],
+    "domains": [
+      "business",
+      "intelligence"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "reporting",
+      "platform",
+      "java",
+      "business"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "reporting-platform",
+      "business-intelligence"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/business-intelligence/software-it-reporting-platform-engineer-java"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-merchant-qualification-compliance-specialist",
+  "version": "0.1.0",
+  "title": "Merchant Qualification Compliance Specialist",
+  "summary": "Validates merchant qualifications and compliance materials so seller entry decisions meet platform policy and regulatory expectations.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "merchant-onboarding-compliance"
+  },
+  "discovery": {
+    "tags": [
+      "merchant",
+      "qualification",
+      "compliance",
+      "onboarding"
+    ],
+    "domains": [
+      "merchant",
+      "onboarding"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "merchant",
+      "qualification",
+      "compliance",
+      "onboarding"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "merchant-qualification",
+      "compliance-onboarding"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/merchant-onboarding-compliance/marketplace-ecommerce-merchant-qualification-compliance-specialist"
+  }
+}

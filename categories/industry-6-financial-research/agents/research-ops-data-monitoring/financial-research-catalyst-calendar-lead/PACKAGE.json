@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "financial-research-catalyst-calendar-lead",
+    "roleTitle":  "Catalyst Calendar Coordinator",
+    "personaSummary":  "Maintains a team-level catalyst calendar that consolidates company events, macro releases, industry checkpoints, and internal memo deadlines.",
+    "industryId":  "industry-6-financial-research",
+    "roleFamilyKey":  "research-ops-data-monitoring",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/financial-research-catalyst-calendar-lead",
+                    "workspace":  "~/.openclaw/agents/financial-research-catalyst-calendar-lead/workspace",
+                    "agentDir":  "~/.openclaw/agents/financial-research-catalyst-calendar-lead/agent",
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
+                }
+}

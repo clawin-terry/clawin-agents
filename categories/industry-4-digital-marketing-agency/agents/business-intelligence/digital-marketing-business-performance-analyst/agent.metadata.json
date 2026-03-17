@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-business-performance-analyst",
+  "version": "0.1.0",
+  "title": "Business Performance Analyst",
+  "summary": "Tracks agency operating and financial performance so leaders can compare actual results, spot gaps quickly, and steer growth with clearer business evidence.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "business-intelligence"
+  },
+  "discovery": {
+    "tags": [
+      "business",
+      "performance",
+      "intelligence"
+    ],
+    "domains": [
+      "business",
+      "intelligence"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "business",
+      "performance",
+      "intelligence"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "business-performance",
+      "performance-intelligence"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/business-intelligence/digital-marketing-business-performance-analyst"
+  }
+}

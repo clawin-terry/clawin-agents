@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-secure-software-engineer-go-python",
+  "version": "0.1.0",
+  "title": "Secure Software Engineer (Go/Python)",
+  "summary": "Builds secure software controls and engineering patterns with Go and Python to reduce application risk and improve secure delivery practices.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "security-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "secure",
+      "go",
+      "python",
+      "security",
+      "engineering"
+    ],
+    "domains": [
+      "security",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "secure",
+      "go",
+      "python",
+      "security"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "secure-go",
+      "security-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "healthcheck"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/security-engineering/software-it-secure-software-engineer-go-python"
+  }
+}

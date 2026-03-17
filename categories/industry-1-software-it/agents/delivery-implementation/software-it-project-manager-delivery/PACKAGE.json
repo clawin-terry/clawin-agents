@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-project-manager-delivery",
                     "workspace":  "~/.openclaw/agents/software-it-project-manager-delivery/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-project-manager-delivery/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-project-manager-delivery.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-project-manager-delivery.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

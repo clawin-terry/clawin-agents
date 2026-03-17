@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-compliance-process-specialist",
                     "workspace":  "~/.openclaw/agents/software-it-compliance-process-specialist/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-compliance-process-specialist/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-compliance-process-specialist.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-compliance-process-specialist.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

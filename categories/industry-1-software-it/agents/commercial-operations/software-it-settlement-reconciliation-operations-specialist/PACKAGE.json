@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-settlement-reconciliation-operations-specialist",
                     "workspace":  "~/.openclaw/agents/software-it-settlement-reconciliation-operations-specialist/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-settlement-reconciliation-operations-specialist/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-settlement-reconciliation-operations-specialist.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-settlement-reconciliation-operations-specialist.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

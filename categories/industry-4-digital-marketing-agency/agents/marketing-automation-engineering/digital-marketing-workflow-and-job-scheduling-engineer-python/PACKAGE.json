@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/digital-marketing-workflow-and-job-scheduling-engineer-python",
                     "workspace":  "~/.openclaw/agents/digital-marketing-workflow-and-job-scheduling-engineer-python/workspace",
                     "agentDir":  "~/.openclaw/agents/digital-marketing-workflow-and-job-scheduling-engineer-python/agent",
-                    "configEntry":  "config/openclaw.agent.digital-marketing-workflow-and-job-scheduling-engineer-python.entry.json",
-                    "configSnippet":  "config/openclaw.agent.digital-marketing-workflow-and-job-scheduling-engineer-python.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

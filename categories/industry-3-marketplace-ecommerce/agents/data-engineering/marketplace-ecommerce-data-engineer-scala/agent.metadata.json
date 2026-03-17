@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-data-engineer-scala",
+  "version": "0.1.0",
+  "title": "Data Engineer (Scala)",
+  "summary": "Builds offline data platform pipelines with Scala so marketplace analytics datasets remain reliable, scalable, and usable across downstream teams.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "data-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "data",
+      "scala",
+      "engineering"
+    ],
+    "domains": [
+      "data",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "data",
+      "scala",
+      "engineering"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "data-scala",
+      "scala-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/data-engineering/marketplace-ecommerce-data-engineer-scala"
+  }
+}

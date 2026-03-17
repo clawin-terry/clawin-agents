@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-data-sharing-approval-specialist",
+  "version": "0.1.0",
+  "title": "Data Sharing Approval Specialist",
+  "summary": "Runs data sharing approval workflows so outbound data use decisions are reviewed consistently, documented clearly, and aligned with governance expectations.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "privacy-data-governance"
+  },
+  "discovery": {
+    "tags": [
+      "data",
+      "sharing",
+      "approval",
+      "privacy",
+      "governance"
+    ],
+    "domains": [
+      "privacy",
+      "data"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "data",
+      "sharing",
+      "approval",
+      "privacy"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "data-sharing",
+      "privacy-governance"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "healthcheck"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/privacy-data-governance/software-it-data-sharing-approval-specialist"
+  }
+}

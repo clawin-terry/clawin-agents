@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-campus-and-experienced-hiring-specialist",
+  "version": "0.1.0",
+  "title": "Campus and Experienced Hiring Specialist",
+  "summary": "Runs campus and experienced-hire recruiting workflows so marketplace teams can build balanced talent pipelines across hiring channels.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "talent-acquisition"
+  },
+  "discovery": {
+    "tags": [
+      "campus",
+      "and",
+      "experienced",
+      "hiring",
+      "talent",
+      "acquisition"
+    ],
+    "domains": [
+      "talent",
+      "acquisition"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "campus",
+      "and",
+      "experienced",
+      "hiring"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "campus-and",
+      "talent-acquisition"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/talent-acquisition/marketplace-ecommerce-campus-and-experienced-hiring-specialist"
+  }
+}

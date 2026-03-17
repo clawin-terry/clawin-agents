@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-chief-information-security-officer",
+  "version": "0.1.0",
+  "title": "Chief Information Security Officer (CISO)",
+  "summary": "Leads enterprise information security strategy, governance, and risk alignment so protection priorities, control programs, and leadership decisions stay coherent and actionable.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "security-governance"
+  },
+  "discovery": {
+    "tags": [
+      "chief",
+      "information",
+      "security",
+      "officer",
+      "ciso",
+      "governance"
+    ],
+    "domains": [
+      "security",
+      "governance"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "chief",
+      "information",
+      "security",
+      "officer"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "chief-information",
+      "officer-governance"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "healthcheck"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/security-governance/software-it-chief-information-security-officer"
+  }
+}

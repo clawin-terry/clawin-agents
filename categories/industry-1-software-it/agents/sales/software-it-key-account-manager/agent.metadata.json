@@ -1,0 +1,56 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-key-account-manager",
+  "version": "0.1.0",
+  "title": "Key Account Manager",
+  "summary": "Manages strategic customer accounts, balancing relationship depth, commercial outcomes, and long-term account growth.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "sales"
+  },
+  "discovery": {
+    "tags": [
+      "key",
+      "account",
+      "sales"
+    ],
+    "domains": [
+      "sales"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "key",
+      "account",
+      "sales"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "key-account",
+      "account-sales"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/sales/software-it-key-account-manager"
+  }
+}

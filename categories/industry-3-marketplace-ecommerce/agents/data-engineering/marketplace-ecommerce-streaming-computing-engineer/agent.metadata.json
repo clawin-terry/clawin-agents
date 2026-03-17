@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-streaming-computing-engineer",
+  "version": "0.1.0",
+  "title": "Streaming Computing Engineer",
+  "summary": "Builds streaming computing pipelines so marketplace event processing remains timely, resilient, and operationally manageable.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "data-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "streaming",
+      "computing",
+      "data",
+      "engineering"
+    ],
+    "domains": [
+      "data",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "streaming",
+      "computing",
+      "data",
+      "engineering"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "streaming-computing",
+      "data-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/data-engineering/marketplace-ecommerce-streaming-computing-engineer"
+  }
+}

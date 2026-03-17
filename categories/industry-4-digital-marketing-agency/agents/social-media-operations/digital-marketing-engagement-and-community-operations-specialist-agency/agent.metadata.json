@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-engagement-and-community-operations-specialist-agency",
+  "version": "0.1.0",
+  "title": "Engagement and Community Operations Specialist (Agency)",
+  "summary": "Runs engagement and community operations so agency social programs can sustain interaction quality, audience response, and community momentum.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "social-media-operations"
+  },
+  "discovery": {
+    "tags": [
+      "engagement",
+      "and",
+      "community",
+      "operations",
+      "social",
+      "media"
+    ],
+    "domains": [
+      "social",
+      "media"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "engagement",
+      "and",
+      "community",
+      "operations"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "engagement-and",
+      "social-media"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/social-media-operations/digital-marketing-engagement-and-community-operations-specialist-agency"
+  }
+}

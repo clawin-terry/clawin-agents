@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-anti-fraud-investigation-specialist",
                     "workspace":  "~/.openclaw/agents/software-it-anti-fraud-investigation-specialist/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-anti-fraud-investigation-specialist/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-anti-fraud-investigation-specialist.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-anti-fraud-investigation-specialist.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

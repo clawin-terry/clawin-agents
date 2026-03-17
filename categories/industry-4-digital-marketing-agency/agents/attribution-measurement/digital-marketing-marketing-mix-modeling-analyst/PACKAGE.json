@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/digital-marketing-marketing-mix-modeling-analyst",
                     "workspace":  "~/.openclaw/agents/digital-marketing-marketing-mix-modeling-analyst/workspace",
                     "agentDir":  "~/.openclaw/agents/digital-marketing-marketing-mix-modeling-analyst/agent",
-                    "configEntry":  "config/openclaw.agent.digital-marketing-marketing-mix-modeling-analyst.entry.json",
-                    "configSnippet":  "config/openclaw.agent.digital-marketing-marketing-mix-modeling-analyst.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

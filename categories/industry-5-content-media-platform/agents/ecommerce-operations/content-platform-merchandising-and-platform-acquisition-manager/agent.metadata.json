@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-merchandising-and-platform-acquisition-manager",
+  "version": "0.1.0",
+  "title": "Merchandising and Platform Acquisition Manager",
+  "summary": "Leads merchandising and platform acquisition programs so product assortment, seller recruitment, and commerce supply growth stay aligned with platform demand.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "ecommerce-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "merchandising",
+      "and",
+      "acquisition",
+      "operations"
+    ],
+    "domains": [
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "merchandising",
+      "and"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "acquisition-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/ecommerce-operations/content-platform-merchandising-and-platform-acquisition-manager"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-services-procurement-specialist",
+  "version": "0.1.0",
+  "title": "Services Procurement Specialist",
+  "summary": "Manages services procurement so external service demand is sourced, documented, and contracted with stronger commercial discipline.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "procurement"
+  },
+  "discovery": {
+    "tags": [
+      "services",
+      "procurement"
+    ],
+    "domains": [
+      "procurement"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "services",
+      "procurement"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "services-procurement"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/procurement/software-it-services-procurement-specialist"
+  }
+}

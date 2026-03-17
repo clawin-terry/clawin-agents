@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-master-data-manager",
+  "version": "0.1.0",
+  "title": "Master Data Manager",
+  "summary": "Leads master data management practices that improve consistency, stewardship, and cross-system integrity for critical business entities.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "data-governance"
+  },
+  "discovery": {
+    "tags": [
+      "master",
+      "data",
+      "governance"
+    ],
+    "domains": [
+      "data",
+      "governance"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "master",
+      "data",
+      "governance"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "master-data",
+      "data-governance"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/data-governance/software-it-master-data-manager"
+  }
+}

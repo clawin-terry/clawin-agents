@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-copy-director-agency",
+  "version": "0.1.0",
+  "title": "Copy Director (Agency)",
+  "summary": "Leads copy direction so agency messaging, tone, and creative language stay sharp, consistent, and usable across campaign assets.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "copywriting-and-scripting"
+  },
+  "discovery": {
+    "tags": [
+      "copy",
+      "copywriting",
+      "and",
+      "scripting"
+    ],
+    "domains": [
+      "copywriting",
+      "and"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "copy",
+      "copywriting",
+      "and",
+      "scripting"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "copy-copywriting",
+      "and-scripting"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/copywriting-and-scripting/digital-marketing-copy-director-agency"
+  }
+}

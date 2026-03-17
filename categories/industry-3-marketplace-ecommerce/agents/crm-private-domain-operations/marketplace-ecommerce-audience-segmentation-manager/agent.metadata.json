@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-audience-segmentation-manager",
+  "version": "0.1.0",
+  "title": "Audience Segmentation Manager",
+  "summary": "Owns audience segmentation so marketplace CRM programs can target users with clearer lifecycle logic and better campaign relevance.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "crm-private-domain-operations"
+  },
+  "discovery": {
+    "tags": [
+      "audience",
+      "segmentation",
+      "crm",
+      "private",
+      "domain",
+      "operations"
+    ],
+    "domains": [
+      "crm",
+      "private"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "audience",
+      "segmentation",
+      "crm",
+      "private"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "audience-segmentation",
+      "domain-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/crm-private-domain-operations/marketplace-ecommerce-audience-segmentation-manager"
+  }
+}

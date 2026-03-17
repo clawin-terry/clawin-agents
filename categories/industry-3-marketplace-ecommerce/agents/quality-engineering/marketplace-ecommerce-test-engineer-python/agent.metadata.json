@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-test-engineer-python",
+  "version": "0.1.0",
+  "title": "Test Engineer (Python)",
+  "summary": "Designs and executes marketplace test coverage with Python-based tooling so releases remain reliable, traceable, and production-ready.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "quality-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "test",
+      "python",
+      "quality",
+      "engineering"
+    ],
+    "domains": [
+      "quality",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "test",
+      "python",
+      "quality",
+      "engineering"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "test-python",
+      "quality-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/quality-engineering/marketplace-ecommerce-test-engineer-python"
+  }
+}

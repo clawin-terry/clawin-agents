@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-administrative-fixed-assets-administrator",
+  "version": "0.1.0",
+  "title": "Administrative Fixed Assets Administrator",
+  "summary": "Maintains administrative fixed-asset records so office equipment, inventories, and lifecycle tracking remain accurate and auditable.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "administration"
+  },
+  "discovery": {
+    "tags": [
+      "administrative",
+      "fixed",
+      "assets",
+      "administrator",
+      "administration"
+    ],
+    "domains": [
+      "administration"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "administrative",
+      "fixed",
+      "assets",
+      "administrator"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "administrative-fixed",
+      "administrator-administration"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/administration/software-it-administrative-fixed-assets-administrator"
+  }
+}

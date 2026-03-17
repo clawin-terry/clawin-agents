@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-category-planning-manager-platform",
+  "version": "0.1.0",
+  "title": "Category Planning Manager (Platform)",
+  "summary": "Leads category planning so content verticals have clearer focus, healthier supply mix, and stronger alignment with strategic growth priorities.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "content-ecosystem-strategy"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "category",
+      "planning",
+      "ecosystem",
+      "strategy"
+    ],
+    "domains": [
+      "content",
+      "ecosystem"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "category",
+      "planning"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "content-platform",
+      "ecosystem-strategy"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/content-ecosystem-strategy/content-platform-category-planning-manager-platform"
+  }
+}

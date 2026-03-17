@@ -1,0 +1,66 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-editorial-policy-and-prepublication-review-manager-platform",
+  "version": "0.1.0",
+  "title": "Editorial Policy and Prepublication Review Manager (Platform)",
+  "summary": "Owns prepublication editorial review so content submissions are checked against publishing norms, style guidance, and operating standards before release.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "editorial-content-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "editorial",
+      "policy",
+      "and",
+      "prepublication",
+      "review",
+      "operations"
+    ],
+    "domains": [
+      "editorial",
+      "content"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "editorial",
+      "policy"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "review-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/editorial-content-operations/content-platform-editorial-policy-and-prepublication-review-manager-platform"
+  }
+}

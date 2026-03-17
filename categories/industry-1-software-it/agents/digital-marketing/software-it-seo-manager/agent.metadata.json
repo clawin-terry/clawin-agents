@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-seo-manager",
+  "version": "0.1.0",
+  "title": "SEO Manager",
+  "summary": "Leads search engine optimization programs that improve discoverability, organic demand, and sustainable inbound growth.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "digital-marketing"
+  },
+  "discovery": {
+    "tags": [
+      "seo"
+    ],
+    "domains": [
+      "seo"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "seo"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "seo"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "browser"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/digital-marketing/software-it-seo-manager"
+  }
+}

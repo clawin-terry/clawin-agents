@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-ios-engineer-swift",
+  "version": "0.1.0",
+  "title": "iOS Engineer (Swift)",
+  "summary": "Builds iOS marketplace experiences with Swift, emphasizing maintainability, polished user experience, and dependable app delivery.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "mobile-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "ios",
+      "swift",
+      "mobile",
+      "engineering"
+    ],
+    "domains": [
+      "mobile",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "ios",
+      "swift",
+      "mobile",
+      "engineering"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "ios-swift",
+      "mobile-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "clawin-mobile-engineering"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/mobile-engineering/marketplace-ecommerce-ios-engineer-swift"
+  }
+}

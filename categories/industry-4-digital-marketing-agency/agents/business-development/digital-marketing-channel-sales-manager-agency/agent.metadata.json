@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-channel-sales-manager-agency",
+  "version": "0.1.0",
+  "title": "Channel Sales Manager (Agency)",
+  "summary": "Builds channel sales execution so agency partner routes, reseller activity, and joint revenue opportunities are managed consistently.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "business-development"
+  },
+  "discovery": {
+    "tags": [
+      "channel",
+      "sales",
+      "business",
+      "development"
+    ],
+    "domains": [
+      "business",
+      "development"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "channel",
+      "sales",
+      "business",
+      "development"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "channel-sales",
+      "business-development"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/business-development/digital-marketing-channel-sales-manager-agency"
+  }
+}

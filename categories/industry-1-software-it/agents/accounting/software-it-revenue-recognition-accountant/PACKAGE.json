@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-revenue-recognition-accountant",
                     "workspace":  "~/.openclaw/agents/software-it-revenue-recognition-accountant/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-revenue-recognition-accountant/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-revenue-recognition-accountant.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-revenue-recognition-accountant.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

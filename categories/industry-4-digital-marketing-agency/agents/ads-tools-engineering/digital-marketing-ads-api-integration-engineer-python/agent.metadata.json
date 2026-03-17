@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-ads-api-integration-engineer-python",
+  "version": "0.1.0",
+  "title": "Ads API Integration Engineer (Python)",
+  "summary": "Integrates advertising platform APIs with Python so campaign data access, operational tooling, and reporting workflows remain connected and usable.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "ads-tools-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "ads",
+      "api",
+      "integration",
+      "python",
+      "tools",
+      "engineering"
+    ],
+    "domains": [
+      "ads",
+      "tools"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "ads",
+      "api",
+      "integration",
+      "python"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "ads-api",
+      "tools-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/ads-tools-engineering/digital-marketing-ads-api-integration-engineer-python"
+  }
+}

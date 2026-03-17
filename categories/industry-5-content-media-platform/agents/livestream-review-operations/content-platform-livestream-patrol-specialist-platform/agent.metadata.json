@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-livestream-patrol-specialist-platform",
+  "version": "0.1.0",
+  "title": "Livestream Patrol Specialist (Platform)",
+  "summary": "Patrols live sessions so emerging livestream safety issues are detected early and routed into faster enforcement action.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "livestream-review-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "livestream",
+      "patrol",
+      "review",
+      "operations"
+    ],
+    "domains": [
+      "livestream",
+      "review"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "livestream",
+      "patrol"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "review-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/livestream-review-operations/content-platform-livestream-patrol-specialist-platform"
+  }
+}

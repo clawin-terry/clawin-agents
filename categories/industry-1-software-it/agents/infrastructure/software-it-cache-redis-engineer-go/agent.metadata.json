@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-cache-redis-engineer-go",
+  "version": "0.1.0",
+  "title": "Cache and Redis Engineer (Go)",
+  "summary": "Builds and operates cache and Redis infrastructure with a Go-centric toolchain, focusing on latency, resilience, and operational safety.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "infrastructure"
+  },
+  "discovery": {
+    "tags": [
+      "cache",
+      "redis",
+      "go",
+      "and",
+      "infrastructure"
+    ],
+    "domains": [
+      "infrastructure"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "cache",
+      "redis",
+      "go",
+      "infrastructure"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "cache-redis",
+      "go-infrastructure"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "healthcheck"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/infrastructure/software-it-cache-redis-engineer-go"
+  }
+}

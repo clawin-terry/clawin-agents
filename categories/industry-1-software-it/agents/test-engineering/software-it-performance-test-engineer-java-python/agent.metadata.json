@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-performance-test-engineer-java-python",
+  "version": "0.1.0",
+  "title": "Performance Test Engineer (Java/Python)",
+  "summary": "Designs and runs performance test programs with Java and Python to reveal bottlenecks, capacity limits, and scalability risks.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "test-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "performance",
+      "test",
+      "java",
+      "python",
+      "engineering"
+    ],
+    "domains": [
+      "test",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "performance",
+      "test",
+      "java",
+      "python"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "performance-test",
+      "python-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/test-engineering/software-it-performance-test-engineer-java-python"
+  }
+}

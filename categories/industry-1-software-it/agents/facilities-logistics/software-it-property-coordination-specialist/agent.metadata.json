@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-property-coordination-specialist",
+  "version": "0.1.0",
+  "title": "Property Coordination Specialist",
+  "summary": "Coordinates with property and building-management partners so site issues, service requests, and landlord interfaces stay organized and responsive.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "facilities-logistics"
+  },
+  "discovery": {
+    "tags": [
+      "property",
+      "coordination",
+      "facilities",
+      "logistics"
+    ],
+    "domains": [
+      "facilities",
+      "logistics"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "property",
+      "coordination",
+      "facilities",
+      "logistics"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "property-coordination",
+      "facilities-logistics"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/facilities-logistics/software-it-property-coordination-specialist"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-report-operations-specialist-platform",
+  "version": "0.1.0",
+  "title": "Report Operations Specialist (Platform)",
+  "summary": "Runs report-intake operations so user-submitted abuse signals are triaged, categorized, and sent into the right review workflows faster.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "reports-and-appeals-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "report",
+      "operations",
+      "reports",
+      "and",
+      "appeals"
+    ],
+    "domains": [
+      "reports",
+      "and"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "report",
+      "operations"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "and-appeals"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/reports-and-appeals-operations/content-platform-report-operations-specialist-platform"
+  }
+}

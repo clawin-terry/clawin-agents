@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-data-attribution-and-measurement-consultant-agency",
+  "version": "0.1.0",
+  "title": "Data Attribution and Measurement Consultant (Agency)",
+  "summary": "Guides attribution and measurement design so agency clients can interpret performance signals with stronger tracking discipline.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "presales-solutions"
+  },
+  "discovery": {
+    "tags": [
+      "data",
+      "attribution",
+      "and",
+      "measurement",
+      "presales",
+      "solutions"
+    ],
+    "domains": [
+      "presales",
+      "solutions"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "data",
+      "attribution",
+      "and",
+      "measurement"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "data-attribution",
+      "presales-solutions"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/presales-solutions/digital-marketing-data-attribution-and-measurement-consultant-agency"
+  }
+}

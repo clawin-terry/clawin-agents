@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-content-acquisition-manager-platform",
+  "version": "0.1.0",
+  "title": "Content Acquisition Manager (Platform)",
+  "summary": "Leads content acquisition so external programs, licensed assets, and strategic supply can be introduced to the platform with stronger fit and coordination.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "content-rights-and-partnerships"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "acquisition",
+      "rights",
+      "and",
+      "partnerships"
+    ],
+    "domains": [
+      "content",
+      "rights"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "acquisition",
+      "rights"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "and-partnerships"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/content-rights-and-partnerships/content-platform-content-acquisition-manager-platform"
+  }
+}

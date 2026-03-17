@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-desktop-client-engineer-cpp-csharp",
+  "version": "0.1.0",
+  "title": "Desktop Client Engineer (C++/C#)",
+  "summary": "Builds desktop client applications with C++ and C#, with attention to performance, maintainability, and release quality.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "engineering"
+  },
+  "discovery": {
+    "tags": [
+      "desktop",
+      "client",
+      "cpp",
+      "csharp",
+      "c",
+      "engineering"
+    ],
+    "domains": [
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "desktop",
+      "client",
+      "cpp",
+      "csharp"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "desktop-client",
+      "csharp-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "clawin-native-client-engineering"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/engineering/software-it-desktop-client-engineer-cpp-csharp"
+  }
+}

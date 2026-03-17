@@ -16,7 +16,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-postgresql-engineer-sql",
                     "workspace":  "~/.openclaw/agents/software-it-postgresql-engineer-sql/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-postgresql-engineer-sql/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-postgresql-engineer-sql.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-postgresql-engineer-sql.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

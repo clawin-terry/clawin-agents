@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-winback-operations-manager",
+  "version": "0.1.0",
+  "title": "Winback Operations Manager",
+  "summary": "Runs winback programs so inactive users are re-engaged through timely outreach, tailored offers, and marketplace return journeys.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "user-lifecycle-operations"
+  },
+  "discovery": {
+    "tags": [
+      "winback",
+      "operations",
+      "user",
+      "lifecycle"
+    ],
+    "domains": [
+      "user",
+      "lifecycle"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "winback",
+      "operations",
+      "user",
+      "lifecycle"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "winback-operations",
+      "user-lifecycle"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/user-lifecycle-operations/marketplace-ecommerce-winback-operations-manager"
+  }
+}

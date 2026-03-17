@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/digital-marketing-ads-tools-backend-engineer-java-go",
                     "workspace":  "~/.openclaw/agents/digital-marketing-ads-tools-backend-engineer-java-go/workspace",
                     "agentDir":  "~/.openclaw/agents/digital-marketing-ads-tools-backend-engineer-java-go/agent",
-                    "configEntry":  "config/openclaw.agent.digital-marketing-ads-tools-backend-engineer-java-go.entry.json",
-                    "configSnippet":  "config/openclaw.agent.digital-marketing-ads-tools-backend-engineer-java-go.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

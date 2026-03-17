@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-chief-financial-officer",
+  "version": "0.1.0",
+  "title": "Chief Financial Officer",
+  "summary": "Leads finance strategy, stewardship, and operating discipline so growth decisions, investment tradeoffs, and financial controls remain aligned with company goals.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "finance-management"
+  },
+  "discovery": {
+    "tags": [
+      "chief",
+      "financial",
+      "officer",
+      "finance",
+      "management"
+    ],
+    "domains": [
+      "finance",
+      "management"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "chief",
+      "financial",
+      "officer",
+      "finance"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "chief-financial",
+      "finance-management"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/finance-management/software-it-chief-financial-officer"
+  }
+}

@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-test-engineer-python",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-test-engineer-python/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-test-engineer-python/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-test-engineer-python.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-test-engineer-python.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

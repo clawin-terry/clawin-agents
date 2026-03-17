@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-functional-test-engineer",
+  "version": "0.1.0",
+  "title": "Functional Test Engineer",
+  "summary": "Runs functional testing so content, community, and monetization product changes meet expected behavior before release.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "quality-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "functional",
+      "test",
+      "quality",
+      "engineering"
+    ],
+    "domains": [
+      "quality",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "functional",
+      "test"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "quality-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/quality-engineering/content-platform-functional-test-engineer"
+  }
+}

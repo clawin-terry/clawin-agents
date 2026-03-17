@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/digital-marketing-advertising-law-and-platform-policy-compliance-specialist-agency",
                     "workspace":  "~/.openclaw/agents/digital-marketing-advertising-law-and-platform-policy-compliance-specialist-agency/workspace",
                     "agentDir":  "~/.openclaw/agents/digital-marketing-advertising-law-and-platform-policy-compliance-specialist-agency/agent",
-                    "configEntry":  "config/openclaw.agent.digital-marketing-advertising-law-and-platform-policy-compliance-specialist-agency.entry.json",
-                    "configSnippet":  "config/openclaw.agent.digital-marketing-advertising-law-and-platform-policy-compliance-specialist-agency.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

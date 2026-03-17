@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-supplier-qcd-performance-specialist",
                     "workspace":  "~/.openclaw/agents/software-it-supplier-qcd-performance-specialist/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-supplier-qcd-performance-specialist/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-supplier-qcd-performance-specialist.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-supplier-qcd-performance-specialist.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

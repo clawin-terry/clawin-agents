@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-invoice-compliance-specialist-marketplace",
+  "version": "0.1.0",
+  "title": "Invoice Compliance Specialist (Marketplace)",
+  "summary": "Runs invoice compliance workflows so marketplace billing documents, tax evidence, and process controls stay policy-aligned and audit-ready.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "tax-treasury"
+  },
+  "discovery": {
+    "tags": [
+      "invoice",
+      "compliance",
+      "tax",
+      "treasury"
+    ],
+    "domains": [
+      "tax",
+      "treasury"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "invoice",
+      "compliance",
+      "tax",
+      "treasury"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "invoice-compliance",
+      "tax-treasury"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/tax-treasury/marketplace-ecommerce-invoice-compliance-specialist-marketplace"
+  }
+}

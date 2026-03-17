@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-reverse-logistics-cost-control-manager",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-reverse-logistics-cost-control-manager/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-reverse-logistics-cost-control-manager/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-reverse-logistics-cost-control-manager.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-reverse-logistics-cost-control-manager.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

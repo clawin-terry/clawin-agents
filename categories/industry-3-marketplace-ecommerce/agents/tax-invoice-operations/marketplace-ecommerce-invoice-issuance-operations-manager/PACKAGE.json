@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-invoice-issuance-operations-manager",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-invoice-issuance-operations-manager/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-invoice-issuance-operations-manager/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-invoice-issuance-operations-manager.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-invoice-issuance-operations-manager.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

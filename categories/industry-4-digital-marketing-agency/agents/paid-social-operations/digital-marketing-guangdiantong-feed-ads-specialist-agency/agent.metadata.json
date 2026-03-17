@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-guangdiantong-feed-ads-specialist-agency",
+  "version": "0.1.0",
+  "title": "Guangdiantong Feed Ads Specialist (Agency)",
+  "summary": "Operates Guangdiantong feed ads so agency teams can execute Tencent-channel acquisition with clearer targeting, pacing, and delivery control.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "paid-social-operations"
+  },
+  "discovery": {
+    "tags": [
+      "guangdiantong",
+      "feed",
+      "ads",
+      "paid",
+      "social",
+      "operations"
+    ],
+    "domains": [
+      "paid",
+      "social"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "guangdiantong",
+      "feed",
+      "ads",
+      "paid"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "guangdiantong-feed",
+      "social-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/paid-social-operations/digital-marketing-guangdiantong-feed-ads-specialist-agency"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-push-and-user-engagement-operations-manager",
+  "version": "0.1.0",
+  "title": "Push and User Engagement Operations Manager",
+  "summary": "Operates push and user engagement programs so marketplace outreach reaches the right audience with better timing, relevance, and action rates.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "user-lifecycle-operations"
+  },
+  "discovery": {
+    "tags": [
+      "push",
+      "and",
+      "user",
+      "engagement",
+      "operations",
+      "lifecycle"
+    ],
+    "domains": [
+      "user",
+      "lifecycle"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "push",
+      "and",
+      "user",
+      "engagement"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "push-and",
+      "operations-lifecycle"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/user-lifecycle-operations/marketplace-ecommerce-push-and-user-engagement-operations-manager"
+  }
+}

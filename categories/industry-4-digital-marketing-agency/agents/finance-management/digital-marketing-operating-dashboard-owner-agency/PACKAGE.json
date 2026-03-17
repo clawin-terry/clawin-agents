@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/digital-marketing-operating-dashboard-owner-agency",
                     "workspace":  "~/.openclaw/agents/digital-marketing-operating-dashboard-owner-agency/workspace",
                     "agentDir":  "~/.openclaw/agents/digital-marketing-operating-dashboard-owner-agency/agent",
-                    "configEntry":  "config/openclaw.agent.digital-marketing-operating-dashboard-owner-agency.entry.json",
-                    "configSnippet":  "config/openclaw.agent.digital-marketing-operating-dashboard-owner-agency.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

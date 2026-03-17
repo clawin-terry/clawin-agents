@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-mcn-partnership-manager",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-mcn-partnership-manager/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-mcn-partnership-manager/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-mcn-partnership-manager.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-mcn-partnership-manager.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

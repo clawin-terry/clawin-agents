@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-tmall-taobao-wanxiangtai-specialist-agency",
+  "version": "0.1.0",
+  "title": "Tmall and Taobao Wanxiangtai Specialist (Agency)",
+  "summary": "Runs Tmall and Taobao Wanxiangtai campaigns so agency ecommerce clients can coordinate on-platform traffic acquisition with stronger marketplace execution.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "ecommerce-ad-operations"
+  },
+  "discovery": {
+    "tags": [
+      "tmall",
+      "taobao",
+      "wanxiangtai",
+      "and",
+      "ad",
+      "operations"
+    ],
+    "domains": [
+      "ad",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "tmall",
+      "taobao",
+      "wanxiangtai",
+      "ad"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "tmall-taobao",
+      "ad-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/ecommerce-ad-operations/digital-marketing-tmall-taobao-wanxiangtai-specialist-agency"
+  }
+}

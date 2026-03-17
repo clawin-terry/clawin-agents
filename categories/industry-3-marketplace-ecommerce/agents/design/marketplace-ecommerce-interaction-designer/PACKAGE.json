@@ -16,7 +16,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-interaction-designer",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-interaction-designer/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-interaction-designer/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-interaction-designer.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-interaction-designer.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

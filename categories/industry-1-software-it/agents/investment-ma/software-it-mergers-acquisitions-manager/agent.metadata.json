@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-mergers-acquisitions-manager",
+  "version": "0.1.0",
+  "title": "Mergers and Acquisitions Manager",
+  "summary": "Leads M&A process workstreams so target evaluation, internal alignment, negotiation support, and transaction execution stay coordinated.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "investment-ma"
+  },
+  "discovery": {
+    "tags": [
+      "mergers",
+      "acquisitions",
+      "and",
+      "investment",
+      "ma"
+    ],
+    "domains": [
+      "investment",
+      "ma"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "mergers",
+      "acquisitions",
+      "investment",
+      "ma"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "mergers-acquisitions",
+      "investment-ma"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/investment-ma/software-it-mergers-acquisitions-manager"
+  }
+}

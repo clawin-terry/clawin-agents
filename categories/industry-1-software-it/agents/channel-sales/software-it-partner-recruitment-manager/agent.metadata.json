@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-partner-recruitment-manager",
+  "version": "0.1.0",
+  "title": "Partner Recruitment Manager",
+  "summary": "Sources and recruits new partners, building a healthy partner pipeline that matches market strategy and capacity needs.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "channel-sales"
+  },
+  "discovery": {
+    "tags": [
+      "partner",
+      "recruitment",
+      "channel",
+      "sales"
+    ],
+    "domains": [
+      "channel",
+      "sales"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "partner",
+      "recruitment",
+      "channel",
+      "sales"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "partner-recruitment",
+      "channel-sales"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/channel-sales/software-it-partner-recruitment-manager"
+  }
+}

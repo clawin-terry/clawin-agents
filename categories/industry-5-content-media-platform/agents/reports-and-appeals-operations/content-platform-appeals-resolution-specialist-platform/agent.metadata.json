@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-appeals-resolution-specialist-platform",
+  "version": "0.1.0",
+  "title": "Appeals Resolution Specialist (Platform)",
+  "summary": "Resolves appeals so contested moderation outcomes are reassessed with clearer evidence handling, fairness checks, and response quality.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "reports-and-appeals-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "appeals",
+      "resolution",
+      "reports",
+      "and",
+      "operations"
+    ],
+    "domains": [
+      "reports",
+      "and"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "appeals",
+      "resolution"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "and-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/reports-and-appeals-operations/content-platform-appeals-resolution-specialist-platform"
+  }
+}

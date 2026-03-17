@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-employment-legal-support-specialist-platform",
+  "version": "0.1.0",
+  "title": "Employment Legal Support Specialist (Platform)",
+  "summary": "Supports employment-related legal work so labor issues, HR coordination, and policy interpretation stay documented and better managed.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "legal"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "employment",
+      "legal",
+      "support"
+    ],
+    "domains": [
+      "legal"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "employment",
+      "legal"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "legal-support"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/legal/content-platform-employment-legal-support-specialist-platform"
+  }
+}

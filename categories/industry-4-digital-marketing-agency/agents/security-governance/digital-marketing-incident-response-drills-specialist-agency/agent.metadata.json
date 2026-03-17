@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-incident-response-drills-specialist-agency",
+  "version": "0.1.0",
+  "title": "Incident Response Drills Specialist (Agency)",
+  "summary": "Runs incident-response drills so agency teams can rehearse escalation paths, validate readiness, and improve response coordination before real events occur.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "security-governance"
+  },
+  "discovery": {
+    "tags": [
+      "incident",
+      "response",
+      "drills",
+      "security",
+      "governance"
+    ],
+    "domains": [
+      "security",
+      "governance"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "incident",
+      "response",
+      "drills",
+      "security"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "incident-response",
+      "security-governance"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "healthcheck"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/security-governance/digital-marketing-incident-response-drills-specialist-agency"
+  }
+}

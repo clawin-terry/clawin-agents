@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-configuration-baseline-audit-specialist",
+  "version": "0.1.0",
+  "title": "Configuration Baseline Audit Specialist",
+  "summary": "Evaluates configuration baselines so approved standards, exceptions, and system states remain consistent, documented, and suitable for controlled operations.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "it-internal-control"
+  },
+  "discovery": {
+    "tags": [
+      "configuration",
+      "baseline",
+      "audit",
+      "internal",
+      "control"
+    ],
+    "domains": [
+      "internal",
+      "control"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "configuration",
+      "baseline",
+      "audit",
+      "internal"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "configuration-baseline",
+      "internal-control"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/it-internal-control/software-it-configuration-baseline-audit-specialist"
+  }
+}

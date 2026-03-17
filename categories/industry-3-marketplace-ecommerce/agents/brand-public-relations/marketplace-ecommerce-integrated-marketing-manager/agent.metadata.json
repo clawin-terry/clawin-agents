@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-integrated-marketing-manager",
+  "version": "0.1.0",
+  "title": "Integrated Marketing Manager",
+  "summary": "Leads integrated marketing so marketplace brand campaigns align channels, moments, and creative programs around shared business objectives.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "brand-public-relations"
+  },
+  "discovery": {
+    "tags": [
+      "integrated",
+      "brand",
+      "public",
+      "relations"
+    ],
+    "domains": [
+      "brand",
+      "public"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "integrated",
+      "brand",
+      "public",
+      "relations"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "integrated-brand",
+      "public-relations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/brand-public-relations/marketplace-ecommerce-integrated-marketing-manager"
+  }
+}

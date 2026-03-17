@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-usability-testing-specialist",
+  "version": "0.1.0",
+  "title": "Usability Testing Specialist",
+  "summary": "Runs usability evaluations so design and product teams can identify friction earlier and improve task success, clarity, and confidence across key platform journeys.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "user-research-experience"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "usability",
+      "testing",
+      "user",
+      "research",
+      "experience"
+    ],
+    "domains": [
+      "user",
+      "research"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "usability",
+      "testing"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "research-experience"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "ui-ux-pro-max"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/user-research-experience/content-platform-usability-testing-specialist"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-test-manager",
+  "version": "0.1.0",
+  "title": "Test Manager",
+  "summary": "Leads testing execution, planning, and team coordination to improve product quality, release readiness, and delivery predictability.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "quality-assurance"
+  },
+  "discovery": {
+    "tags": [
+      "test",
+      "quality",
+      "assurance"
+    ],
+    "domains": [
+      "quality",
+      "assurance"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "test",
+      "quality",
+      "assurance"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "test-quality",
+      "quality-assurance"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/quality-assurance/software-it-test-manager"
+  }
+}

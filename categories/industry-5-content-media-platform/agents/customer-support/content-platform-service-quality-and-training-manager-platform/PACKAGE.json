@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-service-quality-and-training-manager-platform",
                     "workspace":  "~/.openclaw/agents/content-platform-service-quality-and-training-manager-platform/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-service-quality-and-training-manager-platform/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-service-quality-and-training-manager-platform.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-service-quality-and-training-manager-platform.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-commercial-negotiation-manager-agency",
+  "version": "0.1.0",
+  "title": "Commercial Negotiation Manager (Agency)",
+  "summary": "Leads commercial negotiations so agency pricing, scope discussions, and deal terms move forward with stronger structure.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "commercial-bidding"
+  },
+  "discovery": {
+    "tags": [
+      "commercial",
+      "negotiation",
+      "bidding"
+    ],
+    "domains": [
+      "commercial",
+      "bidding"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "commercial",
+      "negotiation",
+      "bidding"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "commercial-negotiation",
+      "negotiation-bidding"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/commercial-bidding/digital-marketing-commercial-negotiation-manager-agency"
+  }
+}

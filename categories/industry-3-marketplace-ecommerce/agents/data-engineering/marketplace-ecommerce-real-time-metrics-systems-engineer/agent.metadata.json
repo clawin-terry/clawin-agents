@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-real-time-metrics-systems-engineer",
+  "version": "0.1.0",
+  "title": "Real-Time Metrics Systems Engineer",
+  "summary": "Builds real-time metrics systems so marketplace teams can monitor operational signals and decision dashboards with fresher data.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "data-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "real",
+      "time",
+      "metrics",
+      "systems",
+      "data",
+      "engineering"
+    ],
+    "domains": [
+      "data",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "real",
+      "time",
+      "metrics",
+      "systems"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "real-time",
+      "data-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/data-engineering/marketplace-ecommerce-real-time-metrics-systems-engineer"
+  }
+}

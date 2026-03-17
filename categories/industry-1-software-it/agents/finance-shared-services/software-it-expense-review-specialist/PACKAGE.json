@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-expense-review-specialist",
                     "workspace":  "~/.openclaw/agents/software-it-expense-review-specialist/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-expense-review-specialist/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-expense-review-specialist.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-expense-review-specialist.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

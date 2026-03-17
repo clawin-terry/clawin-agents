@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-business-analysis-specialist",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-business-analysis-specialist/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-business-analysis-specialist/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-business-analysis-specialist.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-business-analysis-specialist.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

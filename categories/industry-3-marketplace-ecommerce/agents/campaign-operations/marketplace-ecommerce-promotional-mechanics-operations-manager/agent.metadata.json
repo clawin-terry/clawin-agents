@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-promotional-mechanics-operations-manager",
+  "version": "0.1.0",
+  "title": "Promotional Mechanics Operations Manager",
+  "summary": "Operates promotional mechanics so coupons, flash sales, group buying, and similar campaign plays launch cleanly and perform as intended.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "campaign-operations"
+  },
+  "discovery": {
+    "tags": [
+      "promotional",
+      "mechanics",
+      "operations",
+      "campaign"
+    ],
+    "domains": [
+      "campaign",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "promotional",
+      "mechanics",
+      "operations",
+      "campaign"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "promotional-mechanics",
+      "operations-campaign"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/campaign-operations/marketplace-ecommerce-promotional-mechanics-operations-manager"
+  }
+}

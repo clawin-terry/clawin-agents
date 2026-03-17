@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-copyright-partnership-bd-manager-platform",
+  "version": "0.1.0",
+  "title": "Copyright Partnership BD Manager (Platform)",
+  "summary": "Develops copyright partnerships so the platform can secure stronger licensed relationships, rightsholder collaboration, and commercial content opportunities.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "content-rights-and-partnerships"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "copyright",
+      "partnership",
+      "bd",
+      "rights",
+      "and",
+      "partnerships"
+    ],
+    "domains": [
+      "content",
+      "rights"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "copyright",
+      "partnership"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "and-partnerships"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/content-rights-and-partnerships/content-platform-copyright-partnership-bd-manager-platform"
+  }
+}

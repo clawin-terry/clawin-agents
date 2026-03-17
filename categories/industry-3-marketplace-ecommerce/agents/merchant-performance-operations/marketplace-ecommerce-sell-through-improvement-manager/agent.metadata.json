@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-sell-through-improvement-manager",
+  "version": "0.1.0",
+  "title": "Sell-Through Improvement Manager",
+  "summary": "Improves sell-through performance so merchants can move inventory more effectively and sustain healthier marketplace activity.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "merchant-performance-operations"
+  },
+  "discovery": {
+    "tags": [
+      "sell",
+      "through",
+      "improvement",
+      "merchant",
+      "performance",
+      "operations"
+    ],
+    "domains": [
+      "merchant",
+      "performance"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "sell",
+      "through",
+      "improvement",
+      "merchant"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "sell-through",
+      "performance-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/merchant-performance-operations/marketplace-ecommerce-sell-through-improvement-manager"
+  }
+}

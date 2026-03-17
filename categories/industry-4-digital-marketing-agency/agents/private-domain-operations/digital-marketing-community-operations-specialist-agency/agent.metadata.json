@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-community-operations-specialist-agency",
+  "version": "0.1.0",
+  "title": "Community Operations Specialist (Agency)",
+  "summary": "Runs community operations so agency-owned groups can maintain engagement quality, response discipline, and repeat interaction value.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "private-domain-operations"
+  },
+  "discovery": {
+    "tags": [
+      "community",
+      "operations",
+      "private",
+      "domain"
+    ],
+    "domains": [
+      "private",
+      "domain"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "community",
+      "operations",
+      "private",
+      "domain"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "community-operations",
+      "private-domain"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/private-domain-operations/digital-marketing-community-operations-specialist-agency"
+  }
+}

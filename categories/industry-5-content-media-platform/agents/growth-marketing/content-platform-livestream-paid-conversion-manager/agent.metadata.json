@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-livestream-paid-conversion-manager",
+  "version": "0.1.0",
+  "title": "Livestream Paid Conversion Manager",
+  "summary": "Leads livestream paid conversion programs so viewers move more efficiently into tipping, premium purchases, and other paid monetization behaviors.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "growth-marketing"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "livestream",
+      "paid",
+      "conversion",
+      "growth"
+    ],
+    "domains": [
+      "growth"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "livestream",
+      "paid"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "content-platform",
+      "conversion-growth"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/growth-marketing/content-platform-livestream-paid-conversion-manager"
+  }
+}

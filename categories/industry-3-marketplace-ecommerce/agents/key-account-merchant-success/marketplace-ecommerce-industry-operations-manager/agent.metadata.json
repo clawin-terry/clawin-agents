@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-industry-operations-manager",
+  "version": "0.1.0",
+  "title": "Industry Operations Manager",
+  "summary": "Runs marketplace operations for an industry vertical, improving merchant performance, category health, and execution quality across the segment.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "key-account-merchant-success"
+  },
+  "discovery": {
+    "tags": [
+      "operations",
+      "key",
+      "account",
+      "merchant",
+      "success"
+    ],
+    "domains": [
+      "key",
+      "account"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "operations",
+      "key",
+      "account",
+      "merchant"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "operations-key",
+      "merchant-success"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/key-account-merchant-success/marketplace-ecommerce-industry-operations-manager"
+  }
+}

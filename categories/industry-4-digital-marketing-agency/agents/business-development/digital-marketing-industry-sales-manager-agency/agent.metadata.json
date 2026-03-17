@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-industry-sales-manager-agency",
+  "version": "0.1.0",
+  "title": "Industry Sales Manager (Agency)",
+  "summary": "Owns industry-focused sales motions so agency outreach and solution positioning match the needs of target verticals.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "business-development"
+  },
+  "discovery": {
+    "tags": [
+      "sales",
+      "business",
+      "development"
+    ],
+    "domains": [
+      "business",
+      "development"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "sales",
+      "business",
+      "development"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "sales-business",
+      "business-development"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/business-development/digital-marketing-industry-sales-manager-agency"
+  }
+}

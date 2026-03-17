@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-leadership-development-manager-marketplace",
+  "version": "0.1.0",
+  "title": "Leadership Development Manager (Marketplace)",
+  "summary": "Leads leadership-development programs so marketplace managers and emerging leaders build stronger capability pipelines and succession readiness.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "hrbp-organization-development"
+  },
+  "discovery": {
+    "tags": [
+      "leadership",
+      "development",
+      "hrbp",
+      "organization"
+    ],
+    "domains": [
+      "hrbp",
+      "organization"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "leadership",
+      "development",
+      "hrbp",
+      "organization"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "leadership-development",
+      "hrbp-organization"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/hrbp-organization-development/marketplace-ecommerce-leadership-development-manager-marketplace"
+  }
+}

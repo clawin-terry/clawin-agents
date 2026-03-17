@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-inventory-counting-manager",
+  "version": "0.1.0",
+  "title": "Inventory Counting Manager",
+  "summary": "Runs inventory counting programs so stock accuracy stays trustworthy for fulfillment, replenishment, and financial control workflows.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "warehouse-operations"
+  },
+  "discovery": {
+    "tags": [
+      "inventory",
+      "counting",
+      "warehouse",
+      "operations"
+    ],
+    "domains": [
+      "warehouse",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "inventory",
+      "counting",
+      "warehouse",
+      "operations"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "inventory-counting",
+      "warehouse-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/warehouse-operations/marketplace-ecommerce-inventory-counting-manager"
+  }
+}

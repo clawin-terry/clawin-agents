@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-financial-ledger-and-reconciliation-systems-developer",
+  "version": "0.1.0",
+  "title": "Financial Ledger and Reconciliation Systems Developer",
+  "summary": "Builds financial ledger and reconciliation systems so payment outcomes, settlement records, and audit trails stay accurate and traceable.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "backend-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "financial",
+      "ledger",
+      "and",
+      "reconciliation",
+      "systems",
+      "developer",
+      "backend",
+      "engineering"
+    ],
+    "domains": [
+      "backend",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "financial",
+      "ledger",
+      "and",
+      "reconciliation"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "financial-ledger",
+      "backend-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "clawin-backend-service-engineering"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/backend-engineering/marketplace-ecommerce-financial-ledger-and-reconciliation-systems-developer"
+  }
+}

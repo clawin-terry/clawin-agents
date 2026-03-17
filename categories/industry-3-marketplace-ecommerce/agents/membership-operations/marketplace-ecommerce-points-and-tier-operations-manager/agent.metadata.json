@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-points-and-tier-operations-manager",
+  "version": "0.1.0",
+  "title": "Points and Tier Operations Manager",
+  "summary": "Runs points and tier operations so marketplace loyalty mechanics stay clear, fair, and motivating for different user segments.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "membership-operations"
+  },
+  "discovery": {
+    "tags": [
+      "points",
+      "and",
+      "tier",
+      "operations",
+      "membership"
+    ],
+    "domains": [
+      "membership",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "points",
+      "and",
+      "tier",
+      "operations"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "points-and",
+      "operations-membership"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/membership-operations/marketplace-ecommerce-points-and-tier-operations-manager"
+  }
+}

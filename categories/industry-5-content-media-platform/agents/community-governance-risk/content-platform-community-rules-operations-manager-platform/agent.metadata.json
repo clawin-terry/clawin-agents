@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-community-rules-operations-manager-platform",
+  "version": "0.1.0",
+  "title": "Community Rules Operations Manager (Platform)",
+  "summary": "Runs community-rules operations so standards stay understandable, enforceable, and connected to healthier user participation across platform communities.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "community-governance-risk"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "community",
+      "rules",
+      "operations",
+      "governance",
+      "risk"
+    ],
+    "domains": [
+      "community",
+      "governance"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "community",
+      "rules"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "governance-risk"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/community-governance-risk/content-platform-community-rules-operations-manager-platform"
+  }
+}

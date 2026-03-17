@@ -16,7 +16,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-interaction-designer",
                     "workspace":  "~/.openclaw/agents/content-platform-interaction-designer/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-interaction-designer/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-interaction-designer.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-interaction-designer.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

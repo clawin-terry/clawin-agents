@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-head-of-growth",
                     "workspace":  "~/.openclaw/agents/software-it-head-of-growth/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-head-of-growth/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-head-of-growth.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-head-of-growth.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

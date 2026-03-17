@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-category-data-analyst",
+  "version": "0.1.0",
+  "title": "Category Data Analyst",
+  "summary": "Analyzes category performance data to identify assortment trends, merchant issues, and practical actions that improve marketplace outcomes.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "category-operations"
+  },
+  "discovery": {
+    "tags": [
+      "category",
+      "data",
+      "operations"
+    ],
+    "domains": [
+      "category",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "category",
+      "data",
+      "operations"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "category-data",
+      "data-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/category-operations/marketplace-ecommerce-category-data-analyst"
+  }
+}

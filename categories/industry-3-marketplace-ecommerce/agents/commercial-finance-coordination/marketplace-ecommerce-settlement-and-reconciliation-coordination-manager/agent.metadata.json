@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-settlement-and-reconciliation-coordination-manager",
+  "version": "0.1.0",
+  "title": "Settlement and Reconciliation Coordination Manager",
+  "summary": "Coordinates settlement and reconciliation workflows so advertising billing outcomes, finance records, and partner handoffs remain accurate and timely.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "commercial-finance-coordination"
+  },
+  "discovery": {
+    "tags": [
+      "settlement",
+      "and",
+      "reconciliation",
+      "coordination",
+      "commercial",
+      "finance"
+    ],
+    "domains": [
+      "commercial",
+      "finance"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "settlement",
+      "and",
+      "reconciliation",
+      "coordination"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "settlement-and",
+      "commercial-finance"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/commercial-finance-coordination/marketplace-ecommerce-settlement-and-reconciliation-coordination-manager"
+  }
+}

@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-text-content-operations-manager-platform",
                     "workspace":  "~/.openclaw/agents/content-platform-text-content-operations-manager-platform/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-text-content-operations-manager-platform/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-text-content-operations-manager-platform.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-text-content-operations-manager-platform.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-frontend-engineer-js-ts",
+  "version": "0.1.0",
+  "title": "Frontend Engineer (JS/TS)",
+  "summary": "Builds marketplace web and backoffice interfaces with JavaScript and TypeScript, balancing delivery speed, maintainability, and user experience quality.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "frontend-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "frontend",
+      "js",
+      "ts",
+      "engineering"
+    ],
+    "domains": [
+      "frontend",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "frontend",
+      "js",
+      "ts",
+      "engineering"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "frontend-js",
+      "ts-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "browser"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/frontend-engineering/marketplace-ecommerce-frontend-engineer-js-ts"
+  }
+}

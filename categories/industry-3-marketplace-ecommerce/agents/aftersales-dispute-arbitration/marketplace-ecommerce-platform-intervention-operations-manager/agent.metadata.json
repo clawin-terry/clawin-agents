@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-platform-intervention-operations-manager",
+  "version": "0.1.0",
+  "title": "Platform Intervention Operations Manager",
+  "summary": "Runs platform intervention workflows so escalated service disputes receive timely, controlled, and policy-aligned handling.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "aftersales-dispute-arbitration"
+  },
+  "discovery": {
+    "tags": [
+      "platform",
+      "intervention",
+      "operations",
+      "aftersales",
+      "dispute",
+      "arbitration"
+    ],
+    "domains": [
+      "aftersales",
+      "dispute"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "platform",
+      "intervention",
+      "operations",
+      "aftersales"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "platform-intervention",
+      "dispute-arbitration"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/aftersales-dispute-arbitration/marketplace-ecommerce-platform-intervention-operations-manager"
+  }
+}

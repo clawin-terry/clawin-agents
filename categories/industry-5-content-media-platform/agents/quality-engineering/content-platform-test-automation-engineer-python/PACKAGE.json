@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-test-automation-engineer-python",
                     "workspace":  "~/.openclaw/agents/content-platform-test-automation-engineer-python/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-test-automation-engineer-python/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-test-automation-engineer-python.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-test-automation-engineer-python.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

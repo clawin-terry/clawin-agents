@@ -16,7 +16,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-site-reliability-engineer-go",
                     "workspace":  "~/.openclaw/agents/content-platform-site-reliability-engineer-go/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-site-reliability-engineer-go/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-site-reliability-engineer-go.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-site-reliability-engineer-go.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

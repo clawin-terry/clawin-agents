@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-postgresql-engineer-sql",
+  "version": "0.1.0",
+  "title": "PostgreSQL Engineer (SQL)",
+  "summary": "Builds and operates PostgreSQL database capabilities with attention to reliability, tuning, observability, and safe production changes.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "infrastructure"
+  },
+  "discovery": {
+    "tags": [
+      "postgresql",
+      "sql",
+      "infrastructure"
+    ],
+    "domains": [
+      "infrastructure"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "postgresql",
+      "sql",
+      "infrastructure"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "postgresql-sql",
+      "sql-infrastructure"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "healthcheck"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/infrastructure/software-it-postgresql-engineer-sql"
+  }
+}

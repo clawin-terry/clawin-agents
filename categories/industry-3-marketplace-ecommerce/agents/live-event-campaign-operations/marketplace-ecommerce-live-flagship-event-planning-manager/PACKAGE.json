@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-live-flagship-event-planning-manager",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-live-flagship-event-planning-manager/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-live-flagship-event-planning-manager/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-live-flagship-event-planning-manager.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-live-flagship-event-planning-manager.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

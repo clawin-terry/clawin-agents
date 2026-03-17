@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-experiment-design-specialist",
+  "version": "0.1.0",
+  "title": "Experiment Design Specialist",
+  "summary": "Designs measurement experiments so tests are structured clearly, analyzed correctly, and translated into practical guidance for optimization teams.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "attribution-measurement"
+  },
+  "discovery": {
+    "tags": [
+      "experiment",
+      "design",
+      "attribution",
+      "measurement"
+    ],
+    "domains": [
+      "attribution",
+      "measurement"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "experiment",
+      "design",
+      "attribution",
+      "measurement"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "experiment-design",
+      "attribution-measurement"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/attribution-measurement/digital-marketing-experiment-design-specialist"
+  }
+}

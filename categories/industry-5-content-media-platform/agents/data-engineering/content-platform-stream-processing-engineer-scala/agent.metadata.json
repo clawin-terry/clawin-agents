@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-stream-processing-engineer-scala",
+  "version": "0.1.0",
+  "title": "Stream Processing Engineer (Scala)",
+  "summary": "Builds Scala stream processing jobs so high-volume platform events can flow through reliable, maintainable, and timely real-time pipelines.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "data-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "stream",
+      "processing",
+      "scala",
+      "data",
+      "engineering"
+    ],
+    "domains": [
+      "data",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "stream",
+      "processing"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "data-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/data-engineering/content-platform-stream-processing-engineer-scala"
+  }
+}

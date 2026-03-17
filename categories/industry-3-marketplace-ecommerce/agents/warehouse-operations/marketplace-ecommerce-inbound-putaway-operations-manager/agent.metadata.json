@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-inbound-putaway-operations-manager",
+  "version": "0.1.0",
+  "title": "Inbound and Putaway Operations Manager",
+  "summary": "Runs inbound and putaway operations so inventory enters storage accurately, efficiently, and ready for downstream fulfillment.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "warehouse-operations"
+  },
+  "discovery": {
+    "tags": [
+      "inbound",
+      "putaway",
+      "operations",
+      "and",
+      "warehouse"
+    ],
+    "domains": [
+      "warehouse",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "inbound",
+      "putaway",
+      "operations",
+      "warehouse"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "inbound-putaway",
+      "operations-warehouse"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/warehouse-operations/marketplace-ecommerce-inbound-putaway-operations-manager"
+  }
+}

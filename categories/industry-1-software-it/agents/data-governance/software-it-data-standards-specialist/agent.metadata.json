@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-data-standards-specialist",
+  "version": "0.1.0",
+  "title": "Data Standards Specialist",
+  "summary": "Defines and maintains data standards so schemas, definitions, and operating conventions stay consistent across teams and systems.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "data-governance"
+  },
+  "discovery": {
+    "tags": [
+      "data",
+      "standards",
+      "governance"
+    ],
+    "domains": [
+      "data",
+      "governance"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "data",
+      "standards",
+      "governance"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "data-standards",
+      "standards-governance"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/data-governance/software-it-data-standards-specialist"
+  }
+}

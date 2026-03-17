@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-ticket-dispatch-specialist",
+  "version": "0.1.0",
+  "title": "Ticket Dispatch Specialist",
+  "summary": "Routes and dispatches support tickets so case ownership, queue balance, and response workflows stay orderly and fast.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "customer-support"
+  },
+  "discovery": {
+    "tags": [
+      "ticket",
+      "dispatch",
+      "customer",
+      "support"
+    ],
+    "domains": [
+      "customer",
+      "support"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "ticket",
+      "dispatch",
+      "customer",
+      "support"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "ticket-dispatch",
+      "customer-support"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/customer-support/software-it-ticket-dispatch-specialist"
+  }
+}

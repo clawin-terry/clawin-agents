@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-delivery-manager-cross-team-coordination-agency",
+  "version": "0.1.0",
+  "title": "Delivery Manager, Cross-Team Coordination (Agency)",
+  "summary": "Coordinates multi-team delivery so agency resources, dependencies, and client-facing execution plans remain aligned from kickoff through handoff.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "delivery-management"
+  },
+  "discovery": {
+    "tags": [
+      "delivery",
+      "cross",
+      "team",
+      "coordination",
+      "management"
+    ],
+    "domains": [
+      "delivery",
+      "management"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "delivery",
+      "cross",
+      "team",
+      "coordination"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "delivery-cross",
+      "coordination-management"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/delivery-management/digital-marketing-delivery-manager-cross-team-coordination-agency"
+  }
+}

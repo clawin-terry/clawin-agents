@@ -1,0 +1,55 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-growth-operations-manager",
+  "version": "0.1.0",
+  "title": "Growth Operations Manager",
+  "summary": "Runs growth operations across funnel planning, execution cadence, and KPI management so acquisition and retention programs improve predictably.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "growth-operations"
+  },
+  "discovery": {
+    "tags": [
+      "growth",
+      "operations"
+    ],
+    "domains": [
+      "growth",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "growth",
+      "operations"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "growth-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/growth-operations/software-it-growth-operations-manager"
+  }
+}

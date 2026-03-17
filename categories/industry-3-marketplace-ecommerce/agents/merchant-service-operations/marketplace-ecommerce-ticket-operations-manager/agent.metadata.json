@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-ticket-operations-manager",
+  "version": "0.1.0",
+  "title": "Ticket Operations Manager",
+  "summary": "Runs merchant ticket operations so service requests are routed, tracked, and resolved with consistent process control.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "merchant-service-operations"
+  },
+  "discovery": {
+    "tags": [
+      "ticket",
+      "operations",
+      "merchant",
+      "service"
+    ],
+    "domains": [
+      "merchant",
+      "service"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "ticket",
+      "operations",
+      "merchant",
+      "service"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "ticket-operations",
+      "merchant-service"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/merchant-service-operations/marketplace-ecommerce-ticket-operations-manager"
+  }
+}

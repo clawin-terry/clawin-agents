@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-online-event-planning-manager-platform",
+  "version": "0.1.0",
+  "title": "Online Event Planning Manager (Platform)",
+  "summary": "Plans online events so virtual campaigns, audience activities, and cross-team execution stay aligned around clear event objectives and timelines.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "campaign-event-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "online",
+      "event",
+      "planning",
+      "campaign",
+      "operations"
+    ],
+    "domains": [
+      "campaign",
+      "event"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "online",
+      "event"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "campaign-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/campaign-event-operations/content-platform-online-event-planning-manager-platform"
+  }
+}

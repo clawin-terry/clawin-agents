@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-pricing-optimization-algorithm-engineer-python",
+  "version": "0.1.0",
+  "title": "Pricing Optimization Algorithm Engineer (Python)",
+  "summary": "Builds marketplace optimization algorithms with Python so subsidy, pricing, and efficiency decisions can improve growth while staying economically disciplined.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "machine-learning"
+  },
+  "discovery": {
+    "tags": [
+      "pricing",
+      "optimization",
+      "algorithm",
+      "python",
+      "machine",
+      "learning"
+    ],
+    "domains": [
+      "machine",
+      "learning"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "pricing",
+      "optimization",
+      "algorithm",
+      "python"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "pricing-optimization",
+      "machine-learning"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/machine-learning/marketplace-ecommerce-pricing-optimization-algorithm-engineer-python"
+  }
+}

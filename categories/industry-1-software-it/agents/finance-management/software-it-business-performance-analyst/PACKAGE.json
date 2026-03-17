@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-business-performance-analyst",
                     "workspace":  "~/.openclaw/agents/software-it-business-performance-analyst/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-business-performance-analyst/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-business-performance-analyst.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-business-performance-analyst.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

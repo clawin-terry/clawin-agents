@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-brand-growth-manager",
+  "version": "0.1.0",
+  "title": "Brand Growth Manager",
+  "summary": "Drives brand growth on the marketplace by improving brand performance, visibility, and joint commercial opportunities across the platform.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "brand-partnership-authorization"
+  },
+  "discovery": {
+    "tags": [
+      "brand",
+      "growth",
+      "partnership",
+      "authorization"
+    ],
+    "domains": [
+      "brand",
+      "partnership"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "brand",
+      "growth",
+      "partnership",
+      "authorization"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "brand-growth",
+      "partnership-authorization"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/brand-partnership-authorization/marketplace-ecommerce-brand-growth-manager"
+  }
+}

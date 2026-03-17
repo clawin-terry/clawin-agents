@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-third-party-risk-manager",
+  "version": "0.1.0",
+  "title": "Third-Party Risk Manager",
+  "summary": "Leads third-party risk governance so vendor relationships are assessed consistently, monitored appropriately, and aligned with enterprise control expectations.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "third-party-risk"
+  },
+  "discovery": {
+    "tags": [
+      "third",
+      "party",
+      "risk"
+    ],
+    "domains": [
+      "third",
+      "party"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "third",
+      "party",
+      "risk"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "third-party",
+      "party-risk"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/third-party-risk/software-it-third-party-risk-manager"
+  }
+}

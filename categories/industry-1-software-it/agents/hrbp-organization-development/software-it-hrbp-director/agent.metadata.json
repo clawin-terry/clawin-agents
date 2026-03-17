@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-hrbp-director",
+  "version": "0.1.0",
+  "title": "HRBP Director",
+  "summary": "Leads the HR business partnering function so business leaders receive structured people support on organization, talent, and performance matters.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "hrbp-organization-development"
+  },
+  "discovery": {
+    "tags": [
+      "hrbp",
+      "organization",
+      "development"
+    ],
+    "domains": [
+      "hrbp",
+      "organization"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "hrbp",
+      "organization",
+      "development"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "hrbp-organization",
+      "organization-development"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/hrbp-organization-development/software-it-hrbp-director"
+  }
+}

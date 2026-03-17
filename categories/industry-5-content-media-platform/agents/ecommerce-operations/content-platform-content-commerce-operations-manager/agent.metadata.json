@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-content-commerce-operations-manager",
+  "version": "0.1.0",
+  "title": "Content Commerce Operations Manager",
+  "summary": "Runs content-led commerce operations so creator content, product conversion flows, and campaign execution connect more effectively to merchandising outcomes.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "ecommerce-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "commerce",
+      "operations"
+    ],
+    "domains": [
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "commerce",
+      "operations"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "commerce-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/ecommerce-operations/content-platform-content-commerce-operations-manager"
+  }
+}

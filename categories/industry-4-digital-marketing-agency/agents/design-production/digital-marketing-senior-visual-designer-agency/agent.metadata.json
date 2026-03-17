@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-senior-visual-designer-agency",
+  "version": "0.1.0",
+  "title": "Senior Visual Designer (Agency)",
+  "summary": "Designs high-quality visual assets so agency campaigns can express brand intent with clearer hierarchy, polish, and consistency.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "design-production"
+  },
+  "discovery": {
+    "tags": [
+      "visual",
+      "designer",
+      "design",
+      "production"
+    ],
+    "domains": [
+      "design",
+      "production"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "visual",
+      "designer",
+      "design",
+      "production"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "visual-designer",
+      "design-production"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/design-production/digital-marketing-senior-visual-designer-agency"
+  }
+}

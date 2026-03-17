@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-ehs-specialist",
+  "version": "0.1.0",
+  "title": "EHS Specialist",
+  "summary": "Supports environment, health, and safety programs so workplace hazards, compliance routines, and preventive actions are managed systematically.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "facilities-logistics"
+  },
+  "discovery": {
+    "tags": [
+      "ehs",
+      "facilities",
+      "logistics"
+    ],
+    "domains": [
+      "facilities",
+      "logistics"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "ehs",
+      "facilities",
+      "logistics"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "ehs-facilities",
+      "facilities-logistics"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/facilities-logistics/software-it-ehs-specialist"
+  }
+}

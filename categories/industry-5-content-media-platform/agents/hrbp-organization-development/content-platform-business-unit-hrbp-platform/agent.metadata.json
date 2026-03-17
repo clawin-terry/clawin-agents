@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-business-unit-hrbp-platform",
+  "version": "0.1.0",
+  "title": "Business Unit HRBP (Platform)",
+  "summary": "Partners with business leaders so team design, talent priorities, and people decisions support platform growth and organizational health.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "hrbp-organization-development"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "business",
+      "unit",
+      "hrbp",
+      "organization",
+      "development"
+    ],
+    "domains": [
+      "hrbp",
+      "organization"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "business",
+      "unit"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "organization-development"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/hrbp-organization-development/content-platform-business-unit-hrbp-platform"
+  }
+}

@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/digital-marketing-internal-trainer-agency",
                     "workspace":  "~/.openclaw/agents/digital-marketing-internal-trainer-agency/workspace",
                     "agentDir":  "~/.openclaw/agents/digital-marketing-internal-trainer-agency/agent",
-                    "configEntry":  "config/openclaw.agent.digital-marketing-internal-trainer-agency.entry.json",
-                    "configSnippet":  "config/openclaw.agent.digital-marketing-internal-trainer-agency.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

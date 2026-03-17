@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-live-connection-pk-risk-specialist-platform",
                     "workspace":  "~/.openclaw/agents/content-platform-live-connection-pk-risk-specialist-platform/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-live-connection-pk-risk-specialist-platform/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-live-connection-pk-risk-specialist-platform.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-live-connection-pk-risk-specialist-platform.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

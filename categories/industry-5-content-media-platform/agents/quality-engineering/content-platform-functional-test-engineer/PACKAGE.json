@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-functional-test-engineer",
                     "workspace":  "~/.openclaw/agents/content-platform-functional-test-engineer/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-functional-test-engineer/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-functional-test-engineer.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-functional-test-engineer.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

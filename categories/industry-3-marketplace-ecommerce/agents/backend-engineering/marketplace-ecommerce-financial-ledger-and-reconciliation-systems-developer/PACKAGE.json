@@ -16,7 +16,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-financial-ledger-and-reconciliation-systems-developer",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-financial-ledger-and-reconciliation-systems-developer/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-financial-ledger-and-reconciliation-systems-developer/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-financial-ledger-and-reconciliation-systems-developer.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-financial-ledger-and-reconciliation-systems-developer.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

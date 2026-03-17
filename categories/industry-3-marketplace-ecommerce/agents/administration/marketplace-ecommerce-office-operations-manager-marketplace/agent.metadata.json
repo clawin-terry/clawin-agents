@@ -1,0 +1,56 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-office-operations-manager-marketplace",
+  "version": "0.1.0",
+  "title": "Office Operations Manager (Marketplace)",
+  "summary": "Leads office operations so marketplace workplace services, vendor coordination, and daily administrative support run smoothly across sites.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "administration"
+  },
+  "discovery": {
+    "tags": [
+      "office",
+      "operations",
+      "administration"
+    ],
+    "domains": [
+      "administration"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "office",
+      "operations",
+      "administration"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "office-operations",
+      "operations-administration"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/administration/marketplace-ecommerce-office-operations-manager-marketplace"
+  }
+}

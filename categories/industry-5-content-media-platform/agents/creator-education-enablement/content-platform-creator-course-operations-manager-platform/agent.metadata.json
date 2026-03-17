@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-creator-course-operations-manager-platform",
+  "version": "0.1.0",
+  "title": "Creator Course Operations Manager (Platform)",
+  "summary": "Runs creator course operations so education content stays practical, current, and useful for improving creator onboarding and performance.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "creator-education-enablement"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "creator",
+      "course",
+      "operations",
+      "education",
+      "enablement"
+    ],
+    "domains": [
+      "creator",
+      "education"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "creator",
+      "course"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "education-enablement"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/creator-education-enablement/content-platform-creator-course-operations-manager-platform"
+  }
+}

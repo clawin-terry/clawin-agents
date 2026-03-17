@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-privacy-compliance-manager-pipl-gdpr",
+  "version": "0.1.0",
+  "title": "Privacy Compliance Manager (PIPL / GDPR)",
+  "summary": "Leads privacy compliance programs so PIPL and GDPR requirements are translated into workable controls, reviews, and evidence-backed operating practices.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "privacy-data-governance"
+  },
+  "discovery": {
+    "tags": [
+      "privacy",
+      "compliance",
+      "pipl",
+      "gdpr",
+      "data",
+      "governance"
+    ],
+    "domains": [
+      "privacy",
+      "data"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "privacy",
+      "compliance",
+      "pipl",
+      "gdpr"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "privacy-compliance",
+      "data-governance"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "healthcheck"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/privacy-data-governance/software-it-privacy-compliance-manager-pipl-gdpr"
+  }
+}

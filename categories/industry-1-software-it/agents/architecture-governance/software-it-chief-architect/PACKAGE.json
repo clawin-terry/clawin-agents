@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-chief-architect",
                     "workspace":  "~/.openclaw/agents/software-it-chief-architect/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-chief-architect/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-chief-architect.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-chief-architect.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-chief-product-officer",
+  "version": "0.1.0",
+  "title": "Chief Product Officer",
+  "summary": "Leads product strategy, portfolio direction, and product organization alignment so the company ships products that match user needs and business goals.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "product-management"
+  },
+  "discovery": {
+    "tags": [
+      "chief",
+      "product",
+      "officer",
+      "management"
+    ],
+    "domains": [
+      "product",
+      "management"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "chief",
+      "product",
+      "officer",
+      "management"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "chief-product",
+      "officer-management"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/product-management/software-it-chief-product-officer"
+  }
+}

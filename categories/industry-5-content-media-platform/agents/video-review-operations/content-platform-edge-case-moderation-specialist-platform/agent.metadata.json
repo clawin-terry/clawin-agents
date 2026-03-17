@@ -1,0 +1,66 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-edge-case-moderation-specialist-platform",
+  "version": "0.1.0",
+  "title": "Edge Case Moderation Specialist (Platform)",
+  "summary": "Handles edge-case moderation so ambiguous or precedent-setting content decisions are resolved with clearer reasoning and policy consistency.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "video-review-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "edge",
+      "case",
+      "moderation",
+      "video",
+      "review",
+      "operations"
+    ],
+    "domains": [
+      "video",
+      "review"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "edge",
+      "case"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "review-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/video-review-operations/content-platform-edge-case-moderation-specialist-platform"
+  }
+}

@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-code-quality-platform-engineer-java-go",
                     "workspace":  "~/.openclaw/agents/software-it-code-quality-platform-engineer-java-go/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-code-quality-platform-engineer-java-go/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-code-quality-platform-engineer-java-go.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-code-quality-platform-engineer-java-go.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

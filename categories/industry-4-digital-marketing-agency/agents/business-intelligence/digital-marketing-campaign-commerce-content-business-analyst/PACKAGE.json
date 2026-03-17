@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/digital-marketing-campaign-commerce-content-business-analyst",
                     "workspace":  "~/.openclaw/agents/digital-marketing-campaign-commerce-content-business-analyst/workspace",
                     "agentDir":  "~/.openclaw/agents/digital-marketing-campaign-commerce-content-business-analyst/agent",
-                    "configEntry":  "config/openclaw.agent.digital-marketing-campaign-commerce-content-business-analyst.entry.json",
-                    "configSnippet":  "config/openclaw.agent.digital-marketing-campaign-commerce-content-business-analyst.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

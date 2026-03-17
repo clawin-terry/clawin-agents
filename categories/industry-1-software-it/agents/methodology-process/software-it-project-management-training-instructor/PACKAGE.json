@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-project-management-training-instructor",
                     "workspace":  "~/.openclaw/agents/software-it-project-management-training-instructor/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-project-management-training-instructor/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-project-management-training-instructor.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-project-management-training-instructor.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

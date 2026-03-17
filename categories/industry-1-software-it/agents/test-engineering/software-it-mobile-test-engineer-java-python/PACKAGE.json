@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-mobile-test-engineer-java-python",
                     "workspace":  "~/.openclaw/agents/software-it-mobile-test-engineer-java-python/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-mobile-test-engineer-java-python/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-mobile-test-engineer-java-python.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-mobile-test-engineer-java-python.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

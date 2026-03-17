@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-category-planning-manager",
+  "version": "0.1.0",
+  "title": "Category Planning Manager",
+  "summary": "Plans category direction by balancing assortment priorities, merchant mix, and business objectives for sustainable marketplace growth.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "category-operations"
+  },
+  "discovery": {
+    "tags": [
+      "category",
+      "planning",
+      "operations"
+    ],
+    "domains": [
+      "category",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "category",
+      "planning",
+      "operations"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "category-planning",
+      "planning-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/category-operations/marketplace-ecommerce-category-planning-manager"
+  }
+}

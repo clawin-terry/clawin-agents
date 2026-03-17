@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-data-architect",
+  "version": "0.1.0",
+  "title": "Data Architect",
+  "summary": "Shapes data models, platform patterns, and governance decisions so data systems stay reliable, reusable, and easier to scale across the business.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "architecture-governance"
+  },
+  "discovery": {
+    "tags": [
+      "data",
+      "architect",
+      "architecture",
+      "governance"
+    ],
+    "domains": [
+      "architecture",
+      "governance"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "data",
+      "architect",
+      "architecture",
+      "governance"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "data-architect",
+      "architecture-governance"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/architecture-governance/software-it-data-architect"
+  }
+}

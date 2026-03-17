@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-channel-policy-rebate-operations-manager",
+  "version": "0.1.0",
+  "title": "Channel Policy and Rebate Operations Manager",
+  "summary": "Runs channel policy and rebate operations so partner incentives remain clear, auditable, and aligned with channel strategy.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "channel-sales"
+  },
+  "discovery": {
+    "tags": [
+      "channel",
+      "policy",
+      "rebate",
+      "operations",
+      "and",
+      "sales"
+    ],
+    "domains": [
+      "channel",
+      "sales"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "channel",
+      "policy",
+      "rebate",
+      "operations"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "channel-policy",
+      "operations-sales"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/channel-sales/software-it-channel-policy-rebate-operations-manager"
+  }
+}

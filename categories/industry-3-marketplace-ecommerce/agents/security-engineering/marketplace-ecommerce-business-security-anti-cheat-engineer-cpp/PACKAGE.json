@@ -16,7 +16,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-business-security-anti-cheat-engineer-cpp",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-business-security-anti-cheat-engineer-cpp/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-business-security-anti-cheat-engineer-cpp/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-business-security-anti-cheat-engineer-cpp.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-business-security-anti-cheat-engineer-cpp.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

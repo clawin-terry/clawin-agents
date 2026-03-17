@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-guild-incentives-and-settlement-coordination-manager",
+  "version": "0.1.0",
+  "title": "Guild Incentives and Settlement Coordination Manager",
+  "summary": "Coordinates guild incentive and settlement workflows so partner payouts, performance incentives, and commercial collaboration stay accurate and operationally disciplined.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "creator-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "guild",
+      "incentives",
+      "and",
+      "settlement",
+      "coordination",
+      "creator"
+    ],
+    "domains": [
+      "creator",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "guild",
+      "incentives"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "creator-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/creator-operations/content-platform-guild-incentives-and-settlement-coordination-manager"
+  }
+}

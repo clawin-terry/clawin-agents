@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-talent-mapping-specialist-marketplace",
+  "version": "0.1.0",
+  "title": "Talent Mapping Specialist (Marketplace)",
+  "summary": "Builds talent maps so marketplace hiring teams can understand target talent pools, competitive landscapes, and sourcing priorities more clearly.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "talent-acquisition"
+  },
+  "discovery": {
+    "tags": [
+      "talent",
+      "mapping",
+      "acquisition"
+    ],
+    "domains": [
+      "talent",
+      "acquisition"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "talent",
+      "mapping",
+      "acquisition"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "talent-mapping",
+      "mapping-acquisition"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/talent-acquisition/marketplace-ecommerce-talent-mapping-specialist-marketplace"
+  }
+}

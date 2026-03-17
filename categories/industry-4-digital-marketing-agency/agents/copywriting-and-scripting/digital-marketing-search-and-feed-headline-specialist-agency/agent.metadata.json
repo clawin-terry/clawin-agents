@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-search-and-feed-headline-specialist-agency",
+  "version": "0.1.0",
+  "title": "Search and Feed Headline Specialist (Agency)",
+  "summary": "Optimizes search and feed headlines so agency creatives can win attention faster while staying aligned with query intent and platform behavior.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "copywriting-and-scripting"
+  },
+  "discovery": {
+    "tags": [
+      "search",
+      "and",
+      "feed",
+      "headline",
+      "copywriting",
+      "scripting"
+    ],
+    "domains": [
+      "copywriting",
+      "and"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "search",
+      "and",
+      "feed",
+      "headline"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "search-and",
+      "copywriting-scripting"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/copywriting-and-scripting/digital-marketing-search-and-feed-headline-specialist-agency"
+  }
+}

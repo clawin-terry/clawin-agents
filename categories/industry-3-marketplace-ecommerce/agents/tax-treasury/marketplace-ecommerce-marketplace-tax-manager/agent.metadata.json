@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-marketplace-tax-manager",
+  "version": "0.1.0",
+  "title": "Marketplace Tax Manager",
+  "summary": "Leads marketplace tax operations so filings, positions, and cross-functional tax support remain accurate, timely, and well-governed.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "tax-treasury"
+  },
+  "discovery": {
+    "tags": [
+      "tax",
+      "treasury"
+    ],
+    "domains": [
+      "tax",
+      "treasury"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "tax",
+      "treasury"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "tax-treasury"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/tax-treasury/marketplace-ecommerce-marketplace-tax-manager"
+  }
+}

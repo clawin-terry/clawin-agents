@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-advertising-and-ecommerce-law-compliance-manager",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-advertising-and-ecommerce-law-compliance-manager/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-advertising-and-ecommerce-law-compliance-manager/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-advertising-and-ecommerce-law-compliance-manager.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-advertising-and-ecommerce-law-compliance-manager.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

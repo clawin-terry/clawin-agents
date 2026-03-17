@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-multi-objective-and-constraints-strategy-product-manager",
+  "version": "0.1.0",
+  "title": "Multi-Objective and Constraints Strategy Product Manager",
+  "summary": "Owns multi-objective and constraints strategy so recommendation and distribution systems can balance growth, quality, risk, monetization, and fairness more coherently.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "product-management"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "multi",
+      "objective",
+      "and",
+      "constraints",
+      "strategy",
+      "product"
+    ],
+    "domains": [
+      "product",
+      "management"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "multi",
+      "objective"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "content-platform",
+      "product-management"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/product-management/content-platform-multi-objective-and-constraints-strategy-product-manager"
+  }
+}

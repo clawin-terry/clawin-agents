@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-head-of-attribution-and-measurement",
+  "version": "0.1.0",
+  "title": "Head of Attribution and Measurement",
+  "summary": "Leads attribution and measurement strategy so marketing effectiveness frameworks, measurement standards, and client-facing recommendations remain rigorous and actionable.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "attribution-measurement"
+  },
+  "discovery": {
+    "tags": [
+      "head",
+      "of",
+      "attribution",
+      "and",
+      "measurement"
+    ],
+    "domains": [
+      "attribution",
+      "measurement"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "head",
+      "of",
+      "attribution",
+      "and"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "head-of",
+      "and-measurement"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/attribution-measurement/digital-marketing-head-of-attribution-and-measurement"
+  }
+}

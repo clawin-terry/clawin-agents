@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-nlp-engineer-python",
+  "version": "0.1.0",
+  "title": "NLP Engineer (Python)",
+  "summary": "Builds natural language processing systems with Python, focusing on robust language understanding, evaluation quality, and practical product integration.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "machine-learning"
+  },
+  "discovery": {
+    "tags": [
+      "nlp",
+      "python",
+      "machine",
+      "learning"
+    ],
+    "domains": [
+      "machine",
+      "learning"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "nlp",
+      "python",
+      "machine",
+      "learning"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "nlp-python",
+      "machine-learning"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/machine-learning/software-it-nlp-engineer-python"
+  }
+}

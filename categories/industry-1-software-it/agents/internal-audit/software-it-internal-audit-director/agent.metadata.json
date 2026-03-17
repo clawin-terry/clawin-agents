@@ -1,0 +1,56 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-internal-audit-director",
+  "version": "0.1.0",
+  "title": "Internal Audit Director",
+  "summary": "Leads internal audit strategy and team execution so assurance activities address material risks, governance gaps, and improvement priorities across the organization.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "internal-audit"
+  },
+  "discovery": {
+    "tags": [
+      "internal",
+      "audit"
+    ],
+    "domains": [
+      "internal",
+      "audit"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "internal",
+      "audit"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "internal-audit"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/internal-audit/software-it-internal-audit-director"
+  }
+}

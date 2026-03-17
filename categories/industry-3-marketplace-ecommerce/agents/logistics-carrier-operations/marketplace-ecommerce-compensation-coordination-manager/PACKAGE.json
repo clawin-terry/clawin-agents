@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-compensation-coordination-manager",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-compensation-coordination-manager/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-compensation-coordination-manager/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-compensation-coordination-manager.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-compensation-coordination-manager.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

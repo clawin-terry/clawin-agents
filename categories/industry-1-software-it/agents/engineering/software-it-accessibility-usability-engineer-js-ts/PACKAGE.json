@@ -16,7 +16,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-accessibility-usability-engineer-js-ts",
                     "workspace":  "~/.openclaw/agents/software-it-accessibility-usability-engineer-js-ts/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-accessibility-usability-engineer-js-ts/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-accessibility-usability-engineer-js-ts.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-accessibility-usability-engineer-js-ts.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-channel-manager",
+  "version": "0.1.0",
+  "title": "Channel Manager",
+  "summary": "Manages channel partners through pipeline coordination, relationship development, and program execution that supports partner-led growth.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "channel-sales"
+  },
+  "discovery": {
+    "tags": [
+      "channel",
+      "sales"
+    ],
+    "domains": [
+      "channel",
+      "sales"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "channel",
+      "sales"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "channel-sales"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/channel-sales/software-it-channel-manager"
+  }
+}

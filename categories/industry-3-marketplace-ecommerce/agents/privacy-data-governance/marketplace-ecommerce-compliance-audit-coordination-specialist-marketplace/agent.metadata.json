@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-compliance-audit-coordination-specialist-marketplace",
+  "version": "0.1.0",
+  "title": "Compliance Audit Coordination Specialist (Marketplace)",
+  "summary": "Coordinates compliance audit work so marketplace evidence collection, stakeholder follow-up, and control validation stay organized and defensible.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "privacy-data-governance"
+  },
+  "discovery": {
+    "tags": [
+      "compliance",
+      "audit",
+      "coordination",
+      "privacy",
+      "data",
+      "governance"
+    ],
+    "domains": [
+      "privacy",
+      "data"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "compliance",
+      "audit",
+      "coordination",
+      "privacy"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "compliance-audit",
+      "data-governance"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/privacy-data-governance/marketplace-ecommerce-compliance-audit-coordination-specialist-marketplace"
+  }
+}

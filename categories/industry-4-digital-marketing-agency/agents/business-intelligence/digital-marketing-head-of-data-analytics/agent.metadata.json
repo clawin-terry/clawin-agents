@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-head-of-data-analytics",
+  "version": "0.1.0",
+  "title": "Head of Data Analytics",
+  "summary": "Leads agency data analytics direction so reporting priorities, analytical workflows, and stakeholder decisions stay grounded in reliable commercial and campaign insights.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "business-intelligence"
+  },
+  "discovery": {
+    "tags": [
+      "head",
+      "of",
+      "data",
+      "analytics",
+      "business",
+      "intelligence"
+    ],
+    "domains": [
+      "business",
+      "intelligence"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "head",
+      "of",
+      "data",
+      "analytics"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "head-of",
+      "business-intelligence"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/business-intelligence/digital-marketing-head-of-data-analytics"
+  }
+}

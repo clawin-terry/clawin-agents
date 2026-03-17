@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-itgc-audit-specialist",
+  "version": "0.1.0",
+  "title": "ITGC Audit Specialist",
+  "summary": "Assesses IT general controls so access, change, operations, and supporting evidence meet internal audit and external compliance expectations.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "it-internal-control"
+  },
+  "discovery": {
+    "tags": [
+      "itgc",
+      "audit",
+      "internal",
+      "control"
+    ],
+    "domains": [
+      "internal",
+      "control"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "itgc",
+      "audit",
+      "internal",
+      "control"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "itgc-audit",
+      "internal-control"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/it-internal-control/software-it-itgc-audit-specialist"
+  }
+}

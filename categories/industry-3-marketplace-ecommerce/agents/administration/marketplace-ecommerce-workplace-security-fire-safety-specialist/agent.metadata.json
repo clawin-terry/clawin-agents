@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-workplace-security-fire-safety-specialist",
+  "version": "0.1.0",
+  "title": "Workplace Security and Fire Safety Specialist",
+  "summary": "Coordinates workplace security and fire-safety operations so marketplace offices remain compliant, prepared, and safer for employees and visitors.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "administration"
+  },
+  "discovery": {
+    "tags": [
+      "workplace",
+      "security",
+      "fire",
+      "safety",
+      "and",
+      "administration"
+    ],
+    "domains": [
+      "administration"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "workplace",
+      "security",
+      "fire",
+      "safety"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "workplace-security",
+      "safety-administration"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/administration/marketplace-ecommerce-workplace-security-fire-safety-specialist"
+  }
+}

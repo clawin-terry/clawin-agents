@@ -1,0 +1,56 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-design-systems-lead",
+  "version": "0.1.0",
+  "title": "Design Systems Lead",
+  "summary": "Leads design systems work so shared marketplace components, patterns, and governance improve consistency across product surfaces.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "design"
+  },
+  "discovery": {
+    "tags": [
+      "design",
+      "systems"
+    ],
+    "domains": [
+      "design"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "design",
+      "systems"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "design-systems"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design",
+      "browser"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "frontend-design"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/design/marketplace-ecommerce-design-systems-lead"
+  }
+}

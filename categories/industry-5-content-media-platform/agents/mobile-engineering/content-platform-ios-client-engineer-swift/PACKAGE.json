@@ -17,7 +17,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-ios-client-engineer-swift",
                     "workspace":  "~/.openclaw/agents/content-platform-ios-client-engineer-swift/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-ios-client-engineer-swift/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-ios-client-engineer-swift.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-ios-client-engineer-swift.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

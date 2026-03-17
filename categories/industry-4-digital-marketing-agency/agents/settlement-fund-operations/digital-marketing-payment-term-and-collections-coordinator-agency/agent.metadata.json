@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-payment-term-and-collections-coordinator-agency",
+  "version": "0.1.0",
+  "title": "Payment Term and Collections Coordinator",
+  "summary": "Coordinates payment terms and collections so receivable follow-up, escalation, and account-team collaboration keep cash recovery moving on schedule.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "settlement-fund-operations"
+  },
+  "discovery": {
+    "tags": [
+      "payment",
+      "term",
+      "and",
+      "collections",
+      "settlement",
+      "fund",
+      "operations"
+    ],
+    "domains": [
+      "settlement",
+      "fund"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "payment",
+      "term",
+      "and",
+      "collections"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "payment-term",
+      "fund-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/settlement-fund-operations/digital-marketing-payment-term-and-collections-coordinator-agency"
+  }
+}

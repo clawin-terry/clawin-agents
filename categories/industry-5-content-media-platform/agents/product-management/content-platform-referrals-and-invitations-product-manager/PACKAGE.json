@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-referrals-and-invitations-product-manager",
                     "workspace":  "~/.openclaw/agents/content-platform-referrals-and-invitations-product-manager/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-referrals-and-invitations-product-manager/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-referrals-and-invitations-product-manager.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-referrals-and-invitations-product-manager.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

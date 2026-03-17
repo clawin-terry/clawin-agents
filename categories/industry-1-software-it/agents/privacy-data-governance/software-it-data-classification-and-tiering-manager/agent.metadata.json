@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-data-classification-and-tiering-manager",
+  "version": "0.1.0",
+  "title": "Data Classification and Tiering Manager",
+  "summary": "Leads data classification and tiering programs so sensitivity levels, handling expectations, and control requirements stay clear and consistently applied.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "privacy-data-governance"
+  },
+  "discovery": {
+    "tags": [
+      "data",
+      "classification",
+      "and",
+      "tiering",
+      "privacy",
+      "governance"
+    ],
+    "domains": [
+      "privacy",
+      "data"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "data",
+      "classification",
+      "and",
+      "tiering"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "data-classification",
+      "privacy-governance"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "healthcheck"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/privacy-data-governance/software-it-data-classification-and-tiering-manager"
+  }
+}

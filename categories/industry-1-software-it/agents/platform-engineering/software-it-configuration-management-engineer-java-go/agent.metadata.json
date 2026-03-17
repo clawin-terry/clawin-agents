@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-configuration-management-engineer-java-go",
+  "version": "0.1.0",
+  "title": "Configuration Management Engineer (Java/Go)",
+  "summary": "Builds configuration management capabilities that keep distributed systems consistent, observable, and safe to change.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "platform-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "configuration",
+      "management",
+      "java",
+      "go",
+      "platform",
+      "engineering"
+    ],
+    "domains": [
+      "platform",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "configuration",
+      "management",
+      "java",
+      "go"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "configuration-management",
+      "platform-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "healthcheck"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/platform-engineering/software-it-configuration-management-engineer-java-go"
+  }
+}

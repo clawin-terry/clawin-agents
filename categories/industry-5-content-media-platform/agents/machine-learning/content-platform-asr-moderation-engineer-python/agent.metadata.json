@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-asr-moderation-engineer-python",
+  "version": "0.1.0",
+  "title": "ASR Moderation Engineer (Python)",
+  "summary": "Builds Python speech-recognition moderation models so spoken content in videos and live experiences can be transcribed, screened, and escalated with stronger trust-and-safety accuracy.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "machine-learning"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "asr",
+      "moderation",
+      "python",
+      "machine",
+      "learning"
+    ],
+    "domains": [
+      "machine",
+      "learning"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "asr",
+      "moderation"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "machine-learning"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/machine-learning/content-platform-asr-moderation-engineer-python"
+  }
+}

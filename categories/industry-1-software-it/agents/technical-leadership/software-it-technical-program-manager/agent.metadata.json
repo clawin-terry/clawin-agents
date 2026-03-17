@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-technical-program-manager",
+  "version": "0.1.0",
+  "title": "Technical Program Manager",
+  "summary": "Leads technical program execution so complex engineering initiatives move with strong coordination, dependency management, and delivery discipline.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "technical-leadership"
+  },
+  "discovery": {
+    "tags": [
+      "technical",
+      "program",
+      "leadership"
+    ],
+    "domains": [
+      "technical",
+      "leadership"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "technical",
+      "program",
+      "leadership"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "technical-program",
+      "program-leadership"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/technical-leadership/software-it-technical-program-manager"
+  }
+}

@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-receipts-and-payments-review-specialist",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-receipts-and-payments-review-specialist/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-receipts-and-payments-review-specialist/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-receipts-and-payments-review-specialist.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-receipts-and-payments-review-specialist.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

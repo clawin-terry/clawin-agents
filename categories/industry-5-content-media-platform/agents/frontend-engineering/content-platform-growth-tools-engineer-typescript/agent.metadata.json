@@ -1,0 +1,68 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-growth-tools-engineer-typescript",
+  "version": "0.1.0",
+  "title": "Growth Tools Engineer (TypeScript)",
+  "summary": "Builds TypeScript growth tooling so internal teams can launch campaigns, operate experiments, and manage operational workflows with less friction.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "frontend-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "growth",
+      "tools",
+      "typescript",
+      "frontend",
+      "engineering"
+    ],
+    "domains": [
+      "frontend",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "growth",
+      "tools"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "content-platform",
+      "frontend-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design",
+      "browser"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "ui-ux-pro-max"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/frontend-engineering/content-platform-growth-tools-engineer-typescript"
+  }
+}

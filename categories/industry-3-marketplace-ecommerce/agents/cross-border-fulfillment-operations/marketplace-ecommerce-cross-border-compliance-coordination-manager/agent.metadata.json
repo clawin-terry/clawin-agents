@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-cross-border-compliance-coordination-manager",
+  "version": "0.1.0",
+  "title": "Cross-Border Compliance Coordination Manager",
+  "summary": "Coordinates cross-border compliance work so bonded and international fulfillment operations stay aligned with regulatory obligations.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "cross-border-fulfillment-operations"
+  },
+  "discovery": {
+    "tags": [
+      "cross",
+      "border",
+      "compliance",
+      "coordination",
+      "fulfillment",
+      "operations"
+    ],
+    "domains": [
+      "cross",
+      "border"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "cross",
+      "border",
+      "compliance",
+      "coordination"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "cross-border",
+      "fulfillment-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/cross-border-fulfillment-operations/marketplace-ecommerce-cross-border-compliance-coordination-manager"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-consolidated-reporting-specialist-marketplace",
+  "version": "0.1.0",
+  "title": "Consolidated Reporting Specialist (Marketplace)",
+  "summary": "Produces consolidated marketplace reporting so multi-entity finance results are aligned, reconciled, and decision-ready.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "accounting"
+  },
+  "discovery": {
+    "tags": [
+      "consolidated",
+      "reporting",
+      "accounting"
+    ],
+    "domains": [
+      "accounting"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "consolidated",
+      "reporting",
+      "accounting"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "consolidated-reporting",
+      "reporting-accounting"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/accounting/marketplace-ecommerce-consolidated-reporting-specialist-marketplace"
+  }
+}

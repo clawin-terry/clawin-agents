@@ -16,7 +16,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-motion-designer",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-motion-designer/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-motion-designer/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-motion-designer.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-motion-designer.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

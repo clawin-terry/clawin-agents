@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-pm-director-agency",
+  "version": "0.1.0",
+  "title": "Project Management Director (Agency)",
+  "summary": "Leads project management practices so agency delivery governance, staffing, and execution quality remain consistent across programs.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "project-management"
+  },
+  "discovery": {
+    "tags": [
+      "pm",
+      "project",
+      "management"
+    ],
+    "domains": [
+      "project",
+      "management"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "pm",
+      "project",
+      "management"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "pm-project",
+      "project-management"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/project-management/digital-marketing-pm-director-agency"
+  }
+}

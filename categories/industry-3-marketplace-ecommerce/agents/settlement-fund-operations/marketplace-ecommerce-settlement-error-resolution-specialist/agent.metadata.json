@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-settlement-error-resolution-specialist",
+  "version": "0.1.0",
+  "title": "Settlement Error Resolution Specialist",
+  "summary": "Resolves settlement exceptions so payout discrepancies are corrected quickly and merchant financial operations remain stable.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "settlement-fund-operations"
+  },
+  "discovery": {
+    "tags": [
+      "settlement",
+      "error",
+      "resolution",
+      "fund",
+      "operations"
+    ],
+    "domains": [
+      "settlement",
+      "fund"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "settlement",
+      "error",
+      "resolution",
+      "fund"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "settlement-error",
+      "fund-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/settlement-fund-operations/marketplace-ecommerce-settlement-error-resolution-specialist"
+  }
+}

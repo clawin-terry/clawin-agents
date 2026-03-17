@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-appeals-review-specialist",
+  "version": "0.1.0",
+  "title": "Appeals Review Specialist",
+  "summary": "Reviews appeals so challenged governance decisions are reconsidered fairly and in line with platform policy standards.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "platform-governance-operations"
+  },
+  "discovery": {
+    "tags": [
+      "appeals",
+      "review",
+      "platform",
+      "governance",
+      "operations"
+    ],
+    "domains": [
+      "platform",
+      "governance"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "appeals",
+      "review",
+      "platform",
+      "governance"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "appeals-review",
+      "governance-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/platform-governance-operations/marketplace-ecommerce-appeals-review-specialist"
+  }
+}

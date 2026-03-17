@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-payments-backend-engineer-go",
+  "version": "0.1.0",
+  "title": "Payments Backend Engineer (Go)",
+  "summary": "Builds payments backend services in Go so transaction authorization, control logic, and service performance scale cleanly for the marketplace.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "backend-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "payments",
+      "backend",
+      "go",
+      "engineering"
+    ],
+    "domains": [
+      "backend",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "payments",
+      "backend",
+      "go",
+      "engineering"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "payments-backend",
+      "go-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "clawin-backend-service-engineering"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/backend-engineering/marketplace-ecommerce-payments-backend-engineer-go"
+  }
+}

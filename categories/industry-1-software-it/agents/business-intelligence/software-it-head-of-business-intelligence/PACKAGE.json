@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-head-of-business-intelligence",
                     "workspace":  "~/.openclaw/agents/software-it-head-of-business-intelligence/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-head-of-business-intelligence/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-head-of-business-intelligence.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-head-of-business-intelligence.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

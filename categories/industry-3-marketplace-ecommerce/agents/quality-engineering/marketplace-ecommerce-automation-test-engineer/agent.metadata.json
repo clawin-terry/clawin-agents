@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-automation-test-engineer",
+  "version": "0.1.0",
+  "title": "Automation Test Engineer",
+  "summary": "Builds and improves automated test workflows so marketplace engineering teams gain faster regression feedback and higher release confidence.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "quality-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "automation",
+      "test",
+      "quality",
+      "engineering"
+    ],
+    "domains": [
+      "quality",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "automation",
+      "test",
+      "quality",
+      "engineering"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "automation-test",
+      "quality-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/quality-engineering/marketplace-ecommerce-automation-test-engineer"
+  }
+}

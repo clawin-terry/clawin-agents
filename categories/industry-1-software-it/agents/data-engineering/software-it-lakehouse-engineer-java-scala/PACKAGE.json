@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-lakehouse-engineer-java-scala",
                     "workspace":  "~/.openclaw/agents/software-it-lakehouse-engineer-java-scala/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-lakehouse-engineer-java-scala/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-lakehouse-engineer-java-scala.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-lakehouse-engineer-java-scala.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

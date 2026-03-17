@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-transaction-and-payments-counsel-marketplace",
+  "version": "0.1.0",
+  "title": "Transaction and Payments Counsel (Marketplace)",
+  "summary": "Supports transaction and payments legal work so marketplace payment flows, terms, and operational decisions remain compliant and commercially workable.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "legal"
+  },
+  "discovery": {
+    "tags": [
+      "transaction",
+      "and",
+      "payments",
+      "counsel",
+      "legal"
+    ],
+    "domains": [
+      "legal"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "transaction",
+      "and",
+      "payments",
+      "counsel"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "transaction-and",
+      "counsel-legal"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/legal/marketplace-ecommerce-transaction-and-payments-counsel-marketplace"
+  }
+}

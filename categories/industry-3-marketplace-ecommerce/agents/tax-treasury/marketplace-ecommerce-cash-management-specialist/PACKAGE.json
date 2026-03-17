@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-cash-management-specialist",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-cash-management-specialist/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-cash-management-specialist/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-cash-management-specialist.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-cash-management-specialist.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

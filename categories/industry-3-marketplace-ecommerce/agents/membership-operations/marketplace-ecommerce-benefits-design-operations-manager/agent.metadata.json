@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-benefits-design-operations-manager",
+  "version": "0.1.0",
+  "title": "Benefits Design Operations Manager",
+  "summary": "Designs and operates membership benefits so marketplace loyalty programs stay compelling, usable, and aligned with commercial goals.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "membership-operations"
+  },
+  "discovery": {
+    "tags": [
+      "benefits",
+      "design",
+      "operations",
+      "membership"
+    ],
+    "domains": [
+      "membership",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "benefits",
+      "design",
+      "operations",
+      "membership"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "benefits-design",
+      "operations-membership"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/membership-operations/marketplace-ecommerce-benefits-design-operations-manager"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-channel-operations-manager-platform",
+  "version": "0.1.0",
+  "title": "Channel Operations Manager (Platform)",
+  "summary": "Runs short-video channel operations so category surfaces stay curated, supply stays organized, and users can discover stronger content through clearer operational stewardship.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "short-video-content-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "channel",
+      "operations",
+      "short",
+      "video"
+    ],
+    "domains": [
+      "short",
+      "video"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "channel",
+      "operations"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "short-video"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/short-video-content-operations/content-platform-channel-operations-manager-platform"
+  }
+}

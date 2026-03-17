@@ -18,7 +18,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-mobile-performance-optimization-engineer-dart",
                     "workspace":  "~/.openclaw/agents/content-platform-mobile-performance-optimization-engineer-dart/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-mobile-performance-optimization-engineer-dart/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-mobile-performance-optimization-engineer-dart.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-mobile-performance-optimization-engineer-dart.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

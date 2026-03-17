@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-story-planning-manager-platform",
+  "version": "0.1.0",
+  "title": "Story Planning Manager (Platform)",
+  "summary": "Plans editorial storylines and coverage angles so topic selection stays relevant, timely, and easier to convert into coordinated content output.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "editorial-content-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "story",
+      "planning",
+      "editorial",
+      "operations"
+    ],
+    "domains": [
+      "editorial",
+      "content"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "story",
+      "planning"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "editorial-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/editorial-content-operations/content-platform-story-planning-manager-platform"
+  }
+}

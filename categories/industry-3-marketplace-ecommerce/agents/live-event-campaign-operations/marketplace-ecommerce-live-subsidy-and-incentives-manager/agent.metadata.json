@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-live-subsidy-and-incentives-manager",
+  "version": "0.1.0",
+  "title": "Live Subsidy and Incentives Manager",
+  "summary": "Runs live subsidy and incentive programs so marketplace livestream participation and conversion goals are supported without losing economic control.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "live-event-campaign-operations"
+  },
+  "discovery": {
+    "tags": [
+      "live",
+      "subsidy",
+      "and",
+      "incentives",
+      "event",
+      "campaign",
+      "operations"
+    ],
+    "domains": [
+      "live",
+      "event"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "live",
+      "subsidy",
+      "and",
+      "incentives"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "live-subsidy",
+      "campaign-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/live-event-campaign-operations/marketplace-ecommerce-live-subsidy-and-incentives-manager"
+  }
+}

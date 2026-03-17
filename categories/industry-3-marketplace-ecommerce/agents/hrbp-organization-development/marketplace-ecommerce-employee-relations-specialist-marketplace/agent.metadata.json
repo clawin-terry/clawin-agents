@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-employee-relations-specialist-marketplace",
+  "version": "0.1.0",
+  "title": "Employee Relations Specialist (Marketplace)",
+  "summary": "Handles employee-relations matters so marketplace teams can address casework, policy issues, and workplace concerns with clearer process discipline.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "hrbp-organization-development"
+  },
+  "discovery": {
+    "tags": [
+      "employee",
+      "relations",
+      "hrbp",
+      "organization",
+      "development"
+    ],
+    "domains": [
+      "hrbp",
+      "organization"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "employee",
+      "relations",
+      "hrbp",
+      "organization"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "employee-relations",
+      "organization-development"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/hrbp-organization-development/marketplace-ecommerce-employee-relations-specialist-marketplace"
+  }
+}

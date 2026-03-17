@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-customs-documentation-specialist",
+  "version": "0.1.0",
+  "title": "Customs Documentation Specialist",
+  "summary": "Manages customs documentation so cross-border fulfillment records stay complete, accurate, and ready for regulatory review.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "cross-border-fulfillment-operations"
+  },
+  "discovery": {
+    "tags": [
+      "customs",
+      "documentation",
+      "cross",
+      "border",
+      "fulfillment",
+      "operations"
+    ],
+    "domains": [
+      "cross",
+      "border"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "customs",
+      "documentation",
+      "cross",
+      "border"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "customs-documentation",
+      "fulfillment-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/cross-border-fulfillment-operations/marketplace-ecommerce-customs-documentation-specialist"
+  }
+}

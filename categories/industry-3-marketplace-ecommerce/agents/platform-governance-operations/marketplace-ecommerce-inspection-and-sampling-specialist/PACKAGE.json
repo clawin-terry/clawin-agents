@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-inspection-and-sampling-specialist",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-inspection-and-sampling-specialist/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-inspection-and-sampling-specialist/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-inspection-and-sampling-specialist.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-inspection-and-sampling-specialist.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

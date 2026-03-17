@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-cart-and-checkout-product-manager",
+  "version": "0.1.0",
+  "title": "Cart and Checkout Product Manager",
+  "summary": "Owns cart and checkout product decisions so purchase intent turns into completed orders with less friction and stronger execution discipline.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "platform-product-management"
+  },
+  "discovery": {
+    "tags": [
+      "cart",
+      "and",
+      "checkout",
+      "product",
+      "platform",
+      "management"
+    ],
+    "domains": [
+      "platform",
+      "product"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "cart",
+      "and",
+      "checkout",
+      "product"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "cart-and",
+      "platform-management"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/platform-product-management/marketplace-ecommerce-cart-and-checkout-product-manager"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-store-launch-enablement-specialist",
+  "version": "0.1.0",
+  "title": "Store Launch Enablement Specialist",
+  "summary": "Guides merchants through store setup and launch readiness so new sellers can open smoothly and begin operating with fewer avoidable issues.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "merchant-onboarding-compliance"
+  },
+  "discovery": {
+    "tags": [
+      "store",
+      "launch",
+      "enablement",
+      "merchant",
+      "onboarding",
+      "compliance"
+    ],
+    "domains": [
+      "merchant",
+      "onboarding"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "store",
+      "launch",
+      "enablement",
+      "merchant"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "store-launch",
+      "onboarding-compliance"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/merchant-onboarding-compliance/marketplace-ecommerce-store-launch-enablement-specialist"
+  }
+}

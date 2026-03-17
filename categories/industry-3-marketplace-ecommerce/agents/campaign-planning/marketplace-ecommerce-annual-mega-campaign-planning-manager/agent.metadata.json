@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-annual-mega-campaign-planning-manager",
+  "version": "0.1.0",
+  "title": "Annual Mega-Campaign Planning Manager",
+  "summary": "Leads annual mega-campaign planning so large marketplace promotion calendars, priorities, and operational readiness stay aligned across teams.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "campaign-planning"
+  },
+  "discovery": {
+    "tags": [
+      "annual",
+      "mega",
+      "campaign",
+      "planning"
+    ],
+    "domains": [
+      "campaign",
+      "planning"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "annual",
+      "mega",
+      "campaign",
+      "planning"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "annual-mega",
+      "campaign-planning"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/campaign-planning/marketplace-ecommerce-annual-mega-campaign-planning-manager"
+  }
+}

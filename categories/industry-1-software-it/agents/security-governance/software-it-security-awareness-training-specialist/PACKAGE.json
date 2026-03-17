@@ -16,7 +16,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-security-awareness-training-specialist",
                     "workspace":  "~/.openclaw/agents/software-it-security-awareness-training-specialist/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-security-awareness-training-specialist/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-security-awareness-training-specialist.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-security-awareness-training-specialist.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

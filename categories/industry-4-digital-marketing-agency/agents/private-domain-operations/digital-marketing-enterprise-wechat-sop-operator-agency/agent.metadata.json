@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-enterprise-wechat-sop-operator-agency",
+  "version": "0.1.0",
+  "title": "Enterprise WeChat SOP Operator (Agency)",
+  "summary": "Operates Enterprise WeChat SOP workflows so agency teams can execute repeatable touchpoints, nurturing sequences, and service routines with better consistency.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "private-domain-operations"
+  },
+  "discovery": {
+    "tags": [
+      "enterprise",
+      "wechat",
+      "sop",
+      "operator",
+      "private",
+      "domain",
+      "operations"
+    ],
+    "domains": [
+      "private",
+      "domain"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "enterprise",
+      "wechat",
+      "sop",
+      "operator"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "enterprise-wechat",
+      "domain-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/private-domain-operations/digital-marketing-enterprise-wechat-sop-operator-agency"
+  }
+}

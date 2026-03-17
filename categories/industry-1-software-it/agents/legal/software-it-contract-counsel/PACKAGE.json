@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-contract-counsel",
                     "workspace":  "~/.openclaw/agents/software-it-contract-counsel/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-contract-counsel/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-contract-counsel.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-contract-counsel.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

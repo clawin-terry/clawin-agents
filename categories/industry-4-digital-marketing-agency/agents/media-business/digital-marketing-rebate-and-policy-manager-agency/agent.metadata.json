@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-rebate-and-policy-manager-agency",
+  "version": "0.1.0",
+  "title": "Rebate and Policy Manager (Agency)",
+  "summary": "Owns rebate and policy management so agency teams can interpret platform incentives, commercial rules, and compliance conditions with fewer execution surprises.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "media-business"
+  },
+  "discovery": {
+    "tags": [
+      "rebate",
+      "and",
+      "policy",
+      "media",
+      "business"
+    ],
+    "domains": [
+      "media",
+      "business"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "rebate",
+      "and",
+      "policy",
+      "media"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "rebate-and",
+      "media-business"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/media-business/digital-marketing-rebate-and-policy-manager-agency"
+  }
+}

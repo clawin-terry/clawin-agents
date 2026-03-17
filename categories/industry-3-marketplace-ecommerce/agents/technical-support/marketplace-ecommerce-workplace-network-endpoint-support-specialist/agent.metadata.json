@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-workplace-network-endpoint-support-specialist",
+  "version": "0.1.0",
+  "title": "Workplace Network and Endpoint Support Specialist",
+  "summary": "Supports workplace networks and endpoints so marketplace employees can work reliably across office connectivity, device readiness, and local troubleshooting.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "technical-support"
+  },
+  "discovery": {
+    "tags": [
+      "workplace",
+      "network",
+      "endpoint",
+      "support",
+      "and",
+      "technical"
+    ],
+    "domains": [
+      "technical",
+      "support"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "workplace",
+      "network",
+      "endpoint",
+      "support"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "workplace-network",
+      "support-technical"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/technical-support/marketplace-ecommerce-workplace-network-endpoint-support-specialist"
+  }
+}

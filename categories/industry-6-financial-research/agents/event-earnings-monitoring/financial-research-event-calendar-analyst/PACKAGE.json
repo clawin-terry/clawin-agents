@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "financial-research-event-calendar-analyst",
+    "roleTitle":  "Event Calendar Analyst",
+    "personaSummary":  "Maintains a forward-looking calendar of earnings dates, investor events, product launches, data releases, lockups, and other thesis-relevant milestones.",
+    "industryId":  "industry-6-financial-research",
+    "roleFamilyKey":  "event-earnings-monitoring",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/financial-research-event-calendar-analyst",
+                    "workspace":  "~/.openclaw/agents/financial-research-event-calendar-analyst/workspace",
+                    "agentDir":  "~/.openclaw/agents/financial-research-event-calendar-analyst/agent",
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
+                }
+}

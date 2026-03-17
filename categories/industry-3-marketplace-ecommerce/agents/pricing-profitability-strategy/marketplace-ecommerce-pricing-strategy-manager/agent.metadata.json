@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-pricing-strategy-manager",
+  "version": "0.1.0",
+  "title": "Pricing Strategy Manager",
+  "summary": "Leads pricing strategy so marketplace supply remains competitive while supporting margin, positioning, and sustainable growth goals.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "pricing-profitability-strategy"
+  },
+  "discovery": {
+    "tags": [
+      "pricing",
+      "strategy",
+      "profitability"
+    ],
+    "domains": [
+      "pricing",
+      "profitability"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "pricing",
+      "strategy",
+      "profitability"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "pricing-strategy",
+      "strategy-profitability"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/pricing-profitability-strategy/marketplace-ecommerce-pricing-strategy-manager"
+  }
+}

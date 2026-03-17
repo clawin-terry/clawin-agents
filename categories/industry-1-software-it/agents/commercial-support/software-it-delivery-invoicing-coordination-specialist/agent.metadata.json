@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-delivery-invoicing-coordination-specialist",
+  "version": "0.1.0",
+  "title": "Delivery Invoicing Coordination Specialist",
+  "summary": "Coordinates delivery invoicing workflows so project milestones, billing inputs, and finance handoffs stay aligned and timely.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "commercial-support"
+  },
+  "discovery": {
+    "tags": [
+      "delivery",
+      "invoicing",
+      "coordination",
+      "commercial",
+      "support"
+    ],
+    "domains": [
+      "commercial",
+      "support"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "delivery",
+      "invoicing",
+      "coordination",
+      "commercial"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "delivery-invoicing",
+      "commercial-support"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/commercial-support/software-it-delivery-invoicing-coordination-specialist"
+  }
+}

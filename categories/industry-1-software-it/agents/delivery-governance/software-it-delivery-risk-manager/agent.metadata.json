@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-delivery-risk-manager",
+  "version": "0.1.0",
+  "title": "Delivery Risk Manager",
+  "summary": "Monitors delivery risk so emerging issues, dependency threats, and execution tradeoffs are surfaced early and handled deliberately.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "delivery-governance"
+  },
+  "discovery": {
+    "tags": [
+      "delivery",
+      "risk",
+      "governance"
+    ],
+    "domains": [
+      "delivery",
+      "governance"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "delivery",
+      "risk",
+      "governance"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "delivery-risk",
+      "risk-governance"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/delivery-governance/software-it-delivery-risk-manager"
+  }
+}

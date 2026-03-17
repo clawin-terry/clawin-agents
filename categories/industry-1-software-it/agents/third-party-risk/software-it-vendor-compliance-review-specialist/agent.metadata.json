@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-vendor-compliance-review-specialist",
+  "version": "0.1.0",
+  "title": "Vendor Compliance Review Specialist",
+  "summary": "Reviews vendor compliance evidence so supplier onboarding and ongoing oversight decisions rest on documented control and regulatory checks.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "third-party-risk"
+  },
+  "discovery": {
+    "tags": [
+      "vendor",
+      "compliance",
+      "review",
+      "third",
+      "party",
+      "risk"
+    ],
+    "domains": [
+      "third",
+      "party"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "vendor",
+      "compliance",
+      "review",
+      "third"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "vendor-compliance",
+      "party-risk"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/third-party-risk/software-it-vendor-compliance-review-specialist"
+  }
+}

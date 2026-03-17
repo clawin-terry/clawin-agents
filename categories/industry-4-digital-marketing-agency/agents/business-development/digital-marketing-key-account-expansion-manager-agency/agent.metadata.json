@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-key-account-expansion-manager-agency",
+  "version": "0.1.0",
+  "title": "Key Account Expansion Manager (Agency)",
+  "summary": "Drives key-account expansion so agency growth within priority clients remains proactive, structured, and easier to scale.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "business-development"
+  },
+  "discovery": {
+    "tags": [
+      "key",
+      "account",
+      "expansion",
+      "business",
+      "development"
+    ],
+    "domains": [
+      "business",
+      "development"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "key",
+      "account",
+      "expansion",
+      "business"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "key-account",
+      "business-development"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/business-development/digital-marketing-key-account-expansion-manager-agency"
+  }
+}

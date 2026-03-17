@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-services-procurement-specialist",
                     "workspace":  "~/.openclaw/agents/software-it-services-procurement-specialist/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-services-procurement-specialist/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-services-procurement-specialist.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-services-procurement-specialist.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

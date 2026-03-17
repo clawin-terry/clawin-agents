@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-multi-objective-optimization-engineer-python",
+  "version": "0.1.0",
+  "title": "Multi-Objective Optimization Engineer (Python)",
+  "summary": "Builds multi-objective optimization methods in Python so ranking and recommendation systems can balance growth, quality, monetization, and risk constraints more coherently.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "machine-learning"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "multi",
+      "objective",
+      "optimization",
+      "python",
+      "machine",
+      "learning"
+    ],
+    "domains": [
+      "machine",
+      "learning"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "multi",
+      "objective"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "machine-learning"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/machine-learning/content-platform-multi-objective-optimization-engineer-python"
+  }
+}

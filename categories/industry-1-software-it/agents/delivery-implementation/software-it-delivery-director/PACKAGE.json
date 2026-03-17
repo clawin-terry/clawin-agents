@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-delivery-director",
                     "workspace":  "~/.openclaw/agents/software-it-delivery-director/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-delivery-director/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-delivery-director.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-delivery-director.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-identity-access-and-audit-engineer",
+  "version": "0.1.0",
+  "title": "Identity, Access, and Audit Engineer",
+  "summary": "Builds identity, access, and audit capabilities so marketplace security teams can govern privileges with stronger traceability and policy enforcement.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "security-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "identity",
+      "access",
+      "and",
+      "audit",
+      "security",
+      "engineering"
+    ],
+    "domains": [
+      "security",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "identity",
+      "access",
+      "and",
+      "audit"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "identity-access",
+      "security-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "healthcheck"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/security-engineering/marketplace-ecommerce-identity-access-and-audit-engineer"
+  }
+}

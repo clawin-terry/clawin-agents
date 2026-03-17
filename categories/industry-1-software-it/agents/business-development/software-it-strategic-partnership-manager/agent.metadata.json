@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-strategic-partnership-manager",
+  "version": "0.1.0",
+  "title": "Strategic Partnership Manager",
+  "summary": "Develops strategic partnerships that create commercial leverage, joint value propositions, and durable ecosystem relationships.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "business-development"
+  },
+  "discovery": {
+    "tags": [
+      "strategic",
+      "partnership",
+      "business",
+      "development"
+    ],
+    "domains": [
+      "business",
+      "development"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "strategic",
+      "partnership",
+      "business",
+      "development"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "strategic-partnership",
+      "business-development"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/business-development/software-it-strategic-partnership-manager"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-real-time-risk-data-pipeline-engineer",
+  "version": "0.1.0",
+  "title": "Real-Time Risk Data Pipeline Engineer",
+  "summary": "Builds real-time risk data pipelines so marketplace fraud and governance systems receive timely, reliable decision signals.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "data-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "real",
+      "time",
+      "risk",
+      "data",
+      "pipeline",
+      "engineering"
+    ],
+    "domains": [
+      "data",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "real",
+      "time",
+      "risk",
+      "data"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "real-time",
+      "pipeline-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/data-engineering/marketplace-ecommerce-real-time-risk-data-pipeline-engineer"
+  }
+}

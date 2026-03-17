@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-community-operations-manager",
+  "version": "0.1.0",
+  "title": "Community Operations Manager",
+  "summary": "Runs community operations so participation, moderation, and engagement programs support a healthy and useful external ecosystem.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "ecosystem-operations"
+  },
+  "discovery": {
+    "tags": [
+      "community",
+      "operations",
+      "ecosystem"
+    ],
+    "domains": [
+      "ecosystem",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "community",
+      "operations",
+      "ecosystem"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "community-operations",
+      "operations-ecosystem"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/ecosystem-operations/software-it-community-operations-manager"
+  }
+}

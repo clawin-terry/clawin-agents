@@ -16,7 +16,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-monitoring-alerting-and-capacity-planning-engineer",
                     "workspace":  "~/.openclaw/agents/content-platform-monitoring-alerting-and-capacity-planning-engineer/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-monitoring-alerting-and-capacity-planning-engineer/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-monitoring-alerting-and-capacity-planning-engineer.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-monitoring-alerting-and-capacity-planning-engineer.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

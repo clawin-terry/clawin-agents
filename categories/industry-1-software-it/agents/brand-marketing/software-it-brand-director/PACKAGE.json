@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-brand-director",
                     "workspace":  "~/.openclaw/agents/software-it-brand-director/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-brand-director/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-brand-director.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-brand-director.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

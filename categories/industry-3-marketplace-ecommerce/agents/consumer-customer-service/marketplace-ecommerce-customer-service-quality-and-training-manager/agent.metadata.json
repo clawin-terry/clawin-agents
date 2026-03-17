@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-customer-service-quality-and-training-manager",
+  "version": "0.1.0",
+  "title": "Customer Service Quality and Training Manager",
+  "summary": "Leads customer service quality and training so service teams improve consistency, capability, and buyer experience outcomes.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "consumer-customer-service"
+  },
+  "discovery": {
+    "tags": [
+      "customer",
+      "service",
+      "quality",
+      "and",
+      "training",
+      "consumer"
+    ],
+    "domains": [
+      "consumer",
+      "customer"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "customer",
+      "service",
+      "quality",
+      "and"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "customer-service",
+      "training-consumer"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/consumer-customer-service/marketplace-ecommerce-customer-service-quality-and-training-manager"
+  }
+}

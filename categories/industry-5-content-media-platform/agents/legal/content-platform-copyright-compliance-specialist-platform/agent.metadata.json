@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-copyright-compliance-specialist-platform",
+  "version": "0.1.0",
+  "title": "Copyright Compliance Specialist (Platform)",
+  "summary": "Supports copyright procurement compliance so licensed content sourcing, supplier terms, and usage rights remain properly governed across the platform.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "legal"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "copyright",
+      "compliance",
+      "legal"
+    ],
+    "domains": [
+      "legal"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "copyright",
+      "compliance"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "compliance-legal"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/legal/content-platform-copyright-compliance-specialist-platform"
+  }
+}

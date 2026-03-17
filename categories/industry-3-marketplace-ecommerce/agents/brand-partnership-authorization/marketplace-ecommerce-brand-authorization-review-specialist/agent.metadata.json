@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-brand-authorization-review-specialist",
+  "version": "0.1.0",
+  "title": "Brand Authorization Review Specialist",
+  "summary": "Reviews brand authorization materials so marketplace listings and merchants meet brand approval requirements and compliance expectations.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "brand-partnership-authorization"
+  },
+  "discovery": {
+    "tags": [
+      "brand",
+      "authorization",
+      "review",
+      "partnership"
+    ],
+    "domains": [
+      "brand",
+      "partnership"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "brand",
+      "authorization",
+      "review",
+      "partnership"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "brand-authorization",
+      "review-partnership"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/brand-partnership-authorization/marketplace-ecommerce-brand-authorization-review-specialist"
+  }
+}

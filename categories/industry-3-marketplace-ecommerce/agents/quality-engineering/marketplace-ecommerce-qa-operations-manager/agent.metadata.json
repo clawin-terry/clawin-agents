@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-qa-operations-manager",
+  "version": "0.1.0",
+  "title": "QA Operations Manager",
+  "summary": "Runs QA operations so test planning, issue coordination, release readiness, and cross-team quality practices stay visible and actionable.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "quality-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "qa",
+      "operations",
+      "quality",
+      "engineering"
+    ],
+    "domains": [
+      "quality",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "qa",
+      "operations",
+      "quality",
+      "engineering"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "qa-operations",
+      "quality-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/quality-engineering/marketplace-ecommerce-qa-operations-manager"
+  }
+}

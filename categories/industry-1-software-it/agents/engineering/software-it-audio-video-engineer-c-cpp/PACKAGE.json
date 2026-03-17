@@ -16,7 +16,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-audio-video-engineer-c-cpp",
                     "workspace":  "~/.openclaw/agents/software-it-audio-video-engineer-c-cpp/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-audio-video-engineer-c-cpp/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-audio-video-engineer-c-cpp.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-audio-video-engineer-c-cpp.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

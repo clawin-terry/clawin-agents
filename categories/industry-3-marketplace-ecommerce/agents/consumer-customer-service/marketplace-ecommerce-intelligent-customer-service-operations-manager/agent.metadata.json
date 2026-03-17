@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-intelligent-customer-service-operations-manager",
+  "version": "0.1.0",
+  "title": "Intelligent Customer Service Operations Manager",
+  "summary": "Runs intelligent customer service operations so automation, routing, and service efficiency improve without losing quality control.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "consumer-customer-service"
+  },
+  "discovery": {
+    "tags": [
+      "intelligent",
+      "customer",
+      "service",
+      "operations",
+      "consumer"
+    ],
+    "domains": [
+      "consumer",
+      "customer"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "intelligent",
+      "customer",
+      "service",
+      "operations"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "intelligent-customer",
+      "operations-consumer"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/consumer-customer-service/marketplace-ecommerce-intelligent-customer-service-operations-manager"
+  }
+}

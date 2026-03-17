@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-performance-test-engineer",
+  "version": "0.1.0",
+  "title": "Performance Test Engineer",
+  "summary": "Runs performance testing so platform services and user-facing experiences can meet capacity, latency, and resilience targets under peak demand.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "quality-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "performance",
+      "test",
+      "quality",
+      "engineering"
+    ],
+    "domains": [
+      "quality",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "performance",
+      "test"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "quality-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/quality-engineering/content-platform-performance-test-engineer"
+  }
+}

@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-warehouse-network-planning-manager",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-warehouse-network-planning-manager/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-warehouse-network-planning-manager/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-warehouse-network-planning-manager.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-warehouse-network-planning-manager.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

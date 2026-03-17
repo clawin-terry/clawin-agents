@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-strategy-director",
                     "workspace":  "~/.openclaw/agents/software-it-strategy-director/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-strategy-director/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-strategy-director.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-strategy-director.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

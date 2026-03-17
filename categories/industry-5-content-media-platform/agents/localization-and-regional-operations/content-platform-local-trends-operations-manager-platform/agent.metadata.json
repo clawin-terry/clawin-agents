@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-local-trends-operations-manager-platform",
+  "version": "0.1.0",
+  "title": "Local Trends Operations Manager (Platform)",
+  "summary": "Runs local-trends operations so region-specific topics, cultural moments, and user interests are surfaced more effectively across localized platform experiences.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "localization-and-regional-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "local",
+      "trends",
+      "operations",
+      "localization",
+      "and",
+      "regional"
+    ],
+    "domains": [
+      "localization",
+      "and"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "local",
+      "trends"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "and-regional"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/localization-and-regional-operations/content-platform-local-trends-operations-manager-platform"
+  }
+}

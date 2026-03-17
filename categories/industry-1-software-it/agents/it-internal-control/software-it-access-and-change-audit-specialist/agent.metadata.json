@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-access-and-change-audit-specialist",
+  "version": "0.1.0",
+  "title": "Access and Change Audit Specialist",
+  "summary": "Reviews access and change-control practices so privileged access, approvals, and production changes remain controlled, traceable, and easier to audit.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "it-internal-control"
+  },
+  "discovery": {
+    "tags": [
+      "access",
+      "and",
+      "change",
+      "audit",
+      "internal",
+      "control"
+    ],
+    "domains": [
+      "internal",
+      "control"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "access",
+      "and",
+      "change",
+      "audit"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "access-and",
+      "internal-control"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/it-internal-control/software-it-access-and-change-audit-specialist"
+  }
+}

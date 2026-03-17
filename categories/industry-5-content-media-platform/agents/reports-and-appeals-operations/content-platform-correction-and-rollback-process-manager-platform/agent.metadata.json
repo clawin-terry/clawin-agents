@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-correction-and-rollback-process-manager-platform",
+  "version": "0.1.0",
+  "title": "Correction and Rollback Process Manager (Platform)",
+  "summary": "Manages correction and rollback processes so moderation mistakes can be reversed cleanly and operational fixes can be applied with better control.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "reports-and-appeals-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "correction",
+      "and",
+      "rollback",
+      "process",
+      "reports",
+      "appeals"
+    ],
+    "domains": [
+      "reports",
+      "and"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "correction",
+      "and"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "appeals-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/reports-and-appeals-operations/content-platform-correction-and-rollback-process-manager-platform"
+  }
+}

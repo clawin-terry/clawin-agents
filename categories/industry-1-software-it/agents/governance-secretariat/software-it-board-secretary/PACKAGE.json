@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-board-secretary",
                     "workspace":  "~/.openclaw/agents/software-it-board-secretary/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-board-secretary/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-board-secretary.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-board-secretary.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

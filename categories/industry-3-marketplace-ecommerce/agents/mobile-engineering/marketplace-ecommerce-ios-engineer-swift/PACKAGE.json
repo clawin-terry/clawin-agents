@@ -16,7 +16,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-ios-engineer-swift",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-ios-engineer-swift/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-ios-engineer-swift/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-ios-engineer-swift.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-ios-engineer-swift.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-data-visualization-engineer-js-ts",
+  "version": "0.1.0",
+  "title": "Data Visualization Engineer (JS/TS)",
+  "summary": "Builds interactive data and product visualization experiences with strong frontend engineering discipline and a JS/TS stack.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "engineering"
+  },
+  "discovery": {
+    "tags": [
+      "data",
+      "visualization",
+      "js",
+      "ts",
+      "engineering"
+    ],
+    "domains": [
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "data",
+      "visualization",
+      "js",
+      "ts"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "data-visualization",
+      "ts-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "ui-ux-pro-max"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/engineering/software-it-data-visualization-engineer-js-ts"
+  }
+}

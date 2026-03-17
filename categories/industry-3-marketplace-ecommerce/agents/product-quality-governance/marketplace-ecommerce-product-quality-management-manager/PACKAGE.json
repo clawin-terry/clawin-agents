@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-product-quality-management-manager",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-product-quality-management-manager/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-product-quality-management-manager/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-product-quality-management-manager.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-product-quality-management-manager.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

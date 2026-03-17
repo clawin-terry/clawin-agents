@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-edge-case-moderation-specialist-platform",
                     "workspace":  "~/.openclaw/agents/content-platform-edge-case-moderation-specialist-platform/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-edge-case-moderation-specialist-platform/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-edge-case-moderation-specialist-platform.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-edge-case-moderation-specialist-platform.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

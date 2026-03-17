@@ -16,7 +16,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-nps-voc-analyst",
                     "workspace":  "~/.openclaw/agents/software-it-nps-voc-analyst/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-nps-voc-analyst/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-nps-voc-analyst.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-nps-voc-analyst.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

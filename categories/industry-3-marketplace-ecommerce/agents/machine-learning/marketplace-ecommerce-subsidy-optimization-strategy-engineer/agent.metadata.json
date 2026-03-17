@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-subsidy-optimization-strategy-engineer",
+  "version": "0.1.0",
+  "title": "Subsidy Optimization Strategy Engineer",
+  "summary": "Builds subsidy optimization strategies so marketplace incentives can balance acquisition, conversion, and unit economics with stronger analytical control.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "machine-learning"
+  },
+  "discovery": {
+    "tags": [
+      "subsidy",
+      "optimization",
+      "strategy",
+      "machine",
+      "learning"
+    ],
+    "domains": [
+      "machine",
+      "learning"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "subsidy",
+      "optimization",
+      "strategy",
+      "machine"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "subsidy-optimization",
+      "machine-learning"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/machine-learning/marketplace-ecommerce-subsidy-optimization-strategy-engineer"
+  }
+}

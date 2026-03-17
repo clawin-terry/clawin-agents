@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/digital-marketing-engagement-and-community-operations-specialist-agency",
                     "workspace":  "~/.openclaw/agents/digital-marketing-engagement-and-community-operations-specialist-agency/workspace",
                     "agentDir":  "~/.openclaw/agents/digital-marketing-engagement-and-community-operations-specialist-agency/agent",
-                    "configEntry":  "config/openclaw.agent.digital-marketing-engagement-and-community-operations-specialist-agency.entry.json",
-                    "configSnippet":  "config/openclaw.agent.digital-marketing-engagement-and-community-operations-specialist-agency.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

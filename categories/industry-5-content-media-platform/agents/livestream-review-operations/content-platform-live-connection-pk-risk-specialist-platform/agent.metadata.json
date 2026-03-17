@@ -1,0 +1,66 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-live-connection-pk-risk-specialist-platform",
+  "version": "0.1.0",
+  "title": "Live Connection and PK Risk Specialist (Platform)",
+  "summary": "Handles live-connection and PK risks so fast-moving interactive sessions stay within policy and receive timely intervention when needed.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "livestream-review-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "live",
+      "connection",
+      "pk",
+      "risk",
+      "and",
+      "livestream"
+    ],
+    "domains": [
+      "livestream",
+      "review"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "live",
+      "connection"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "review-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/livestream-review-operations/content-platform-live-connection-pk-risk-specialist-platform"
+  }
+}

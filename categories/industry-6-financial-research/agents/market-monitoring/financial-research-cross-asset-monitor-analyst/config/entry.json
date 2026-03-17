@@ -1,0 +1,13 @@
+{
+    "id":  "financial-research-cross-asset-monitor-analyst",
+    "default":  false,
+    "name":  "Cross-Asset Signal Monitor Analyst",
+    "workspace":  "~/.openclaw/agents/financial-research-cross-asset-monitor-analyst/workspace",
+    "agentDir":  "~/.openclaw/agents/financial-research-cross-asset-monitor-analyst/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

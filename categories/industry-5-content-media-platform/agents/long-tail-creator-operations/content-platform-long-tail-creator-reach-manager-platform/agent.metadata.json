@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-long-tail-creator-reach-manager-platform",
+  "version": "0.1.0",
+  "title": "Long-Tail Creator Reach Manager (Platform)",
+  "summary": "Leads long-tail creator reach programs so broad creator cohorts stay engaged, informed, and connected to platform opportunities beyond top-tier accounts.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "long-tail-creator-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "long",
+      "tail",
+      "creator",
+      "reach",
+      "operations"
+    ],
+    "domains": [
+      "long",
+      "tail"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "long",
+      "tail"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "reach-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/long-tail-creator-operations/content-platform-long-tail-creator-reach-manager-platform"
+  }
+}

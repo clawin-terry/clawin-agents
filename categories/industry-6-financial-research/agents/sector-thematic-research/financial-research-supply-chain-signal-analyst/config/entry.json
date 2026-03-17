@@ -1,0 +1,13 @@
+{
+    "id":  "financial-research-supply-chain-signal-analyst",
+    "default":  false,
+    "name":  "Supply Chain Signal Analyst",
+    "workspace":  "~/.openclaw/agents/financial-research-supply-chain-signal-analyst/workspace",
+    "agentDir":  "~/.openclaw/agents/financial-research-supply-chain-signal-analyst/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

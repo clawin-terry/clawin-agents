@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-policy-research-analyst",
+  "version": "0.1.0",
+  "title": "Policy Research Analyst",
+  "summary": "Analyzes policy developments and regulatory signals so business planning, engagement strategy, and compliance posture remain informed.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "government-relations"
+  },
+  "discovery": {
+    "tags": [
+      "policy",
+      "research",
+      "government",
+      "relations"
+    ],
+    "domains": [
+      "government",
+      "relations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "policy",
+      "research",
+      "government",
+      "relations"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "policy-research",
+      "government-relations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/government-relations/software-it-policy-research-analyst"
+  }
+}

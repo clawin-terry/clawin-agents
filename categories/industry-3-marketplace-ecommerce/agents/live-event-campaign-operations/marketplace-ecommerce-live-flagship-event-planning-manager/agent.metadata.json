@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-live-flagship-event-planning-manager",
+  "version": "0.1.0",
+  "title": "Live Flagship Event Planning Manager",
+  "summary": "Plans flagship live events so major marketplace streaming moments have clear concepts, timelines, and execution frameworks.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "live-event-campaign-operations"
+  },
+  "discovery": {
+    "tags": [
+      "live",
+      "flagship",
+      "event",
+      "planning",
+      "campaign",
+      "operations"
+    ],
+    "domains": [
+      "live",
+      "event"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "live",
+      "flagship",
+      "event",
+      "planning"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "live-flagship",
+      "campaign-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/live-event-campaign-operations/marketplace-ecommerce-live-flagship-event-planning-manager"
+  }
+}

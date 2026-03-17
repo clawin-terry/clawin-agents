@@ -1,0 +1,55 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-video-director-agency",
+  "version": "0.1.0",
+  "title": "Video Director (Agency)",
+  "summary": "Leads video production direction so agency shoots, edits, and motion outputs stay aligned with concept goals, quality expectations, and client timelines.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "video-production"
+  },
+  "discovery": {
+    "tags": [
+      "video",
+      "production"
+    ],
+    "domains": [
+      "video",
+      "production"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "video",
+      "production"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "video-production"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/video-production/digital-marketing-video-director-agency"
+  }
+}

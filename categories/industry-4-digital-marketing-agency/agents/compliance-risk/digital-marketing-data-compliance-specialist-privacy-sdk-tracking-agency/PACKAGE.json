@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/digital-marketing-data-compliance-specialist-privacy-sdk-tracking-agency",
                     "workspace":  "~/.openclaw/agents/digital-marketing-data-compliance-specialist-privacy-sdk-tracking-agency/workspace",
                     "agentDir":  "~/.openclaw/agents/digital-marketing-data-compliance-specialist-privacy-sdk-tracking-agency/agent",
-                    "configEntry":  "config/openclaw.agent.digital-marketing-data-compliance-specialist-privacy-sdk-tracking-agency.entry.json",
-                    "configSnippet":  "config/openclaw.agent.digital-marketing-data-compliance-specialist-privacy-sdk-tracking-agency.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-finance-business-partner",
+  "version": "0.1.0",
+  "title": "Finance Business Partner",
+  "summary": "Partners with business leaders on planning and performance decisions so financial insights can shape execution, tradeoffs, and resource allocation.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "finance-management"
+  },
+  "discovery": {
+    "tags": [
+      "finance",
+      "business",
+      "partner",
+      "management"
+    ],
+    "domains": [
+      "finance",
+      "management"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "finance",
+      "business",
+      "partner",
+      "management"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "finance-business",
+      "partner-management"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/finance-management/software-it-finance-business-partner"
+  }
+}

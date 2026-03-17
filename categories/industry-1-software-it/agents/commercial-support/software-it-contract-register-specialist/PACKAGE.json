@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-contract-register-specialist",
                     "workspace":  "~/.openclaw/agents/software-it-contract-register-specialist/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-contract-register-specialist/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-contract-register-specialist.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-contract-register-specialist.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

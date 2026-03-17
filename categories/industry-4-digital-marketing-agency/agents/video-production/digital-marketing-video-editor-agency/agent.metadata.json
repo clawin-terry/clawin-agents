@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-video-editor-agency",
+  "version": "0.1.0",
+  "title": "Video Editor (Agency)",
+  "summary": "Edits campaign footage so agency video assets land with stronger pace, clarity, and platform-ready structure across formats.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "video-production"
+  },
+  "discovery": {
+    "tags": [
+      "video",
+      "editor",
+      "production"
+    ],
+    "domains": [
+      "video",
+      "production"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "video",
+      "editor",
+      "production"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "video-editor",
+      "editor-production"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/video-production/digital-marketing-video-editor-agency"
+  }
+}

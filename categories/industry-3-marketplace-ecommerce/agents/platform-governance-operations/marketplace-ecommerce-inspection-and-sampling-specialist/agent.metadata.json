@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-inspection-and-sampling-specialist",
+  "version": "0.1.0",
+  "title": "Inspection and Sampling Specialist",
+  "summary": "Performs inspection and sampling work so policy compliance is spot-checked and emerging governance issues are surfaced early.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "platform-governance-operations"
+  },
+  "discovery": {
+    "tags": [
+      "inspection",
+      "and",
+      "sampling",
+      "platform",
+      "governance",
+      "operations"
+    ],
+    "domains": [
+      "platform",
+      "governance"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "inspection",
+      "and",
+      "sampling",
+      "platform"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "inspection-and",
+      "governance-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/platform-governance-operations/marketplace-ecommerce-inspection-and-sampling-specialist"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-post-production-packaging-specialist-agency",
+  "version": "0.1.0",
+  "title": "Post-Production Packaging Specialist (Agency)",
+  "summary": "Packages post-production outputs so agency videos ship with cleaner finishing elements, delivery versions, and polished end-to-end presentation.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "video-production"
+  },
+  "discovery": {
+    "tags": [
+      "post",
+      "production",
+      "packaging",
+      "video"
+    ],
+    "domains": [
+      "video",
+      "production"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "post",
+      "production",
+      "packaging",
+      "video"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "post-production",
+      "packaging-video"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/video-production/digital-marketing-post-production-packaging-specialist-agency"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-data-engineer-python-sql",
+  "version": "0.1.0",
+  "title": "Data Engineer (Python/SQL)",
+  "summary": "Builds agency data pipelines and warehouse workflows with Python and SQL so campaign, ecommerce, and content datasets stay reliable and analysis-ready.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "data-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "data",
+      "python",
+      "sql",
+      "engineering"
+    ],
+    "domains": [
+      "data",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "data",
+      "python",
+      "sql",
+      "engineering"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "data-python",
+      "sql-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/data-engineering/digital-marketing-data-engineer-python-sql"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-vice-president-of-sales",
+  "version": "0.1.0",
+  "title": "Vice President of Sales",
+  "summary": "Leads sales strategy, team performance, and commercial execution across segments so revenue plans convert into disciplined field action.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "sales"
+  },
+  "discovery": {
+    "tags": [
+      "vice",
+      "president",
+      "of",
+      "sales"
+    ],
+    "domains": [
+      "sales"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "vice",
+      "president",
+      "of",
+      "sales"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "vice-president",
+      "of-sales"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/sales/software-it-vice-president-of-sales"
+  }
+}

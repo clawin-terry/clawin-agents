@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-tax-planning-specialist",
+  "version": "0.1.0",
+  "title": "Tax Planning Specialist",
+  "summary": "Supports tax-planning work so business activities, structures, and transactions are evaluated with clearer tax efficiency and compliance awareness.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "tax-treasury"
+  },
+  "discovery": {
+    "tags": [
+      "tax",
+      "planning",
+      "treasury"
+    ],
+    "domains": [
+      "tax",
+      "treasury"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "tax",
+      "planning",
+      "treasury"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "tax-planning",
+      "planning-treasury"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/tax-treasury/software-it-tax-planning-specialist"
+  }
+}

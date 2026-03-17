@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/digital-marketing-recruiting-manager-agency",
                     "workspace":  "~/.openclaw/agents/digital-marketing-recruiting-manager-agency/workspace",
                     "agentDir":  "~/.openclaw/agents/digital-marketing-recruiting-manager-agency/agent",
-                    "configEntry":  "config/openclaw.agent.digital-marketing-recruiting-manager-agency.entry.json",
-                    "configSnippet":  "config/openclaw.agent.digital-marketing-recruiting-manager-agency.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

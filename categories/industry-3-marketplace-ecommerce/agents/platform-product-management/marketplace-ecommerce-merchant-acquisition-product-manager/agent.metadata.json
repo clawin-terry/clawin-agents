@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-merchant-acquisition-product-manager",
+  "version": "0.1.0",
+  "title": "Merchant Acquisition Product Manager",
+  "summary": "Owns merchant acquisition product workflows so seller onboarding, application routing, and lead conversion move with less friction and stronger operating clarity.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "platform-product-management"
+  },
+  "discovery": {
+    "tags": [
+      "merchant",
+      "acquisition",
+      "product",
+      "platform",
+      "management"
+    ],
+    "domains": [
+      "platform",
+      "product"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "merchant",
+      "acquisition",
+      "product",
+      "platform"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "merchant-acquisition",
+      "platform-management"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/platform-product-management/marketplace-ecommerce-merchant-acquisition-product-manager"
+  }
+}

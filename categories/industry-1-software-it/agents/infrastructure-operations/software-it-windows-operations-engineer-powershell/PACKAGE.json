@@ -16,7 +16,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-windows-operations-engineer-powershell",
                     "workspace":  "~/.openclaw/agents/software-it-windows-operations-engineer-powershell/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-windows-operations-engineer-powershell/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-windows-operations-engineer-powershell.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-windows-operations-engineer-powershell.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

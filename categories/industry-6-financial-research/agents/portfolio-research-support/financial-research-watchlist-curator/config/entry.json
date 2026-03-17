@@ -1,0 +1,13 @@
+{
+    "id":  "financial-research-watchlist-curator",
+    "default":  false,
+    "name":  "Watchlist Curator",
+    "workspace":  "~/.openclaw/agents/financial-research-watchlist-curator/workspace",
+    "agentDir":  "~/.openclaw/agents/financial-research-watchlist-curator/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

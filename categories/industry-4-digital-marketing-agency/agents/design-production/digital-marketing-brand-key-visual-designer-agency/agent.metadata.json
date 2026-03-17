@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-brand-key-visual-designer-agency",
+  "version": "0.1.0",
+  "title": "Brand Key Visual Designer (Agency)",
+  "summary": "Creates brand key visuals so agency campaigns can anchor major launches and storytelling moments with stronger visual identity.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "design-production"
+  },
+  "discovery": {
+    "tags": [
+      "brand",
+      "key",
+      "visual",
+      "designer",
+      "design",
+      "production"
+    ],
+    "domains": [
+      "design",
+      "production"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "brand",
+      "key",
+      "visual",
+      "designer"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "brand-key",
+      "design-production"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/design-production/digital-marketing-brand-key-visual-designer-agency"
+  }
+}

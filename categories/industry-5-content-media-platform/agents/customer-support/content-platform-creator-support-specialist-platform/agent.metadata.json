@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-creator-support-specialist-platform",
+  "version": "0.1.0",
+  "title": "Creator Support Specialist (Platform)",
+  "summary": "Supports creators through service channels so account issues, policy questions, and platform workflow problems are resolved with clearer guidance.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "customer-support"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "creator",
+      "support",
+      "customer"
+    ],
+    "domains": [
+      "customer",
+      "support"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "creator",
+      "support"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "support-customer"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/customer-support/content-platform-creator-support-specialist-platform"
+  }
+}

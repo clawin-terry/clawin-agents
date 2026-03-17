@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/digital-marketing-editor-and-staff-writer-agency",
                     "workspace":  "~/.openclaw/agents/digital-marketing-editor-and-staff-writer-agency/workspace",
                     "agentDir":  "~/.openclaw/agents/digital-marketing-editor-and-staff-writer-agency/agent",
-                    "configEntry":  "config/openclaw.agent.digital-marketing-editor-and-staff-writer-agency.entry.json",
-                    "configSnippet":  "config/openclaw.agent.digital-marketing-editor-and-staff-writer-agency.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

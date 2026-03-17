@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-account-manager",
+  "version": "0.1.0",
+  "title": "Account Manager",
+  "summary": "Owns customer accounts through ongoing commercial coordination, value realization, and relationship management across the account lifecycle.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "sales"
+  },
+  "discovery": {
+    "tags": [
+      "account",
+      "sales"
+    ],
+    "domains": [
+      "sales"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "account",
+      "sales"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "account-sales"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/sales/software-it-account-manager"
+  }
+}

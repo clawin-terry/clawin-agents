@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-upsell-and-cross-sell-manager-agency",
+  "version": "0.1.0",
+  "title": "Upsell and Cross-Sell Manager (Agency)",
+  "summary": "Drives upsell and cross-sell motions so agency accounts can expand through better opportunity planning and offer matching.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "commercial-growth"
+  },
+  "discovery": {
+    "tags": [
+      "upsell",
+      "and",
+      "cross",
+      "sell",
+      "commercial",
+      "growth"
+    ],
+    "domains": [
+      "commercial",
+      "growth"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "upsell",
+      "and",
+      "cross",
+      "sell"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "upsell-and",
+      "commercial-growth"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/commercial-growth/digital-marketing-upsell-and-cross-sell-manager-agency"
+  }
+}

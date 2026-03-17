@@ -1,0 +1,66 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-review-sampling-quality-specialist-platform",
+  "version": "0.1.0",
+  "title": "Review Sampling and Quality Specialist (Platform)",
+  "summary": "Runs moderation sampling and quality checks so review accuracy, drift detection, and coaching inputs remain stronger across video operations.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "video-review-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "review",
+      "sampling",
+      "quality",
+      "and",
+      "video",
+      "operations"
+    ],
+    "domains": [
+      "video",
+      "review"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "review",
+      "sampling"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "video-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/video-review-operations/content-platform-review-sampling-quality-specialist-platform"
+  }
+}

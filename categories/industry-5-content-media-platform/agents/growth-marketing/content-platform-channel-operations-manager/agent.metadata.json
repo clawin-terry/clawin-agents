@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-channel-operations-manager",
+  "version": "0.1.0",
+  "title": "Channel Operations Manager",
+  "summary": "Runs channel operations so acquisition channels, partner execution, and day-to-day growth operations remain coordinated and measurable.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "growth-marketing"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "channel",
+      "operations",
+      "growth"
+    ],
+    "domains": [
+      "growth"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "channel",
+      "operations"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "content-platform",
+      "operations-growth"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/growth-marketing/content-platform-channel-operations-manager"
+  }
+}

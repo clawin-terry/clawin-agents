@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-content-asset-library-operator-agency",
+  "version": "0.1.0",
+  "title": "Content Asset Library Operator (Agency)",
+  "summary": "Maintains the content asset library so agency teams can retrieve, reuse, and govern approved materials with less duplication and confusion.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "content-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "asset",
+      "library",
+      "operator",
+      "operations"
+    ],
+    "domains": [
+      "content",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "asset",
+      "library",
+      "operator"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "content-asset",
+      "operator-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/content-operations/digital-marketing-content-asset-library-operator-agency"
+  }
+}

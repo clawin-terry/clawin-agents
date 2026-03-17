@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-three-dimensional-designer-agency",
+  "version": "0.1.0",
+  "title": "Three-Dimensional Designer (Agency)",
+  "summary": "Designs 3D visual elements so agency video and campaign assets can incorporate richer product scenes, motion treatments, and immersive creative support.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "video-production"
+  },
+  "discovery": {
+    "tags": [
+      "three",
+      "dimensional",
+      "designer",
+      "video",
+      "production"
+    ],
+    "domains": [
+      "video",
+      "production"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "three",
+      "dimensional",
+      "designer",
+      "video"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "three-dimensional",
+      "video-production"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/video-production/digital-marketing-three-dimensional-designer-agency"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-feature-platform-engineer-python-scala",
+  "version": "0.1.0",
+  "title": "Feature Platform Engineer (Python/Scala)",
+  "summary": "Builds feature platform capabilities with Python and Scala so training and serving workflows use consistent, reusable, and trustworthy feature data.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "machine-learning"
+  },
+  "discovery": {
+    "tags": [
+      "feature",
+      "platform",
+      "python",
+      "scala",
+      "machine",
+      "learning"
+    ],
+    "domains": [
+      "machine",
+      "learning"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "feature",
+      "platform",
+      "python",
+      "scala"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "feature-platform",
+      "machine-learning"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/machine-learning/software-it-feature-platform-engineer-python-scala"
+  }
+}

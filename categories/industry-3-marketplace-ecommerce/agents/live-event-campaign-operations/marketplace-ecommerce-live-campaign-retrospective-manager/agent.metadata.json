@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-live-campaign-retrospective-manager",
+  "version": "0.1.0",
+  "title": "Live Campaign Retrospective Manager",
+  "summary": "Leads live campaign retrospectives so marketplace streaming events produce clear lessons, issue analysis, and next-cycle improvements.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "live-event-campaign-operations"
+  },
+  "discovery": {
+    "tags": [
+      "live",
+      "campaign",
+      "retrospective",
+      "event",
+      "operations"
+    ],
+    "domains": [
+      "live",
+      "event"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "live",
+      "campaign",
+      "retrospective",
+      "event"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "live-campaign",
+      "event-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/live-event-campaign-operations/marketplace-ecommerce-live-campaign-retrospective-manager"
+  }
+}

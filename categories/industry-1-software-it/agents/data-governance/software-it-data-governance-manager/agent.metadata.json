@@ -1,0 +1,55 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-data-governance-manager",
+  "version": "0.1.0",
+  "title": "Data Governance Manager",
+  "summary": "Leads data governance practices that improve ownership clarity, control design, and trustworthy use of shared business data.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "data-governance"
+  },
+  "discovery": {
+    "tags": [
+      "data",
+      "governance"
+    ],
+    "domains": [
+      "data",
+      "governance"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "data",
+      "governance"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "data-governance"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/data-governance/software-it-data-governance-manager"
+  }
+}

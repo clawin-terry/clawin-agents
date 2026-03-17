@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-ad-performance-operations-manager",
+  "version": "0.1.0",
+  "title": "Ad Performance Operations Manager",
+  "summary": "Operates ad performance workflows so marketplace advertisers get clear delivery feedback, optimization insights, and measurable results.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "advertising-operations"
+  },
+  "discovery": {
+    "tags": [
+      "ad",
+      "performance",
+      "operations",
+      "advertising"
+    ],
+    "domains": [
+      "advertising",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "ad",
+      "performance",
+      "operations",
+      "advertising"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "ad-performance",
+      "operations-advertising"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/advertising-operations/marketplace-ecommerce-ad-performance-operations-manager"
+  }
+}

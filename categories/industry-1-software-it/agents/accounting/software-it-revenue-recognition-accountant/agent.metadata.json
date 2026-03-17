@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-revenue-recognition-accountant",
+  "version": "0.1.0",
+  "title": "Revenue Recognition Accountant (Subscription / Project-Based)",
+  "summary": "Applies revenue-recognition rules to subscription and project-based business so contract terms, timing, and accounting treatment stay compliant and supportable.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "accounting"
+  },
+  "discovery": {
+    "tags": [
+      "revenue",
+      "recognition",
+      "accountant",
+      "subscription",
+      "project",
+      "based",
+      "accounting"
+    ],
+    "domains": [
+      "accounting"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "revenue",
+      "recognition",
+      "accountant",
+      "accounting"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "revenue-recognition",
+      "accountant-accounting"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/accounting/software-it-revenue-recognition-accountant"
+  }
+}

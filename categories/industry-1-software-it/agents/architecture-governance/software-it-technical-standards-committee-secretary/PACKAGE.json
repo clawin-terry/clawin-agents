@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-technical-standards-committee-secretary",
                     "workspace":  "~/.openclaw/agents/software-it-technical-standards-committee-secretary/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-technical-standards-committee-secretary/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-technical-standards-committee-secretary.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-technical-standards-committee-secretary.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

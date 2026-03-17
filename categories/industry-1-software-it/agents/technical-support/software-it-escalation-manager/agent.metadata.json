@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-escalation-manager",
+  "version": "0.1.0",
+  "title": "Escalation Manager",
+  "summary": "Leads complex escalation handling so high-severity cases receive fast coordination, clear ownership, and disciplined resolution follow-through.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "technical-support"
+  },
+  "discovery": {
+    "tags": [
+      "escalation",
+      "technical",
+      "support"
+    ],
+    "domains": [
+      "technical",
+      "support"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "escalation",
+      "technical",
+      "support"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "escalation-technical",
+      "technical-support"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/technical-support/software-it-escalation-manager"
+  }
+}

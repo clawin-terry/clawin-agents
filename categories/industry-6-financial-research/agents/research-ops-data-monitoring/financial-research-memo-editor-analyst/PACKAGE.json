@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "financial-research-memo-editor-analyst",
+    "roleTitle":  "Memo Standardization Analyst",
+    "personaSummary":  "Normalizes research memos into a consistent structure covering thesis, evidence, assumptions, risks, catalysts, and source timestamps.",
+    "industryId":  "industry-6-financial-research",
+    "roleFamilyKey":  "research-ops-data-monitoring",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/financial-research-memo-editor-analyst",
+                    "workspace":  "~/.openclaw/agents/financial-research-memo-editor-analyst/workspace",
+                    "agentDir":  "~/.openclaw/agents/financial-research-memo-editor-analyst/agent",
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
+                }
+}

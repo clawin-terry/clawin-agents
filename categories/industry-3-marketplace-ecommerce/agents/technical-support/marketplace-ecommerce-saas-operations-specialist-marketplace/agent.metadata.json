@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-saas-operations-specialist-marketplace",
+  "version": "0.1.0",
+  "title": "SaaS Operations Specialist (Marketplace)",
+  "summary": "Operates workplace SaaS applications so marketplace tooling access, renewals, configurations, and day-to-day administration remain controlled and reliable.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "technical-support"
+  },
+  "discovery": {
+    "tags": [
+      "saas",
+      "operations",
+      "technical",
+      "support"
+    ],
+    "domains": [
+      "technical",
+      "support"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "saas",
+      "operations",
+      "technical",
+      "support"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "saas-operations",
+      "technical-support"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/technical-support/marketplace-ecommerce-saas-operations-specialist-marketplace"
+  }
+}

@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-merchant-qualification-compliance-specialist",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-merchant-qualification-compliance-specialist/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-merchant-qualification-compliance-specialist/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-merchant-qualification-compliance-specialist.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-merchant-qualification-compliance-specialist.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

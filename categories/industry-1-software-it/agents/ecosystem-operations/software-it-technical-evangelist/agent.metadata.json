@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-technical-evangelist",
+  "version": "0.1.0",
+  "title": "Technical Evangelist",
+  "summary": "Explains product and platform capabilities to external technical audiences through clear education, advocacy, and community-facing storytelling.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "ecosystem-operations"
+  },
+  "discovery": {
+    "tags": [
+      "technical",
+      "evangelist",
+      "ecosystem",
+      "operations"
+    ],
+    "domains": [
+      "ecosystem",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "technical",
+      "evangelist",
+      "ecosystem",
+      "operations"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "technical-evangelist",
+      "ecosystem-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/ecosystem-operations/software-it-technical-evangelist"
+  }
+}

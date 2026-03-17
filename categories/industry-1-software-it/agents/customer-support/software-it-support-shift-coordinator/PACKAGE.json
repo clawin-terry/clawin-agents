@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-support-shift-coordinator",
                     "workspace":  "~/.openclaw/agents/software-it-support-shift-coordinator/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-support-shift-coordinator/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-support-shift-coordinator.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-support-shift-coordinator.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

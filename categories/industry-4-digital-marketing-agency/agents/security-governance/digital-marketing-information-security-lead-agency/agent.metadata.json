@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-information-security-lead-agency",
+  "version": "0.1.0",
+  "title": "Information Security Lead (Agency)",
+  "summary": "Leads agency information-security governance so policies, priorities, and control ownership stay aligned with business, client, and regulatory needs.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "security-governance"
+  },
+  "discovery": {
+    "tags": [
+      "information",
+      "security",
+      "governance"
+    ],
+    "domains": [
+      "security",
+      "governance"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "information",
+      "security",
+      "governance"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "information-security",
+      "security-governance"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "healthcheck"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/security-governance/digital-marketing-information-security-lead-agency"
+  }
+}

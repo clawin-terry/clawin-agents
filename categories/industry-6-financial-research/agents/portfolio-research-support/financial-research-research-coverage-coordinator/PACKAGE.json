@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/financial-research-research-coverage-coordinator",
                     "workspace":  "~/.openclaw/agents/financial-research-research-coverage-coordinator/workspace",
                     "agentDir":  "~/.openclaw/agents/financial-research-research-coverage-coordinator/agent",
-                    "configEntry":  "config/openclaw.agent.financial-research-research-coverage-coordinator.entry.json",
-                    "configSnippet":  "config/openclaw.agent.financial-research-research-coverage-coordinator.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

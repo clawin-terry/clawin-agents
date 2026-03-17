@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-text-relevance-ranking-engineer-python",
                     "workspace":  "~/.openclaw/agents/content-platform-text-relevance-ranking-engineer-python/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-text-relevance-ranking-engineer-python/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-text-relevance-ranking-engineer-python.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-text-relevance-ranking-engineer-python.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

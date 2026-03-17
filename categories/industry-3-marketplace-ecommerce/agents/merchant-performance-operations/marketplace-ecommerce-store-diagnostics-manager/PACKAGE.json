@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-store-diagnostics-manager",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-store-diagnostics-manager/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-store-diagnostics-manager/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-store-diagnostics-manager.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-store-diagnostics-manager.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

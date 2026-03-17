@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-content-quality-improvement-manager-platform",
+  "version": "0.1.0",
+  "title": "Content Quality Improvement Manager (Platform)",
+  "summary": "Improves content quality so operational teams can raise baseline standards, reduce low-value supply, and guide creators toward healthier publishing outcomes.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "short-video-content-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "quality",
+      "improvement",
+      "short",
+      "video",
+      "operations"
+    ],
+    "domains": [
+      "short",
+      "video"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "quality",
+      "improvement"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "video-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/short-video-content-operations/content-platform-content-quality-improvement-manager-platform"
+  }
+}

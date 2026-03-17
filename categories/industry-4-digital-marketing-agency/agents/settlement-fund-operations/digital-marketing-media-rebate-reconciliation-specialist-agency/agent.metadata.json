@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-media-rebate-reconciliation-specialist-agency",
+  "version": "0.1.0",
+  "title": "Media Rebate Reconciliation Specialist",
+  "summary": "Reconciles media rebates so platform incentives, policy-based returns, and supporting finance records remain accurate and collectible.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "settlement-fund-operations"
+  },
+  "discovery": {
+    "tags": [
+      "media",
+      "rebate",
+      "reconciliation",
+      "settlement",
+      "fund",
+      "operations"
+    ],
+    "domains": [
+      "settlement",
+      "fund"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "media",
+      "rebate",
+      "reconciliation",
+      "settlement"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "media-rebate",
+      "fund-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/settlement-fund-operations/digital-marketing-media-rebate-reconciliation-specialist-agency"
+  }
+}

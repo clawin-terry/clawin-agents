@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-fulfillment-platform-product-manager",
+  "version": "0.1.0",
+  "title": "Fulfillment Platform Product Manager",
+  "summary": "Owns fulfillment platform product strategy so shared fulfillment capabilities support scalable orchestration across marketplace operations.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "platform-product-management"
+  },
+  "discovery": {
+    "tags": [
+      "fulfillment",
+      "platform",
+      "product",
+      "management"
+    ],
+    "domains": [
+      "platform",
+      "product"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "fulfillment",
+      "platform",
+      "product",
+      "management"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "fulfillment-platform",
+      "product-management"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/platform-product-management/marketplace-ecommerce-fulfillment-platform-product-manager"
+  }
+}

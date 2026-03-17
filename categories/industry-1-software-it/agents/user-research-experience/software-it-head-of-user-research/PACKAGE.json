@@ -16,7 +16,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-head-of-user-research",
                     "workspace":  "~/.openclaw/agents/software-it-head-of-user-research/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-head-of-user-research/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-head-of-user-research.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-head-of-user-research.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

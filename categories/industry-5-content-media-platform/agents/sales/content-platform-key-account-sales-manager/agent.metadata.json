@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-key-account-sales-manager",
+  "version": "0.1.0",
+  "title": "Key Account Sales Manager",
+  "summary": "Leads key account sales so major advertisers can grow spend through clearer account planning, relationship management, and platform monetization alignment.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "sales"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "key",
+      "account",
+      "sales"
+    ],
+    "domains": [
+      "sales"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "key",
+      "account"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "account-sales"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/sales/content-platform-key-account-sales-manager"
+  }
+}

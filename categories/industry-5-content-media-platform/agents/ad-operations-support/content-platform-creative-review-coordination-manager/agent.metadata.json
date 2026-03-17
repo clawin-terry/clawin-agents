@@ -1,0 +1,67 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-creative-review-coordination-manager",
+  "version": "0.1.0",
+  "title": "Creative Review Coordination Manager",
+  "summary": "Coordinates creative and asset review workflows so ads can launch faster while still meeting policy, quality, and operational readiness requirements.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "ad-operations-support"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "creative",
+      "review",
+      "coordination",
+      "ad",
+      "operations",
+      "support"
+    ],
+    "domains": [
+      "ad",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "creative",
+      "review"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "operations-support"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/ad-operations-support/content-platform-creative-review-coordination-manager"
+  }
+}

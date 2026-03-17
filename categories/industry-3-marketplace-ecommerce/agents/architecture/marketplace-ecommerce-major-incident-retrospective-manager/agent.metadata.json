@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-major-incident-retrospective-manager",
+  "version": "0.1.0",
+  "title": "Major Incident Retrospective Manager",
+  "summary": "Leads major incident retrospective mechanisms so critical failures produce actionable learning, ownership clarity, and system-level resilience improvements.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "architecture"
+  },
+  "discovery": {
+    "tags": [
+      "major",
+      "incident",
+      "retrospective",
+      "architecture"
+    ],
+    "domains": [
+      "architecture"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "major",
+      "incident",
+      "retrospective",
+      "architecture"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "major-incident",
+      "retrospective-architecture"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/architecture/marketplace-ecommerce-major-incident-retrospective-manager"
+  }
+}

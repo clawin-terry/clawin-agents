@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-false-shipment-governance-manager",
+  "version": "0.1.0",
+  "title": "False Shipment Governance Manager",
+  "summary": "Governs false shipment cases so seller fulfillment misconduct is detected early and platform trust is protected.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "merchant-risk-and-compliance-operations"
+  },
+  "discovery": {
+    "tags": [
+      "false",
+      "shipment",
+      "governance",
+      "merchant",
+      "risk",
+      "and",
+      "compliance",
+      "operations"
+    ],
+    "domains": [
+      "merchant",
+      "risk"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "false",
+      "shipment",
+      "governance",
+      "merchant"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "false-shipment",
+      "compliance-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/merchant-risk-and-compliance-operations/marketplace-ecommerce-false-shipment-governance-manager"
+  }
+}

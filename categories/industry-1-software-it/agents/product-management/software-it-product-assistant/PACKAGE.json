@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-product-assistant",
                     "workspace":  "~/.openclaw/agents/software-it-product-assistant/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-product-assistant/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-product-assistant.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-product-assistant.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

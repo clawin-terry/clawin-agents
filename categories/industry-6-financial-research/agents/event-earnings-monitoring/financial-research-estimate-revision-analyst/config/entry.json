@@ -1,0 +1,13 @@
+{
+    "id":  "financial-research-estimate-revision-analyst",
+    "default":  false,
+    "name":  "Estimate Revision Analyst",
+    "workspace":  "~/.openclaw/agents/financial-research-estimate-revision-analyst/workspace",
+    "agentDir":  "~/.openclaw/agents/financial-research-estimate-revision-analyst/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

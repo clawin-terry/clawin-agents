@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-creative-concept-and-script-planner-agency",
+  "version": "0.1.0",
+  "title": "Creative Concept and Script Planner (Agency)",
+  "summary": "Develops big ideas and scripts so agency campaigns can connect brand goals with clearer narratives, hooks, and execution-ready storylines.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "creative-planning"
+  },
+  "discovery": {
+    "tags": [
+      "creative",
+      "concept",
+      "and",
+      "script",
+      "planner",
+      "planning"
+    ],
+    "domains": [
+      "creative",
+      "planning"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "creative",
+      "concept",
+      "and",
+      "script"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "creative-concept",
+      "planner-planning"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/creative-planning/digital-marketing-creative-concept-and-script-planner-agency"
+  }
+}

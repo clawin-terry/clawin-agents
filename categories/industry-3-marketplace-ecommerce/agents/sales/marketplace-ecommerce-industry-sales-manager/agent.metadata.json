@@ -1,0 +1,51 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-industry-sales-manager",
+  "version": "0.1.0",
+  "title": "Industry Sales Manager",
+  "summary": "Owns industry-focused sales coverage so advertiser outreach, opportunity development, and solution positioning fit the needs of priority verticals.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "sales"
+  },
+  "discovery": {
+    "tags": [
+      "sales"
+    ],
+    "domains": [
+      "sales"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "sales"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "sales"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/sales/marketplace-ecommerce-industry-sales-manager"
+  }
+}

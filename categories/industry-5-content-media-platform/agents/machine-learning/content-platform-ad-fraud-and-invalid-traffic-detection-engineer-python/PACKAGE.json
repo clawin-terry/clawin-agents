@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-ad-fraud-and-invalid-traffic-detection-engineer-python",
                     "workspace":  "~/.openclaw/agents/content-platform-ad-fraud-and-invalid-traffic-detection-engineer-python/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-ad-fraud-and-invalid-traffic-detection-engineer-python/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-ad-fraud-and-invalid-traffic-detection-engineer-python.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-ad-fraud-and-invalid-traffic-detection-engineer-python.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

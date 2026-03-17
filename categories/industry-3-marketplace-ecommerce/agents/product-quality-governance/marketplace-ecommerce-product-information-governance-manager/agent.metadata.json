@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-product-information-governance-manager",
+  "version": "0.1.0",
+  "title": "Product Information Governance Manager",
+  "summary": "Governs product information quality so catalog data stays accurate, complete, and usable across marketplace workflows.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "product-quality-governance"
+  },
+  "discovery": {
+    "tags": [
+      "product",
+      "information",
+      "governance",
+      "quality"
+    ],
+    "domains": [
+      "product",
+      "quality"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "product",
+      "information",
+      "governance",
+      "quality"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "product-information",
+      "governance-quality"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/product-quality-governance/marketplace-ecommerce-product-information-governance-manager"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-reconciliation-specialist",
+  "version": "0.1.0",
+  "title": "Reconciliation Specialist",
+  "summary": "Performs reconciliations so balances, transactions, and supporting records stay aligned across systems, statements, and accounting records.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "finance-shared-services"
+  },
+  "discovery": {
+    "tags": [
+      "reconciliation",
+      "finance",
+      "shared",
+      "services"
+    ],
+    "domains": [
+      "finance",
+      "shared"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "reconciliation",
+      "finance",
+      "shared",
+      "services"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "reconciliation-finance",
+      "shared-services"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/finance-shared-services/software-it-reconciliation-specialist"
+  }
+}

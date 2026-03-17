@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-domain-architect",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-domain-architect/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-domain-architect/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-domain-architect.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-domain-architect.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

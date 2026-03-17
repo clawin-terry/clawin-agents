@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-gross-margin-modeling-analyst",
+  "version": "0.1.0",
+  "title": "Gross Margin Modeling Analyst",
+  "summary": "Builds gross margin models so teams can evaluate assortment economics, pricing choices, and profitability trade-offs with better evidence.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "pricing-profitability-strategy"
+  },
+  "discovery": {
+    "tags": [
+      "gross",
+      "margin",
+      "modeling",
+      "pricing",
+      "profitability",
+      "strategy"
+    ],
+    "domains": [
+      "pricing",
+      "profitability"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "gross",
+      "margin",
+      "modeling",
+      "pricing"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "gross-margin",
+      "profitability-strategy"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/pricing-profitability-strategy/marketplace-ecommerce-gross-margin-modeling-analyst"
+  }
+}

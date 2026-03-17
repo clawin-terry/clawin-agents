@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-guild-operations-coordination-manager-platform",
+  "version": "0.1.0",
+  "title": "Guild Operations Coordination Manager (Platform)",
+  "summary": "Coordinates guild-side operations so livestream partners, agency stakeholders, and platform teams can execute live programs with fewer handoff gaps.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "livestream-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "guild",
+      "operations",
+      "coordination",
+      "livestream"
+    ],
+    "domains": [
+      "livestream",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "guild",
+      "operations"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "coordination-livestream"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/livestream-operations/content-platform-guild-operations-coordination-manager-platform"
+  }
+}

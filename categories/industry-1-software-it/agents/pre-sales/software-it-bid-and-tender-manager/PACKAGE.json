@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-bid-and-tender-manager",
                     "workspace":  "~/.openclaw/agents/software-it-bid-and-tender-manager/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-bid-and-tender-manager/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-bid-and-tender-manager.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-bid-and-tender-manager.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

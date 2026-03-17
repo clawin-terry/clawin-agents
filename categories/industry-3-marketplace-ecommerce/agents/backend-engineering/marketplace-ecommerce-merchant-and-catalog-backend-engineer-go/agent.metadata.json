@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-merchant-and-catalog-backend-engineer-go",
+  "version": "0.1.0",
+  "title": "Merchant and Catalog Backend Engineer (Go)",
+  "summary": "Builds merchant and catalog backend services in Go so marketplace seller and product-domain systems stay efficient and maintainable.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "backend-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "merchant",
+      "and",
+      "catalog",
+      "backend",
+      "go",
+      "engineering"
+    ],
+    "domains": [
+      "backend",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "merchant",
+      "and",
+      "catalog",
+      "backend"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "merchant-and",
+      "go-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "clawin-backend-service-engineering"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/backend-engineering/marketplace-ecommerce-merchant-and-catalog-backend-engineer-go"
+  }
+}

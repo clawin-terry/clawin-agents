@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-hrbp-director",
                     "workspace":  "~/.openclaw/agents/software-it-hrbp-director/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-hrbp-director/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-hrbp-director.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-hrbp-director.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

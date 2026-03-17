@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/digital-marketing-audience-and-creative-performance-prediction-specialist-python",
                     "workspace":  "~/.openclaw/agents/digital-marketing-audience-and-creative-performance-prediction-specialist-python/workspace",
                     "agentDir":  "~/.openclaw/agents/digital-marketing-audience-and-creative-performance-prediction-specialist-python/agent",
-                    "configEntry":  "config/openclaw.agent.digital-marketing-audience-and-creative-performance-prediction-specialist-python.entry.json",
-                    "configSnippet":  "config/openclaw.agent.digital-marketing-audience-and-creative-performance-prediction-specialist-python.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

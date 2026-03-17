@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-account-integrity-strategist",
                     "workspace":  "~/.openclaw/agents/content-platform-account-integrity-strategist/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-account-integrity-strategist/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-account-integrity-strategist.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-account-integrity-strategist.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-gross-margin-and-productivity-analyst-agency",
+  "version": "0.1.0",
+  "title": "Gross Margin and Productivity Analyst",
+  "summary": "Analyzes gross margin and productivity signals so agency leaders can understand utilization, delivery economics, and improvement priorities with stronger financial evidence.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "finance-management"
+  },
+  "discovery": {
+    "tags": [
+      "gross",
+      "margin",
+      "and",
+      "productivity",
+      "finance",
+      "management"
+    ],
+    "domains": [
+      "finance",
+      "management"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "gross",
+      "margin",
+      "and",
+      "productivity"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "gross-margin",
+      "finance-management"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/finance-management/digital-marketing-gross-margin-and-productivity-analyst-agency"
+  }
+}

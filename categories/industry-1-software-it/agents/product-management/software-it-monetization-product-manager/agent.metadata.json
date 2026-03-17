@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-monetization-product-manager",
+  "version": "0.1.0",
+  "title": "Monetization Product Manager",
+  "summary": "Owns monetization product strategy so pricing, packaging, conversion, and revenue mechanisms improve without losing product trust.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "product-management"
+  },
+  "discovery": {
+    "tags": [
+      "monetization",
+      "product",
+      "management"
+    ],
+    "domains": [
+      "product",
+      "management"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "monetization",
+      "product",
+      "management"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "monetization-product",
+      "product-management"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/product-management/software-it-monetization-product-manager"
+  }
+}

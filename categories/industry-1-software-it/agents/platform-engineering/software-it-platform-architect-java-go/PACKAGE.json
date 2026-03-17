@@ -16,7 +16,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-platform-architect-java-go",
                     "workspace":  "~/.openclaw/agents/software-it-platform-architect-java-go/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-platform-architect-java-go/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-platform-architect-java-go.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-platform-architect-java-go.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

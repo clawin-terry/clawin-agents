@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-learning-platform-operations-specialist",
+  "version": "0.1.0",
+  "title": "Learning Platform Operations Specialist",
+  "summary": "Operates learning platforms so content access, learner journeys, and reporting workflows remain smooth and dependable.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "learning-development"
+  },
+  "discovery": {
+    "tags": [
+      "learning",
+      "platform",
+      "operations",
+      "development"
+    ],
+    "domains": [
+      "learning",
+      "development"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "learning",
+      "platform",
+      "operations",
+      "development"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "learning-platform",
+      "operations-development"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/learning-development/software-it-learning-platform-operations-specialist"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-retention-operations-manager",
+  "version": "0.1.0",
+  "title": "Retention Operations Manager",
+  "summary": "Runs retention operations so repeat engagement, habit formation, and lifecycle performance improve across the marketplace user base.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "user-lifecycle-operations"
+  },
+  "discovery": {
+    "tags": [
+      "retention",
+      "operations",
+      "user",
+      "lifecycle"
+    ],
+    "domains": [
+      "user",
+      "lifecycle"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "retention",
+      "operations",
+      "user",
+      "lifecycle"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "retention-operations",
+      "user-lifecycle"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/user-lifecycle-operations/marketplace-ecommerce-retention-operations-manager"
+  }
+}

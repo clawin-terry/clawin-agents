@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-cross-border-timeliness-operations-manager",
+  "version": "0.1.0",
+  "title": "Cross-Border Timeliness Operations Manager",
+  "summary": "Improves cross-border timeliness so international fulfillment flows meet delivery expectations more reliably.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "cross-border-fulfillment-operations"
+  },
+  "discovery": {
+    "tags": [
+      "cross",
+      "border",
+      "timeliness",
+      "operations",
+      "fulfillment"
+    ],
+    "domains": [
+      "cross",
+      "border"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "cross",
+      "border",
+      "timeliness",
+      "operations"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "cross-border",
+      "operations-fulfillment"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/cross-border-fulfillment-operations/marketplace-ecommerce-cross-border-timeliness-operations-manager"
+  }
+}

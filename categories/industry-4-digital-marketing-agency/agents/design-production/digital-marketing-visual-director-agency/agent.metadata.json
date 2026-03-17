@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-visual-director-agency",
+  "version": "0.1.0",
+  "title": "Visual Director (Agency)",
+  "summary": "Leads visual design direction so agency brand systems, campaign aesthetics, and asset quality remain aligned across deliverables.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "design-production"
+  },
+  "discovery": {
+    "tags": [
+      "visual",
+      "design",
+      "production"
+    ],
+    "domains": [
+      "design",
+      "production"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "visual",
+      "design",
+      "production"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "visual-design",
+      "design-production"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/design-production/digital-marketing-visual-director-agency"
+  }
+}

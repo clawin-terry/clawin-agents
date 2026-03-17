@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-solution-incubation-manager",
+  "version": "0.1.0",
+  "title": "Solution Incubation Manager",
+  "summary": "Shapes and tests emerging solutions so promising ideas can mature into viable offerings, pilots, or scalable internal bets.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "innovation-incubation"
+  },
+  "discovery": {
+    "tags": [
+      "solution",
+      "incubation",
+      "innovation"
+    ],
+    "domains": [
+      "innovation",
+      "incubation"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "solution",
+      "incubation",
+      "innovation"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "solution-incubation",
+      "incubation-innovation"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/innovation-incubation/software-it-solution-incubation-manager"
+  }
+}

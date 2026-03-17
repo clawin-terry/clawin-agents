@@ -1,0 +1,52 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-ecommerce-operations-director-agency",
+  "version": "0.1.0",
+  "title": "Ecommerce Operations Director (Agency)",
+  "summary": "Leads ecommerce operations so agency-run storefront, merchandising, and campaign work can stay aligned with client revenue and service targets.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "ecommerce-operations"
+  },
+  "discovery": {
+    "tags": [
+      "operations"
+    ],
+    "domains": [
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "operations"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/ecommerce-operations/digital-marketing-ecommerce-operations-director-agency"
+  }
+}

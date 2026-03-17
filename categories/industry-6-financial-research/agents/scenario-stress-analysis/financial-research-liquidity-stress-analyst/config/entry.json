@@ -1,0 +1,13 @@
+{
+    "id":  "financial-research-liquidity-stress-analyst",
+    "default":  false,
+    "name":  "Liquidity & Balance Sheet Stress Analyst",
+    "workspace":  "~/.openclaw/agents/financial-research-liquidity-stress-analyst/workspace",
+    "agentDir":  "~/.openclaw/agents/financial-research-liquidity-stress-analyst/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

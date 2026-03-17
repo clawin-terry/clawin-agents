@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/digital-marketing-keyword-and-account-structure-optimizer-agency",
                     "workspace":  "~/.openclaw/agents/digital-marketing-keyword-and-account-structure-optimizer-agency/workspace",
                     "agentDir":  "~/.openclaw/agents/digital-marketing-keyword-and-account-structure-optimizer-agency/agent",
-                    "configEntry":  "config/openclaw.agent.digital-marketing-keyword-and-account-structure-optimizer-agency.entry.json",
-                    "configSnippet":  "config/openclaw.agent.digital-marketing-keyword-and-account-structure-optimizer-agency.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

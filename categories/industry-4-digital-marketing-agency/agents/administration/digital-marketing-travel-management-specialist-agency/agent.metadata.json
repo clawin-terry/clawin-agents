@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-travel-management-specialist-agency",
+  "version": "0.1.0",
+  "title": "Travel Management Specialist (Agency)",
+  "summary": "Runs travel-management workflows so agency business trips, approvals, and bookings stay efficient, policy-aligned, and easy to reconcile.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "administration"
+  },
+  "discovery": {
+    "tags": [
+      "travel",
+      "management",
+      "administration"
+    ],
+    "domains": [
+      "administration"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "travel",
+      "management",
+      "administration"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "travel-management",
+      "management-administration"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/administration/digital-marketing-travel-management-specialist-agency"
+  }
+}

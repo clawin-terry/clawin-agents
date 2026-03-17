@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-workplace-security-fire-safety-specialist",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-workplace-security-fire-safety-specialist/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-workplace-security-fire-safety-specialist/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-workplace-security-fire-safety-specialist.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-workplace-security-fire-safety-specialist.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

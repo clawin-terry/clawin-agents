@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-privacy-and-sensitive-information-policy-manager-platform",
+  "version": "0.1.0",
+  "title": "Privacy and Sensitive Information Policy Manager (Platform)",
+  "summary": "Defines privacy and sensitive-information policy so risky data handling scenarios are governed with clearer standards, escalation paths, and user protections.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "policy-and-safety-standards"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "privacy",
+      "and",
+      "sensitive",
+      "information",
+      "policy",
+      "safety"
+    ],
+    "domains": [
+      "policy",
+      "and"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "privacy",
+      "and"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "safety-standards"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/policy-and-safety-standards/content-platform-privacy-and-sensitive-information-policy-manager-platform"
+  }
+}

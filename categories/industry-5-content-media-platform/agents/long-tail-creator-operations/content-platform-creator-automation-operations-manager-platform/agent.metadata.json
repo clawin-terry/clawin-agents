@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-creator-automation-operations-manager-platform",
+  "version": "0.1.0",
+  "title": "Creator Automation Operations Manager (Platform)",
+  "summary": "Builds automated creator operations so scaled communications, nudges, and lifecycle actions can reach many creators with consistent execution quality.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "long-tail-creator-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "creator",
+      "automation",
+      "operations",
+      "long",
+      "tail"
+    ],
+    "domains": [
+      "long",
+      "tail"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "creator",
+      "automation"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "long-tail"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/long-tail-creator-operations/content-platform-creator-automation-operations-manager-platform"
+  }
+}

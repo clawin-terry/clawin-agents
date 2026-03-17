@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-long-tail-creator-reach-manager-platform",
                     "workspace":  "~/.openclaw/agents/content-platform-long-tail-creator-reach-manager-platform/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-long-tail-creator-reach-manager-platform/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-long-tail-creator-reach-manager-platform.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-long-tail-creator-reach-manager-platform.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

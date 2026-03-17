@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-automation-test-engineer-python",
+  "version": "0.1.0",
+  "title": "Automation Test Engineer (Python)",
+  "summary": "Builds automated test coverage with Python so MarTech platforms can catch regressions earlier and protect release quality across evolving workflows.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "quality-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "automation",
+      "test",
+      "python",
+      "quality",
+      "engineering"
+    ],
+    "domains": [
+      "quality",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "automation",
+      "test",
+      "python",
+      "quality"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "automation-test",
+      "quality-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/quality-engineering/digital-marketing-automation-test-engineer-python"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-b2c-product-manager",
+  "version": "0.1.0",
+  "title": "B2C Product Manager",
+  "summary": "Owns consumer product strategy and execution so user needs, market signals, and product delivery stay aligned across the lifecycle.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "product-management"
+  },
+  "discovery": {
+    "tags": [
+      "b2c",
+      "product",
+      "management"
+    ],
+    "domains": [
+      "product",
+      "management"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "b2c",
+      "product",
+      "management"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "b2c-product",
+      "product-management"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/product-management/software-it-b2c-product-manager"
+  }
+}

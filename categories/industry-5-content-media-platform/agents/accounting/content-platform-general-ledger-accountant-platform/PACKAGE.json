@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-general-ledger-accountant-platform",
                     "workspace":  "~/.openclaw/agents/content-platform-general-ledger-accountant-platform/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-general-ledger-accountant-platform/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-general-ledger-accountant-platform.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-general-ledger-accountant-platform.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

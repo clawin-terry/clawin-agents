@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-returned-goods-quality-inspection-manager",
+  "version": "0.1.0",
+  "title": "Returned Goods Quality Inspection Manager",
+  "summary": "Leads returned goods quality inspection so reverse logistics decisions are made with clear condition assessment and control discipline.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "reverse-logistics-operations"
+  },
+  "discovery": {
+    "tags": [
+      "returned",
+      "goods",
+      "quality",
+      "inspection",
+      "reverse",
+      "logistics",
+      "operations"
+    ],
+    "domains": [
+      "reverse",
+      "logistics"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "returned",
+      "goods",
+      "quality",
+      "inspection"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "returned-goods",
+      "logistics-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/reverse-logistics-operations/marketplace-ecommerce-returned-goods-quality-inspection-manager"
+  }
+}

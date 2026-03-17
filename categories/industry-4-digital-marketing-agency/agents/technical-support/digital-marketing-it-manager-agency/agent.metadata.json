@@ -1,0 +1,55 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-it-manager-agency",
+  "version": "0.1.0",
+  "title": "IT Manager (Agency)",
+  "summary": "Leads agency IT operations so end-user support, workplace systems, and access controls stay dependable for delivery and business teams.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "technical-support"
+  },
+  "discovery": {
+    "tags": [
+      "technical",
+      "support"
+    ],
+    "domains": [
+      "technical",
+      "support"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "technical",
+      "support"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "technical-support"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/technical-support/digital-marketing-it-manager-agency"
+  }
+}

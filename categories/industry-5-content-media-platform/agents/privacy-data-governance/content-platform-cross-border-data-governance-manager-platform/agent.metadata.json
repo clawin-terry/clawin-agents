@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-cross-border-data-governance-manager-platform",
+  "version": "0.1.0",
+  "title": "Cross-Border Data Governance Manager (Platform)",
+  "summary": "Oversees cross-border data transfers and third-party data governance so vendor, partner, and international data flows meet platform compliance requirements.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "privacy-data-governance"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "cross",
+      "border",
+      "data",
+      "governance",
+      "privacy"
+    ],
+    "domains": [
+      "privacy",
+      "data"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "cross",
+      "border"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "governance-privacy"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/privacy-data-governance/content-platform-cross-border-data-governance-manager-platform"
+  }
+}

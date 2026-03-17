@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-major-incident-retrospective-lead-platform",
+  "version": "0.1.0",
+  "title": "Major Incident Retrospective Lead (Platform)",
+  "summary": "Leads major-incident retrospectives so severe events produce clearer lessons, control improvements, and follow-through across trust-and-safety operations.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "risk-and-incident-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "major",
+      "incident",
+      "retrospective",
+      "risk",
+      "and",
+      "operations"
+    ],
+    "domains": [
+      "risk",
+      "and"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "major",
+      "incident"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "and-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/risk-and-incident-operations/content-platform-major-incident-retrospective-lead-platform"
+  }
+}

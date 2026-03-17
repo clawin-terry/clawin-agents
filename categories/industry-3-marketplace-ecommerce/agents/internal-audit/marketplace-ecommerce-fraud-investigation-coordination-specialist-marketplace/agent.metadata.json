@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-fraud-investigation-coordination-specialist-marketplace",
+  "version": "0.1.0",
+  "title": "Fraud Investigation Coordination Specialist (Marketplace)",
+  "summary": "Coordinates fraud-investigation work so marketplace cases, evidence follow-up, and stakeholder escalation stay organized and defensible.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "internal-audit"
+  },
+  "discovery": {
+    "tags": [
+      "fraud",
+      "investigation",
+      "coordination",
+      "internal",
+      "audit"
+    ],
+    "domains": [
+      "internal",
+      "audit"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "fraud",
+      "investigation",
+      "coordination",
+      "internal"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "fraud-investigation",
+      "internal-audit"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/internal-audit/marketplace-ecommerce-fraud-investigation-coordination-specialist-marketplace"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-government-partnership-manager-marketplace",
+  "version": "0.1.0",
+  "title": "Government Partnership Manager (Marketplace)",
+  "summary": "Builds government partnership workflows so marketplace external programs, collaboration opportunities, and public-sector relationships stay coordinated and useful.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "government-relations"
+  },
+  "discovery": {
+    "tags": [
+      "government",
+      "partnership",
+      "relations"
+    ],
+    "domains": [
+      "government",
+      "relations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "government",
+      "partnership",
+      "relations"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "government-partnership",
+      "partnership-relations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/government-relations/marketplace-ecommerce-government-partnership-manager-marketplace"
+  }
+}

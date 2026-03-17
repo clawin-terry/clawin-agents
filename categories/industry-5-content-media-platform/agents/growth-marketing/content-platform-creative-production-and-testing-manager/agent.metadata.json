@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-creative-production-and-testing-manager",
+  "version": "0.1.0",
+  "title": "Creative Production and Testing Manager",
+  "summary": "Runs creative production and testing so growth campaigns can iterate faster on assets, messaging, and performance learning across paid channels.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "growth-marketing"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "creative",
+      "production",
+      "and",
+      "testing",
+      "growth"
+    ],
+    "domains": [
+      "growth"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "creative",
+      "production"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "content-platform",
+      "testing-growth"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/growth-marketing/content-platform-creative-production-and-testing-manager"
+  }
+}

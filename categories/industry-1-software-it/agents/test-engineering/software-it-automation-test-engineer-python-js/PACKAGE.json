@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-automation-test-engineer-python-js",
                     "workspace":  "~/.openclaw/agents/software-it-automation-test-engineer-python-js/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-automation-test-engineer-python-js/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-automation-test-engineer-python-js.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-automation-test-engineer-python-js.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

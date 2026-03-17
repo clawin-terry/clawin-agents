@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-real-time-metrics-systems-engineer",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-real-time-metrics-systems-engineer/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-real-time-metrics-systems-engineer/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-real-time-metrics-systems-engineer.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-real-time-metrics-systems-engineer.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

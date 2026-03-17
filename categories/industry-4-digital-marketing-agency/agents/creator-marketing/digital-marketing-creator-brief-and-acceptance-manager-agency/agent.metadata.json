@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-creator-brief-and-acceptance-manager-agency",
+  "version": "0.1.0",
+  "title": "Creator Brief and Acceptance Manager (Agency)",
+  "summary": "Manages creator briefs and acceptance criteria so agency collaborations can convert campaign intent into clearer execution and review standards.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "creator-marketing"
+  },
+  "discovery": {
+    "tags": [
+      "creator",
+      "brief",
+      "and",
+      "acceptance"
+    ],
+    "domains": [
+      "creator"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "creator",
+      "brief",
+      "and",
+      "acceptance"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "creator-brief",
+      "and-acceptance"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/creator-marketing/digital-marketing-creator-brief-and-acceptance-manager-agency"
+  }
+}

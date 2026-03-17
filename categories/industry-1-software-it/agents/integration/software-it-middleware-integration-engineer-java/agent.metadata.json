@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-middleware-integration-engineer-java",
+  "version": "0.1.0",
+  "title": "Middleware Integration Engineer (Java)",
+  "summary": "Builds middleware integration components with Java so enterprise connectivity, message flow, and environment compatibility remain dependable.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "integration"
+  },
+  "discovery": {
+    "tags": [
+      "middleware",
+      "integration",
+      "java"
+    ],
+    "domains": [
+      "integration"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "middleware",
+      "integration",
+      "java"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "middleware-integration",
+      "integration-java"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "clawin-middleware-distributed-systems"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/integration/software-it-middleware-integration-engineer-java"
+  }
+}

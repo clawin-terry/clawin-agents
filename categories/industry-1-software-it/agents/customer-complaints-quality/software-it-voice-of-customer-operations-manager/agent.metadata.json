@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-voice-of-customer-operations-manager",
+  "version": "0.1.0",
+  "title": "Voice of Customer Operations Manager",
+  "summary": "Runs voice-of-customer operations so feedback collection, insight loops, and issue themes become actionable across the organization.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "customer-complaints-quality"
+  },
+  "discovery": {
+    "tags": [
+      "voice",
+      "of",
+      "customer",
+      "operations",
+      "complaints",
+      "quality"
+    ],
+    "domains": [
+      "customer",
+      "complaints"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "voice",
+      "of",
+      "customer",
+      "operations"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "voice-of",
+      "complaints-quality"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/customer-complaints-quality/software-it-voice-of-customer-operations-manager"
+  }
+}

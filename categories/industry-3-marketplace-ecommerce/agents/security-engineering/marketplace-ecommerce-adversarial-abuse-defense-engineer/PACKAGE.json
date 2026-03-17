@@ -16,7 +16,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-adversarial-abuse-defense-engineer",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-adversarial-abuse-defense-engineer/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-adversarial-abuse-defense-engineer/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-adversarial-abuse-defense-engineer.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-adversarial-abuse-defense-engineer.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

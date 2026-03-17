@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-merchant-onboarding-review-specialist",
+  "version": "0.1.0",
+  "title": "Merchant Onboarding Review Specialist",
+  "summary": "Reviews merchant applications and entry requirements so sellers are onboarded accurately, consistently, and with controlled risk.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "merchant-onboarding-compliance"
+  },
+  "discovery": {
+    "tags": [
+      "merchant",
+      "onboarding",
+      "review",
+      "compliance"
+    ],
+    "domains": [
+      "merchant",
+      "onboarding"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "merchant",
+      "onboarding",
+      "review",
+      "compliance"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "merchant-onboarding",
+      "review-compliance"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/merchant-onboarding-compliance/marketplace-ecommerce-merchant-onboarding-review-specialist"
+  }
+}

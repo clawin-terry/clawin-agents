@@ -16,7 +16,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-mobile-architect-kotlin-swift",
                     "workspace":  "~/.openclaw/agents/software-it-mobile-architect-kotlin-swift/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-mobile-architect-kotlin-swift/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-mobile-architect-kotlin-swift.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-mobile-architect-kotlin-swift.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

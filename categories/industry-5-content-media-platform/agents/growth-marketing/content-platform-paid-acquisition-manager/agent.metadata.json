@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-paid-acquisition-manager",
+  "version": "0.1.0",
+  "title": "Paid Acquisition Manager",
+  "summary": "Leads paid acquisition programs so user growth investments scale efficiently across channels, budgets, and conversion goals.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "growth-marketing"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "paid",
+      "acquisition",
+      "growth"
+    ],
+    "domains": [
+      "growth"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "paid",
+      "acquisition"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "content-platform",
+      "acquisition-growth"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/growth-marketing/content-platform-paid-acquisition-manager"
+  }
+}

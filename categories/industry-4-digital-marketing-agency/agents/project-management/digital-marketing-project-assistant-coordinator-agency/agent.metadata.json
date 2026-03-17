@@ -1,0 +1,55 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-project-assistant-coordinator-agency",
+  "version": "0.1.0",
+  "title": "Project Assistant / Coordinator (Agency)",
+  "summary": "Supports project coordination so agency schedules, status tracking, and execution details remain organized and current.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "project-management"
+  },
+  "discovery": {
+    "tags": [
+      "project",
+      "management"
+    ],
+    "domains": [
+      "project",
+      "management"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "project",
+      "management"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "project-management"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/project-management/digital-marketing-project-assistant-coordinator-agency"
+  }
+}

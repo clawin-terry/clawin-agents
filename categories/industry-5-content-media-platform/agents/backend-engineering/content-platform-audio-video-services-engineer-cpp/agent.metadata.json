@@ -1,0 +1,67 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-audio-video-services-engineer-cpp",
+  "version": "0.1.0",
+  "title": "Audio and Video Services Engineer (C++)",
+  "summary": "Builds C++ audio and video services so media processing, streaming quality, and playback infrastructure stay performant under large-scale content workloads.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "backend-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "audio",
+      "video",
+      "services",
+      "cpp",
+      "and",
+      "c"
+    ],
+    "domains": [
+      "backend",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "audio",
+      "video"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "backend-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "clawin-backend-service-engineering",
+      "clawin-media-performance-systems"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/backend-engineering/content-platform-audio-video-services-engineer-cpp"
+  }
+}

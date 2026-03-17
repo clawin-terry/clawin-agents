@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "financial-research-quality-screen-analyst",
+    "roleTitle":  "Quality Screen Analyst",
+    "personaSummary":  "Builds discovery screens around return quality, balance-sheet discipline, margin durability, and earnings consistency to surface higher-quality candidate names.",
+    "industryId":  "industry-6-financial-research",
+    "roleFamilyKey":  "screening-comparison",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/financial-research-quality-screen-analyst",
+                    "workspace":  "~/.openclaw/agents/financial-research-quality-screen-analyst/workspace",
+                    "agentDir":  "~/.openclaw/agents/financial-research-quality-screen-analyst/agent",
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
+                }
+}

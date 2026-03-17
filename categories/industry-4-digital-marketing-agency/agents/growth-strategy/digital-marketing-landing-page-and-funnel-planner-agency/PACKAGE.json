@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/digital-marketing-landing-page-and-funnel-planner-agency",
                     "workspace":  "~/.openclaw/agents/digital-marketing-landing-page-and-funnel-planner-agency/workspace",
                     "agentDir":  "~/.openclaw/agents/digital-marketing-landing-page-and-funnel-planner-agency/agent",
-                    "configEntry":  "config/openclaw.agent.digital-marketing-landing-page-and-funnel-planner-agency.entry.json",
-                    "configSnippet":  "config/openclaw.agent.digital-marketing-landing-page-and-funnel-planner-agency.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-sdk-engineer-java-ios",
+  "version": "0.1.0",
+  "title": "SDK Engineer (Java, Objective-C, and Swift)",
+  "summary": "Builds SDK integrations across Android and iOS environments so app measurement, event capture, and downstream marketing data collection remain reliable.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "tracking-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "sdk",
+      "java",
+      "ios",
+      "objective",
+      "c",
+      "and",
+      "swift",
+      "tracking"
+    ],
+    "domains": [
+      "tracking",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "sdk",
+      "java",
+      "ios",
+      "tracking"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "sdk-java",
+      "tracking-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/tracking-engineering/digital-marketing-sdk-engineer-java-ios"
+  }
+}

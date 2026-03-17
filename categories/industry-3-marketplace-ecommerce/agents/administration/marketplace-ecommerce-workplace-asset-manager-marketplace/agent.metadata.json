@@ -1,0 +1,56 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-workplace-asset-manager-marketplace",
+  "version": "0.1.0",
+  "title": "Workplace Asset Manager (Marketplace)",
+  "summary": "Manages workplace assets so marketplace office equipment, inventories, and lifecycle controls stay accurate, available, and auditable.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "administration"
+  },
+  "discovery": {
+    "tags": [
+      "workplace",
+      "asset",
+      "administration"
+    ],
+    "domains": [
+      "administration"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "workplace",
+      "asset",
+      "administration"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "workplace-asset",
+      "asset-administration"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/administration/marketplace-ecommerce-workplace-asset-manager-marketplace"
+  }
+}

@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-public-sentiment-risk-analyst-platform",
                     "workspace":  "~/.openclaw/agents/content-platform-public-sentiment-risk-analyst-platform/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-public-sentiment-risk-analyst-platform/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-public-sentiment-risk-analyst-platform.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-public-sentiment-risk-analyst-platform.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

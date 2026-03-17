@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-commercialization-strategy-manager",
+  "version": "0.1.0",
+  "title": "Commercialization Strategy Manager",
+  "summary": "Leads commercialization strategy so monetization priorities, inventory supply, and revenue growth decisions stay aligned with long-term platform economics.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "commercial-growth"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "commercialization",
+      "strategy",
+      "commercial",
+      "growth"
+    ],
+    "domains": [
+      "commercial",
+      "growth"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "commercialization",
+      "strategy"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "content-platform",
+      "commercial-growth"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/commercial-growth/content-platform-commercialization-strategy-manager"
+  }
+}

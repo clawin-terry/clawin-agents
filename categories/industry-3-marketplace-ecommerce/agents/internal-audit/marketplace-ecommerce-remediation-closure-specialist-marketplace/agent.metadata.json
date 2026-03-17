@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-remediation-closure-specialist-marketplace",
+  "version": "0.1.0",
+  "title": "Remediation Closure Specialist (Marketplace)",
+  "summary": "Tracks marketplace remediation closure so audit findings, action ownership, and evidence of completion stay current and verifiable.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "internal-audit"
+  },
+  "discovery": {
+    "tags": [
+      "remediation",
+      "closure",
+      "internal",
+      "audit"
+    ],
+    "domains": [
+      "internal",
+      "audit"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "remediation",
+      "closure",
+      "internal",
+      "audit"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "remediation-closure",
+      "internal-audit"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/internal-audit/marketplace-ecommerce-remediation-closure-specialist-marketplace"
+  }
+}

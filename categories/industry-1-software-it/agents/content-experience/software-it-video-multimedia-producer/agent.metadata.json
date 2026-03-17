@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-video-multimedia-producer",
+  "version": "0.1.0",
+  "title": "Video and Multimedia Producer",
+  "summary": "Produces video and multimedia assets so stories, product messages, and instructional content are delivered in engaging and practical formats.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "content-experience"
+  },
+  "discovery": {
+    "tags": [
+      "video",
+      "multimedia",
+      "producer",
+      "and",
+      "content",
+      "experience"
+    ],
+    "domains": [
+      "content",
+      "experience"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "video",
+      "multimedia",
+      "producer",
+      "content"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "video-multimedia",
+      "content-experience"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "ui-ux-pro-max"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/content-experience/software-it-video-multimedia-producer"
+  }
+}

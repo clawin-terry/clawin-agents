@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-curriculum-operations-specialist-agency",
+  "version": "0.1.0",
+  "title": "Curriculum Operations Specialist (Agency)",
+  "summary": "Operates course delivery and curriculum workflows so agency training content, sessions, and feedback loops remain organized and effective.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "learning-development"
+  },
+  "discovery": {
+    "tags": [
+      "curriculum",
+      "operations",
+      "learning",
+      "development"
+    ],
+    "domains": [
+      "learning",
+      "development"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "curriculum",
+      "operations",
+      "learning",
+      "development"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "curriculum-operations",
+      "learning-development"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/learning-development/digital-marketing-curriculum-operations-specialist-agency"
+  }
+}

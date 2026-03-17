@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-pricing-discount-approval-specialist",
+  "version": "0.1.0",
+  "title": "Pricing and Discount Approval Specialist",
+  "summary": "Coordinates pricing and discount approvals so deal terms remain controlled, traceable, and aligned with commercial policy.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "sales-operations"
+  },
+  "discovery": {
+    "tags": [
+      "pricing",
+      "discount",
+      "approval",
+      "and",
+      "sales",
+      "operations"
+    ],
+    "domains": [
+      "sales",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "pricing",
+      "discount",
+      "approval",
+      "sales"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "pricing-discount",
+      "sales-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/sales-operations/software-it-pricing-discount-approval-specialist"
+  }
+}

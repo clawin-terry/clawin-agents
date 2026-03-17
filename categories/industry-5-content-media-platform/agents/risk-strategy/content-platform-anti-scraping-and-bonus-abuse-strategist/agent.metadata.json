@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-anti-scraping-and-bonus-abuse-strategist",
+  "version": "0.1.0",
+  "title": "Anti-Scraping and Bonus Abuse Strategist",
+  "summary": "Designs anti-scraping and bonus-abuse controls so automated extraction, growth-incentive abuse, and opportunistic exploitation are contained more effectively.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "risk-strategy"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "anti",
+      "scraping",
+      "and",
+      "bonus",
+      "abuse",
+      "strategist"
+    ],
+    "domains": [
+      "risk",
+      "strategy"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "anti",
+      "scraping"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "content-platform",
+      "risk-strategy"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/risk-strategy/content-platform-anti-scraping-and-bonus-abuse-strategist"
+  }
+}

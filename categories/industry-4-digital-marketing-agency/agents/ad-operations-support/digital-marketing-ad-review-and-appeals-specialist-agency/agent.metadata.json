@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-ad-review-and-appeals-specialist-agency",
+  "version": "0.1.0",
+  "title": "Ad Review and Appeals Specialist (Agency)",
+  "summary": "Handles ad reviews and appeals so agency teams can resolve policy rejections, restore campaign eligibility, and keep launches moving.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "ad-operations-support"
+  },
+  "discovery": {
+    "tags": [
+      "ad",
+      "review",
+      "and",
+      "appeals",
+      "operations",
+      "support"
+    ],
+    "domains": [
+      "ad",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "ad",
+      "review",
+      "and",
+      "appeals"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "ad-review",
+      "operations-support"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/ad-operations-support/digital-marketing-ad-review-and-appeals-specialist-agency"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-host-talent-manager-agency",
+  "version": "0.1.0",
+  "title": "Host Talent Manager (Agency)",
+  "summary": "Manages hosts and on-camera talent so agency livestream programs can maintain performance readiness, scheduling discipline, and presentation quality.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "livestream-operations"
+  },
+  "discovery": {
+    "tags": [
+      "host",
+      "talent",
+      "livestream",
+      "operations"
+    ],
+    "domains": [
+      "livestream",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "host",
+      "talent",
+      "livestream",
+      "operations"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "host-talent",
+      "livestream-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/livestream-operations/digital-marketing-host-talent-manager-agency"
+  }
+}

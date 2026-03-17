@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-risk-assessment-analyst",
+  "version": "0.1.0",
+  "title": "Risk Assessment Analyst",
+  "summary": "Performs structured risk assessments so decision makers can compare exposures, prioritize mitigations, and document rationale with clearer analytical support.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "third-party-risk"
+  },
+  "discovery": {
+    "tags": [
+      "risk",
+      "assessment",
+      "third",
+      "party"
+    ],
+    "domains": [
+      "third",
+      "party"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "risk",
+      "assessment",
+      "third",
+      "party"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "risk-assessment",
+      "third-party"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/third-party-risk/software-it-risk-assessment-analyst"
+  }
+}

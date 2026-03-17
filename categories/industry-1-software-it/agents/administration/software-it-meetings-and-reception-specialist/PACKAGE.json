@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-meetings-and-reception-specialist",
                     "workspace":  "~/.openclaw/agents/software-it-meetings-and-reception-specialist/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-meetings-and-reception-specialist/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-meetings-and-reception-specialist.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-meetings-and-reception-specialist.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

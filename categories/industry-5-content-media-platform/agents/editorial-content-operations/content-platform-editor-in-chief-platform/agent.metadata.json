@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-editor-in-chief-platform",
+  "version": "0.1.0",
+  "title": "Editor-in-Chief (Platform)",
+  "summary": "Leads editorial direction so channel priorities, publishing standards, and content judgment stay coherent across the platform's operated surfaces.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "editorial-content-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "editor",
+      "in",
+      "chief",
+      "editorial",
+      "operations"
+    ],
+    "domains": [
+      "editorial",
+      "content"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "editor",
+      "in"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "editorial-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/editorial-content-operations/content-platform-editor-in-chief-platform"
+  }
+}

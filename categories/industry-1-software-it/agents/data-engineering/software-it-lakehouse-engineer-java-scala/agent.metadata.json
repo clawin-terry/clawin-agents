@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-lakehouse-engineer-java-scala",
+  "version": "0.1.0",
+  "title": "Lakehouse Engineer (Java/Scala)",
+  "summary": "Builds lakehouse platform capabilities with Java and Scala, improving scalable storage, unified analytics workflows, and trustworthy data foundations.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "data-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "lakehouse",
+      "java",
+      "scala",
+      "data",
+      "engineering"
+    ],
+    "domains": [
+      "data",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "lakehouse",
+      "java",
+      "scala",
+      "data"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "lakehouse-java",
+      "data-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/data-engineering/software-it-lakehouse-engineer-java-scala"
+  }
+}

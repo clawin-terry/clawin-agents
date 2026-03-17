@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-creator-revenue-share-policy-coordinator-platform",
+  "version": "0.1.0",
+  "title": "Creator Revenue Share Policy Coordinator (Platform)",
+  "summary": "Coordinates creator revenue-share policies so monetization rules, finance dependencies, and partner-facing policy changes stay aligned and operationally workable.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "creator-incentives-rights"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "creator",
+      "revenue",
+      "share",
+      "policy",
+      "incentives",
+      "rights"
+    ],
+    "domains": [
+      "creator",
+      "incentives"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "creator",
+      "revenue"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "incentives-rights"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/creator-incentives-rights/content-platform-creator-revenue-share-policy-coordinator-platform"
+  }
+}

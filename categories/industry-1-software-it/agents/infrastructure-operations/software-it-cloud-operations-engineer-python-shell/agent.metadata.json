@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-cloud-operations-engineer-python-shell",
+  "version": "0.1.0",
+  "title": "Cloud Operations Engineer (Python/Shell)",
+  "summary": "Operates cloud infrastructure environments with Python and shell automation, emphasizing reliability, change safety, and day-to-day service continuity.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "infrastructure-operations"
+  },
+  "discovery": {
+    "tags": [
+      "cloud",
+      "operations",
+      "python",
+      "shell",
+      "infrastructure"
+    ],
+    "domains": [
+      "infrastructure",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "cloud",
+      "operations",
+      "python",
+      "shell"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "cloud-operations",
+      "shell-infrastructure"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "healthcheck"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/infrastructure-operations/software-it-cloud-operations-engineer-python-shell"
+  }
+}

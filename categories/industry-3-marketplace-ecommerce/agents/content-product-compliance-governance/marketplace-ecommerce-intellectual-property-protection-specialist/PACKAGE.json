@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-intellectual-property-protection-specialist",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-intellectual-property-protection-specialist/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-intellectual-property-protection-specialist/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-intellectual-property-protection-specialist.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-intellectual-property-protection-specialist.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

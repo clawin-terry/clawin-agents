@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-developer-relations-manager",
+  "version": "0.1.0",
+  "title": "Developer Relations Manager",
+  "summary": "Leads developer relations programs that improve ecosystem engagement, technical trust, and external adoption around the product platform.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "ecosystem-operations"
+  },
+  "discovery": {
+    "tags": [
+      "developer",
+      "relations",
+      "ecosystem",
+      "operations"
+    ],
+    "domains": [
+      "ecosystem",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "developer",
+      "relations",
+      "ecosystem",
+      "operations"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "developer-relations",
+      "ecosystem-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/ecosystem-operations/software-it-developer-relations-manager"
+  }
+}

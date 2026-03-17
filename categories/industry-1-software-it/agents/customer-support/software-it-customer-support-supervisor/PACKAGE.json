@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-customer-support-supervisor",
                     "workspace":  "~/.openclaw/agents/software-it-customer-support-supervisor/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-customer-support-supervisor/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-customer-support-supervisor.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-customer-support-supervisor.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

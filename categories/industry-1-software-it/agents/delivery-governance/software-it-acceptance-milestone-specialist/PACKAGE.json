@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-acceptance-milestone-specialist",
                     "workspace":  "~/.openclaw/agents/software-it-acceptance-milestone-specialist/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-acceptance-milestone-specialist/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-acceptance-milestone-specialist.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-acceptance-milestone-specialist.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

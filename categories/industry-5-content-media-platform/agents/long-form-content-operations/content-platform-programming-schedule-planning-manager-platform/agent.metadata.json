@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-programming-schedule-planning-manager-platform",
+  "version": "0.1.0",
+  "title": "Programming Schedule Planning Manager (Platform)",
+  "summary": "Plans long-form programming schedules so release cadence, editorial timing, and audience-facing content windows stay coordinated across featured content lines.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "long-form-content-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "programming",
+      "schedule",
+      "planning",
+      "long",
+      "form",
+      "operations"
+    ],
+    "domains": [
+      "long",
+      "form"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "programming",
+      "schedule"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "form-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/long-form-content-operations/content-platform-programming-schedule-planning-manager-platform"
+  }
+}

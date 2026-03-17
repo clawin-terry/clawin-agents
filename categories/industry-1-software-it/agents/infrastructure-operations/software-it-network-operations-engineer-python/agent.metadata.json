@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-network-operations-engineer-python",
+  "version": "0.1.0",
+  "title": "Network Operations Engineer (Python)",
+  "summary": "Operates network infrastructure with Python-based automation and diagnostics, strengthening availability, performance visibility, and incident response efficiency.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "infrastructure-operations"
+  },
+  "discovery": {
+    "tags": [
+      "network",
+      "operations",
+      "python",
+      "infrastructure"
+    ],
+    "domains": [
+      "infrastructure",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "network",
+      "operations",
+      "python",
+      "infrastructure"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "network-operations",
+      "python-infrastructure"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "healthcheck"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/infrastructure-operations/software-it-network-operations-engineer-python"
+  }
+}

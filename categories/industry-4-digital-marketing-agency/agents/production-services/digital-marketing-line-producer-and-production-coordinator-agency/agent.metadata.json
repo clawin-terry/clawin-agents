@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-line-producer-and-production-coordinator-agency",
+  "version": "0.1.0",
+  "title": "Line Producer and Production Coordinator (Agency)",
+  "summary": "Coordinates schedules, vendors, and execution details so agency shoots stay organized, budget-aware, and ready for delivery deadlines.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "production-services"
+  },
+  "discovery": {
+    "tags": [
+      "line",
+      "producer",
+      "and",
+      "production",
+      "services"
+    ],
+    "domains": [
+      "production",
+      "services"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "line",
+      "producer",
+      "and",
+      "production"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "line-producer",
+      "production-services"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/production-services/digital-marketing-line-producer-and-production-coordinator-agency"
+  }
+}

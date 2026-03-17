@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-social-insurance-housing-fund-specialist",
+  "version": "0.1.0",
+  "title": "Social Insurance and Housing Fund Specialist (Marketplace)",
+  "summary": "Manages statutory benefits administration so marketplace social insurance and housing fund records, enrollments, and changes remain accurate and compliant.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "compensation-benefits-performance"
+  },
+  "discovery": {
+    "tags": [
+      "social",
+      "insurance",
+      "housing",
+      "fund",
+      "and",
+      "compensation",
+      "benefits",
+      "performance"
+    ],
+    "domains": [
+      "compensation",
+      "benefits"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "social",
+      "insurance",
+      "housing",
+      "fund"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "social-insurance",
+      "benefits-performance"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/compensation-benefits-performance/marketplace-ecommerce-social-insurance-housing-fund-specialist"
+  }
+}

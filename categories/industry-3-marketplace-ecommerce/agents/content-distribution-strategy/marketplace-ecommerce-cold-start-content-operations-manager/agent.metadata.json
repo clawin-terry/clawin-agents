@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-cold-start-content-operations-manager",
+  "version": "0.1.0",
+  "title": "Cold-Start Content Operations Manager",
+  "summary": "Runs cold-start content operations so new marketplace topics, creators, and content pools gain early exposure with controlled experimentation.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "content-distribution-strategy"
+  },
+  "discovery": {
+    "tags": [
+      "cold",
+      "start",
+      "content",
+      "operations",
+      "distribution",
+      "strategy"
+    ],
+    "domains": [
+      "content",
+      "distribution"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "cold",
+      "start",
+      "content",
+      "operations"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "cold-start",
+      "distribution-strategy"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/content-distribution-strategy/marketplace-ecommerce-cold-start-content-operations-manager"
+  }
+}

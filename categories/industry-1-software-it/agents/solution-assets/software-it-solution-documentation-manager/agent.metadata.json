@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-solution-documentation-manager",
+  "version": "0.1.0",
+  "title": "Solution Documentation Manager",
+  "summary": "Owns solution documentation so technical collateral, reusable materials, and field-facing guidance remain current, structured, and useful.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "solution-assets"
+  },
+  "discovery": {
+    "tags": [
+      "solution",
+      "documentation",
+      "assets"
+    ],
+    "domains": [
+      "solution",
+      "assets"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "solution",
+      "documentation",
+      "assets"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "solution-documentation",
+      "documentation-assets"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/solution-assets/software-it-solution-documentation-manager"
+  }
+}

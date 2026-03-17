@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-risk-backend-engineer-go",
+  "version": "0.1.0",
+  "title": "Risk Backend Engineer (Go)",
+  "summary": "Builds risk backend services in Go so trust-and-safety controls, real-time decisions, and abuse-response infrastructure scale more reliably.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "backend-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "risk",
+      "backend",
+      "go",
+      "engineering"
+    ],
+    "domains": [
+      "backend",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "risk",
+      "backend"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "go-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "clawin-backend-service-engineering"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/backend-engineering/content-platform-risk-backend-engineer-go"
+  }
+}

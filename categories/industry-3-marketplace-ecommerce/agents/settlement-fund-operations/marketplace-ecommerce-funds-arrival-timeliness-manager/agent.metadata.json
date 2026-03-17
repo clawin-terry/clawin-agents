@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-funds-arrival-timeliness-manager",
+  "version": "0.1.0",
+  "title": "Funds Arrival Timeliness Manager",
+  "summary": "Improves funds arrival timeliness so merchants receive payouts within expected windows and settlement reliability stays high.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "settlement-fund-operations"
+  },
+  "discovery": {
+    "tags": [
+      "funds",
+      "arrival",
+      "timeliness",
+      "settlement",
+      "fund",
+      "operations"
+    ],
+    "domains": [
+      "settlement",
+      "fund"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "funds",
+      "arrival",
+      "timeliness",
+      "settlement"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "funds-arrival",
+      "fund-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/settlement-fund-operations/marketplace-ecommerce-funds-arrival-timeliness-manager"
+  }
+}

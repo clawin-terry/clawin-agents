@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-social-media-director-agency",
+  "version": "0.1.0",
+  "title": "Social Media Director (Agency)",
+  "summary": "Leads social media operations so agency-owned channels, publishing priorities, and engagement strategies stay coordinated across platforms.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "social-media-operations"
+  },
+  "discovery": {
+    "tags": [
+      "social",
+      "media",
+      "operations"
+    ],
+    "domains": [
+      "social",
+      "media"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "social",
+      "media",
+      "operations"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "social-media",
+      "media-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/social-media-operations/digital-marketing-social-media-director-agency"
+  }
+}

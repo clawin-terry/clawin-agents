@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-experience-strategy-specialist",
+  "version": "0.1.0",
+  "title": "Experience Strategy Specialist",
+  "summary": "Shapes experience strategy so user insight, service goals, and product direction connect through a coherent end-to-end experience vision.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "user-research-experience"
+  },
+  "discovery": {
+    "tags": [
+      "experience",
+      "strategy",
+      "user",
+      "research"
+    ],
+    "domains": [
+      "user",
+      "research"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "experience",
+      "strategy",
+      "user",
+      "research"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "experience-strategy",
+      "user-research"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "ui-ux-pro-max"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/user-research-experience/software-it-experience-strategy-specialist"
+  }
+}

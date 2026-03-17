@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-joint-case-study-and-certification-manager-agency",
+  "version": "0.1.0",
+  "title": "Joint Case Study and Certification Manager (Agency)",
+  "summary": "Coordinates joint case studies and certification work so agency teams can turn proven platform results into reusable proof points and partner-recognized credentials.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "media-business"
+  },
+  "discovery": {
+    "tags": [
+      "joint",
+      "case",
+      "study",
+      "and",
+      "certification",
+      "media",
+      "business"
+    ],
+    "domains": [
+      "media",
+      "business"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "joint",
+      "case",
+      "study",
+      "and"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "joint-case",
+      "media-business"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/media-business/digital-marketing-joint-case-study-and-certification-manager-agency"
+  }
+}

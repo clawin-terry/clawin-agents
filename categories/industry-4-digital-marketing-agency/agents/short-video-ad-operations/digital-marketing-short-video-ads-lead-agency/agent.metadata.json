@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-short-video-ads-lead-agency",
+  "version": "0.1.0",
+  "title": "Short Video Ads Lead (Agency)",
+  "summary": "Leads short-video advertising operations so agency teams can coordinate platform execution, scale decisions, and campaign performance across video channels.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "short-video-ad-operations"
+  },
+  "discovery": {
+    "tags": [
+      "short",
+      "video",
+      "ads",
+      "ad",
+      "operations"
+    ],
+    "domains": [
+      "short",
+      "video"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "short",
+      "video",
+      "ads",
+      "ad"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "short-video",
+      "ad-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/short-video-ad-operations/digital-marketing-short-video-ads-lead-agency"
+  }
+}

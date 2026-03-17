@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-revenue-operations-manager",
+  "version": "0.1.0",
+  "title": "Revenue Operations Manager",
+  "summary": "Builds revenue operations processes across funnel governance, forecast visibility, and cross-functional commercial execution.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "commercial-operations"
+  },
+  "discovery": {
+    "tags": [
+      "revenue",
+      "operations",
+      "commercial"
+    ],
+    "domains": [
+      "commercial",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "revenue",
+      "operations",
+      "commercial"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "revenue-operations",
+      "operations-commercial"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/commercial-operations/software-it-revenue-operations-manager"
+  }
+}

@@ -16,7 +16,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-video-multimedia-producer",
                     "workspace":  "~/.openclaw/agents/software-it-video-multimedia-producer/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-video-multimedia-producer/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-video-multimedia-producer.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-video-multimedia-producer.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

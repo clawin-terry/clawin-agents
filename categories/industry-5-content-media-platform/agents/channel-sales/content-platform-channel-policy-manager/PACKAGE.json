@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-channel-policy-manager",
                     "workspace":  "~/.openclaw/agents/content-platform-channel-policy-manager/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-channel-policy-manager/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-channel-policy-manager.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-channel-policy-manager.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

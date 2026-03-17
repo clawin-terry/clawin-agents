@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-growth-backend-engineer-go",
+  "version": "0.1.0",
+  "title": "Growth Backend Engineer (Go)",
+  "summary": "Builds Go backend services for growth systems so activation, retention, and campaign capabilities can scale with reliable platform integrations.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "backend-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "growth",
+      "backend",
+      "go",
+      "engineering"
+    ],
+    "domains": [
+      "backend",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "growth",
+      "backend"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "content-platform",
+      "go-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "clawin-backend-service-engineering"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/backend-engineering/content-platform-growth-backend-engineer-go"
+  }
+}

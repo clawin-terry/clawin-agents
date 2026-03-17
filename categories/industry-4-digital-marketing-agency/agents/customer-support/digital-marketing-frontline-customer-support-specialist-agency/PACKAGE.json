@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/digital-marketing-frontline-customer-support-specialist-agency",
                     "workspace":  "~/.openclaw/agents/digital-marketing-frontline-customer-support-specialist-agency/workspace",
                     "agentDir":  "~/.openclaw/agents/digital-marketing-frontline-customer-support-specialist-agency/agent",
-                    "configEntry":  "config/openclaw.agent.digital-marketing-frontline-customer-support-specialist-agency.entry.json",
-                    "configSnippet":  "config/openclaw.agent.digital-marketing-frontline-customer-support-specialist-agency.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

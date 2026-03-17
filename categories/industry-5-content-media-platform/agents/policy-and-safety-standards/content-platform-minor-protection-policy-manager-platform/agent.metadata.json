@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-minor-protection-policy-manager-platform",
+  "version": "0.1.0",
+  "title": "Minor Protection Policy Manager (Platform)",
+  "summary": "Shapes minor-protection policy so youth-facing safeguards, age-sensitive controls, and operational standards remain stronger across the platform.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "policy-and-safety-standards"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "minor",
+      "protection",
+      "policy",
+      "and",
+      "safety",
+      "standards"
+    ],
+    "domains": [
+      "policy",
+      "and"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "minor",
+      "protection"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "safety-standards"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/policy-and-safety-standards/content-platform-minor-protection-policy-manager-platform"
+  }
+}

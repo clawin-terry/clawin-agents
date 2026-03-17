@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-fixed-asset-accountant",
                     "workspace":  "~/.openclaw/agents/software-it-fixed-asset-accountant/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-fixed-asset-accountant/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-fixed-asset-accountant.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-fixed-asset-accountant.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

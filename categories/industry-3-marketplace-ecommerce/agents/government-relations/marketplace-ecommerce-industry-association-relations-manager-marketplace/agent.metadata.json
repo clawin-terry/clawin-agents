@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-industry-association-relations-manager-marketplace",
+  "version": "0.1.0",
+  "title": "Industry Association Relations Manager (Marketplace)",
+  "summary": "Manages marketplace industry-association relationships so external forums, coalition work, and sector coordination stay organized and aligned with company priorities.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "government-relations"
+  },
+  "discovery": {
+    "tags": [
+      "association",
+      "relations",
+      "government"
+    ],
+    "domains": [
+      "government",
+      "relations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "association",
+      "relations",
+      "government"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "association-relations",
+      "relations-government"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/government-relations/marketplace-ecommerce-industry-association-relations-manager-marketplace"
+  }
+}

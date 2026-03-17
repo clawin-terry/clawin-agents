@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-acceptance-milestone-specialist",
+  "version": "0.1.0",
+  "title": "Acceptance and Milestone Specialist",
+  "summary": "Coordinates acceptance and milestone control so delivery checkpoints, evidence, and customer sign-off stay organized and timely.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "delivery-governance"
+  },
+  "discovery": {
+    "tags": [
+      "acceptance",
+      "milestone",
+      "and",
+      "delivery",
+      "governance"
+    ],
+    "domains": [
+      "delivery",
+      "governance"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "acceptance",
+      "milestone",
+      "delivery",
+      "governance"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "acceptance-milestone",
+      "delivery-governance"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/delivery-governance/software-it-acceptance-milestone-specialist"
+  }
+}

@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-attribution-and-anti-fraud-analytics-manager",
                     "workspace":  "~/.openclaw/agents/content-platform-attribution-and-anti-fraud-analytics-manager/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-attribution-and-anti-fraud-analytics-manager/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-attribution-and-anti-fraud-analytics-manager.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-attribution-and-anti-fraud-analytics-manager.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

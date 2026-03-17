@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "financial-research-catalyst-path-analyst",
+    "roleTitle":  "Catalyst Path Analyst",
+    "personaSummary":  "Maps plausible catalyst sequences and failure paths so teams can see which evidence checkpoints matter before a thesis can strengthen or break.",
+    "industryId":  "industry-6-financial-research",
+    "roleFamilyKey":  "scenario-stress-analysis",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/financial-research-catalyst-path-analyst",
+                    "workspace":  "~/.openclaw/agents/financial-research-catalyst-path-analyst/workspace",
+                    "agentDir":  "~/.openclaw/agents/financial-research-catalyst-path-analyst/agent",
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
+                }
+}

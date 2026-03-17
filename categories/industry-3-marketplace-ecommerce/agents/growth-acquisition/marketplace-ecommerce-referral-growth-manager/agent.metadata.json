@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-referral-growth-manager",
+  "version": "0.1.0",
+  "title": "Referral Growth Manager",
+  "summary": "Leads referral growth programs so invite loops, sharing incentives, and viral mechanics create scalable marketplace user acquisition.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "growth-acquisition"
+  },
+  "discovery": {
+    "tags": [
+      "referral",
+      "growth",
+      "acquisition"
+    ],
+    "domains": [
+      "growth",
+      "acquisition"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "referral",
+      "growth",
+      "acquisition"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "referral-growth",
+      "growth-acquisition"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/growth-acquisition/marketplace-ecommerce-referral-growth-manager"
+  }
+}

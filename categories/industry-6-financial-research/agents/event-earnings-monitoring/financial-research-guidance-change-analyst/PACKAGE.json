@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/financial-research-guidance-change-analyst",
                     "workspace":  "~/.openclaw/agents/financial-research-guidance-change-analyst/workspace",
                     "agentDir":  "~/.openclaw/agents/financial-research-guidance-change-analyst/agent",
-                    "configEntry":  "config/openclaw.agent.financial-research-guidance-change-analyst.entry.json",
-                    "configSnippet":  "config/openclaw.agent.financial-research-guidance-change-analyst.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

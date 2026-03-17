@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-qualitative-researcher",
+  "version": "0.1.0",
+  "title": "Qualitative Researcher",
+  "summary": "Runs qualitative studies so product teams understand user motivations, behaviors, and pain points with depth and context.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "user-research-experience"
+  },
+  "discovery": {
+    "tags": [
+      "qualitative",
+      "researcher",
+      "user",
+      "research",
+      "experience"
+    ],
+    "domains": [
+      "user",
+      "research"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "qualitative",
+      "researcher",
+      "user",
+      "research"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "qualitative-researcher",
+      "research-experience"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "ui-ux-pro-max"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/user-research-experience/software-it-qualitative-researcher"
+  }
+}

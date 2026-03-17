@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-business-performance-finance-analyst-marketplace",
+  "version": "0.1.0",
+  "title": "Business Performance Finance Analyst (Marketplace)",
+  "summary": "Analyzes marketplace operating performance so leaders can evaluate growth, cost efficiency, and structural tradeoffs with stronger financial evidence.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "finance-management"
+  },
+  "discovery": {
+    "tags": [
+      "business",
+      "performance",
+      "finance",
+      "management"
+    ],
+    "domains": [
+      "finance",
+      "management"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "business",
+      "performance",
+      "finance",
+      "management"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "business-performance",
+      "finance-management"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/finance-management/marketplace-ecommerce-business-performance-finance-analyst-marketplace"
+  }
+}

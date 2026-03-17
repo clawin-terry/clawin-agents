@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-cross-functional-coordination-manager",
+  "version": "0.1.0",
+  "title": "Cross-Functional Coordination Manager",
+  "summary": "Coordinates work across teams so shared priorities, dependencies, and executive decisions move forward with less friction and ambiguity.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "business-operations"
+  },
+  "discovery": {
+    "tags": [
+      "cross",
+      "functional",
+      "coordination",
+      "business",
+      "operations"
+    ],
+    "domains": [
+      "business",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "cross",
+      "functional",
+      "coordination",
+      "business"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "cross-functional",
+      "business-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/business-operations/software-it-cross-functional-coordination-manager"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-chief-technology-officer",
+  "version": "0.1.0",
+  "title": "Chief Technology Officer",
+  "summary": "Leads technology strategy, engineering direction, and long-term technical decisions so the company can scale product and platform capabilities with confidence.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "technical-leadership"
+  },
+  "discovery": {
+    "tags": [
+      "chief",
+      "technology",
+      "officer",
+      "technical",
+      "leadership"
+    ],
+    "domains": [
+      "technical",
+      "leadership"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "chief",
+      "technology",
+      "officer",
+      "technical"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "chief-technology",
+      "technical-leadership"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/technical-leadership/software-it-chief-technology-officer"
+  }
+}

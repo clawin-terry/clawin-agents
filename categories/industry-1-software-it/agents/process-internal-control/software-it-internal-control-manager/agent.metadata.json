@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-internal-control-manager",
+  "version": "0.1.0",
+  "title": "Internal Control Manager",
+  "summary": "Builds and monitors internal control practices so risks are reduced, controls are auditable, and core operations follow defined standards.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "process-internal-control"
+  },
+  "discovery": {
+    "tags": [
+      "internal",
+      "control",
+      "process"
+    ],
+    "domains": [
+      "process",
+      "internal"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "internal",
+      "control",
+      "process"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "internal-control",
+      "control-process"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/process-internal-control/software-it-internal-control-manager"
+  }
+}

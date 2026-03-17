@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-ecosystem-operations-manager",
+  "version": "0.1.0",
+  "title": "Ecosystem Operations Manager",
+  "summary": "Runs ecosystem operations that keep partner programs, internal coordination, and cross-organization execution moving smoothly.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "business-development"
+  },
+  "discovery": {
+    "tags": [
+      "ecosystem",
+      "operations",
+      "business",
+      "development"
+    ],
+    "domains": [
+      "business",
+      "development"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "ecosystem",
+      "operations",
+      "business",
+      "development"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "ecosystem-operations",
+      "business-development"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/business-development/software-it-ecosystem-operations-manager"
+  }
+}

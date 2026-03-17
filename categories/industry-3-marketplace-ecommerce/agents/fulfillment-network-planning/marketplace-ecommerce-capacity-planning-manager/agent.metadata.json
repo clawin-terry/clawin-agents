@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-capacity-planning-manager",
+  "version": "0.1.0",
+  "title": "Capacity Planning Manager",
+  "summary": "Plans fulfillment capacity so warehousing and logistics resources stay aligned with marketplace volume and service commitments.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "fulfillment-network-planning"
+  },
+  "discovery": {
+    "tags": [
+      "capacity",
+      "planning",
+      "fulfillment",
+      "network"
+    ],
+    "domains": [
+      "fulfillment",
+      "network"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "capacity",
+      "planning",
+      "fulfillment",
+      "network"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "capacity-planning",
+      "fulfillment-network"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/fulfillment-network-planning/marketplace-ecommerce-capacity-planning-manager"
+  }
+}

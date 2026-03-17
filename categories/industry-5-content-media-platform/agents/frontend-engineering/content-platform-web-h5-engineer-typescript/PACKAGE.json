@@ -16,7 +16,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-web-h5-engineer-typescript",
                     "workspace":  "~/.openclaw/agents/content-platform-web-h5-engineer-typescript/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-web-h5-engineer-typescript/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-web-h5-engineer-typescript.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-web-h5-engineer-typescript.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

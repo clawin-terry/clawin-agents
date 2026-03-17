@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-certification-and-program-application-manager",
                     "workspace":  "~/.openclaw/agents/software-it-certification-and-program-application-manager/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-certification-and-program-application-manager/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-certification-and-program-application-manager.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-certification-and-program-application-manager.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

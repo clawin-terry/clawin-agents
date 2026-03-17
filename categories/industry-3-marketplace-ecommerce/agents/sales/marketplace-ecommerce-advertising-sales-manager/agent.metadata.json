@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-advertising-sales-manager",
+  "version": "0.1.0",
+  "title": "Advertising Sales Manager",
+  "summary": "Drives advertiser acquisition and deal execution so marketplace commercial inventory converts into qualified revenue with disciplined pipeline management.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "sales"
+  },
+  "discovery": {
+    "tags": [
+      "advertising",
+      "sales"
+    ],
+    "domains": [
+      "sales"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "advertising",
+      "sales"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "advertising-sales"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/sales/marketplace-ecommerce-advertising-sales-manager"
+  }
+}

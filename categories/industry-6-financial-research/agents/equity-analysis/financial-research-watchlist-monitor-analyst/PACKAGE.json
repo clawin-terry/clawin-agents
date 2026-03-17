@@ -4,7 +4,7 @@
     "packageVersion":  "0.1.0",
     "agentId":  "financial-research-watchlist-monitor-analyst",
     "roleTitle":  "Watchlist Monitor Analyst",
-    "personaSummary":  "Monitors earnings dates, guidance updates, news catalysts, and thesis-drift signals for US-listed names under active research coverage.",
+    "personaSummary":  "Monitors earnings dates, guidance updates, news catalysts, and thesis-drift signals for names under active research coverage.",
     "industryId":  "industry-6-financial-research",
     "roleFamilyKey":  "equity-analysis",
     "recommendedModel":  "openai-codex/gpt-5.4",
@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/financial-research-watchlist-monitor-analyst",
                     "workspace":  "~/.openclaw/agents/financial-research-watchlist-monitor-analyst/workspace",
                     "agentDir":  "~/.openclaw/agents/financial-research-watchlist-monitor-analyst/agent",
-                    "configEntry":  "config/openclaw.agent.financial-research-watchlist-monitor-analyst.entry.json",
-                    "configSnippet":  "config/openclaw.agent.financial-research-watchlist-monitor-analyst.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

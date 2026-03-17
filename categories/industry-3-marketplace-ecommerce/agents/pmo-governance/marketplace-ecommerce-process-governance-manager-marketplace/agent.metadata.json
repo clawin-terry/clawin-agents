@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-process-governance-manager-marketplace",
+  "version": "0.1.0",
+  "title": "Process Governance Manager (Marketplace)",
+  "summary": "Builds marketplace process governance so operating standards, approval flows, and accountability mechanisms stay consistent and usable across teams.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "pmo-governance"
+  },
+  "discovery": {
+    "tags": [
+      "process",
+      "governance",
+      "pmo"
+    ],
+    "domains": [
+      "pmo",
+      "governance"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "process",
+      "governance",
+      "pmo"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "process-governance",
+      "governance-pmo"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/pmo-governance/marketplace-ecommerce-process-governance-manager-marketplace"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-customer-tagging-system-operations-manager",
+  "version": "0.1.0",
+  "title": "Customer Tagging System Operations Manager",
+  "summary": "Runs customer tagging system operations so marketplace user labels stay accurate, useful, and ready for segmentation and personalization workflows.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "crm-private-domain-operations"
+  },
+  "discovery": {
+    "tags": [
+      "customer",
+      "tagging",
+      "system",
+      "operations",
+      "crm",
+      "private",
+      "domain"
+    ],
+    "domains": [
+      "crm",
+      "private"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "customer",
+      "tagging",
+      "system",
+      "operations"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "customer-tagging",
+      "private-domain"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/crm-private-domain-operations/marketplace-ecommerce-customer-tagging-system-operations-manager"
+  }
+}

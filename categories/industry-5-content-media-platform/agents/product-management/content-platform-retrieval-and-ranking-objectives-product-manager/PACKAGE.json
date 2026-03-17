@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-retrieval-and-ranking-objectives-product-manager",
                     "workspace":  "~/.openclaw/agents/content-platform-retrieval-and-ranking-objectives-product-manager/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-retrieval-and-ranking-objectives-product-manager/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-retrieval-and-ranking-objectives-product-manager.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-retrieval-and-ranking-objectives-product-manager.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-data-analyst-sql",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-data-analyst-sql/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-data-analyst-sql/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-data-analyst-sql.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-data-analyst-sql.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

@@ -1,0 +1,51 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-procurement-manager-marketplace",
+  "version": "0.1.0",
+  "title": "Procurement Manager (Marketplace)",
+  "summary": "Leads marketplace procurement so sourcing priorities, purchasing execution, and supplier governance stay aligned with operating demand.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "procurement"
+  },
+  "discovery": {
+    "tags": [
+      "procurement"
+    ],
+    "domains": [
+      "procurement"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "procurement"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "procurement"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/procurement/marketplace-ecommerce-procurement-manager-marketplace"
+  }
+}

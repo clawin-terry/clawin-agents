@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/digital-marketing-conversion-tracking-solution-architect",
                     "workspace":  "~/.openclaw/agents/digital-marketing-conversion-tracking-solution-architect/workspace",
                     "agentDir":  "~/.openclaw/agents/digital-marketing-conversion-tracking-solution-architect/agent",
-                    "configEntry":  "config/openclaw.agent.digital-marketing-conversion-tracking-solution-architect.entry.json",
-                    "configSnippet":  "config/openclaw.agent.digital-marketing-conversion-tracking-solution-architect.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

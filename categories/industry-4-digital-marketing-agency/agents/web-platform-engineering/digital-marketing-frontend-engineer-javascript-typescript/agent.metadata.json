@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-frontend-engineer-javascript-typescript",
+  "version": "0.1.0",
+  "title": "Frontend Engineer (JavaScript/TypeScript)",
+  "summary": "Builds landing pages and site experiences with JavaScript and TypeScript so agency campaigns can ship fast, convert cleanly, and support measurement needs.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "web-platform-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "frontend",
+      "javascript",
+      "typescript",
+      "web",
+      "platform",
+      "engineering"
+    ],
+    "domains": [
+      "web",
+      "platform"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "frontend",
+      "javascript",
+      "typescript",
+      "web"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "frontend-javascript",
+      "platform-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "browser"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/web-platform-engineering/digital-marketing-frontend-engineer-javascript-typescript"
+  }
+}

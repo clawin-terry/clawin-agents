@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-engineering-productivity-engineer-go-python",
+  "version": "0.1.0",
+  "title": "Engineering Productivity Engineer (Go/Python)",
+  "summary": "Builds internal engineering productivity tooling with Go and Python so developers can ship faster with better feedback, automation, and workflow reliability.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "developer-experience"
+  },
+  "discovery": {
+    "tags": [
+      "engineering",
+      "productivity",
+      "go",
+      "python",
+      "developer",
+      "experience"
+    ],
+    "domains": [
+      "developer",
+      "experience"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "engineering",
+      "productivity",
+      "go",
+      "python"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "engineering-productivity",
+      "developer-experience"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/developer-experience/software-it-engineering-productivity-engineer-go-python"
+  }
+}

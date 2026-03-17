@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-enterprise-architect",
+  "version": "0.1.0",
+  "title": "Enterprise Architect",
+  "summary": "Aligns business capabilities, platforms, and technology roadmaps so enterprise systems fit together with clearer standards, dependencies, and investment choices.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "architecture-governance"
+  },
+  "discovery": {
+    "tags": [
+      "enterprise",
+      "architect",
+      "architecture",
+      "governance"
+    ],
+    "domains": [
+      "architecture",
+      "governance"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "enterprise",
+      "architect",
+      "architecture",
+      "governance"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "enterprise-architect",
+      "architecture-governance"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/architecture-governance/software-it-enterprise-architect"
+  }
+}

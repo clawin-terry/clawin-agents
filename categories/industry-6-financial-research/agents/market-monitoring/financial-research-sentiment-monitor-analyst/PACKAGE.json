@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "financial-research-sentiment-monitor-analyst",
+    "roleTitle":  "Sentiment & Positioning Monitor Analyst",
+    "personaSummary":  "Tracks positioning extremes, narrative crowding, short-interest context, and sentiment swings that may change how price reactions should be interpreted.",
+    "industryId":  "industry-6-financial-research",
+    "roleFamilyKey":  "market-monitoring",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/financial-research-sentiment-monitor-analyst",
+                    "workspace":  "~/.openclaw/agents/financial-research-sentiment-monitor-analyst/workspace",
+                    "agentDir":  "~/.openclaw/agents/financial-research-sentiment-monitor-analyst/agent",
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
+                }
+}

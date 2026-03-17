@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-devsecops-engineer-python",
+  "version": "0.1.0",
+  "title": "DevSecOps Engineer (Python)",
+  "summary": "Builds DevSecOps workflows with Python so security checks, policy controls, and delivery pipelines work together with practical engineering discipline.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "security-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "devsecops",
+      "python",
+      "security",
+      "engineering"
+    ],
+    "domains": [
+      "security",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "devsecops",
+      "python",
+      "security",
+      "engineering"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "devsecops-python",
+      "security-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "healthcheck"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/security-engineering/software-it-devsecops-engineer-python"
+  }
+}

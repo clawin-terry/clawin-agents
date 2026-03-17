@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-livestream-ban-policy-executor-platform",
                     "workspace":  "~/.openclaw/agents/content-platform-livestream-ban-policy-executor-platform/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-livestream-ban-policy-executor-platform/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-livestream-ban-policy-executor-platform.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-livestream-ban-policy-executor-platform.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

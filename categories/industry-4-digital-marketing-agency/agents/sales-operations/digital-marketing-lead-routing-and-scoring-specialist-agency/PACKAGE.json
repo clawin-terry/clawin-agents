@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/digital-marketing-lead-routing-and-scoring-specialist-agency",
                     "workspace":  "~/.openclaw/agents/digital-marketing-lead-routing-and-scoring-specialist-agency/workspace",
                     "agentDir":  "~/.openclaw/agents/digital-marketing-lead-routing-and-scoring-specialist-agency/agent",
-                    "configEntry":  "config/openclaw.agent.digital-marketing-lead-routing-and-scoring-specialist-agency.entry.json",
-                    "configSnippet":  "config/openclaw.agent.digital-marketing-lead-routing-and-scoring-specialist-agency.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

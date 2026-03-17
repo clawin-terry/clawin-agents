@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-growth-solutions-consultant-agency",
+  "version": "0.1.0",
+  "title": "Growth Solutions Consultant (Agency)",
+  "summary": "Advises on growth solutions so agency clients receive practical plans for acquisition, funnel improvement, and campaign scaling.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "presales-solutions"
+  },
+  "discovery": {
+    "tags": [
+      "growth",
+      "solutions",
+      "presales"
+    ],
+    "domains": [
+      "presales",
+      "solutions"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "growth",
+      "solutions",
+      "presales"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "growth-solutions",
+      "solutions-presales"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/presales-solutions/digital-marketing-growth-solutions-consultant-agency"
+  }
+}

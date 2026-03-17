@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-certification-exam-operations-manager",
+  "version": "0.1.0",
+  "title": "Certification Exam Operations Manager",
+  "summary": "Runs certification exam operations so standards, scheduling, candidate experience, and result workflows remain reliable and auditable.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "training"
+  },
+  "discovery": {
+    "tags": [
+      "certification",
+      "exam",
+      "operations",
+      "training"
+    ],
+    "domains": [
+      "training"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "certification",
+      "exam",
+      "operations",
+      "training"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "certification-exam",
+      "operations-training"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/training/software-it-certification-exam-operations-manager"
+  }
+}

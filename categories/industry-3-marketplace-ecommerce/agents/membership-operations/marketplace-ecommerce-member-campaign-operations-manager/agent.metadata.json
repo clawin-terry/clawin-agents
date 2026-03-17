@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-member-campaign-operations-manager",
+  "version": "0.1.0",
+  "title": "Member Campaign Operations Manager",
+  "summary": "Runs member campaign operations so loyalty promotions, retention moments, and exclusive user programs deliver stronger marketplace engagement.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "membership-operations"
+  },
+  "discovery": {
+    "tags": [
+      "member",
+      "campaign",
+      "operations",
+      "membership"
+    ],
+    "domains": [
+      "membership",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "member",
+      "campaign",
+      "operations",
+      "membership"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "member-campaign",
+      "operations-membership"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/membership-operations/marketplace-ecommerce-member-campaign-operations-manager"
+  }
+}

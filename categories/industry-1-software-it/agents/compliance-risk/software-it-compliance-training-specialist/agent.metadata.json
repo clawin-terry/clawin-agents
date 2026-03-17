@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-compliance-training-specialist",
+  "version": "0.1.0",
+  "title": "Compliance Training Specialist",
+  "summary": "Designs and delivers compliance learning programs so employees understand obligations, expected conduct, and required control practices in daily work.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "compliance-risk"
+  },
+  "discovery": {
+    "tags": [
+      "compliance",
+      "training",
+      "risk"
+    ],
+    "domains": [
+      "compliance",
+      "risk"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "compliance",
+      "training",
+      "risk"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "compliance-training",
+      "training-risk"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/compliance-risk/software-it-compliance-training-specialist"
+  }
+}

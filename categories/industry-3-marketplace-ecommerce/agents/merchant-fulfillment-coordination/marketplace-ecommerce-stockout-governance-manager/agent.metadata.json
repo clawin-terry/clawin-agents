@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-stockout-governance-manager",
+  "version": "0.1.0",
+  "title": "Stockout Governance Manager",
+  "summary": "Leads stockout governance so merchant inventory issues are reduced and fulfillment reliability improves across the marketplace.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "merchant-fulfillment-coordination"
+  },
+  "discovery": {
+    "tags": [
+      "stockout",
+      "governance",
+      "merchant",
+      "fulfillment",
+      "coordination"
+    ],
+    "domains": [
+      "merchant",
+      "fulfillment"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "stockout",
+      "governance",
+      "merchant",
+      "fulfillment"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "stockout-governance",
+      "fulfillment-coordination"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/merchant-fulfillment-coordination/marketplace-ecommerce-stockout-governance-manager"
+  }
+}

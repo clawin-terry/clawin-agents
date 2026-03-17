@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-data-scientist-python",
+  "version": "0.1.0",
+  "title": "Data Scientist (Python)",
+  "summary": "Builds analytical models with Python so agency teams can explain performance patterns, improve forecasting, and support smarter optimization decisions.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "data-science"
+  },
+  "discovery": {
+    "tags": [
+      "data",
+      "scientist",
+      "python",
+      "science"
+    ],
+    "domains": [
+      "data",
+      "science"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "data",
+      "scientist",
+      "python",
+      "science"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "data-scientist",
+      "python-science"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/data-science/digital-marketing-data-scientist-python"
+  }
+}

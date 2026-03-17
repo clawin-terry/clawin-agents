@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-contract-counsel-platform",
+  "version": "0.1.0",
+  "title": "Contract Counsel (Platform)",
+  "summary": "Supports contract drafting, review, and negotiation so platform commercial agreements stay workable, traceable, and aligned with risk boundaries.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "legal"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "contract",
+      "counsel",
+      "legal"
+    ],
+    "domains": [
+      "legal"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "contract",
+      "counsel"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "counsel-legal"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/legal/content-platform-contract-counsel-platform"
+  }
+}

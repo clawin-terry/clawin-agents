@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-container-image-platform-engineer-go-python",
+  "version": "0.1.0",
+  "title": "Container Image Platform Engineer (Go/Python)",
+  "summary": "Builds container image platform capabilities for packaging, distribution, and supply-chain reliability with Go and Python.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "platform-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "container",
+      "image",
+      "platform",
+      "go",
+      "python",
+      "engineering"
+    ],
+    "domains": [
+      "platform",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "container",
+      "image",
+      "platform",
+      "go"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "container-image",
+      "python-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "healthcheck"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/platform-engineering/software-it-container-image-platform-engineer-go-python"
+  }
+}

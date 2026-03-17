@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-messaging-and-engagement-service-engineer-java-go",
+  "version": "0.1.0",
+  "title": "Messaging and Engagement Service Engineer (Java/Go)",
+  "summary": "Builds messaging and engagement services so campaign-triggered outreach, service reliability, and delivery coordination remain robust at scale.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "marketing-automation-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "messaging",
+      "and",
+      "engagement",
+      "service",
+      "java",
+      "go",
+      "automation",
+      "engineering"
+    ],
+    "domains": [
+      "automation",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "messaging",
+      "and",
+      "engagement",
+      "service"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "messaging-and",
+      "automation-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/marketing-automation-engineering/digital-marketing-messaging-and-engagement-service-engineer-java-go"
+  }
+}

@@ -34,7 +34,7 @@ https://agents.clawin.club/releases/<release>/catalogs/published/catalog.json
 Current full-catalog public release:
 
 ```bash
-clawin catalog refresh --catalog https://agents.clawin.club/releases/2026-03-15-p2-full-catalog-1343-agent/catalogs/published/catalog.json
+clawin catalog refresh --catalog https://agents.clawin.club/releases/2026-03-18-p6-full-catalog-1395-agent/catalogs/published/catalog.json
 ```
 
 Current scoped financial research release (52 agents):

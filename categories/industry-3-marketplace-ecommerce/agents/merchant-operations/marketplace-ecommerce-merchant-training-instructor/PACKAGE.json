@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-merchant-training-instructor",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-merchant-training-instructor/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-merchant-training-instructor/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-merchant-training-instructor.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-merchant-training-instructor.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

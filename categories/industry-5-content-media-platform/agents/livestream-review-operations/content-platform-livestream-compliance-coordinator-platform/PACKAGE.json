@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-livestream-compliance-coordinator-platform",
                     "workspace":  "~/.openclaw/agents/content-platform-livestream-compliance-coordinator-platform/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-livestream-compliance-coordinator-platform/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-livestream-compliance-coordinator-platform.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-livestream-compliance-coordinator-platform.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

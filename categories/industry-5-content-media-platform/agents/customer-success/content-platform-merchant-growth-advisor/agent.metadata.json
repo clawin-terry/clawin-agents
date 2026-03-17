@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-merchant-growth-advisor",
+  "version": "0.1.0",
+  "title": "Merchant Growth Advisor",
+  "summary": "Advises merchants on growth so advertising adoption, campaign maturity, and commercial performance improve through practical platform guidance.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "customer-success"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "merchant",
+      "growth",
+      "advisor",
+      "customer",
+      "success"
+    ],
+    "domains": [
+      "customer",
+      "success"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "merchant",
+      "growth"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "content-platform",
+      "customer-success"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/customer-success/content-platform-merchant-growth-advisor"
+  }
+}

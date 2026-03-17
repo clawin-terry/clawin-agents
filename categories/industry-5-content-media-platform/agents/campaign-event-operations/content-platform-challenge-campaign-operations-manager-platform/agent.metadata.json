@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-challenge-campaign-operations-manager-platform",
+  "version": "0.1.0",
+  "title": "Challenge Campaign Operations Manager (Platform)",
+  "summary": "Runs challenge-campaign operations so participation mechanics, creator submissions, and promotional momentum turn platform challenges into stronger growth moments.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "campaign-event-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "challenge",
+      "campaign",
+      "operations",
+      "event"
+    ],
+    "domains": [
+      "campaign",
+      "event"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "challenge",
+      "campaign"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "operations-event"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/campaign-event-operations/content-platform-challenge-campaign-operations-manager-platform"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-cmdb-engineer-java-python",
+  "version": "0.1.0",
+  "title": "CMDB Engineer (Java/Python)",
+  "summary": "Builds and maintains CMDB capabilities with Java and Python to improve configuration visibility, service mapping accuracy, and change impact awareness.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "release-management"
+  },
+  "discovery": {
+    "tags": [
+      "cmdb",
+      "java",
+      "python",
+      "release",
+      "management"
+    ],
+    "domains": [
+      "release",
+      "management"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "cmdb",
+      "java",
+      "python",
+      "release"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "cmdb-java",
+      "release-management"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "healthcheck"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/release-management/software-it-cmdb-engineer-java-python"
+  }
+}

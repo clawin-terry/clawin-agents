@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/financial-research-screener-strategy-analyst",
                     "workspace":  "~/.openclaw/agents/financial-research-screener-strategy-analyst/workspace",
                     "agentDir":  "~/.openclaw/agents/financial-research-screener-strategy-analyst/agent",
-                    "configEntry":  "config/openclaw.agent.financial-research-screener-strategy-analyst.entry.json",
-                    "configSnippet":  "config/openclaw.agent.financial-research-screener-strategy-analyst.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

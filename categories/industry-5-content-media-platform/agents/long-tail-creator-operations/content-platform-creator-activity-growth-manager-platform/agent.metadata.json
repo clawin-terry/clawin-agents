@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-creator-activity-growth-manager-platform",
+  "version": "0.1.0",
+  "title": "Creator Activity Growth Manager (Platform)",
+  "summary": "Improves creator activity so dormant or low-frequency creators publish more consistently and respond better to platform growth programs.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "long-tail-creator-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "creator",
+      "activity",
+      "growth",
+      "long",
+      "tail",
+      "operations"
+    ],
+    "domains": [
+      "long",
+      "tail"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "creator",
+      "activity"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "content-platform",
+      "tail-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/long-tail-creator-operations/content-platform-creator-activity-growth-manager-platform"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-brand-strategy-manager",
+  "version": "0.1.0",
+  "title": "Brand Strategy Manager",
+  "summary": "Owns brand strategy so the platform's positioning, audience narrative, and commercial reputation stay coherent across major campaigns and market moments.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "brand-marketing"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "brand",
+      "strategy"
+    ],
+    "domains": [
+      "brand"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "brand",
+      "strategy"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "content-platform",
+      "brand-strategy"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/brand-marketing/content-platform-brand-strategy-manager"
+  }
+}

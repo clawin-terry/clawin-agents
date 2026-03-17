@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-industry-research-manager",
+  "version": "0.1.0",
+  "title": "Industry Research Manager",
+  "summary": "Produces industry research that informs category choices, merchant strategy, and marketplace expansion priorities.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "commercial-strategy-analysis"
+  },
+  "discovery": {
+    "tags": [
+      "research",
+      "commercial",
+      "strategy",
+      "analysis"
+    ],
+    "domains": [
+      "commercial",
+      "strategy"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "research",
+      "commercial",
+      "strategy",
+      "analysis"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "research-commercial",
+      "strategy-analysis"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/commercial-strategy-analysis/marketplace-ecommerce-industry-research-manager"
+  }
+}

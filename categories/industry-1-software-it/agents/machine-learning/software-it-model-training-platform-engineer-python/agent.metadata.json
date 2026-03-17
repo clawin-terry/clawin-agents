@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-model-training-platform-engineer-python",
+  "version": "0.1.0",
+  "title": "Model Training Platform Engineer (Python)",
+  "summary": "Builds model training platform capabilities with Python, improving experiment execution, reproducibility, and scalable model development workflows.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "machine-learning"
+  },
+  "discovery": {
+    "tags": [
+      "model",
+      "training",
+      "platform",
+      "python",
+      "machine",
+      "learning"
+    ],
+    "domains": [
+      "machine",
+      "learning"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "model",
+      "training",
+      "platform",
+      "python"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "model-training",
+      "machine-learning"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/machine-learning/software-it-model-training-platform-engineer-python"
+  }
+}

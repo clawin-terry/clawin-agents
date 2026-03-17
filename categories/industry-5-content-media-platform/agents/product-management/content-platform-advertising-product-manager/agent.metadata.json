@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-advertising-product-manager",
+  "version": "0.1.0",
+  "title": "Advertising Product Manager",
+  "summary": "Owns advertising products so ad formats, delivery experiences, and monetization surfaces create stronger value for advertisers while protecting user experience.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "product-management"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "advertising",
+      "product",
+      "management"
+    ],
+    "domains": [
+      "product",
+      "management"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "advertising",
+      "product"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "product-management"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/product-management/content-platform-advertising-product-manager"
+  }
+}

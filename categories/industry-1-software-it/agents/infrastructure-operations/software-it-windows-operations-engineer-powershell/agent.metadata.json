@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-windows-operations-engineer-powershell",
+  "version": "0.1.0",
+  "title": "Windows Operations Engineer (PowerShell)",
+  "summary": "Operates Windows-based infrastructure with PowerShell automation, improving system reliability, operational consistency, and support responsiveness.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "infrastructure-operations"
+  },
+  "discovery": {
+    "tags": [
+      "windows",
+      "operations",
+      "powershell",
+      "infrastructure"
+    ],
+    "domains": [
+      "infrastructure",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "windows",
+      "operations",
+      "powershell",
+      "infrastructure"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "windows-operations",
+      "powershell-infrastructure"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "healthcheck"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/infrastructure-operations/software-it-windows-operations-engineer-powershell"
+  }
+}

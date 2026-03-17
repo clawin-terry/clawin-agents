@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-accounts-payable-accountant",
+  "version": "0.1.0",
+  "title": "Accounts Payable Accountant",
+  "summary": "Runs payables accounting so supplier invoices, payment records, and liability balances are processed accurately and on time.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "accounting"
+  },
+  "discovery": {
+    "tags": [
+      "accounts",
+      "payable",
+      "accountant",
+      "accounting"
+    ],
+    "domains": [
+      "accounting"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "accounts",
+      "payable",
+      "accountant",
+      "accounting"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "accounts-payable",
+      "accountant-accounting"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/accounting/software-it-accounts-payable-accountant"
+  }
+}

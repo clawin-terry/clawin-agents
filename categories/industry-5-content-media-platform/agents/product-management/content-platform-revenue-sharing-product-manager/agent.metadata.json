@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-revenue-sharing-product-manager",
+  "version": "0.1.0",
+  "title": "Revenue Sharing Product Manager",
+  "summary": "Owns revenue-sharing products so creator payouts, settlement logic, and monetization incentives stay transparent, scalable, and easier to operate.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "product-management"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "revenue",
+      "sharing",
+      "product",
+      "management"
+    ],
+    "domains": [
+      "product",
+      "management"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "revenue",
+      "sharing"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "product-management"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/product-management/content-platform-revenue-sharing-product-manager"
+  }
+}

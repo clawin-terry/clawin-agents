@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-roi-analytics-manager",
                     "workspace":  "~/.openclaw/agents/content-platform-roi-analytics-manager/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-roi-analytics-manager/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-roi-analytics-manager.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-roi-analytics-manager.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

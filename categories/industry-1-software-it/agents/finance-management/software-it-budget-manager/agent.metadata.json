@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-budget-manager",
+  "version": "0.1.0",
+  "title": "Budget Manager",
+  "summary": "Runs budgeting processes so spending plans, assumptions, and accountability mechanisms support disciplined execution across teams and time periods.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "finance-management"
+  },
+  "discovery": {
+    "tags": [
+      "budget",
+      "finance",
+      "management"
+    ],
+    "domains": [
+      "finance",
+      "management"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "budget",
+      "finance",
+      "management"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "budget-finance",
+      "finance-management"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/finance-management/software-it-budget-manager"
+  }
+}

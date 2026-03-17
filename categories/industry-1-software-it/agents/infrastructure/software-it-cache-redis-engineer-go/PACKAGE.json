@@ -16,7 +16,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-cache-redis-engineer-go",
                     "workspace":  "~/.openclaw/agents/software-it-cache-redis-engineer-go/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-cache-redis-engineer-go/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-cache-redis-engineer-go.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-cache-redis-engineer-go.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

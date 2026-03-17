@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-retrospective-improvement-specialist",
                     "workspace":  "~/.openclaw/agents/software-it-retrospective-improvement-specialist/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-retrospective-improvement-specialist/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-retrospective-improvement-specialist.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-retrospective-improvement-specialist.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

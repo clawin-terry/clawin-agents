@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-administrative-receptionist",
                     "workspace":  "~/.openclaw/agents/software-it-administrative-receptionist/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-administrative-receptionist/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-administrative-receptionist.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-administrative-receptionist.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

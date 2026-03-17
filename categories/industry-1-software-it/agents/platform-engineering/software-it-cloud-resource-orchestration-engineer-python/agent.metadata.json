@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-cloud-resource-orchestration-engineer-python",
+  "version": "0.1.0",
+  "title": "Cloud Resource Orchestration Engineer (Python)",
+  "summary": "Builds cloud resource orchestration capabilities that provision, coordinate, and govern infrastructure with Python automation.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "platform-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "cloud",
+      "resource",
+      "orchestration",
+      "python",
+      "platform",
+      "engineering"
+    ],
+    "domains": [
+      "platform",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "cloud",
+      "resource",
+      "orchestration",
+      "python"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "cloud-resource",
+      "platform-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "healthcheck"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/platform-engineering/software-it-cloud-resource-orchestration-engineer-python"
+  }
+}

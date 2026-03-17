@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-supply-structure-analyst",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-supply-structure-analyst/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-supply-structure-analyst/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-supply-structure-analyst.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-supply-structure-analyst.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

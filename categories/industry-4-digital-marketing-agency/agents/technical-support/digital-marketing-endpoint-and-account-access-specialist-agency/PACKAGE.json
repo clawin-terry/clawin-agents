@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/digital-marketing-endpoint-and-account-access-specialist-agency",
                     "workspace":  "~/.openclaw/agents/digital-marketing-endpoint-and-account-access-specialist-agency/workspace",
                     "agentDir":  "~/.openclaw/agents/digital-marketing-endpoint-and-account-access-specialist-agency/agent",
-                    "configEntry":  "config/openclaw.agent.digital-marketing-endpoint-and-account-access-specialist-agency.entry.json",
-                    "configSnippet":  "config/openclaw.agent.digital-marketing-endpoint-and-account-access-specialist-agency.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

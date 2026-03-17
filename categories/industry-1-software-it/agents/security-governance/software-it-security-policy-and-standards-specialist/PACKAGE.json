@@ -16,7 +16,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-security-policy-and-standards-specialist",
                     "workspace":  "~/.openclaw/agents/software-it-security-policy-and-standards-specialist/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-security-policy-and-standards-specialist/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-security-policy-and-standards-specialist.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-security-policy-and-standards-specialist.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

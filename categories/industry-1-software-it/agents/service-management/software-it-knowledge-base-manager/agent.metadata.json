@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-knowledge-base-manager",
+  "version": "0.1.0",
+  "title": "Knowledge Base Manager",
+  "summary": "Owns knowledge base operations so support content remains accurate, searchable, and useful for both internal teams and customers.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "service-management"
+  },
+  "discovery": {
+    "tags": [
+      "knowledge",
+      "base",
+      "service",
+      "management"
+    ],
+    "domains": [
+      "service",
+      "management"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "knowledge",
+      "base",
+      "service",
+      "management"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "knowledge-base",
+      "service-management"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/service-management/software-it-knowledge-base-manager"
+  }
+}

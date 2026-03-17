@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-defect-management-specialist",
+  "version": "0.1.0",
+  "title": "Defect Management Specialist",
+  "summary": "Improves defect intake, triage, prioritization, and resolution workflows so engineering teams can address quality issues efficiently and systematically.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "quality-assurance"
+  },
+  "discovery": {
+    "tags": [
+      "defect",
+      "management",
+      "quality",
+      "assurance"
+    ],
+    "domains": [
+      "quality",
+      "assurance"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "defect",
+      "management",
+      "quality",
+      "assurance"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "defect-management",
+      "quality-assurance"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/quality-assurance/software-it-defect-management-specialist"
+  }
+}

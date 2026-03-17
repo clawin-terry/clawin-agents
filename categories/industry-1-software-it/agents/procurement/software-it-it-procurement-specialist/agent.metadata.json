@@ -1,0 +1,51 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-it-procurement-specialist",
+  "version": "0.1.0",
+  "title": "IT Procurement Specialist",
+  "summary": "Handles IT procurement workflows so technology purchasing, vendor coordination, and request execution stay timely and policy-aligned.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "procurement"
+  },
+  "discovery": {
+    "tags": [
+      "procurement"
+    ],
+    "domains": [
+      "procurement"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "procurement"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "procurement"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/procurement/software-it-it-procurement-specialist"
+  }
+}

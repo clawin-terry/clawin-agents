@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-review-workbench-product-manager",
+  "version": "0.1.0",
+  "title": "Review Workbench Product Manager",
+  "summary": "Owns reviewer workbench workflows so moderation queues, decision efficiency, and operator ergonomics improve across trust-and-safety operations.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "platform-product-management"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "review",
+      "workbench",
+      "product",
+      "management"
+    ],
+    "domains": [
+      "platform",
+      "product"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "review",
+      "workbench"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "product-management"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/platform-product-management/content-platform-review-workbench-product-manager"
+  }
+}

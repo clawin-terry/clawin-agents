@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-content-strategy-manager",
+  "version": "0.1.0",
+  "title": "Content Strategy Manager",
+  "summary": "Leads content strategy so product and brand messages stay consistent, useful, and aligned with user journeys across channels.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "content-experience"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "strategy",
+      "experience"
+    ],
+    "domains": [
+      "content",
+      "experience"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "strategy",
+      "experience"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "content-strategy",
+      "strategy-experience"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "ui-ux-pro-max"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/content-experience/software-it-content-strategy-manager"
+  }
+}

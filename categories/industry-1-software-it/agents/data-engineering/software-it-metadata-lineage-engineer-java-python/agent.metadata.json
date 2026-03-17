@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-metadata-lineage-engineer-java-python",
+  "version": "0.1.0",
+  "title": "Metadata and Lineage Engineer (Java/Python)",
+  "summary": "Builds metadata and lineage capabilities with Java and Python so data assets remain discoverable, explainable, and governed across the platform.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "data-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "metadata",
+      "lineage",
+      "java",
+      "python",
+      "and",
+      "data",
+      "engineering"
+    ],
+    "domains": [
+      "data",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "metadata",
+      "lineage",
+      "java",
+      "python"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "metadata-lineage",
+      "data-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/data-engineering/software-it-metadata-lineage-engineer-java-python"
+  }
+}

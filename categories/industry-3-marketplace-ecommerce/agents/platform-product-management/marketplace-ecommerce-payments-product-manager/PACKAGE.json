@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-payments-product-manager",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-payments-product-manager/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-payments-product-manager/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-payments-product-manager.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-payments-product-manager.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

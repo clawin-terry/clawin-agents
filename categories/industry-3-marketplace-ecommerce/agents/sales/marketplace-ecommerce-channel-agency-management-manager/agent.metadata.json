@@ -1,0 +1,56 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-channel-agency-management-manager",
+  "version": "0.1.0",
+  "title": "Channel Agency Management Manager",
+  "summary": "Manages channel agencies so partner-sourced advertising demand, execution standards, and growth targets stay aligned with marketplace commercial goals.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "sales"
+  },
+  "discovery": {
+    "tags": [
+      "channel",
+      "management",
+      "sales"
+    ],
+    "domains": [
+      "sales"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "channel",
+      "management",
+      "sales"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "channel-management",
+      "management-sales"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/sales/marketplace-ecommerce-channel-agency-management-manager"
+  }
+}

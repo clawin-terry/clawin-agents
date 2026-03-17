@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-instructor-management-specialist",
+  "version": "0.1.0",
+  "title": "Instructor Management Specialist",
+  "summary": "Coordinates instructor management so trainer capacity, schedules, and delivery quality remain organized across learning programs.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "learning-development"
+  },
+  "discovery": {
+    "tags": [
+      "instructor",
+      "management",
+      "learning",
+      "development"
+    ],
+    "domains": [
+      "learning",
+      "development"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "instructor",
+      "management",
+      "learning",
+      "development"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "instructor-management",
+      "learning-development"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/learning-development/software-it-instructor-management-specialist"
+  }
+}

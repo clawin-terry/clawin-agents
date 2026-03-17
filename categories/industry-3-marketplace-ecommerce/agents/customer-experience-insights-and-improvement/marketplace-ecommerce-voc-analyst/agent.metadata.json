@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-voc-analyst",
+  "version": "0.1.0",
+  "title": "Voice of Customer Analyst",
+  "summary": "Analyzes voice-of-customer feedback so marketplace service, policy, and product issues become visible and actionable.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "customer-experience-insights-and-improvement"
+  },
+  "discovery": {
+    "tags": [
+      "voc",
+      "voice",
+      "of",
+      "customer",
+      "experience",
+      "insights",
+      "and",
+      "improvement"
+    ],
+    "domains": [
+      "customer",
+      "experience"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "voc",
+      "customer",
+      "experience",
+      "insights"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "voc-customer",
+      "and-improvement"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/customer-experience-insights-and-improvement/marketplace-ecommerce-voc-analyst"
+  }
+}

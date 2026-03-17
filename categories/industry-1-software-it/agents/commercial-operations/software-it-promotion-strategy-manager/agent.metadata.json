@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-promotion-strategy-manager",
+  "version": "0.1.0",
+  "title": "Promotion Strategy Manager",
+  "summary": "Shapes promotional strategy so discounts, campaigns, and limited-time offers drive measurable demand without eroding commercial discipline.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "commercial-operations"
+  },
+  "discovery": {
+    "tags": [
+      "promotion",
+      "strategy",
+      "commercial",
+      "operations"
+    ],
+    "domains": [
+      "commercial",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "promotion",
+      "strategy",
+      "commercial",
+      "operations"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "promotion-strategy",
+      "commercial-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/commercial-operations/software-it-promotion-strategy-manager"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-campaign-venue-operations-manager",
+  "version": "0.1.0",
+  "title": "Campaign Venue Operations Manager",
+  "summary": "Runs campaign venue operations so marketplace event landing areas are configured, merchandised, and maintained with strong execution discipline.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "campaign-operations"
+  },
+  "discovery": {
+    "tags": [
+      "campaign",
+      "venue",
+      "operations"
+    ],
+    "domains": [
+      "campaign",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "campaign",
+      "venue",
+      "operations"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "campaign-venue",
+      "venue-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/campaign-operations/marketplace-ecommerce-campaign-venue-operations-manager"
+  }
+}

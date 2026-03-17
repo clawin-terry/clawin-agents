@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-model-and-strategy-effectiveness-analyst-platform",
                     "workspace":  "~/.openclaw/agents/content-platform-model-and-strategy-effectiveness-analyst-platform/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-model-and-strategy-effectiveness-analyst-platform/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-model-and-strategy-effectiveness-analyst-platform.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-model-and-strategy-effectiveness-analyst-platform.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

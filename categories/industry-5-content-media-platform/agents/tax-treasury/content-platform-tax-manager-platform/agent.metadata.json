@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-tax-manager-platform",
+  "version": "0.1.0",
+  "title": "Tax Manager (Platform)",
+  "summary": "Leads tax operations so platform revenue, creator settlement flows, and entity obligations remain compliant across domestic and cross-border scenarios.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "tax-treasury"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "tax",
+      "treasury"
+    ],
+    "domains": [
+      "tax",
+      "treasury"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "tax",
+      "treasury"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "tax-treasury"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/tax-treasury/content-platform-tax-manager-platform"
+  }
+}

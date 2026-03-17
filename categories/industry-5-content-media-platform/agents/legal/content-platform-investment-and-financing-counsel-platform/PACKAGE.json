@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-investment-and-financing-counsel-platform",
                     "workspace":  "~/.openclaw/agents/content-platform-investment-and-financing-counsel-platform/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-investment-and-financing-counsel-platform/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-investment-and-financing-counsel-platform.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-investment-and-financing-counsel-platform.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

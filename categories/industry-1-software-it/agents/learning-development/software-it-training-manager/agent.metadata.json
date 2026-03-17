@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-training-manager",
+  "version": "0.1.0",
+  "title": "Training Manager",
+  "summary": "Leads training programs so capability priorities, learning plans, and delivery operations stay aligned with business and workforce needs.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "learning-development"
+  },
+  "discovery": {
+    "tags": [
+      "training",
+      "learning",
+      "development"
+    ],
+    "domains": [
+      "learning",
+      "development"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "training",
+      "learning",
+      "development"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "training-learning",
+      "learning-development"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/learning-development/software-it-training-manager"
+  }
+}

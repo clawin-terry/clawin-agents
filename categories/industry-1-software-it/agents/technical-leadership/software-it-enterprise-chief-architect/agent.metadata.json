@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-enterprise-chief-architect",
+  "version": "0.1.0",
+  "title": "Enterprise Chief Architect",
+  "summary": "Owns enterprise architecture direction so major systems, technical standards, and long-range platform choices stay coherent and scalable across the company.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "technical-leadership"
+  },
+  "discovery": {
+    "tags": [
+      "enterprise",
+      "chief",
+      "architect",
+      "technical",
+      "leadership"
+    ],
+    "domains": [
+      "technical",
+      "leadership"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "enterprise",
+      "chief",
+      "architect",
+      "technical"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "enterprise-chief",
+      "technical-leadership"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/technical-leadership/software-it-enterprise-chief-architect"
+  }
+}

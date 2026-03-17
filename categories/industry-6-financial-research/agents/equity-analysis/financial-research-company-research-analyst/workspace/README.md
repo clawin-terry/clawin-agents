@@ -3,7 +3,7 @@
 This workspace powers the **Company Research Analyst** OpenClaw agent.
 
 ## Domain focus
-Builds a fundamentals-first company view covering business model, management quality, competitive position, operating drivers, and catalyst context for US-listed equities.
+Builds a fundamentals-first company view covering business model, management quality, competitive position, operating drivers, and catalyst context for listed companies.
 
 ## What it does
 - Turns requests into concrete, shippable outputs.

@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-paid-traffic-coordination-specialist-agency",
+  "version": "0.1.0",
+  "title": "Paid Traffic Coordination Specialist (Agency)",
+  "summary": "Coordinates paid traffic support so agency livestream teams can connect media pacing, event timing, and in-session demand generation more effectively.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "livestream-operations"
+  },
+  "discovery": {
+    "tags": [
+      "paid",
+      "traffic",
+      "coordination",
+      "livestream",
+      "operations"
+    ],
+    "domains": [
+      "livestream",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "paid",
+      "traffic",
+      "coordination",
+      "livestream"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "paid-traffic",
+      "livestream-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/livestream-operations/digital-marketing-paid-traffic-coordination-specialist-agency"
+  }
+}

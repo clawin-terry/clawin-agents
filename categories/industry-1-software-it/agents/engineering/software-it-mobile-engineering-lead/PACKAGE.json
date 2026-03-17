@@ -16,7 +16,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-mobile-engineering-lead",
                     "workspace":  "~/.openclaw/agents/software-it-mobile-engineering-lead/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-mobile-engineering-lead/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-mobile-engineering-lead.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-mobile-engineering-lead.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

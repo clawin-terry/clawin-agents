@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-integrated-marketing-manager",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-integrated-marketing-manager/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-integrated-marketing-manager/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-integrated-marketing-manager.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-integrated-marketing-manager.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

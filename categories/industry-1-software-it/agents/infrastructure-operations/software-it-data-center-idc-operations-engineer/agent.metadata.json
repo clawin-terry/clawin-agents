@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-data-center-idc-operations-engineer",
+  "version": "0.1.0",
+  "title": "Data Center and IDC Operations Engineer",
+  "summary": "Operates data center and IDC environments, coordinating facility reliability, hardware readiness, and execution discipline for on-site infrastructure services.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "infrastructure-operations"
+  },
+  "discovery": {
+    "tags": [
+      "data",
+      "center",
+      "idc",
+      "operations",
+      "and",
+      "infrastructure"
+    ],
+    "domains": [
+      "infrastructure",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "data",
+      "center",
+      "idc",
+      "operations"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "data-center",
+      "operations-infrastructure"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "healthcheck"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/infrastructure-operations/software-it-data-center-idc-operations-engineer"
+  }
+}

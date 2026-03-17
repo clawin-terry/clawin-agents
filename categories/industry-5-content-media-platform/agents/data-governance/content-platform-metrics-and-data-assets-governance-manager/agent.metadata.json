@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-metrics-and-data-assets-governance-manager",
+  "version": "0.1.0",
+  "title": "Metrics and Data Assets Governance Manager",
+  "summary": "Leads metrics governance and data asset management so KPI definitions, shared datasets, and analytical standards stay coherent across the platform.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "data-governance"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "metrics",
+      "and",
+      "data",
+      "assets",
+      "governance"
+    ],
+    "domains": [
+      "data",
+      "governance"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "metrics",
+      "and"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "assets-governance"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/data-governance/content-platform-metrics-and-data-assets-governance-manager"
+  }
+}

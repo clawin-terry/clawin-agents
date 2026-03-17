@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-quality-management-system-manager",
+  "version": "0.1.0",
+  "title": "Quality Management System Manager",
+  "summary": "Builds and maintains quality management system practices, controls, and audit-ready processes that improve consistency across software delivery.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "quality-assurance"
+  },
+  "discovery": {
+    "tags": [
+      "quality",
+      "management",
+      "system",
+      "assurance"
+    ],
+    "domains": [
+      "quality",
+      "assurance"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "quality",
+      "management",
+      "system",
+      "assurance"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "quality-management",
+      "system-assurance"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/quality-assurance/software-it-quality-management-system-manager"
+  }
+}

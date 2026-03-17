@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-merchant-growth-path-operations-manager",
+  "version": "0.1.0",
+  "title": "Merchant Growth Path Operations Manager",
+  "summary": "Designs and runs merchant growth path programs that improve seller progression, milestone completion, and long-term platform performance.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "merchant-operations"
+  },
+  "discovery": {
+    "tags": [
+      "merchant",
+      "growth",
+      "path",
+      "operations"
+    ],
+    "domains": [
+      "merchant",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "merchant",
+      "growth",
+      "path",
+      "operations"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "merchant-growth",
+      "path-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/merchant-operations/marketplace-ecommerce-merchant-growth-path-operations-manager"
+  }
+}

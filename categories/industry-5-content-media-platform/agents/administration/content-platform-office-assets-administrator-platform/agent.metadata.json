@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-office-assets-administrator-platform",
+  "version": "0.1.0",
+  "title": "Office Assets Administrator (Platform)",
+  "summary": "Manages office asset inventory and lifecycle controls so workspace equipment, supplies, and ownership records remain accurate and audit-ready.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "administration"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "office",
+      "assets",
+      "administrator",
+      "administration"
+    ],
+    "domains": [
+      "administration"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "office",
+      "assets"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "administrator-administration"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/administration/content-platform-office-assets-administrator-platform"
+  }
+}

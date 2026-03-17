@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-problem-manager",
+  "version": "0.1.0",
+  "title": "Problem Manager",
+  "summary": "Leads problem management so recurring issues, root causes, and systemic fixes are tracked through structured service improvement work.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "service-management"
+  },
+  "discovery": {
+    "tags": [
+      "problem",
+      "service",
+      "management"
+    ],
+    "domains": [
+      "service",
+      "management"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "problem",
+      "service",
+      "management"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "problem-service",
+      "service-management"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/service-management/software-it-problem-manager"
+  }
+}

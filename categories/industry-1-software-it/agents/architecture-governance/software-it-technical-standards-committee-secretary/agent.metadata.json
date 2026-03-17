@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-technical-standards-committee-secretary",
+  "version": "0.1.0",
+  "title": "Technical Standards Committee Secretary",
+  "summary": "Supports standards governance by organizing committee workflows, records, and follow-through so technical decisions remain documented, consistent, and actionable.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "architecture-governance"
+  },
+  "discovery": {
+    "tags": [
+      "technical",
+      "standards",
+      "committee",
+      "secretary",
+      "architecture",
+      "governance"
+    ],
+    "domains": [
+      "architecture",
+      "governance"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "technical",
+      "standards",
+      "committee",
+      "secretary"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "technical-standards",
+      "architecture-governance"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/architecture-governance/software-it-technical-standards-committee-secretary"
+  }
+}

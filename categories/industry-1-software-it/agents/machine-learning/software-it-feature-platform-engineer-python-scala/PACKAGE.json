@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-feature-platform-engineer-python-scala",
                     "workspace":  "~/.openclaw/agents/software-it-feature-platform-engineer-python-scala/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-feature-platform-engineer-python-scala/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-feature-platform-engineer-python-scala.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-feature-platform-engineer-python-scala.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

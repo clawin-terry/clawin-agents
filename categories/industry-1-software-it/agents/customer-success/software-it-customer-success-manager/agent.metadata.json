@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-customer-success-manager",
+  "version": "0.1.0",
+  "title": "Customer Success Manager",
+  "summary": "Owns customer success execution through adoption guidance, relationship management, and proactive coordination around account health.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "customer-success"
+  },
+  "discovery": {
+    "tags": [
+      "customer",
+      "success"
+    ],
+    "domains": [
+      "customer",
+      "success"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "customer",
+      "success"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "customer-success"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/customer-success/software-it-customer-success-manager"
+  }
+}

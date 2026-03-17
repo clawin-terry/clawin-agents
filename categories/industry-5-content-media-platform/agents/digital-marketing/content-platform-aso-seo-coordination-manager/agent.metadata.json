@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-aso-seo-coordination-manager",
+  "version": "0.1.0",
+  "title": "ASO and SEO Coordination Manager",
+  "summary": "Coordinates ASO and SEO programs so organic discovery improves across app stores, search surfaces, and cross-channel growth workflows.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "digital-marketing"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "aso",
+      "seo",
+      "coordination",
+      "and"
+    ],
+    "domains": [
+      "content",
+      "platform"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "aso",
+      "seo"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "content-platform",
+      "seo-coordination"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "browser"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/digital-marketing/content-platform-aso-seo-coordination-manager"
+  }
+}

@@ -16,7 +16,7 @@
                     "targetRoot":  "~/.openclaw/agents/digital-marketing-information-security-lead-agency",
                     "workspace":  "~/.openclaw/agents/digital-marketing-information-security-lead-agency/workspace",
                     "agentDir":  "~/.openclaw/agents/digital-marketing-information-security-lead-agency/agent",
-                    "configEntry":  "config/openclaw.agent.digital-marketing-information-security-lead-agency.entry.json",
-                    "configSnippet":  "config/openclaw.agent.digital-marketing-information-security-lead-agency.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

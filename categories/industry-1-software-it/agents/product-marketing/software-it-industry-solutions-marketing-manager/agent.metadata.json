@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-industry-solutions-marketing-manager",
+  "version": "0.1.0",
+  "title": "Industry Solutions Marketing Manager",
+  "summary": "Builds market-facing narratives and materials for industry solutions so value propositions land clearly with target segments and buyers.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "product-marketing"
+  },
+  "discovery": {
+    "tags": [
+      "solutions",
+      "product"
+    ],
+    "domains": [
+      "product"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "solutions",
+      "product"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "solutions-product"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/product-marketing/software-it-industry-solutions-marketing-manager"
+  }
+}

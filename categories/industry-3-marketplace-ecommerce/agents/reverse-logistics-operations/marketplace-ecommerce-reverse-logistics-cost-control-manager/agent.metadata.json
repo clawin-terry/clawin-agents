@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-reverse-logistics-cost-control-manager",
+  "version": "0.1.0",
+  "title": "Reverse Logistics Cost Control Manager",
+  "summary": "Controls reverse logistics costs so returns and exchange programs stay operationally sustainable at marketplace scale.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "reverse-logistics-operations"
+  },
+  "discovery": {
+    "tags": [
+      "reverse",
+      "logistics",
+      "cost",
+      "control",
+      "operations"
+    ],
+    "domains": [
+      "reverse",
+      "logistics"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "reverse",
+      "logistics",
+      "cost",
+      "control"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "reverse-logistics",
+      "control-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/reverse-logistics-operations/marketplace-ecommerce-reverse-logistics-cost-control-manager"
+  }
+}

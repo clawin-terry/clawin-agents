@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-gross-margin-modeling-analyst",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-gross-margin-modeling-analyst/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-gross-margin-modeling-analyst/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-gross-margin-modeling-analyst.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-gross-margin-modeling-analyst.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

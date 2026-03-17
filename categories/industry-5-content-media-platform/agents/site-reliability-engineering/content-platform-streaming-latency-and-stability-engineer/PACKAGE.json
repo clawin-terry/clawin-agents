@@ -16,7 +16,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-streaming-latency-and-stability-engineer",
                     "workspace":  "~/.openclaw/agents/content-platform-streaming-latency-and-stability-engineer/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-streaming-latency-and-stability-engineer/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-streaming-latency-and-stability-engineer.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-streaming-latency-and-stability-engineer.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

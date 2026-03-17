@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-conversion-tracking-solution-architect",
+  "version": "0.1.0",
+  "title": "Conversion Tracking Solution Architect",
+  "summary": "Designs conversion tracking solutions so campaign signals, event definitions, and downstream measurement workflows remain technically sound and usable.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "attribution-measurement"
+  },
+  "discovery": {
+    "tags": [
+      "conversion",
+      "tracking",
+      "solution",
+      "architect",
+      "attribution",
+      "measurement"
+    ],
+    "domains": [
+      "attribution",
+      "measurement"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "conversion",
+      "tracking",
+      "solution",
+      "architect"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "conversion-tracking",
+      "attribution-measurement"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/attribution-measurement/digital-marketing-conversion-tracking-solution-architect"
+  }
+}

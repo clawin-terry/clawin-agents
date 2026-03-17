@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-board-affairs-manager",
+  "version": "0.1.0",
+  "title": "Board Affairs Manager",
+  "summary": "Runs board affairs workflows so agendas, materials, approvals, and follow-through stay accurate, timely, and audit-ready.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "governance-secretariat"
+  },
+  "discovery": {
+    "tags": [
+      "board",
+      "affairs",
+      "governance",
+      "secretariat"
+    ],
+    "domains": [
+      "governance",
+      "secretariat"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "board",
+      "affairs",
+      "governance",
+      "secretariat"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "board-affairs",
+      "governance-secretariat"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/governance-secretariat/software-it-board-affairs-manager"
+  }
+}

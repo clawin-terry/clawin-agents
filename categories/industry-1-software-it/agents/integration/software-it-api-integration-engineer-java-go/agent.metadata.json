@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-api-integration-engineer-java-go",
+  "version": "0.1.0",
+  "title": "API Integration Engineer (Java/Go)",
+  "summary": "Builds and adapts API integrations with Java and Go so system connectivity, contract handling, and implementation reliability stay strong.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "integration"
+  },
+  "discovery": {
+    "tags": [
+      "api",
+      "integration",
+      "java",
+      "go"
+    ],
+    "domains": [
+      "integration"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "api",
+      "integration",
+      "java",
+      "go"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "api-integration",
+      "java-go"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/integration/software-it-api-integration-engineer-java-go"
+  }
+}

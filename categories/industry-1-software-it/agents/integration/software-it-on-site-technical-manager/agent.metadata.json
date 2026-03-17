@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-on-site-technical-manager",
+  "version": "0.1.0",
+  "title": "On-Site Technical Manager",
+  "summary": "Leads on-site technical execution so implementation coordination, escalation handling, and customer-facing delivery progress stay controlled.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "integration"
+  },
+  "discovery": {
+    "tags": [
+      "on",
+      "site",
+      "technical",
+      "integration"
+    ],
+    "domains": [
+      "integration"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "on",
+      "site",
+      "technical",
+      "integration"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "on-site",
+      "technical-integration"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/integration/software-it-on-site-technical-manager"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-device-fingerprinting-and-identity-risk-engineer",
+  "version": "0.1.0",
+  "title": "Device Fingerprinting and Identity Risk Engineer",
+  "summary": "Builds device fingerprinting capabilities so marketplace risk systems can detect suspicious identities, linked abuse patterns, and repeat evasion attempts more effectively.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "security-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "device",
+      "fingerprinting",
+      "and",
+      "identity",
+      "risk",
+      "security",
+      "engineering"
+    ],
+    "domains": [
+      "security",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "device",
+      "fingerprinting",
+      "and",
+      "identity"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "device-fingerprinting",
+      "security-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "healthcheck"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/security-engineering/marketplace-ecommerce-device-fingerprinting-and-identity-risk-engineer"
+  }
+}

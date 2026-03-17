@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-due-diligence-lead-finance-legal-business",
+  "version": "0.1.0",
+  "title": "Due Diligence Lead (Finance / Legal / Business)",
+  "summary": "Leads due diligence across finance, legal, and business domains so transaction decisions are grounded in verified evidence and documented risks.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "investment-ma"
+  },
+  "discovery": {
+    "tags": [
+      "due",
+      "diligence",
+      "finance",
+      "legal",
+      "business",
+      "investment",
+      "ma"
+    ],
+    "domains": [
+      "investment",
+      "ma"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "due",
+      "diligence",
+      "finance",
+      "legal"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "due-diligence",
+      "investment-ma"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/investment-ma/software-it-due-diligence-lead-finance-legal-business"
+  }
+}

@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/digital-marketing-messaging-and-engagement-service-engineer-java-go",
                     "workspace":  "~/.openclaw/agents/digital-marketing-messaging-and-engagement-service-engineer-java-go/workspace",
                     "agentDir":  "~/.openclaw/agents/digital-marketing-messaging-and-engagement-service-engineer-java-go/agent",
-                    "configEntry":  "config/openclaw.agent.digital-marketing-messaging-and-engagement-service-engineer-java-go.entry.json",
-                    "configSnippet":  "config/openclaw.agent.digital-marketing-messaging-and-engagement-service-engineer-java-go.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-data-quality-and-lineage-engineer",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-data-quality-and-lineage-engineer/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-data-quality-and-lineage-engineer/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-data-quality-and-lineage-engineer.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-data-quality-and-lineage-engineer.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

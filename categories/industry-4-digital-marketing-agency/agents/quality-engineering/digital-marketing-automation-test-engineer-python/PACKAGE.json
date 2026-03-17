@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/digital-marketing-automation-test-engineer-python",
                     "workspace":  "~/.openclaw/agents/digital-marketing-automation-test-engineer-python/workspace",
                     "agentDir":  "~/.openclaw/agents/digital-marketing-automation-test-engineer-python/agent",
-                    "configEntry":  "config/openclaw.agent.digital-marketing-automation-test-engineer-python.entry.json",
-                    "configSnippet":  "config/openclaw.agent.digital-marketing-automation-test-engineer-python.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

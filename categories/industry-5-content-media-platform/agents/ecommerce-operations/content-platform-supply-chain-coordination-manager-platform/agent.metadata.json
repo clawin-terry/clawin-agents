@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-supply-chain-coordination-manager-platform",
+  "version": "0.1.0",
+  "title": "Supply Chain Coordination Manager (Platform)",
+  "summary": "Coordinates supply chain execution so product availability, campaign readiness, and fulfillment commitments stay aligned with platform commerce demand.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "ecommerce-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "supply",
+      "chain",
+      "coordination",
+      "operations"
+    ],
+    "domains": [
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "supply",
+      "chain"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "coordination-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/ecommerce-operations/content-platform-supply-chain-coordination-manager-platform"
+  }
+}

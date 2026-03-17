@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-service-experience-improvement-manager",
+  "version": "0.1.0",
+  "title": "Service Experience Improvement Manager",
+  "summary": "Improves merchant service experience so buyers receive more reliable support and merchants can raise platform service quality consistently.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "merchant-performance-operations"
+  },
+  "discovery": {
+    "tags": [
+      "service",
+      "experience",
+      "improvement",
+      "merchant",
+      "performance",
+      "operations"
+    ],
+    "domains": [
+      "merchant",
+      "performance"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "service",
+      "experience",
+      "improvement",
+      "merchant"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "service-experience",
+      "performance-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/merchant-performance-operations/marketplace-ecommerce-service-experience-improvement-manager"
+  }
+}

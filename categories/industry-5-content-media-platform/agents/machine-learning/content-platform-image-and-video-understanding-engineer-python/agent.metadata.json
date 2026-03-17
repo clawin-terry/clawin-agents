@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-image-and-video-understanding-engineer-python",
+  "version": "0.1.0",
+  "title": "Image and Video Understanding Engineer (Python)",
+  "summary": "Builds Python computer-vision and multimodal understanding models so image and video content can be interpreted more accurately across moderation, risk, and quality workflows.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "machine-learning"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "image",
+      "and",
+      "video",
+      "understanding",
+      "python",
+      "machine"
+    ],
+    "domains": [
+      "machine",
+      "learning"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "image",
+      "and"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "machine-learning"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/machine-learning/content-platform-image-and-video-understanding-engineer-python"
+  }
+}

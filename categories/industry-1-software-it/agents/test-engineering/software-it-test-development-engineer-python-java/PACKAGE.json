@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-test-development-engineer-python-java",
                     "workspace":  "~/.openclaw/agents/software-it-test-development-engineer-python-java/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-test-development-engineer-python-java/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-test-development-engineer-python-java.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-test-development-engineer-python-java.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

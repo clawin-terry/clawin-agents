@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "financial-research-data-quality-steward",
+    "roleTitle":  "Data Quality Steward",
+    "personaSummary":  "Checks research datasets for stale points, inconsistent definitions, broken links, unit mismatches, and unsupported assumptions before they enter downstream memos.",
+    "industryId":  "industry-6-financial-research",
+    "roleFamilyKey":  "research-ops-data-monitoring",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/financial-research-data-quality-steward",
+                    "workspace":  "~/.openclaw/agents/financial-research-data-quality-steward/workspace",
+                    "agentDir":  "~/.openclaw/agents/financial-research-data-quality-steward/agent",
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
+                }
+}

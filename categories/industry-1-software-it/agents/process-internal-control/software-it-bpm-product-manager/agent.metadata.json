@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-bpm-product-manager",
+  "version": "0.1.0",
+  "title": "Process Digitization (BPM) Product Manager",
+  "summary": "Leads BPM product planning so process digitization efforts produce clearer workflows, usable automation, and better operational visibility.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "process-internal-control"
+  },
+  "discovery": {
+    "tags": [
+      "bpm",
+      "product",
+      "process",
+      "digitization",
+      "internal",
+      "control"
+    ],
+    "domains": [
+      "process",
+      "internal"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "bpm",
+      "product",
+      "process",
+      "internal"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "bpm-product",
+      "internal-control"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/process-internal-control/software-it-bpm-product-manager"
+  }
+}

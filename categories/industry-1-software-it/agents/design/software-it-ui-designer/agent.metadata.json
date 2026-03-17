@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-ui-designer",
+  "version": "0.1.0",
+  "title": "UI Designer",
+  "summary": "Designs interface systems, visual patterns, and screen-level details so products feel clear, polished, and consistent.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "design"
+  },
+  "discovery": {
+    "tags": [
+      "ui",
+      "designer",
+      "design"
+    ],
+    "domains": [
+      "design"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "ui",
+      "designer",
+      "design"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "ui-designer",
+      "designer-design"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design",
+      "browser"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "ui-ux-pro-max",
+      "frontend-design"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/design/software-it-ui-designer"
+  }
+}

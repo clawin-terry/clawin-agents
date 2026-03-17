@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-candidate-experience-specialist",
                     "workspace":  "~/.openclaw/agents/software-it-candidate-experience-specialist/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-candidate-experience-specialist/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-candidate-experience-specialist.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-candidate-experience-specialist.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

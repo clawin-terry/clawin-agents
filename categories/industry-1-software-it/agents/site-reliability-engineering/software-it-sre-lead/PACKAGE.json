@@ -16,7 +16,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-sre-lead",
                     "workspace":  "~/.openclaw/agents/software-it-sre-lead/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-sre-lead/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-sre-lead.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-sre-lead.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

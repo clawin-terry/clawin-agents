@@ -16,7 +16,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-experience-strategy-specialist",
                     "workspace":  "~/.openclaw/agents/software-it-experience-strategy-specialist/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-experience-strategy-specialist/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-experience-strategy-specialist.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-experience-strategy-specialist.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

@@ -1,0 +1,55 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-production-assistant-agency",
+  "version": "0.1.0",
+  "title": "Production Assistant (Agency)",
+  "summary": "Supports on-set execution so agency productions can keep logistics, handoffs, and daily operations moving without avoidable delays.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "production-services"
+  },
+  "discovery": {
+    "tags": [
+      "production",
+      "services"
+    ],
+    "domains": [
+      "production",
+      "services"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "production",
+      "services"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "production-services"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/production-services/digital-marketing-production-assistant-agency"
+  }
+}

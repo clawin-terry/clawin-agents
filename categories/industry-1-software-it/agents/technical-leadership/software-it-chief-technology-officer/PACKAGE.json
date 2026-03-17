@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-chief-technology-officer",
                     "workspace":  "~/.openclaw/agents/software-it-chief-technology-officer/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-chief-technology-officer/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-chief-technology-officer.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-chief-technology-officer.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

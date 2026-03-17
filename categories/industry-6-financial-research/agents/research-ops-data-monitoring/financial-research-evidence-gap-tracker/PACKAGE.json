@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "financial-research-evidence-gap-tracker",
+    "roleTitle":  "Evidence Gap Tracker",
+    "personaSummary":  "Maintains an explicit ledger of unresolved questions, weak evidence chains, stale sources, and high-impact unknowns across active coverage.",
+    "industryId":  "industry-6-financial-research",
+    "roleFamilyKey":  "research-ops-data-monitoring",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/financial-research-evidence-gap-tracker",
+                    "workspace":  "~/.openclaw/agents/financial-research-evidence-gap-tracker/workspace",
+                    "agentDir":  "~/.openclaw/agents/financial-research-evidence-gap-tracker/agent",
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
+                }
+}

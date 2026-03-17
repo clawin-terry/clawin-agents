@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-case-asset-operations-specialist",
+  "version": "0.1.0",
+  "title": "Case Asset Operations Specialist",
+  "summary": "Runs case asset operations so references, proof points, and reusable field materials are organized, discoverable, and easy to apply.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "solution-assets"
+  },
+  "discovery": {
+    "tags": [
+      "case",
+      "asset",
+      "operations",
+      "solution",
+      "assets"
+    ],
+    "domains": [
+      "solution",
+      "assets"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "case",
+      "asset",
+      "operations",
+      "solution"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "case-asset",
+      "solution-assets"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/solution-assets/software-it-case-asset-operations-specialist"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-executive-spokesperson-support-manager",
+  "version": "0.1.0",
+  "title": "Executive Spokesperson Support Manager",
+  "summary": "Prepares executives for external speaking and media moments with briefing materials, message discipline, and response readiness.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "public-relations"
+  },
+  "discovery": {
+    "tags": [
+      "spokesperson",
+      "support",
+      "public",
+      "relations"
+    ],
+    "domains": [
+      "public",
+      "relations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "spokesperson",
+      "support",
+      "public",
+      "relations"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "spokesperson-support",
+      "public-relations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "clawin-media-performance-systems"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/public-relations/software-it-executive-spokesperson-support-manager"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-sampling-inspection-operations-manager",
+  "version": "0.1.0",
+  "title": "Sampling Inspection Operations Manager",
+  "summary": "Operates sampling inspection programs so product quality risks are detected early and corrective actions can be enforced consistently.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "product-quality-governance"
+  },
+  "discovery": {
+    "tags": [
+      "sampling",
+      "inspection",
+      "operations",
+      "product",
+      "quality",
+      "governance"
+    ],
+    "domains": [
+      "product",
+      "quality"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "sampling",
+      "inspection",
+      "operations",
+      "product"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "sampling-inspection",
+      "quality-governance"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/product-quality-governance/marketplace-ecommerce-sampling-inspection-operations-manager"
+  }
+}

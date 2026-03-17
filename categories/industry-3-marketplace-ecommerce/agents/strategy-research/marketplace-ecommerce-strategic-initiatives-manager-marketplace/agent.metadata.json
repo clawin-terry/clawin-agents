@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-strategic-initiatives-manager-marketplace",
+  "version": "0.1.0",
+  "title": "Strategic Initiatives Manager (Marketplace)",
+  "summary": "Drives cross-functional marketplace initiatives so priority programs move forward with clearer ownership, sequencing, and executive visibility.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "strategy-research"
+  },
+  "discovery": {
+    "tags": [
+      "strategic",
+      "initiatives",
+      "strategy",
+      "research"
+    ],
+    "domains": [
+      "strategy",
+      "research"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "strategic",
+      "initiatives",
+      "strategy",
+      "research"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "strategic-initiatives",
+      "strategy-research"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/strategy-research/marketplace-ecommerce-strategic-initiatives-manager-marketplace"
+  }
+}

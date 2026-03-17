@@ -16,7 +16,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-sre-engineer-go-python",
                     "workspace":  "~/.openclaw/agents/software-it-sre-engineer-go-python/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-sre-engineer-go-python/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-sre-engineer-go-python.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-sre-engineer-go-python.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

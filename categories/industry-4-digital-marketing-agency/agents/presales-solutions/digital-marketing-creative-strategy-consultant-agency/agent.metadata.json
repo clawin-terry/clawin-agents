@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-creative-strategy-consultant-agency",
+  "version": "0.1.0",
+  "title": "Creative Strategy Consultant (Agency)",
+  "summary": "Shapes creative strategy so agency pitches and campaign concepts connect audience insight with stronger execution direction.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "presales-solutions"
+  },
+  "discovery": {
+    "tags": [
+      "creative",
+      "strategy",
+      "presales",
+      "solutions"
+    ],
+    "domains": [
+      "presales",
+      "solutions"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "creative",
+      "strategy",
+      "presales",
+      "solutions"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "creative-strategy",
+      "presales-solutions"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/presales-solutions/digital-marketing-creative-strategy-consultant-agency"
+  }
+}

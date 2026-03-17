@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-integration-engineer-java",
+  "version": "0.1.0",
+  "title": "Integration Engineer (Java)",
+  "summary": "Builds and supports delivery integrations with Java so customer environments connect reliably to product and platform capabilities.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "integration"
+  },
+  "discovery": {
+    "tags": [
+      "integration",
+      "java"
+    ],
+    "domains": [
+      "integration"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "integration",
+      "java"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "integration-java"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/integration/software-it-integration-engineer-java"
+  }
+}

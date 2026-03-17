@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-growth-analytics-manager",
+  "version": "0.1.0",
+  "title": "Growth Analytics Manager",
+  "summary": "Analyzes growth performance so acquisition efficiency, funnel health, and experiment outcomes are translated into better marketplace decisions.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "growth-acquisition"
+  },
+  "discovery": {
+    "tags": [
+      "growth",
+      "analytics",
+      "acquisition"
+    ],
+    "domains": [
+      "growth",
+      "acquisition"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "growth",
+      "analytics",
+      "acquisition"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "growth-analytics",
+      "analytics-acquisition"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/growth-acquisition/marketplace-ecommerce-growth-analytics-manager"
+  }
+}

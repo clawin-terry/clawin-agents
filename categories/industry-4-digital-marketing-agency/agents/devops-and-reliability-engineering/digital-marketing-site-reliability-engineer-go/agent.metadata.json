@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-site-reliability-engineer-go",
+  "version": "0.1.0",
+  "title": "Site Reliability Engineer (Go)",
+  "summary": "Improves reliability engineering with Go so critical MarTech services can scale safely, surface incidents quickly, and meet operational expectations.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "devops-and-reliability-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "site",
+      "reliability",
+      "go",
+      "devops",
+      "and",
+      "engineering"
+    ],
+    "domains": [
+      "devops",
+      "and"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "site",
+      "reliability",
+      "go",
+      "devops"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "site-reliability",
+      "and-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/devops-and-reliability-engineering/digital-marketing-site-reliability-engineer-go"
+  }
+}

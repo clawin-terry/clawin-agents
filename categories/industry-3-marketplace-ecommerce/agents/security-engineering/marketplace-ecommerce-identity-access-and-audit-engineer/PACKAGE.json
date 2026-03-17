@@ -16,7 +16,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-identity-access-and-audit-engineer",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-identity-access-and-audit-engineer/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-identity-access-and-audit-engineer/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-identity-access-and-audit-engineer.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-identity-access-and-audit-engineer.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

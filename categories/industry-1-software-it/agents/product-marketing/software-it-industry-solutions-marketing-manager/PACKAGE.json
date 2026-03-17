@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-industry-solutions-marketing-manager",
                     "workspace":  "~/.openclaw/agents/software-it-industry-solutions-marketing-manager/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-industry-solutions-marketing-manager/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-industry-solutions-marketing-manager.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-industry-solutions-marketing-manager.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

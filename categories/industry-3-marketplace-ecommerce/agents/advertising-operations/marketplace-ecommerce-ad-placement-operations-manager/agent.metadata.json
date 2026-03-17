@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-ad-placement-operations-manager",
+  "version": "0.1.0",
+  "title": "Ad Placement Operations Manager",
+  "summary": "Operates ad placements so marketplace commercial inventory is configured, prioritized, and maintained with clear business rules.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "advertising-operations"
+  },
+  "discovery": {
+    "tags": [
+      "ad",
+      "placement",
+      "operations",
+      "advertising"
+    ],
+    "domains": [
+      "advertising",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "ad",
+      "placement",
+      "operations",
+      "advertising"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "ad-placement",
+      "operations-advertising"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/advertising-operations/marketplace-ecommerce-ad-placement-operations-manager"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-advertising-product-operations-manager",
+  "version": "0.1.0",
+  "title": "Advertising Product Operations Manager",
+  "summary": "Runs advertising product operations so campaign tooling, internal workflows, and monetization feature adoption stay coordinated across teams.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "advertising-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "advertising",
+      "product",
+      "operations"
+    ],
+    "domains": [
+      "advertising",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "advertising",
+      "product"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "product-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/advertising-operations/content-platform-advertising-product-operations-manager"
+  }
+}

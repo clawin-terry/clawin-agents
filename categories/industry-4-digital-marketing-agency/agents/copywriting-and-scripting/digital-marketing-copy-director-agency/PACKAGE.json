@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/digital-marketing-copy-director-agency",
                     "workspace":  "~/.openclaw/agents/digital-marketing-copy-director-agency/workspace",
                     "agentDir":  "~/.openclaw/agents/digital-marketing-copy-director-agency/agent",
-                    "configEntry":  "config/openclaw.agent.digital-marketing-copy-director-agency.entry.json",
-                    "configSnippet":  "config/openclaw.agent.digital-marketing-copy-director-agency.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

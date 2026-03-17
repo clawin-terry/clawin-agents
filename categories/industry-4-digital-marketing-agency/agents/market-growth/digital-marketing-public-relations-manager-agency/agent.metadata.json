@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-public-relations-manager-agency",
+  "version": "0.1.0",
+  "title": "Public Relations Manager (Agency)",
+  "summary": "Manages public relations programs so media outreach, reputation support, and communications timing remain coordinated and credible.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "market-growth"
+  },
+  "discovery": {
+    "tags": [
+      "public",
+      "relations",
+      "market",
+      "growth"
+    ],
+    "domains": [
+      "market",
+      "growth"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "public",
+      "relations",
+      "market",
+      "growth"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "public-relations",
+      "market-growth"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "clawin-media-performance-systems"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/market-growth/digital-marketing-public-relations-manager-agency"
+  }
+}

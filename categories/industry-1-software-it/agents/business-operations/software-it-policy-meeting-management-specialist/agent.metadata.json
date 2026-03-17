@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-policy-meeting-management-specialist",
+  "version": "0.1.0",
+  "title": "Policy and Meeting Management Specialist",
+  "summary": "Maintains internal policies and meeting management workflows so operating routines stay consistent, documented, and easy to execute.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "business-operations"
+  },
+  "discovery": {
+    "tags": [
+      "policy",
+      "meeting",
+      "management",
+      "and",
+      "business",
+      "operations"
+    ],
+    "domains": [
+      "business",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "policy",
+      "meeting",
+      "management",
+      "business"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "policy-meeting",
+      "business-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/business-operations/software-it-policy-meeting-management-specialist"
+  }
+}

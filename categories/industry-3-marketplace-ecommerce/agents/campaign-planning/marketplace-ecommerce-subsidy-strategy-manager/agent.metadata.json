@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-subsidy-strategy-manager",
+  "version": "0.1.0",
+  "title": "Subsidy Strategy Manager",
+  "summary": "Owns subsidy strategy so marketplace incentives improve campaign outcomes while preserving commercial efficiency and control discipline.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "campaign-planning"
+  },
+  "discovery": {
+    "tags": [
+      "subsidy",
+      "strategy",
+      "campaign",
+      "planning"
+    ],
+    "domains": [
+      "campaign",
+      "planning"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "subsidy",
+      "strategy",
+      "campaign",
+      "planning"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "subsidy-strategy",
+      "campaign-planning"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/campaign-planning/marketplace-ecommerce-subsidy-strategy-manager"
+  }
+}

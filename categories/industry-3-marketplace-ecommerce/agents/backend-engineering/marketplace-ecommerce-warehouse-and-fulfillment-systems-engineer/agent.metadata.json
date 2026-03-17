@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-warehouse-and-fulfillment-systems-engineer",
+  "version": "0.1.0",
+  "title": "Warehouse and Fulfillment Systems Engineer",
+  "summary": "Builds warehouse and fulfillment systems so inventory movement, task orchestration, and execution controls support scalable marketplace operations.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "backend-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "warehouse",
+      "and",
+      "fulfillment",
+      "systems",
+      "backend",
+      "engineering"
+    ],
+    "domains": [
+      "backend",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "warehouse",
+      "and",
+      "fulfillment",
+      "systems"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "warehouse-and",
+      "backend-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "clawin-backend-service-engineering"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/backend-engineering/marketplace-ecommerce-warehouse-and-fulfillment-systems-engineer"
+  }
+}

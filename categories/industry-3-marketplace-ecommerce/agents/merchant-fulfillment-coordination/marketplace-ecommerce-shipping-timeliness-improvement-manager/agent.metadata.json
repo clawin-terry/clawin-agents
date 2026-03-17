@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-shipping-timeliness-improvement-manager",
+  "version": "0.1.0",
+  "title": "Shipping Timeliness Improvement Manager",
+  "summary": "Improves merchant shipping timeliness so order fulfillment meets platform expectations and buyer commitments more consistently.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "merchant-fulfillment-coordination"
+  },
+  "discovery": {
+    "tags": [
+      "shipping",
+      "timeliness",
+      "improvement",
+      "merchant",
+      "fulfillment",
+      "coordination"
+    ],
+    "domains": [
+      "merchant",
+      "fulfillment"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "shipping",
+      "timeliness",
+      "improvement",
+      "merchant"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "shipping-timeliness",
+      "fulfillment-coordination"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/merchant-fulfillment-coordination/marketplace-ecommerce-shipping-timeliness-improvement-manager"
+  }
+}

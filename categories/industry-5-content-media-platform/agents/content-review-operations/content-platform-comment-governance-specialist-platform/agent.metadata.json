@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-comment-governance-specialist-platform",
+  "version": "0.1.0",
+  "title": "Comment Governance Specialist (Platform)",
+  "summary": "Governs comment areas so discussion threads remain safer, more civil, and easier to moderate at platform scale.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "content-review-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "comment",
+      "governance",
+      "review",
+      "operations"
+    ],
+    "domains": [
+      "content",
+      "review"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "comment",
+      "governance"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "review-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/content-review-operations/content-platform-comment-governance-specialist-platform"
+  }
+}

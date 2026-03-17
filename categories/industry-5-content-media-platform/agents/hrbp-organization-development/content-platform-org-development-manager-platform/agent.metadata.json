@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-org-development-manager-platform",
+  "version": "0.1.0",
+  "title": "Organization Development Manager (Platform)",
+  "summary": "Drives organization development so structure, leadership capability, and change programs can keep pace with platform growth and complexity.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "hrbp-organization-development"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "org",
+      "development",
+      "organization",
+      "hrbp"
+    ],
+    "domains": [
+      "hrbp",
+      "organization"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "org",
+      "development"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "hrbp-organization"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/hrbp-organization-development/content-platform-org-development-manager-platform"
+  }
+}

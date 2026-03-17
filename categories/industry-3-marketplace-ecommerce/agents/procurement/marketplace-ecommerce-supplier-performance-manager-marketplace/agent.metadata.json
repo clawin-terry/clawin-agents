@@ -1,0 +1,56 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-supplier-performance-manager-marketplace",
+  "version": "0.1.0",
+  "title": "Supplier Performance Manager (Marketplace)",
+  "summary": "Monitors supplier performance so marketplace vendors are reviewed with clearer metrics, follow-up discipline, and continuous improvement expectations.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "procurement"
+  },
+  "discovery": {
+    "tags": [
+      "supplier",
+      "performance",
+      "procurement"
+    ],
+    "domains": [
+      "procurement"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "supplier",
+      "performance",
+      "procurement"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "supplier-performance",
+      "performance-procurement"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/procurement/marketplace-ecommerce-supplier-performance-manager-marketplace"
+  }
+}

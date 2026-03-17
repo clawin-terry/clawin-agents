@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/digital-marketing-campaign-solution-architect-agency",
                     "workspace":  "~/.openclaw/agents/digital-marketing-campaign-solution-architect-agency/workspace",
                     "agentDir":  "~/.openclaw/agents/digital-marketing-campaign-solution-architect-agency/agent",
-                    "configEntry":  "config/openclaw.agent.digital-marketing-campaign-solution-architect-agency.entry.json",
-                    "configSnippet":  "config/openclaw.agent.digital-marketing-campaign-solution-architect-agency.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

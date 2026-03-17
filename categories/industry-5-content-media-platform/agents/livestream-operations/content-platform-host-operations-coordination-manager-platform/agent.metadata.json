@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-host-operations-coordination-manager-platform",
+  "version": "0.1.0",
+  "title": "Host Operations Coordination Manager (Platform)",
+  "summary": "Coordinates host-side operations so creators, support teams, and live-program dependencies stay aligned during ongoing livestream execution.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "livestream-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "host",
+      "operations",
+      "coordination",
+      "livestream"
+    ],
+    "domains": [
+      "livestream",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "host",
+      "operations"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "coordination-livestream"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/livestream-operations/content-platform-host-operations-coordination-manager-platform"
+  }
+}

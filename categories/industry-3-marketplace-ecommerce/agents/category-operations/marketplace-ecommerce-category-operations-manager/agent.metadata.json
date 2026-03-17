@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-category-operations-manager",
+  "version": "0.1.0",
+  "title": "Category Operations Manager",
+  "summary": "Leads category operations for a marketplace, improving assortment health, merchant execution, and performance outcomes within the category.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "category-operations"
+  },
+  "discovery": {
+    "tags": [
+      "category",
+      "operations"
+    ],
+    "domains": [
+      "category",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "category",
+      "operations"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "category-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/category-operations/marketplace-ecommerce-category-operations-manager"
+  }
+}

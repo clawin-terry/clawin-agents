@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-database-support-engineer-sql",
                     "workspace":  "~/.openclaw/agents/software-it-database-support-engineer-sql/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-database-support-engineer-sql/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-database-support-engineer-sql.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-database-support-engineer-sql.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

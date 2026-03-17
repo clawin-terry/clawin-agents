@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/digital-marketing-reporting-systems-lead",
                     "workspace":  "~/.openclaw/agents/digital-marketing-reporting-systems-lead/workspace",
                     "agentDir":  "~/.openclaw/agents/digital-marketing-reporting-systems-lead/agent",
-                    "configEntry":  "config/openclaw.agent.digital-marketing-reporting-systems-lead.entry.json",
-                    "configSnippet":  "config/openclaw.agent.digital-marketing-reporting-systems-lead.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

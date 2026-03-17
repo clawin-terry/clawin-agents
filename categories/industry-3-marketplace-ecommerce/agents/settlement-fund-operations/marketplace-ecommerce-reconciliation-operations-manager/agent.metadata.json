@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-reconciliation-operations-manager",
+  "version": "0.1.0",
+  "title": "Reconciliation Operations Manager",
+  "summary": "Operates reconciliation workflows so transaction, payment, and settlement records stay aligned and financially reliable.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "settlement-fund-operations"
+  },
+  "discovery": {
+    "tags": [
+      "reconciliation",
+      "operations",
+      "settlement",
+      "fund"
+    ],
+    "domains": [
+      "settlement",
+      "fund"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "reconciliation",
+      "operations",
+      "settlement",
+      "fund"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "reconciliation-operations",
+      "settlement-fund"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/settlement-fund-operations/marketplace-ecommerce-reconciliation-operations-manager"
+  }
+}

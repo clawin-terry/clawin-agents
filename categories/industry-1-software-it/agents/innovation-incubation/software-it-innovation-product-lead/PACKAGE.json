@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-innovation-product-lead",
                     "workspace":  "~/.openclaw/agents/software-it-innovation-product-lead/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-innovation-product-lead/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-innovation-product-lead.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-innovation-product-lead.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

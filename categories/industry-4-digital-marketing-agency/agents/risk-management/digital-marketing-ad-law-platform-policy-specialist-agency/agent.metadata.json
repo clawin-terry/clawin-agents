@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-ad-law-platform-policy-specialist-agency",
+  "version": "0.1.0",
+  "title": "Advertising Law and Platform Policy Enablement Specialist (Agency)",
+  "summary": "Translates advertising law and platform policy into working guidance so agency teams can launch campaigns with stronger compliance awareness.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "risk-management"
+  },
+  "discovery": {
+    "tags": [
+      "ad",
+      "law",
+      "platform",
+      "policy",
+      "advertising",
+      "and",
+      "enablement",
+      "risk"
+    ],
+    "domains": [
+      "risk",
+      "management"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "ad",
+      "law",
+      "platform",
+      "policy"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "ad-law",
+      "risk-management"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/risk-management/digital-marketing-ad-law-platform-policy-specialist-agency"
+  }
+}

@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-growth-analytics-manager",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-growth-analytics-manager/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-growth-analytics-manager/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-growth-analytics-manager.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-growth-analytics-manager.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

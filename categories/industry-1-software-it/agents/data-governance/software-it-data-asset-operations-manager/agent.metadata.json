@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-data-asset-operations-manager",
+  "version": "0.1.0",
+  "title": "Data Asset Operations Manager",
+  "summary": "Operates data asset programs that improve catalog completeness, stewardship workflows, and practical reuse of governed datasets.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "data-governance"
+  },
+  "discovery": {
+    "tags": [
+      "data",
+      "asset",
+      "operations",
+      "governance"
+    ],
+    "domains": [
+      "data",
+      "governance"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "data",
+      "asset",
+      "operations",
+      "governance"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "data-asset",
+      "operations-governance"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/data-governance/software-it-data-asset-operations-manager"
+  }
+}

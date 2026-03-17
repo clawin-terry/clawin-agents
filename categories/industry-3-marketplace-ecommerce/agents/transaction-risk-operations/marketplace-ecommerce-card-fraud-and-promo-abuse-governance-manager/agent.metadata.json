@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-card-fraud-and-promo-abuse-governance-manager",
+  "version": "0.1.0",
+  "title": "Card Fraud and Promo Abuse Governance Manager",
+  "summary": "Governs card fraud and promo abuse cases so transaction losses and exploit-driven abuse are contained quickly.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "transaction-risk-operations"
+  },
+  "discovery": {
+    "tags": [
+      "card",
+      "fraud",
+      "and",
+      "promo",
+      "abuse",
+      "governance",
+      "transaction",
+      "risk"
+    ],
+    "domains": [
+      "transaction",
+      "risk"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "card",
+      "fraud",
+      "and",
+      "promo"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "card-fraud",
+      "risk-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/transaction-risk-operations/marketplace-ecommerce-card-fraud-and-promo-abuse-governance-manager"
+  }
+}

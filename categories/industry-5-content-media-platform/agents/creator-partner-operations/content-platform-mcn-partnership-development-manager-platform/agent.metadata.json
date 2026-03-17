@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-mcn-partnership-development-manager-platform",
+  "version": "0.1.0",
+  "title": "MCN Partnership Development Manager (Platform)",
+  "summary": "Develops MCN partnerships so the platform can expand creator supply through agencies, strengthen institutional relationships, and align partner growth plans.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "creator-partner-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "mcn",
+      "partnership",
+      "development",
+      "creator",
+      "partner",
+      "operations"
+    ],
+    "domains": [
+      "creator",
+      "partner"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "mcn",
+      "partnership"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "partner-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/creator-partner-operations/content-platform-mcn-partnership-development-manager-platform"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-procurement-compliance-specialist",
+  "version": "0.1.0",
+  "title": "Procurement Compliance Specialist",
+  "summary": "Monitors procurement compliance so sourcing activities, approvals, and supplier processes stay aligned with policy and control requirements.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "procurement"
+  },
+  "discovery": {
+    "tags": [
+      "procurement",
+      "compliance"
+    ],
+    "domains": [
+      "procurement"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "procurement",
+      "compliance"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "procurement-compliance"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/procurement/software-it-procurement-compliance-specialist"
+  }
+}

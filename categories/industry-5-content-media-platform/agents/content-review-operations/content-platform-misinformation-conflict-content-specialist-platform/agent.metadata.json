@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-misinformation-conflict-content-specialist-platform",
+  "version": "0.1.0",
+  "title": "Misinformation and Conflict Content Specialist (Platform)",
+  "summary": "Handles misinformation and conflict-driving content so high-risk narratives are assessed, contained, and escalated with stronger consistency.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "content-review-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "misinformation",
+      "conflict",
+      "and",
+      "review",
+      "operations"
+    ],
+    "domains": [
+      "content",
+      "review"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "misinformation",
+      "conflict"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "review-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/content-review-operations/content-platform-misinformation-conflict-content-specialist-platform"
+  }
+}

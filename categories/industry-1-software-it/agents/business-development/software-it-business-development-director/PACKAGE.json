@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-business-development-director",
                     "workspace":  "~/.openclaw/agents/software-it-business-development-director/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-business-development-director/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-business-development-director.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-business-development-director.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

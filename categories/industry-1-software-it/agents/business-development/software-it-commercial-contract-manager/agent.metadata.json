@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-commercial-contract-manager",
+  "version": "0.1.0",
+  "title": "Commercial Contract Manager",
+  "summary": "Manages commercial contract workflows so business terms, negotiation progress, and internal approvals remain controlled and executable.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "business-development"
+  },
+  "discovery": {
+    "tags": [
+      "commercial",
+      "contract",
+      "business",
+      "development"
+    ],
+    "domains": [
+      "business",
+      "development"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "commercial",
+      "contract",
+      "business",
+      "development"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "commercial-contract",
+      "business-development"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/business-development/software-it-commercial-contract-manager"
+  }
+}

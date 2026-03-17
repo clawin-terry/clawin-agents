@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-rebate-and-contract-rules-manager",
+  "version": "0.1.0",
+  "title": "Rebate and Contract Rules Manager",
+  "summary": "Defines rebate and contract rules so commercial terms, incentive logic, and agreement guardrails remain consistent across marketplace advertising programs.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "commercial-finance-coordination"
+  },
+  "discovery": {
+    "tags": [
+      "rebate",
+      "and",
+      "contract",
+      "rules",
+      "commercial",
+      "finance",
+      "coordination"
+    ],
+    "domains": [
+      "commercial",
+      "finance"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "rebate",
+      "and",
+      "contract",
+      "rules"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "rebate-and",
+      "finance-coordination"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/commercial-finance-coordination/marketplace-ecommerce-rebate-and-contract-rules-manager"
+  }
+}

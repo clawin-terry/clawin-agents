@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-budget-and-rolling-forecast-manager-marketplace",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-budget-and-rolling-forecast-manager-marketplace/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-budget-and-rolling-forecast-manager-marketplace/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-budget-and-rolling-forecast-manager-marketplace.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-budget-and-rolling-forecast-manager-marketplace.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

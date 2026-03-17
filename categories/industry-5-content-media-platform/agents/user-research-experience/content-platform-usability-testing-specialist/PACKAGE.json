@@ -16,7 +16,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-usability-testing-specialist",
                     "workspace":  "~/.openclaw/agents/content-platform-usability-testing-specialist/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-usability-testing-specialist/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-usability-testing-specialist.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-usability-testing-specialist.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

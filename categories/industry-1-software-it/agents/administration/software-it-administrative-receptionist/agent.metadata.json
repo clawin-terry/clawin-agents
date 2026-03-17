@@ -1,0 +1,56 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-administrative-receptionist",
+  "version": "0.1.0",
+  "title": "Administrative Receptionist",
+  "summary": "Handles front-desk and administrative support so visitors, communications, and routine office workflows are managed professionally and efficiently.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "administration"
+  },
+  "discovery": {
+    "tags": [
+      "administrative",
+      "receptionist",
+      "administration"
+    ],
+    "domains": [
+      "administration"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "administrative",
+      "receptionist",
+      "administration"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "administrative-receptionist",
+      "receptionist-administration"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/administration/software-it-administrative-receptionist"
+  }
+}

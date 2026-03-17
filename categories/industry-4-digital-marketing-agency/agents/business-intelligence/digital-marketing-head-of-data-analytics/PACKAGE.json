@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/digital-marketing-head-of-data-analytics",
                     "workspace":  "~/.openclaw/agents/digital-marketing-head-of-data-analytics/workspace",
                     "agentDir":  "~/.openclaw/agents/digital-marketing-head-of-data-analytics/agent",
-                    "configEntry":  "config/openclaw.agent.digital-marketing-head-of-data-analytics.entry.json",
-                    "configSnippet":  "config/openclaw.agent.digital-marketing-head-of-data-analytics.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

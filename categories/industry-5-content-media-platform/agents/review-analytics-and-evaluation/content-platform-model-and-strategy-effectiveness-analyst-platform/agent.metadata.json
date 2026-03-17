@@ -1,0 +1,68 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-model-and-strategy-effectiveness-analyst-platform",
+  "version": "0.1.0",
+  "title": "Model and Strategy Effectiveness Analyst (Platform)",
+  "summary": "Evaluates model and strategy effectiveness so trust-and-safety teams can measure control quality, identify weak spots, and improve moderation performance with clearer evidence.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "review-analytics-and-evaluation"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "model",
+      "and",
+      "strategy",
+      "effectiveness",
+      "review",
+      "analytics"
+    ],
+    "domains": [
+      "review",
+      "analytics"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "model",
+      "and"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan",
+      "script",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "content-platform",
+      "analytics-evaluation"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/review-analytics-and-evaluation/content-platform-model-and-strategy-effectiveness-analyst-platform"
+  }
+}

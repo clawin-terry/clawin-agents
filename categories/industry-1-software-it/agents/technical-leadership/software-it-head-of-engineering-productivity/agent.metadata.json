@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-head-of-engineering-productivity",
+  "version": "0.1.0",
+  "title": "Head of Engineering Productivity",
+  "summary": "Leads engineering productivity strategy so developer workflows, tooling, and delivery systems improve speed, quality, and execution reliability.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "technical-leadership"
+  },
+  "discovery": {
+    "tags": [
+      "head",
+      "of",
+      "engineering",
+      "productivity",
+      "technical",
+      "leadership"
+    ],
+    "domains": [
+      "technical",
+      "leadership"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "head",
+      "of",
+      "engineering",
+      "productivity"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "head-of",
+      "technical-leadership"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/technical-leadership/software-it-head-of-engineering-productivity"
+  }
+}

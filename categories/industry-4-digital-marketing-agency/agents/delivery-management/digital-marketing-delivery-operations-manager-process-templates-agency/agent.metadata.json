@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-delivery-operations-manager-process-templates-agency",
+  "version": "0.1.0",
+  "title": "Delivery Operations Manager, Process and Templates (Agency)",
+  "summary": "Runs delivery operations standards so agency processes, templates, and execution routines stay consistent and reusable across accounts.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "delivery-management"
+  },
+  "discovery": {
+    "tags": [
+      "delivery",
+      "operations",
+      "process",
+      "templates",
+      "and",
+      "management"
+    ],
+    "domains": [
+      "delivery",
+      "management"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "delivery",
+      "operations",
+      "process",
+      "templates"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "delivery-operations",
+      "templates-management"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/delivery-management/digital-marketing-delivery-operations-manager-process-templates-agency"
+  }
+}

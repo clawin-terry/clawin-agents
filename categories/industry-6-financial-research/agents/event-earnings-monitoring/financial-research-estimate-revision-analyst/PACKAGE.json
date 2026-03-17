@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "financial-research-estimate-revision-analyst",
+    "roleTitle":  "Estimate Revision Analyst",
+    "personaSummary":  "Monitors sell-side estimate changes, target-reset patterns, and assumption revisions after major developments to show how the expectation set is moving.",
+    "industryId":  "industry-6-financial-research",
+    "roleFamilyKey":  "event-earnings-monitoring",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/financial-research-estimate-revision-analyst",
+                    "workspace":  "~/.openclaw/agents/financial-research-estimate-revision-analyst/workspace",
+                    "agentDir":  "~/.openclaw/agents/financial-research-estimate-revision-analyst/agent",
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
+                }
+}

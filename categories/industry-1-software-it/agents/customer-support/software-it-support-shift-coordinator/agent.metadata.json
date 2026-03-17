@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-support-shift-coordinator",
+  "version": "0.1.0",
+  "title": "Support Shift Coordinator",
+  "summary": "Coordinates support shifts so staffing, incident coverage, and daily execution stay balanced across frontline service windows.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "customer-support"
+  },
+  "discovery": {
+    "tags": [
+      "support",
+      "shift",
+      "customer"
+    ],
+    "domains": [
+      "customer",
+      "support"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "support",
+      "shift",
+      "customer"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "support-shift",
+      "shift-customer"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/customer-support/software-it-support-shift-coordinator"
+  }
+}

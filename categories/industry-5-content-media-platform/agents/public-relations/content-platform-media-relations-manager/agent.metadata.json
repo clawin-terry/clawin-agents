@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-media-relations-manager",
+  "version": "0.1.0",
+  "title": "Media Relations Manager",
+  "summary": "Manages media relations so press engagement, briefing flow, and external coverage stay timely, accurate, and strategically useful for the platform brand.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "public-relations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "media",
+      "relations",
+      "public"
+    ],
+    "domains": [
+      "public",
+      "relations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "media",
+      "relations"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "relations-public"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/public-relations/content-platform-media-relations-manager"
+  }
+}

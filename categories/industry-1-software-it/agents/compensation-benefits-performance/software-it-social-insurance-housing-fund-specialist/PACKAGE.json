@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-social-insurance-housing-fund-specialist",
                     "workspace":  "~/.openclaw/agents/software-it-social-insurance-housing-fund-specialist/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-social-insurance-housing-fund-specialist/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-social-insurance-housing-fund-specialist.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-social-insurance-housing-fund-specialist.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

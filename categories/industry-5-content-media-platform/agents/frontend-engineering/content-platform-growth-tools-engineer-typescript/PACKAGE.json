@@ -16,7 +16,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-growth-tools-engineer-typescript",
                     "workspace":  "~/.openclaw/agents/content-platform-growth-tools-engineer-typescript/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-growth-tools-engineer-typescript/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-growth-tools-engineer-typescript.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-growth-tools-engineer-typescript.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

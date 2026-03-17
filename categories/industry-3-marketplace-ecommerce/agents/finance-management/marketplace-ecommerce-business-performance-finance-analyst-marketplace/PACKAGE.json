@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-business-performance-finance-analyst-marketplace",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-business-performance-finance-analyst-marketplace/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-business-performance-finance-analyst-marketplace/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-business-performance-finance-analyst-marketplace.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-business-performance-finance-analyst-marketplace.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

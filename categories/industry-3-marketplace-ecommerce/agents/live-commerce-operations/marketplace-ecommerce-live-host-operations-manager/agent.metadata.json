@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-live-host-operations-manager",
+  "version": "0.1.0",
+  "title": "Live Host Operations Manager",
+  "summary": "Runs live host operations so marketplace streamers are onboarded, coached, and scheduled with clear performance expectations.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "live-commerce-operations"
+  },
+  "discovery": {
+    "tags": [
+      "live",
+      "host",
+      "operations",
+      "commerce"
+    ],
+    "domains": [
+      "live",
+      "commerce"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "live",
+      "host",
+      "operations",
+      "commerce"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "live-host",
+      "operations-commerce"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/live-commerce-operations/marketplace-ecommerce-live-host-operations-manager"
+  }
+}

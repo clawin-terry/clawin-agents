@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-search-engine-marketing-specialist",
                     "workspace":  "~/.openclaw/agents/software-it-search-engine-marketing-specialist/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-search-engine-marketing-specialist/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-search-engine-marketing-specialist.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-search-engine-marketing-specialist.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

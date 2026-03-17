@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-solution-documentation-manager",
                     "workspace":  "~/.openclaw/agents/software-it-solution-documentation-manager/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-solution-documentation-manager/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-solution-documentation-manager.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-solution-documentation-manager.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

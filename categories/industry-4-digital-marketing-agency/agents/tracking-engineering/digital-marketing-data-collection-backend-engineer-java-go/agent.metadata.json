@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-data-collection-backend-engineer-java-go",
+  "version": "0.1.0",
+  "title": "Data Collection Backend Engineer (Java/Go)",
+  "summary": "Builds backend collection services so tracking events, ingestion endpoints, and data handoff workflows can scale for agency measurement use cases.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "tracking-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "data",
+      "collection",
+      "backend",
+      "java",
+      "go",
+      "tracking",
+      "engineering"
+    ],
+    "domains": [
+      "tracking",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "data",
+      "collection",
+      "backend",
+      "java"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "data-collection",
+      "tracking-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/tracking-engineering/digital-marketing-data-collection-backend-engineer-java-go"
+  }
+}

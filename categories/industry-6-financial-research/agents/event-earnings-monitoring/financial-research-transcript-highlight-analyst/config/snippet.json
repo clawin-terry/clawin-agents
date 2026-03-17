@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "financial-research-transcript-highlight-analyst",
+                                    "default":  false,
+                                    "name":  "Transcript Highlight Analyst",
+                                    "workspace":  "~/.openclaw/agents/financial-research-transcript-highlight-analyst/workspace",
+                                    "agentDir":  "~/.openclaw/agents/financial-research-transcript-highlight-analyst/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

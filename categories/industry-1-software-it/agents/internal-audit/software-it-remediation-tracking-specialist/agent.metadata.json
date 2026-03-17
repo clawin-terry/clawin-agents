@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-remediation-tracking-specialist",
+  "version": "0.1.0",
+  "title": "Remediation Tracking Specialist",
+  "summary": "Tracks remediation commitments so audit findings move toward closure with visible ownership, due dates, and verifiable corrective actions.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "internal-audit"
+  },
+  "discovery": {
+    "tags": [
+      "remediation",
+      "tracking",
+      "internal",
+      "audit"
+    ],
+    "domains": [
+      "internal",
+      "audit"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "remediation",
+      "tracking",
+      "internal",
+      "audit"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "remediation-tracking",
+      "internal-audit"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/internal-audit/software-it-remediation-tracking-specialist"
+  }
+}

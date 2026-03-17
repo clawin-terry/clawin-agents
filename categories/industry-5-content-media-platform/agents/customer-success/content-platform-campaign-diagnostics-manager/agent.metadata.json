@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-campaign-diagnostics-manager",
+  "version": "0.1.0",
+  "title": "Campaign Diagnostics Manager",
+  "summary": "Diagnoses advertiser campaign issues so delivery gaps, performance blockers, and setup problems can be identified and corrected faster.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "customer-success"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "campaign",
+      "diagnostics",
+      "customer",
+      "success"
+    ],
+    "domains": [
+      "customer",
+      "success"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "campaign",
+      "diagnostics"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "customer-success"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/customer-success/content-platform-campaign-diagnostics-manager"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-data-modeling-engineer-sql",
+  "version": "0.1.0",
+  "title": "Data Modeling Engineer (SQL)",
+  "summary": "Designs agency data models with SQL so analytical entities, attribution datasets, and reporting outputs stay consistent and easier to maintain.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "data-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "data",
+      "modeling",
+      "sql",
+      "engineering"
+    ],
+    "domains": [
+      "data",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "data",
+      "modeling",
+      "sql",
+      "engineering"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "data-modeling",
+      "sql-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/data-engineering/digital-marketing-data-modeling-engineer-sql"
+  }
+}

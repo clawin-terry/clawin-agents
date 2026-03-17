@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-marketplace-dispute-resolution-counsel",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-marketplace-dispute-resolution-counsel/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-marketplace-dispute-resolution-counsel/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-marketplace-dispute-resolution-counsel.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-marketplace-dispute-resolution-counsel.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

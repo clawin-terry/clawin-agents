@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-commercial-business-analyst",
+  "version": "0.1.0",
+  "title": "Commercial Business Analyst",
+  "summary": "Runs commercial business analysis so leaders can understand monetization performance, operational trade-offs, and market opportunities with clearer evidence.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "business-intelligence"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "commercial",
+      "business",
+      "intelligence"
+    ],
+    "domains": [
+      "business",
+      "intelligence"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "commercial",
+      "business"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "business-intelligence"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/business-intelligence/content-platform-commercial-business-analyst"
+  }
+}

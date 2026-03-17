@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-livestream-show-director-agency",
+  "version": "0.1.0",
+  "title": "Livestream Show Director (Agency)",
+  "summary": "Directs livestream shows so agency broadcasts can maintain structure, pacing, and creative flow throughout each session.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "livestream-operations"
+  },
+  "discovery": {
+    "tags": [
+      "livestream",
+      "show",
+      "operations"
+    ],
+    "domains": [
+      "livestream",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "livestream",
+      "show",
+      "operations"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "livestream-show",
+      "show-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/livestream-operations/digital-marketing-livestream-show-director-agency"
+  }
+}

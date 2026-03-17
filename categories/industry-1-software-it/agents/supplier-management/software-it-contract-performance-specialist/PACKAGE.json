@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-contract-performance-specialist",
                     "workspace":  "~/.openclaw/agents/software-it-contract-performance-specialist/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-contract-performance-specialist/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-contract-performance-specialist.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-contract-performance-specialist.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

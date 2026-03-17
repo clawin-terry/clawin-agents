@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-recruiting-specialist-agency",
+  "version": "0.1.0",
+  "title": "Recruiting Specialist (Agency)",
+  "summary": "Runs agency recruiting workflows so sourcing, interview coordination, and candidate follow-up stay timely and organized.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "talent-acquisition"
+  },
+  "discovery": {
+    "tags": [
+      "recruiting",
+      "talent",
+      "acquisition"
+    ],
+    "domains": [
+      "talent",
+      "acquisition"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "recruiting",
+      "talent",
+      "acquisition"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "recruiting-talent",
+      "talent-acquisition"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/talent-acquisition/digital-marketing-recruiting-specialist-agency"
+  }
+}

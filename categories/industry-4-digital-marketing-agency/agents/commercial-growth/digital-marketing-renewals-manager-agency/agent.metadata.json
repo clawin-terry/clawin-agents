@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-renewals-manager-agency",
+  "version": "0.1.0",
+  "title": "Renewals Manager (Agency)",
+  "summary": "Manages renewals so agency contracts, commercial timing, and client commitments are handled with better visibility and control.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "commercial-growth"
+  },
+  "discovery": {
+    "tags": [
+      "renewals",
+      "commercial",
+      "growth"
+    ],
+    "domains": [
+      "commercial",
+      "growth"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "renewals",
+      "commercial",
+      "growth"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "renewals-commercial",
+      "commercial-growth"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/commercial-growth/digital-marketing-renewals-manager-agency"
+  }
+}

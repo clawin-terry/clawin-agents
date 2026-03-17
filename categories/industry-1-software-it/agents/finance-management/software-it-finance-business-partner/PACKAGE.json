@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-finance-business-partner",
                     "workspace":  "~/.openclaw/agents/software-it-finance-business-partner/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-finance-business-partner/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-finance-business-partner.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-finance-business-partner.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

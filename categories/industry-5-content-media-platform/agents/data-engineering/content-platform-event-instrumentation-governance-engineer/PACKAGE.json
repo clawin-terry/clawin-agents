@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-event-instrumentation-governance-engineer",
                     "workspace":  "~/.openclaw/agents/content-platform-event-instrumentation-governance-engineer/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-event-instrumentation-governance-engineer/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-event-instrumentation-governance-engineer.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-event-instrumentation-governance-engineer.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-content-services-engineer-go",
+  "version": "0.1.0",
+  "title": "Content Services Engineer (Go)",
+  "summary": "Builds Go services for content-domain capabilities so publishing, retrieval, and content lifecycle workflows stay reliable as platform scale and feature complexity grow.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "backend-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "services",
+      "go",
+      "backend",
+      "engineering"
+    ],
+    "domains": [
+      "backend",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "services",
+      "go"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "backend-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "clawin-backend-service-engineering"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/backend-engineering/content-platform-content-services-engineer-go"
+  }
+}

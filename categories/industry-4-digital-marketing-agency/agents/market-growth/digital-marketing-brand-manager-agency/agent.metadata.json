@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-brand-manager-agency",
+  "version": "0.1.0",
+  "title": "Brand Manager (Agency)",
+  "summary": "Shapes brand programs so agency clients and internal teams maintain clearer positioning, messaging consistency, and launch discipline.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "market-growth"
+  },
+  "discovery": {
+    "tags": [
+      "brand",
+      "market",
+      "growth"
+    ],
+    "domains": [
+      "market",
+      "growth"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "brand",
+      "market",
+      "growth"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "brand-market",
+      "market-growth"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/market-growth/digital-marketing-brand-manager-agency"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-dsp-campaign-manager-agency",
+  "version": "0.1.0",
+  "title": "DSP Campaign Manager (Agency)",
+  "summary": "Manages DSP campaigns so agency teams can coordinate programmatic buying, spend control, and delivery outcomes with stronger operational discipline.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "programmatic-ad-operations"
+  },
+  "discovery": {
+    "tags": [
+      "dsp",
+      "campaign",
+      "programmatic",
+      "ad",
+      "operations"
+    ],
+    "domains": [
+      "programmatic",
+      "ad"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "dsp",
+      "campaign",
+      "programmatic",
+      "ad"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "dsp-campaign",
+      "ad-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/programmatic-ad-operations/digital-marketing-dsp-campaign-manager-agency"
+  }
+}

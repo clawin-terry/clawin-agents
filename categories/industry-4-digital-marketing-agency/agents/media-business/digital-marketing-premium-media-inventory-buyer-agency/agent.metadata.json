@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-premium-media-inventory-buyer-agency",
+  "version": "0.1.0",
+  "title": "Premium Media Inventory Buyer (Agency)",
+  "summary": "Buys premium media placements so agency campaigns can secure priority inventory, negotiate access, and align placement choices with commercial objectives.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "media-business"
+  },
+  "discovery": {
+    "tags": [
+      "premium",
+      "media",
+      "inventory",
+      "buyer",
+      "business"
+    ],
+    "domains": [
+      "media",
+      "business"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "premium",
+      "media",
+      "inventory",
+      "buyer"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "premium-media",
+      "buyer-business"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/media-business/digital-marketing-premium-media-inventory-buyer-agency"
+  }
+}

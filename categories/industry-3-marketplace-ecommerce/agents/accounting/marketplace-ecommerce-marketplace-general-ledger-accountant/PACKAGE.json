@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-marketplace-general-ledger-accountant",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-marketplace-general-ledger-accountant/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-marketplace-general-ledger-accountant/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-marketplace-general-ledger-accountant.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-marketplace-general-ledger-accountant.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

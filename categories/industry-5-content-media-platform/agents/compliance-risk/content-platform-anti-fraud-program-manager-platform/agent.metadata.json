@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-anti-fraud-program-manager-platform",
+  "version": "0.1.0",
+  "title": "Anti-Fraud Program Manager (Platform)",
+  "summary": "Builds anti-fraud mechanisms so policy signals, control responses, and investigation handoffs reduce misconduct risk across platform operations.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "compliance-risk"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "anti",
+      "fraud",
+      "program",
+      "compliance",
+      "risk"
+    ],
+    "domains": [
+      "compliance",
+      "risk"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "anti",
+      "fraud"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "compliance-risk"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/compliance-risk/content-platform-anti-fraud-program-manager-platform"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-industry-operations-manager",
+  "version": "0.1.0",
+  "title": "Industry Operations Manager",
+  "summary": "Runs industry operations for verticals such as gaming, ecommerce, and education so commercialization programs fit category needs and execution constraints.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "advertising-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "operations",
+      "advertising"
+    ],
+    "domains": [
+      "advertising",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "operations",
+      "advertising"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "operations-advertising"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/advertising-operations/content-platform-industry-operations-manager"
+  }
+}

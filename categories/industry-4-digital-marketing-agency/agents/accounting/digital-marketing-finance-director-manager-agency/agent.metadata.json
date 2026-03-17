@@ -1,0 +1,55 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-finance-director-manager-agency",
+  "version": "0.1.0",
+  "title": "Finance Director / Manager",
+  "summary": "Leads agency finance operations so accounting discipline, team execution, and management reporting stay reliable across client delivery and internal operations.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "accounting"
+  },
+  "discovery": {
+    "tags": [
+      "finance",
+      "accounting"
+    ],
+    "domains": [
+      "accounting"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "finance",
+      "accounting"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "finance-accounting"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/accounting/digital-marketing-finance-director-manager-agency"
+  }
+}

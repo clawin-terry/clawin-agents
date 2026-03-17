@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-martech-solution-architect",
+  "version": "0.1.0",
+  "title": "MarTech Solution Architect",
+  "summary": "Designs MarTech solution architectures so client requirements, product capabilities, and implementation constraints come together in workable technical plans.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "product-management"
+  },
+  "discovery": {
+    "tags": [
+      "martech",
+      "solution",
+      "architect",
+      "product",
+      "management"
+    ],
+    "domains": [
+      "product",
+      "management"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "martech",
+      "solution",
+      "architect",
+      "product"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "martech-solution",
+      "product-management"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/product-management/digital-marketing-martech-solution-architect"
+  }
+}

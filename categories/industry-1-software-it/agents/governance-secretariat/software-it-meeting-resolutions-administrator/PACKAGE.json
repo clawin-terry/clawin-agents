@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-meeting-resolutions-administrator",
                     "workspace":  "~/.openclaw/agents/software-it-meeting-resolutions-administrator/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-meeting-resolutions-administrator/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-meeting-resolutions-administrator.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-meeting-resolutions-administrator.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

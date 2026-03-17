@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-component-library-engineer-js-ts",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-component-library-engineer-js-ts/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-component-library-engineer-js-ts/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-component-library-engineer-js-ts.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-component-library-engineer-js-ts.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

@@ -1,0 +1,55 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-strategy-director",
+  "version": "0.1.0",
+  "title": "Strategy Director",
+  "summary": "Leads strategic planning and long-range decision support by framing priorities, evaluating options, and aligning leadership around direction.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "strategy-research"
+  },
+  "discovery": {
+    "tags": [
+      "strategy",
+      "research"
+    ],
+    "domains": [
+      "strategy",
+      "research"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "strategy",
+      "research"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "strategy-research"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/strategy-research/software-it-strategy-director"
+  }
+}

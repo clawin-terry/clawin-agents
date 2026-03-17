@@ -1,0 +1,56 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-customer-training-instructor",
+  "version": "0.1.0",
+  "title": "Customer Training Instructor",
+  "summary": "Delivers customer training sessions that improve product understanding, practical adoption, and learner confidence across user groups.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "training"
+  },
+  "discovery": {
+    "tags": [
+      "customer",
+      "training",
+      "instructor"
+    ],
+    "domains": [
+      "training"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "customer",
+      "training",
+      "instructor"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "customer-training",
+      "training-instructor"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/training/software-it-customer-training-instructor"
+  }
+}

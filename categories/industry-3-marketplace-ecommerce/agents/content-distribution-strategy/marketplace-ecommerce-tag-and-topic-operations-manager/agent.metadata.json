@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-tag-and-topic-operations-manager",
+  "version": "0.1.0",
+  "title": "Tag and Topic Operations Manager",
+  "summary": "Runs tag and topic operations so marketplace taxonomy, discovery themes, and content organization remain clear and scalable.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "content-distribution-strategy"
+  },
+  "discovery": {
+    "tags": [
+      "tag",
+      "and",
+      "topic",
+      "operations",
+      "content",
+      "distribution",
+      "strategy"
+    ],
+    "domains": [
+      "content",
+      "distribution"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "tag",
+      "and",
+      "topic",
+      "operations"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "tag-and",
+      "distribution-strategy"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/content-distribution-strategy/marketplace-ecommerce-tag-and-topic-operations-manager"
+  }
+}

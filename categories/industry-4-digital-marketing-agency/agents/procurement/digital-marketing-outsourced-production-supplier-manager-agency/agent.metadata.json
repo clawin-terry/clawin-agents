@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-outsourced-production-supplier-manager-agency",
+  "version": "0.1.0",
+  "title": "Outsourced Production Supplier Manager (Agency)",
+  "summary": "Manages outsourced production suppliers so filming, design, editing, and creator resources are sourced with stronger cost, quality, and schedule control.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "procurement"
+  },
+  "discovery": {
+    "tags": [
+      "outsourced",
+      "production",
+      "supplier",
+      "procurement"
+    ],
+    "domains": [
+      "procurement"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "outsourced",
+      "production",
+      "supplier",
+      "procurement"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "outsourced-production",
+      "supplier-procurement"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/procurement/digital-marketing-outsourced-production-supplier-manager-agency"
+  }
+}

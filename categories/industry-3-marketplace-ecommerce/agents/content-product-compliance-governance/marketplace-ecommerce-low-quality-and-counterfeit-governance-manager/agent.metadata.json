@@ -1,0 +1,66 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-low-quality-and-counterfeit-governance-manager",
+  "version": "0.1.0",
+  "title": "Low-Quality and Counterfeit Governance Manager",
+  "summary": "Leads low-quality and counterfeit governance so harmful listings are contained and marketplace trust is protected.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "content-product-compliance-governance"
+  },
+  "discovery": {
+    "tags": [
+      "low",
+      "quality",
+      "and",
+      "counterfeit",
+      "governance",
+      "content",
+      "product",
+      "compliance"
+    ],
+    "domains": [
+      "content",
+      "product"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "low",
+      "quality",
+      "and",
+      "counterfeit"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "low-quality",
+      "product-compliance"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/content-product-compliance-governance/marketplace-ecommerce-low-quality-and-counterfeit-governance-manager"
+  }
+}

@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-media-relations-manager",
                     "workspace":  "~/.openclaw/agents/content-platform-media-relations-manager/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-media-relations-manager/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-media-relations-manager.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-media-relations-manager.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

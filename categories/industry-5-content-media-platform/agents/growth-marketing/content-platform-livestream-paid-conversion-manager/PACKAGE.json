@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-livestream-paid-conversion-manager",
                     "workspace":  "~/.openclaw/agents/content-platform-livestream-paid-conversion-manager/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-livestream-paid-conversion-manager/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-livestream-paid-conversion-manager.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-livestream-paid-conversion-manager.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

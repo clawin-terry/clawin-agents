@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-settlement-error-resolution-specialist",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-settlement-error-resolution-specialist/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-settlement-error-resolution-specialist/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-settlement-error-resolution-specialist.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-settlement-error-resolution-specialist.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

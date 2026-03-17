@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-solution-toolchain-administrator",
+  "version": "0.1.0",
+  "title": "Solution Toolchain Administrator",
+  "summary": "Administers the solution toolchain so demo assets, templates, repositories, and supporting systems remain dependable and easy for field teams to use.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "solution-assets"
+  },
+  "discovery": {
+    "tags": [
+      "solution",
+      "toolchain",
+      "administrator",
+      "assets"
+    ],
+    "domains": [
+      "solution",
+      "assets"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "solution",
+      "toolchain",
+      "administrator",
+      "assets"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "solution-toolchain",
+      "administrator-assets"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/solution-assets/software-it-solution-toolchain-administrator"
+  }
+}

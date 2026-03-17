@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-penalty-enforcement-specialist",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-penalty-enforcement-specialist/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-penalty-enforcement-specialist/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-penalty-enforcement-specialist.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-penalty-enforcement-specialist.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

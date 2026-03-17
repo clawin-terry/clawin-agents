@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-merchant-onboarding-contract-counsel",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-merchant-onboarding-contract-counsel/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-merchant-onboarding-contract-counsel/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-merchant-onboarding-contract-counsel.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-merchant-onboarding-contract-counsel.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-implementation-consultant",
+  "version": "0.1.0",
+  "title": "Implementation Consultant",
+  "summary": "Guides implementation work so solution configuration, process adoption, and rollout sequencing fit customer needs and delivery constraints.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "delivery-implementation"
+  },
+  "discovery": {
+    "tags": [
+      "implementation",
+      "delivery"
+    ],
+    "domains": [
+      "delivery",
+      "implementation"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "implementation",
+      "delivery"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "implementation-delivery"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/delivery-implementation/software-it-implementation-consultant"
+  }
+}

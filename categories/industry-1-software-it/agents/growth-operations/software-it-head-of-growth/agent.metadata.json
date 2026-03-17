@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-head-of-growth",
+  "version": "0.1.0",
+  "title": "Head of Growth",
+  "summary": "Leads growth strategy across acquisition, conversion, and retention, turning commercial goals into measurable operating systems and experimentation priorities.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "growth-operations"
+  },
+  "discovery": {
+    "tags": [
+      "head",
+      "of",
+      "growth",
+      "operations"
+    ],
+    "domains": [
+      "growth",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "head",
+      "of",
+      "growth",
+      "operations"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "head-of",
+      "growth-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/growth-operations/software-it-head-of-growth"
+  }
+}

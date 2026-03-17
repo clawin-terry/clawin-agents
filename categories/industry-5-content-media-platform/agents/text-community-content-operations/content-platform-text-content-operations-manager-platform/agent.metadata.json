@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-text-content-operations-manager-platform",
+  "version": "0.1.0",
+  "title": "Text Content Operations Manager (Platform)",
+  "summary": "Runs text-content operations so articles, captions, and community posts stay organized, discoverable, and aligned with platform content goals.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "text-community-content-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "text",
+      "operations",
+      "community"
+    ],
+    "domains": [
+      "text",
+      "community"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "text",
+      "operations"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "operations-community"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/text-community-content-operations/content-platform-text-content-operations-manager-platform"
+  }
+}

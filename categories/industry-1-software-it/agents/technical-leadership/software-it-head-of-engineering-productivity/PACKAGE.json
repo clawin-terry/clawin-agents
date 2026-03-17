@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-head-of-engineering-productivity",
                     "workspace":  "~/.openclaw/agents/software-it-head-of-engineering-productivity/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-head-of-engineering-productivity/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-head-of-engineering-productivity.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-head-of-engineering-productivity.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-low-quality-content-governance-manager-platform",
+  "version": "0.1.0",
+  "title": "Low-Quality Content Governance Manager (Platform)",
+  "summary": "Leads low-quality content governance so weak, repetitive, or low-value supply is reduced without undermining healthy community participation.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "community-governance-risk"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "low",
+      "quality",
+      "governance",
+      "community",
+      "risk"
+    ],
+    "domains": [
+      "community",
+      "governance"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "low",
+      "quality"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "community-risk"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/community-governance-risk/content-platform-low-quality-content-governance-manager-platform"
+  }
+}

@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/digital-marketing-customer-support-supervisor-agency",
                     "workspace":  "~/.openclaw/agents/digital-marketing-customer-support-supervisor-agency/workspace",
                     "agentDir":  "~/.openclaw/agents/digital-marketing-customer-support-supervisor-agency/agent",
-                    "configEntry":  "config/openclaw.agent.digital-marketing-customer-support-supervisor-agency.entry.json",
-                    "configSnippet":  "config/openclaw.agent.digital-marketing-customer-support-supervisor-agency.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

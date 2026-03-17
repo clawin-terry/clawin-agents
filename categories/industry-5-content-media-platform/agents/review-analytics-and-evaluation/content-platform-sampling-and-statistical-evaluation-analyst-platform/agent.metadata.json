@@ -1,0 +1,67 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-sampling-and-statistical-evaluation-analyst-platform",
+  "version": "0.1.0",
+  "title": "Sampling and Statistical Evaluation Analyst (Platform)",
+  "summary": "Designs sampling plans and statistical evaluation methods so trust-and-safety quality checks produce more reliable performance signals and operational decisions.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "review-analytics-and-evaluation"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "sampling",
+      "and",
+      "statistical",
+      "evaluation",
+      "review",
+      "analytics"
+    ],
+    "domains": [
+      "review",
+      "analytics"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "sampling",
+      "and"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "review-analytics"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/review-analytics-and-evaluation/content-platform-sampling-and-statistical-evaluation-analyst-platform"
+  }
+}

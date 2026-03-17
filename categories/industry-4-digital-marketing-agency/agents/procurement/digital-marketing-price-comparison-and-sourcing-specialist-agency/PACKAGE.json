@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/digital-marketing-price-comparison-and-sourcing-specialist-agency",
                     "workspace":  "~/.openclaw/agents/digital-marketing-price-comparison-and-sourcing-specialist-agency/workspace",
                     "agentDir":  "~/.openclaw/agents/digital-marketing-price-comparison-and-sourcing-specialist-agency/agent",
-                    "configEntry":  "config/openclaw.agent.digital-marketing-price-comparison-and-sourcing-specialist-agency.entry.json",
-                    "configSnippet":  "config/openclaw.agent.digital-marketing-price-comparison-and-sourcing-specialist-agency.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

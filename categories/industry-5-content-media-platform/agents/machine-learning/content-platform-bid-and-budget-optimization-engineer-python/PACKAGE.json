@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-bid-and-budget-optimization-engineer-python",
                     "workspace":  "~/.openclaw/agents/content-platform-bid-and-budget-optimization-engineer-python/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-bid-and-budget-optimization-engineer-python/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-bid-and-budget-optimization-engineer-python.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-bid-and-budget-optimization-engineer-python.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

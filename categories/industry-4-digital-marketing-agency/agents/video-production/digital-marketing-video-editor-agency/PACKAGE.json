@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/digital-marketing-video-editor-agency",
                     "workspace":  "~/.openclaw/agents/digital-marketing-video-editor-agency/workspace",
                     "agentDir":  "~/.openclaw/agents/digital-marketing-video-editor-agency/agent",
-                    "configEntry":  "config/openclaw.agent.digital-marketing-video-editor-agency.entry.json",
-                    "configSnippet":  "config/openclaw.agent.digital-marketing-video-editor-agency.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

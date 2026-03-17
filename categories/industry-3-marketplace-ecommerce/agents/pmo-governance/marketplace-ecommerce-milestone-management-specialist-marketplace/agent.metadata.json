@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-milestone-management-specialist-marketplace",
+  "version": "0.1.0",
+  "title": "Milestone Management Specialist (Marketplace)",
+  "summary": "Tracks marketplace milestones so key programs surface delays, dependencies, and delivery risks early enough for practical intervention.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "pmo-governance"
+  },
+  "discovery": {
+    "tags": [
+      "milestone",
+      "management",
+      "pmo",
+      "governance"
+    ],
+    "domains": [
+      "pmo",
+      "governance"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "milestone",
+      "management",
+      "pmo",
+      "governance"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "milestone-management",
+      "pmo-governance"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/pmo-governance/marketplace-ecommerce-milestone-management-specialist-marketplace"
+  }
+}

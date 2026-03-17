@@ -1,0 +1,66 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-technical-standards-and-code-quality-manager",
+  "version": "0.1.0",
+  "title": "Technical Standards and Code Quality Manager",
+  "summary": "Owns technical standards and code quality governance so engineering teams can ship with stronger consistency, maintainability, and shared delivery expectations.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "platform-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "technical",
+      "standards",
+      "and",
+      "code",
+      "quality",
+      "engineering"
+    ],
+    "domains": [
+      "platform",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "technical",
+      "standards"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "quality-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "healthcheck"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/platform-engineering/content-platform-technical-standards-and-code-quality-manager"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-ticket-operations-manager-platform",
+  "version": "0.1.0",
+  "title": "Ticket Operations Manager (Platform)",
+  "summary": "Runs ticket operations so case intake, routing, queue health, and resolution workflows stay structured across support channels.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "customer-support"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "ticket",
+      "operations",
+      "customer",
+      "support"
+    ],
+    "domains": [
+      "customer",
+      "support"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "ticket",
+      "operations"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "customer-support"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/customer-support/content-platform-ticket-operations-manager-platform"
+  }
+}

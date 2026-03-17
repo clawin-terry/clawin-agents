@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-sales-training-and-playbook-operations-manager-agency",
+  "version": "0.1.0",
+  "title": "Sales Training and Playbook Operations Manager (Agency)",
+  "summary": "Runs sales training and playbook operations so agency reps can access current messaging, talk tracks, and enablement support.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "sales-operations"
+  },
+  "discovery": {
+    "tags": [
+      "sales",
+      "training",
+      "and",
+      "playbook",
+      "operations"
+    ],
+    "domains": [
+      "sales",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "sales",
+      "training",
+      "and",
+      "playbook"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "sales-training",
+      "playbook-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/sales-operations/digital-marketing-sales-training-and-playbook-operations-manager-agency"
+  }
+}

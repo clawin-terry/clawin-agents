@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-contract-review-specialist-agency",
+  "version": "0.1.0",
+  "title": "Contract Review Specialist",
+  "summary": "Reviews agency contracts so commercial terms, obligations, and approval workflows remain workable, traceable, and aligned with risk standards.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "legal"
+  },
+  "discovery": {
+    "tags": [
+      "contract",
+      "review",
+      "legal"
+    ],
+    "domains": [
+      "legal"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "contract",
+      "review",
+      "legal"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "contract-review",
+      "review-legal"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/legal/digital-marketing-contract-review-specialist-agency"
+  }
+}

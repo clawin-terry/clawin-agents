@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-user-researcher",
+  "version": "0.1.0",
+  "title": "User Researcher",
+  "summary": "Runs qualitative and mixed-method research so product teams understand user needs, creator pain points, and evolving platform behaviors with stronger evidence.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "user-research-experience"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "user",
+      "researcher",
+      "research",
+      "experience"
+    ],
+    "domains": [
+      "user",
+      "research"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "user",
+      "researcher"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "research-experience"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "ui-ux-pro-max"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/user-research-experience/content-platform-user-researcher"
+  }
+}

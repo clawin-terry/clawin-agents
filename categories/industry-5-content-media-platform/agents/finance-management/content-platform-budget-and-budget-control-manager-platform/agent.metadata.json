@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-budget-and-budget-control-manager-platform",
+  "version": "0.1.0",
+  "title": "Budget and Budget Control Manager (Platform)",
+  "summary": "Leads budgeting and budget controls so content, creator, and commercial investments can be planned with tighter financial discipline and visibility.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "finance-management"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "budget",
+      "and",
+      "control",
+      "finance",
+      "management"
+    ],
+    "domains": [
+      "finance",
+      "management"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "budget",
+      "and"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "finance-management"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/finance-management/content-platform-budget-and-budget-control-manager-platform"
+  }
+}

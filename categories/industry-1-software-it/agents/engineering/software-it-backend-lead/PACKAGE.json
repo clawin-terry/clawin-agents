@@ -16,7 +16,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-backend-lead",
                     "workspace":  "~/.openclaw/agents/software-it-backend-lead/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-backend-lead/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-backend-lead.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-backend-lead.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

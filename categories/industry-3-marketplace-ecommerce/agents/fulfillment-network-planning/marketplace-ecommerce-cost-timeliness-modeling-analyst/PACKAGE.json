@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-cost-timeliness-modeling-analyst",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-cost-timeliness-modeling-analyst/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-cost-timeliness-modeling-analyst/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-cost-timeliness-modeling-analyst.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-cost-timeliness-modeling-analyst.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

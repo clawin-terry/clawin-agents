@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-attribution-and-anti-fraud-analytics-manager",
+  "version": "0.1.0",
+  "title": "Attribution and Anti-Fraud Analytics Manager",
+  "summary": "Leads attribution and anti-fraud analytics so growth measurement, channel evaluation, and traffic quality decisions rest on more reliable evidence.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "business-intelligence"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "attribution",
+      "and",
+      "anti",
+      "fraud",
+      "analytics",
+      "business"
+    ],
+    "domains": [
+      "business",
+      "intelligence"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "attribution",
+      "and"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "business-intelligence"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/business-intelligence/content-platform-attribution-and-anti-fraud-analytics-manager"
+  }
+}

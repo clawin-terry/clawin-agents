@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-budget-allocation-and-pacing-planner-agency",
+  "version": "0.1.0",
+  "title": "Budget Allocation and Pacing Planner (Agency)",
+  "summary": "Plans budget allocation and pacing so agency media programs can balance spend timing, channel coverage, and campaign efficiency.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "media-strategy"
+  },
+  "discovery": {
+    "tags": [
+      "budget",
+      "allocation",
+      "and",
+      "pacing",
+      "planner",
+      "media",
+      "strategy"
+    ],
+    "domains": [
+      "media",
+      "strategy"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "budget",
+      "allocation",
+      "and",
+      "pacing"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "budget-allocation",
+      "media-strategy"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/media-strategy/digital-marketing-budget-allocation-and-pacing-planner-agency"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-supplier-risk-specialist",
+  "version": "0.1.0",
+  "title": "Supplier Risk Specialist",
+  "summary": "Assesses supplier risk so vendor dependencies, control gaps, and continuity concerns are surfaced early and managed with appropriate follow-up.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "supplier-management"
+  },
+  "discovery": {
+    "tags": [
+      "supplier",
+      "risk",
+      "management"
+    ],
+    "domains": [
+      "supplier",
+      "management"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "supplier",
+      "risk",
+      "management"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "supplier-risk",
+      "risk-management"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/supplier-management/software-it-supplier-risk-specialist"
+  }
+}

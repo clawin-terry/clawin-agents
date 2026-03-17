@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-budget-and-rolling-forecast-manager-marketplace",
+  "version": "0.1.0",
+  "title": "Budget and Rolling Forecast Manager (Marketplace)",
+  "summary": "Runs budgeting and rolling forecast processes so marketplace leaders can adjust plans with clearer forward visibility and performance context.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "finance-management"
+  },
+  "discovery": {
+    "tags": [
+      "budget",
+      "and",
+      "rolling",
+      "forecast",
+      "finance",
+      "management"
+    ],
+    "domains": [
+      "finance",
+      "management"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "budget",
+      "and",
+      "rolling",
+      "forecast"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "budget-and",
+      "finance-management"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/finance-management/marketplace-ecommerce-budget-and-rolling-forecast-manager-marketplace"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-creative-risk-pre-screening-specialist-agency",
+  "version": "0.1.0",
+  "title": "Creative Risk Pre-Screening Specialist (Agency)",
+  "summary": "Pre-screens creative materials for risk so agency teams can catch policy, compliance, and reputational issues before submission or launch.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "risk-management"
+  },
+  "discovery": {
+    "tags": [
+      "creative",
+      "risk",
+      "pre",
+      "screening",
+      "management"
+    ],
+    "domains": [
+      "risk",
+      "management"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "creative",
+      "risk",
+      "pre",
+      "screening"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "creative-risk",
+      "screening-management"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/risk-management/digital-marketing-creative-risk-pre-screening-specialist-agency"
+  }
+}

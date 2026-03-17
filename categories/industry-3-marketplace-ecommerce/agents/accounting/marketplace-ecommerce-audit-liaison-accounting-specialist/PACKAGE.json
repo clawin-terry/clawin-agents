@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-audit-liaison-accounting-specialist",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-audit-liaison-accounting-specialist/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-audit-liaison-accounting-specialist/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-audit-liaison-accounting-specialist.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-audit-liaison-accounting-specialist.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

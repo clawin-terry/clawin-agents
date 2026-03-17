@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-ip-collaboration-project-manager-platform",
+  "version": "0.1.0",
+  "title": "IP Collaboration Project Manager (Platform)",
+  "summary": "Manages IP collaboration projects so brand tie-ins, franchise partnerships, and cross-IP campaigns are delivered with clearer coordination and stronger audience impact.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "campaign-event-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "ip",
+      "collaboration",
+      "project",
+      "campaign",
+      "event",
+      "operations"
+    ],
+    "domains": [
+      "campaign",
+      "event"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "ip",
+      "collaboration"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "event-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/campaign-event-operations/content-platform-ip-collaboration-project-manager-platform"
+  }
+}

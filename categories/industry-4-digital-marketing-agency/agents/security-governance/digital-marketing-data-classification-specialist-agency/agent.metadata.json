@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-data-classification-specialist-agency",
+  "version": "0.1.0",
+  "title": "Data Classification Specialist (Agency)",
+  "summary": "Owns data-classification practices so agency information can be labeled, protected, and handled according to business sensitivity and client requirements.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "security-governance"
+  },
+  "discovery": {
+    "tags": [
+      "data",
+      "classification",
+      "security",
+      "governance"
+    ],
+    "domains": [
+      "security",
+      "governance"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "data",
+      "classification",
+      "security",
+      "governance"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "data-classification",
+      "security-governance"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "healthcheck"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/security-governance/digital-marketing-data-classification-specialist-agency"
+  }
+}

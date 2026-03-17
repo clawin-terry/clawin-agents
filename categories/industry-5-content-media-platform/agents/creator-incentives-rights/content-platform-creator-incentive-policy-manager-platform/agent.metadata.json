@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-creator-incentive-policy-manager-platform",
+  "version": "0.1.0",
+  "title": "Creator Incentive Policy Manager (Platform)",
+  "summary": "Shapes creator incentive policies so the platform can motivate target behaviors, balance ecosystem goals, and keep incentive programs aligned with strategy.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "creator-incentives-rights"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "creator",
+      "incentive",
+      "policy",
+      "incentives",
+      "rights"
+    ],
+    "domains": [
+      "creator",
+      "incentives"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "creator",
+      "incentive"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "incentives-rights"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/creator-incentives-rights/content-platform-creator-incentive-policy-manager-platform"
+  }
+}

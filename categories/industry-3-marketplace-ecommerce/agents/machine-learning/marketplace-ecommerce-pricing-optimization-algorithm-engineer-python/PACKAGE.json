@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-pricing-optimization-algorithm-engineer-python",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-pricing-optimization-algorithm-engineer-python/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-pricing-optimization-algorithm-engineer-python/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-pricing-optimization-algorithm-engineer-python.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-pricing-optimization-algorithm-engineer-python.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

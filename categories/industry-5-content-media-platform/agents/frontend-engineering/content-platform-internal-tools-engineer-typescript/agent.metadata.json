@@ -1,0 +1,67 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-internal-tools-engineer-typescript",
+  "version": "0.1.0",
+  "title": "Internal Tools Engineer (TypeScript)",
+  "summary": "Builds internal tools with TypeScript so operational teams get more effective interfaces, faster workflows, and easier tooling iteration across trust-and-safety systems.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "frontend-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "internal",
+      "tools",
+      "typescript",
+      "frontend",
+      "engineering"
+    ],
+    "domains": [
+      "frontend",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "internal",
+      "tools"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "frontend-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design",
+      "browser"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "ui-ux-pro-max"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/frontend-engineering/content-platform-internal-tools-engineer-typescript"
+  }
+}

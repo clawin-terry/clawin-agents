@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-enforcement-calibration-manager-platform",
+  "version": "0.1.0",
+  "title": "Enforcement Calibration Manager (Platform)",
+  "summary": "Calibrates enforcement standards so disposition severity, exception handling, and case outcomes remain more consistent across policy operations.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "policy-and-safety-standards"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "enforcement",
+      "calibration",
+      "policy",
+      "and",
+      "safety",
+      "standards"
+    ],
+    "domains": [
+      "policy",
+      "and"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "enforcement",
+      "calibration"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "safety-standards"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/policy-and-safety-standards/content-platform-enforcement-calibration-manager-platform"
+  }
+}

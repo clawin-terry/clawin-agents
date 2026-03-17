@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-board-secretary",
+  "version": "0.1.0",
+  "title": "Board Secretary",
+  "summary": "Supports board governance, executive coordination, and formal corporate procedures with disciplined documentation, timing, and stakeholder alignment.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "governance-secretariat"
+  },
+  "discovery": {
+    "tags": [
+      "board",
+      "secretary",
+      "governance",
+      "secretariat"
+    ],
+    "domains": [
+      "governance",
+      "secretariat"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "board",
+      "secretary",
+      "governance",
+      "secretariat"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "board-secretary",
+      "governance-secretariat"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/governance-secretariat/software-it-board-secretary"
+  }
+}

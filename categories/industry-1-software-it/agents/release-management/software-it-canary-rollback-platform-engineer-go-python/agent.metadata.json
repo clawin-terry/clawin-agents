@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-canary-rollback-platform-engineer-go-python",
+  "version": "0.1.0",
+  "title": "Canary and Rollback Platform Engineer (Go/Python)",
+  "summary": "Builds progressive delivery and rollback platform capabilities with Go and Python to reduce release risk and improve recovery speed.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "release-management"
+  },
+  "discovery": {
+    "tags": [
+      "canary",
+      "rollback",
+      "platform",
+      "go",
+      "python",
+      "and",
+      "release",
+      "management"
+    ],
+    "domains": [
+      "release",
+      "management"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "canary",
+      "rollback",
+      "platform",
+      "go"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "canary-rollback",
+      "release-management"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "healthcheck"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/release-management/software-it-canary-rollback-platform-engineer-go-python"
+  }
+}

@@ -16,7 +16,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-security-review-engineer",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-security-review-engineer/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-security-review-engineer/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-security-review-engineer.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-security-review-engineer.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

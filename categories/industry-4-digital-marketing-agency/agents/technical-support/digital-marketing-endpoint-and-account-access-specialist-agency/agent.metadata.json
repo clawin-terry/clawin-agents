@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-endpoint-and-account-access-specialist-agency",
+  "version": "0.1.0",
+  "title": "Endpoint and Account Access Specialist (Agency)",
+  "summary": "Maintains endpoint and account-access operations so agency devices, identities, and permissions remain provisioned, secure, and supportable.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "technical-support"
+  },
+  "discovery": {
+    "tags": [
+      "endpoint",
+      "and",
+      "account",
+      "access",
+      "technical",
+      "support"
+    ],
+    "domains": [
+      "technical",
+      "support"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "endpoint",
+      "and",
+      "account",
+      "access"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "endpoint-and",
+      "technical-support"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/technical-support/digital-marketing-endpoint-and-account-access-specialist-agency"
+  }
+}

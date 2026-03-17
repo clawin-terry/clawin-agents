@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-knowledge-base-operations-specialist-platform",
                     "workspace":  "~/.openclaw/agents/content-platform-knowledge-base-operations-specialist-platform/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-knowledge-base-operations-specialist-platform/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-knowledge-base-operations-specialist-platform.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-knowledge-base-operations-specialist-platform.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

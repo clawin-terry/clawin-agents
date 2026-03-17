@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-subscription-operations-manager",
+  "version": "0.1.0",
+  "title": "Subscription Operations Manager",
+  "summary": "Runs membership and subscription operations to improve renewal health, plan performance, and value realization across recurring revenue programs.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "growth-operations"
+  },
+  "discovery": {
+    "tags": [
+      "subscription",
+      "operations",
+      "growth"
+    ],
+    "domains": [
+      "growth",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "subscription",
+      "operations",
+      "growth"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "subscription-operations",
+      "operations-growth"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/growth-operations/software-it-subscription-operations-manager"
+  }
+}

@@ -16,7 +16,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-fulfillment-backend-engineer-go",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-fulfillment-backend-engineer-go/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-fulfillment-backend-engineer-go/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-fulfillment-backend-engineer-go.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-fulfillment-backend-engineer-go.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

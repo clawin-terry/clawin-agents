@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-press-release-editor",
+  "version": "0.1.0",
+  "title": "Press Release Editor",
+  "summary": "Edits press releases and external announcements so messaging remains accurate, polished, and aligned with strategic positioning.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "public-relations"
+  },
+  "discovery": {
+    "tags": [
+      "press",
+      "release",
+      "editor",
+      "public",
+      "relations"
+    ],
+    "domains": [
+      "public",
+      "relations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "press",
+      "release",
+      "editor",
+      "public"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "press-release",
+      "public-relations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/public-relations/software-it-press-release-editor"
+  }
+}

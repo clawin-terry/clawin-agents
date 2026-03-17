@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-distribution-management-specialist",
+  "version": "0.1.0",
+  "title": "Distribution Management Specialist",
+  "summary": "Coordinates distribution structures, partner flows, and operational controls so channel sales execution stays orderly and scalable.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "channel-sales"
+  },
+  "discovery": {
+    "tags": [
+      "distribution",
+      "management",
+      "channel",
+      "sales"
+    ],
+    "domains": [
+      "channel",
+      "sales"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "distribution",
+      "management",
+      "channel",
+      "sales"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "distribution-management",
+      "channel-sales"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/channel-sales/software-it-distribution-management-specialist"
+  }
+}

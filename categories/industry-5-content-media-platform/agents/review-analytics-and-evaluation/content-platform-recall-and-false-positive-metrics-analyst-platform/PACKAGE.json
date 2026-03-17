@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-recall-and-false-positive-metrics-analyst-platform",
                     "workspace":  "~/.openclaw/agents/content-platform-recall-and-false-positive-metrics-analyst-platform/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-recall-and-false-positive-metrics-analyst-platform/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-recall-and-false-positive-metrics-analyst-platform.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-recall-and-false-positive-metrics-analyst-platform.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

@@ -1,0 +1,19 @@
+{
+    "agents":  {
+                   "list":  [
+                                {
+                                    "id":  "financial-research-diligence-tracker",
+                                    "default":  false,
+                                    "name":  "Diligence Tracker",
+                                    "workspace":  "~/.openclaw/agents/financial-research-diligence-tracker/workspace",
+                                    "agentDir":  "~/.openclaw/agents/financial-research-diligence-tracker/agent",
+                                    "model":  {
+                                                  "primary":  "openai-codex/gpt-5.4"
+                                              },
+                                    "subagents":  {
+                                                      "thinking":  "low"
+                                                  }
+                                }
+                            ]
+               }
+}

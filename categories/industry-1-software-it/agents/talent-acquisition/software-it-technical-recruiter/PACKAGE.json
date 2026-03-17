@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-technical-recruiter",
                     "workspace":  "~/.openclaw/agents/software-it-technical-recruiter/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-technical-recruiter/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-technical-recruiter.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-technical-recruiter.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

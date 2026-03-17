@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-meeting-resolutions-administrator",
+  "version": "0.1.0",
+  "title": "Meeting and Resolutions Administrator",
+  "summary": "Administers meetings and formal resolutions so decisions are documented clearly, routed correctly, and traceable after approval.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "governance-secretariat"
+  },
+  "discovery": {
+    "tags": [
+      "meeting",
+      "resolutions",
+      "administrator",
+      "and",
+      "governance",
+      "secretariat"
+    ],
+    "domains": [
+      "governance",
+      "secretariat"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "meeting",
+      "resolutions",
+      "administrator",
+      "governance"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "meeting-resolutions",
+      "governance-secretariat"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/governance-secretariat/software-it-meeting-resolutions-administrator"
+  }
+}

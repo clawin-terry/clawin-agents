@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-meta-ads-specialist-agency",
+  "version": "0.1.0",
+  "title": "Meta Ads Specialist (Agency)",
+  "summary": "Operates Meta advertising so agency international campaigns can manage paid social reach, targeting, and conversion delivery with better control.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "global-ad-operations"
+  },
+  "discovery": {
+    "tags": [
+      "meta",
+      "ads",
+      "global",
+      "ad",
+      "operations"
+    ],
+    "domains": [
+      "global",
+      "ad"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "meta",
+      "ads",
+      "global",
+      "ad"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "meta-ads",
+      "ad-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/global-ad-operations/digital-marketing-meta-ads-specialist-agency"
+  }
+}

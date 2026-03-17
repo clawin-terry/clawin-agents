@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-advertising-copywriter-agency",
+  "version": "0.1.0",
+  "title": "Advertising Copywriter (Agency)",
+  "summary": "Writes advertising copy so agency campaigns can express clearer value propositions, hooks, and calls to action across formats.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "copywriting-and-scripting"
+  },
+  "discovery": {
+    "tags": [
+      "advertising",
+      "copywriter",
+      "copywriting",
+      "and",
+      "scripting"
+    ],
+    "domains": [
+      "copywriting",
+      "and"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "advertising",
+      "copywriter",
+      "copywriting",
+      "and"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "advertising-copywriter",
+      "and-scripting"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/copywriting-and-scripting/digital-marketing-advertising-copywriter-agency"
+  }
+}

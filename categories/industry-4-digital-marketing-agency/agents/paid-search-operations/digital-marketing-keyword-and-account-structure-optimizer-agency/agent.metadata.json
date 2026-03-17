@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-keyword-and-account-structure-optimizer-agency",
+  "version": "0.1.0",
+  "title": "Keyword and Account Structure Optimizer (Agency)",
+  "summary": "Optimizes keywords and account structure so agency search programs can improve relevance, control, and scalable performance management.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "paid-search-operations"
+  },
+  "discovery": {
+    "tags": [
+      "keyword",
+      "and",
+      "account",
+      "structure",
+      "optimizer",
+      "paid",
+      "search",
+      "operations"
+    ],
+    "domains": [
+      "paid",
+      "search"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "keyword",
+      "and",
+      "account",
+      "structure"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "keyword-and",
+      "search-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/paid-search-operations/digital-marketing-keyword-and-account-structure-optimizer-agency"
+  }
+}

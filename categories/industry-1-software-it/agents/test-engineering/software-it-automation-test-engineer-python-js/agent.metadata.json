@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-automation-test-engineer-python-js",
+  "version": "0.1.0",
+  "title": "Automation Test Engineer (Python/JS)",
+  "summary": "Builds automated test coverage with Python and JavaScript to improve regression safety, feedback speed, and release confidence.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "test-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "automation",
+      "test",
+      "python",
+      "js",
+      "engineering"
+    ],
+    "domains": [
+      "test",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "automation",
+      "test",
+      "python",
+      "js"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "automation-test",
+      "js-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/test-engineering/software-it-automation-test-engineer-python-js"
+  }
+}

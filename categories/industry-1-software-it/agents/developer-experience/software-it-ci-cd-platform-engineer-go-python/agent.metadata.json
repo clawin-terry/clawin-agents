@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-ci-cd-platform-engineer-go-python",
+  "version": "0.1.0",
+  "title": "CI/CD Platform Engineer (Go/Python)",
+  "summary": "Builds CI/CD platform capabilities with Go and Python so build, test, and delivery workflows stay fast, reliable, and easy for teams to use.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "developer-experience"
+  },
+  "discovery": {
+    "tags": [
+      "ci",
+      "cd",
+      "platform",
+      "go",
+      "python",
+      "developer",
+      "experience"
+    ],
+    "domains": [
+      "developer",
+      "experience"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "ci",
+      "cd",
+      "platform",
+      "go"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "ci-cd",
+      "developer-experience"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/developer-experience/software-it-ci-cd-platform-engineer-go-python"
+  }
+}

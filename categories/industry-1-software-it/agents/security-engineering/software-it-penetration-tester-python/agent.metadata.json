@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-penetration-tester-python",
+  "version": "0.1.0",
+  "title": "Penetration Tester (Python)",
+  "summary": "Performs penetration testing with Python-assisted workflows to uncover exploitable weaknesses, validate fixes, and improve defensive posture.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "security-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "penetration",
+      "tester",
+      "python",
+      "security",
+      "engineering"
+    ],
+    "domains": [
+      "security",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "penetration",
+      "tester",
+      "python",
+      "security"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "penetration-tester",
+      "security-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "healthcheck"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/security-engineering/software-it-penetration-tester-python"
+  }
+}

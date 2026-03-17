@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-metrics-and-data-assets-governance-manager",
                     "workspace":  "~/.openclaw/agents/content-platform-metrics-and-data-assets-governance-manager/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-metrics-and-data-assets-governance-manager/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-metrics-and-data-assets-governance-manager.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-metrics-and-data-assets-governance-manager.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

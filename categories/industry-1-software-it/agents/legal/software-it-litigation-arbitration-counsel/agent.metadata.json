@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-litigation-arbitration-counsel",
+  "version": "0.1.0",
+  "title": "Litigation and Arbitration Counsel",
+  "summary": "Handles dispute-related legal work so litigation and arbitration matters are prepared thoroughly, managed carefully, and resolved with stronger control.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "legal"
+  },
+  "discovery": {
+    "tags": [
+      "litigation",
+      "arbitration",
+      "counsel",
+      "and",
+      "legal"
+    ],
+    "domains": [
+      "legal"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "litigation",
+      "arbitration",
+      "counsel",
+      "legal"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "litigation-arbitration",
+      "counsel-legal"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/legal/software-it-litigation-arbitration-counsel"
+  }
+}

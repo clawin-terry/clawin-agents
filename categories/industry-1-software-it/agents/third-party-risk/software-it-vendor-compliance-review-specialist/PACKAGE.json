@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-vendor-compliance-review-specialist",
                     "workspace":  "~/.openclaw/agents/software-it-vendor-compliance-review-specialist/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-vendor-compliance-review-specialist/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-vendor-compliance-review-specialist.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-vendor-compliance-review-specialist.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

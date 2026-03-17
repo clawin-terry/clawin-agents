@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-crm-administrator",
+  "version": "0.1.0",
+  "title": "CRM Administrator",
+  "summary": "Administers CRM systems so pipeline data, account records, workflows, and reporting stay accurate, usable, and operationally reliable.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "sales-operations"
+  },
+  "discovery": {
+    "tags": [
+      "crm",
+      "administrator",
+      "sales",
+      "operations"
+    ],
+    "domains": [
+      "sales",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "crm",
+      "administrator",
+      "sales",
+      "operations"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "crm-administrator",
+      "sales-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/sales-operations/software-it-crm-administrator"
+  }
+}

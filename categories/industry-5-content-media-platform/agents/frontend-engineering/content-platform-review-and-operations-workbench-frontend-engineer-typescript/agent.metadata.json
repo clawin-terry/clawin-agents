@@ -1,0 +1,70 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-review-and-operations-workbench-frontend-engineer-typescript",
+  "version": "0.1.0",
+  "title": "Review and Operations Workbench Frontend Engineer (TypeScript)",
+  "summary": "Builds TypeScript frontends for review and operations workbenches so moderation operators can work faster with clearer, more maintainable internal interfaces.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "frontend-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "review",
+      "and",
+      "operations",
+      "workbench",
+      "frontend",
+      "typescript"
+    ],
+    "domains": [
+      "frontend",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "review",
+      "and"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "typescript-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design",
+      "browser"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "ui-ux-pro-max"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/frontend-engineering/content-platform-review-and-operations-workbench-frontend-engineer-typescript"
+  }
+}

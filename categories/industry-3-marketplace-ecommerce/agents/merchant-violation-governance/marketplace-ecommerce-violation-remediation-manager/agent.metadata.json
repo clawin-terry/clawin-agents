@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-violation-remediation-manager",
+  "version": "0.1.0",
+  "title": "Violation Remediation Manager",
+  "summary": "Leads violation remediation so noncompliant merchant behavior is corrected quickly and platform standards are restored.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "merchant-violation-governance"
+  },
+  "discovery": {
+    "tags": [
+      "violation",
+      "remediation",
+      "merchant",
+      "governance"
+    ],
+    "domains": [
+      "merchant",
+      "violation"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "violation",
+      "remediation",
+      "merchant",
+      "governance"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "violation-remediation",
+      "merchant-governance"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/merchant-violation-governance/marketplace-ecommerce-violation-remediation-manager"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-data-compliance-coordination-manager",
+  "version": "0.1.0",
+  "title": "Data Compliance Coordination Manager",
+  "summary": "Coordinates data compliance work so marketplace operations remain aligned with internal controls and external data-governance requirements.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "risk-compliance-regulatory-operations"
+  },
+  "discovery": {
+    "tags": [
+      "data",
+      "compliance",
+      "coordination",
+      "risk",
+      "regulatory",
+      "operations"
+    ],
+    "domains": [
+      "risk",
+      "compliance"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "data",
+      "compliance",
+      "coordination",
+      "risk"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "data-compliance",
+      "regulatory-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/risk-compliance-regulatory-operations/marketplace-ecommerce-data-compliance-coordination-manager"
+  }
+}

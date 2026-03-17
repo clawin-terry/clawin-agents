@@ -1,0 +1,56 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-head-of-training",
+  "version": "0.1.0",
+  "title": "Head of Training",
+  "summary": "Leads customer training strategy, program design, and delivery standards so enablement efforts scale with product and customer needs.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "training"
+  },
+  "discovery": {
+    "tags": [
+      "head",
+      "of",
+      "training"
+    ],
+    "domains": [
+      "training"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "head",
+      "of",
+      "training"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "head-of",
+      "of-training"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/training/software-it-head-of-training"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-streaming-latency-and-stability-engineer",
+  "version": "0.1.0",
+  "title": "Streaming Latency and Stability Engineer",
+  "summary": "Improves latency and stability for real-time data systems so streaming pipelines stay resilient, observable, and easier to operate during traffic volatility.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "site-reliability-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "streaming",
+      "latency",
+      "and",
+      "stability",
+      "site",
+      "reliability"
+    ],
+    "domains": [
+      "site",
+      "reliability"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "streaming",
+      "latency"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "reliability-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "healthcheck"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/site-reliability-engineering/content-platform-streaming-latency-and-stability-engineer"
+  }
+}

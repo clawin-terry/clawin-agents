@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-budget-management-specialist-agency",
+  "version": "0.1.0",
+  "title": "Budget Management Specialist",
+  "summary": "Runs budget management workflows so agency teams can plan spending, monitor variance, and keep financial execution aligned with operating targets.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "finance-management"
+  },
+  "discovery": {
+    "tags": [
+      "budget",
+      "management",
+      "finance"
+    ],
+    "domains": [
+      "finance",
+      "management"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "budget",
+      "management",
+      "finance"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "budget-management",
+      "management-finance"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/finance-management/digital-marketing-budget-management-specialist-agency"
+  }
+}

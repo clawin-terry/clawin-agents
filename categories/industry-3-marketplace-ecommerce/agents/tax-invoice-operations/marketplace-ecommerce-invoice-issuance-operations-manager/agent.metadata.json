@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-invoice-issuance-operations-manager",
+  "version": "0.1.0",
+  "title": "Invoice Issuance Operations Manager",
+  "summary": "Runs invoice issuance operations so marketplace invoices are produced accurately, on time, and in line with transaction records.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "tax-invoice-operations"
+  },
+  "discovery": {
+    "tags": [
+      "invoice",
+      "issuance",
+      "operations",
+      "tax"
+    ],
+    "domains": [
+      "tax",
+      "invoice"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "invoice",
+      "issuance",
+      "operations",
+      "tax"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "invoice-issuance",
+      "operations-tax"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/tax-invoice-operations/marketplace-ecommerce-invoice-issuance-operations-manager"
+  }
+}

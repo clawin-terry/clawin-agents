@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-accounts-receivable-and-payable-accountant-agency",
+  "version": "0.1.0",
+  "title": "Accounts Receivable and Payable Accountant",
+  "summary": "Runs receivables and payables accounting so client billing, supplier liabilities, and cash application workflows stay accurate and well coordinated.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "accounting"
+  },
+  "discovery": {
+    "tags": [
+      "accounts",
+      "receivable",
+      "and",
+      "payable",
+      "accountant",
+      "accounting"
+    ],
+    "domains": [
+      "accounting"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "accounts",
+      "receivable",
+      "and",
+      "payable"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "accounts-receivable",
+      "accountant-accounting"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/accounting/digital-marketing-accounts-receivable-and-payable-accountant-agency"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-test-development-engineer-javascript",
+  "version": "0.1.0",
+  "title": "Test Development Engineer (JavaScript)",
+  "summary": "Builds test tooling and quality workflows with JavaScript so frontend-heavy MarTech systems can be verified efficiently and supported with reusable engineering checks.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "quality-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "test",
+      "development",
+      "javascript",
+      "quality",
+      "engineering"
+    ],
+    "domains": [
+      "quality",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "test",
+      "development",
+      "javascript",
+      "quality"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "test-development",
+      "quality-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/quality-engineering/digital-marketing-test-development-engineer-javascript"
+  }
+}

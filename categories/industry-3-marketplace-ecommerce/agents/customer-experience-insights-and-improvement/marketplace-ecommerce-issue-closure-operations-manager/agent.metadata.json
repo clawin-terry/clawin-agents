@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-issue-closure-operations-manager",
+  "version": "0.1.0",
+  "title": "Issue Closure Operations Manager",
+  "summary": "Drives issue closure operations so experience problems are tracked to resolution and corrective actions are completed.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "customer-experience-insights-and-improvement"
+  },
+  "discovery": {
+    "tags": [
+      "issue",
+      "closure",
+      "operations",
+      "customer",
+      "experience",
+      "insights",
+      "and",
+      "improvement"
+    ],
+    "domains": [
+      "customer",
+      "experience"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "issue",
+      "closure",
+      "operations",
+      "customer"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "issue-closure",
+      "and-improvement"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/customer-experience-insights-and-improvement/marketplace-ecommerce-issue-closure-operations-manager"
+  }
+}

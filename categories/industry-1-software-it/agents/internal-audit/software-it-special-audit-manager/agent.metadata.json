@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-special-audit-manager",
+  "version": "0.1.0",
+  "title": "Special Audit Manager",
+  "summary": "Leads focused audit engagements on sensitive or high-priority topics so leadership receives independent findings on targeted areas of concern.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "internal-audit"
+  },
+  "discovery": {
+    "tags": [
+      "special",
+      "audit",
+      "internal"
+    ],
+    "domains": [
+      "internal",
+      "audit"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "special",
+      "audit",
+      "internal"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "special-audit",
+      "audit-internal"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/internal-audit/software-it-special-audit-manager"
+  }
+}

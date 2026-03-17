@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-quality-engineer-process-release-gates",
+  "version": "0.1.0",
+  "title": "Quality Engineer (Process and Release Gates)",
+  "summary": "Owns process and release-gate quality practices so MarTech changes meet entry criteria, delivery standards, and cross-team readiness expectations.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "quality-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "quality",
+      "process",
+      "release",
+      "gates",
+      "and",
+      "engineering"
+    ],
+    "domains": [
+      "quality",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "quality",
+      "process",
+      "release",
+      "gates"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "quality-process",
+      "gates-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/quality-engineering/digital-marketing-quality-engineer-process-release-gates"
+  }
+}

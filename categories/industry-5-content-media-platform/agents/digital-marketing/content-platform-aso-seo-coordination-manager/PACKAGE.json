@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-aso-seo-coordination-manager",
                     "workspace":  "~/.openclaw/agents/content-platform-aso-seo-coordination-manager/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-aso-seo-coordination-manager/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-aso-seo-coordination-manager.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-aso-seo-coordination-manager.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

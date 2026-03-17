@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-compliance-process-specialist",
+  "version": "0.1.0",
+  "title": "Compliance Process Specialist",
+  "summary": "Supports compliance-focused process work so control requirements are embedded into workflows, documentation, and day-to-day execution.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "process-internal-control"
+  },
+  "discovery": {
+    "tags": [
+      "compliance",
+      "process",
+      "internal",
+      "control"
+    ],
+    "domains": [
+      "process",
+      "internal"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "compliance",
+      "process",
+      "internal",
+      "control"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "compliance-process",
+      "internal-control"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/process-internal-control/software-it-compliance-process-specialist"
+  }
+}

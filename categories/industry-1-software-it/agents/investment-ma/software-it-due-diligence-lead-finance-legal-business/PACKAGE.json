@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-due-diligence-lead-finance-legal-business",
                     "workspace":  "~/.openclaw/agents/software-it-due-diligence-lead-finance-legal-business/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-due-diligence-lead-finance-legal-business/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-due-diligence-lead-finance-legal-business.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-due-diligence-lead-finance-legal-business.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-fixed-asset-accountant",
+  "version": "0.1.0",
+  "title": "Fixed Asset Accountant",
+  "summary": "Maintains fixed-asset accounting so capitalization, depreciation, disposals, and supporting schedules remain accurate and audit-ready.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "accounting"
+  },
+  "discovery": {
+    "tags": [
+      "fixed",
+      "asset",
+      "accountant",
+      "accounting"
+    ],
+    "domains": [
+      "accounting"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "fixed",
+      "asset",
+      "accountant",
+      "accounting"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "fixed-asset",
+      "accountant-accounting"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/accounting/software-it-fixed-asset-accountant"
+  }
+}

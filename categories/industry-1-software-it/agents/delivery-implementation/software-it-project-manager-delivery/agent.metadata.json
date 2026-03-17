@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-project-manager-delivery",
+  "version": "0.1.0",
+  "title": "Project Manager",
+  "summary": "Leads delivery projects through planning, coordination, and milestone control so scope and execution remain predictable and accountable.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "delivery-implementation"
+  },
+  "discovery": {
+    "tags": [
+      "project",
+      "delivery",
+      "implementation"
+    ],
+    "domains": [
+      "delivery",
+      "implementation"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "project",
+      "delivery",
+      "implementation"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "project-delivery",
+      "delivery-implementation"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/delivery-implementation/software-it-project-manager-delivery"
+  }
+}

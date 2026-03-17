@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-weibo-ads-specialist-agency",
+  "version": "0.1.0",
+  "title": "Weibo Ads Specialist (Agency)",
+  "summary": "Operates Weibo advertising so agency campaigns can manage reach, promotion timing, and response goals with clearer platform execution.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "channel-ad-operations"
+  },
+  "discovery": {
+    "tags": [
+      "weibo",
+      "ads",
+      "channel",
+      "ad",
+      "operations"
+    ],
+    "domains": [
+      "channel",
+      "ad"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "weibo",
+      "ads",
+      "channel",
+      "ad"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "weibo-ads",
+      "ad-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/channel-ad-operations/digital-marketing-weibo-ads-specialist-agency"
+  }
+}

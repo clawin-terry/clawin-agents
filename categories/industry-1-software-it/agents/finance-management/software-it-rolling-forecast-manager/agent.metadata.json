@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-rolling-forecast-manager",
+  "version": "0.1.0",
+  "title": "Rolling Forecast Manager",
+  "summary": "Maintains rolling forecasts so leadership can adjust plans with current performance signals, changing assumptions, and clearer forward visibility.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "finance-management"
+  },
+  "discovery": {
+    "tags": [
+      "rolling",
+      "forecast",
+      "finance",
+      "management"
+    ],
+    "domains": [
+      "finance",
+      "management"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "rolling",
+      "forecast",
+      "finance",
+      "management"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "rolling-forecast",
+      "finance-management"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/finance-management/software-it-rolling-forecast-manager"
+  }
+}

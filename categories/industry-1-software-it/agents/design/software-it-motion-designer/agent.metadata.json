@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-motion-designer",
+  "version": "0.1.0",
+  "title": "Motion Designer",
+  "summary": "Designs motion and transition systems so product interactions, storytelling, and visual feedback feel purposeful and refined.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "design"
+  },
+  "discovery": {
+    "tags": [
+      "motion",
+      "designer",
+      "design"
+    ],
+    "domains": [
+      "design"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "motion",
+      "designer",
+      "design"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "motion-designer",
+      "designer-design"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design",
+      "browser"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "ui-ux-pro-max",
+      "frontend-design"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/design/software-it-motion-designer"
+  }
+}

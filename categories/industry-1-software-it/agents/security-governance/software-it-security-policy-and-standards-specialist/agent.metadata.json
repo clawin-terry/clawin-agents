@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-security-policy-and-standards-specialist",
+  "version": "0.1.0",
+  "title": "Security Policy and Standards Specialist",
+  "summary": "Maintains security policies and standards so control expectations remain current, understandable, and enforceable across the organization.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "security-governance"
+  },
+  "discovery": {
+    "tags": [
+      "security",
+      "policy",
+      "and",
+      "standards",
+      "governance"
+    ],
+    "domains": [
+      "security",
+      "governance"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "security",
+      "policy",
+      "and",
+      "standards"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "security-policy",
+      "standards-governance"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "healthcheck"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/security-governance/software-it-security-policy-and-standards-specialist"
+  }
+}

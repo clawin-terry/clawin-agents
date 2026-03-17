@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-expense-control-product-operations-manager",
+  "version": "0.1.0",
+  "title": "Expense Control Product and Operations Manager",
+  "summary": "Runs expense-control product and operations workflows so reimbursement policies, approval paths, and spend controls work reliably at scale.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "finance-shared-services"
+  },
+  "discovery": {
+    "tags": [
+      "expense",
+      "control",
+      "product",
+      "operations",
+      "and",
+      "finance",
+      "shared",
+      "services"
+    ],
+    "domains": [
+      "finance",
+      "shared"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "expense",
+      "control",
+      "product",
+      "operations"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "expense-control",
+      "shared-services"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/finance-shared-services/software-it-expense-control-product-operations-manager"
+  }
+}

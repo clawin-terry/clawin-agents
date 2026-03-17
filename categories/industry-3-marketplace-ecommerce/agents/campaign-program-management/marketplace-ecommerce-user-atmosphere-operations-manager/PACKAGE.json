@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-user-atmosphere-operations-manager",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-user-atmosphere-operations-manager/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-user-atmosphere-operations-manager/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-user-atmosphere-operations-manager.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-user-atmosphere-operations-manager.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

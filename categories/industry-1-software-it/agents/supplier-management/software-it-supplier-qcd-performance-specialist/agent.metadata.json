@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-supplier-qcd-performance-specialist",
+  "version": "0.1.0",
+  "title": "Supplier QCD Performance Specialist",
+  "summary": "Tracks supplier quality, cost, and delivery performance so vendor outcomes are measured consistently and improvement actions are grounded in evidence.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "supplier-management"
+  },
+  "discovery": {
+    "tags": [
+      "supplier",
+      "qcd",
+      "performance",
+      "management"
+    ],
+    "domains": [
+      "supplier",
+      "management"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "supplier",
+      "qcd",
+      "performance",
+      "management"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "supplier-qcd",
+      "performance-management"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/supplier-management/software-it-supplier-qcd-performance-specialist"
+  }
+}

@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-post-investment-management-manager",
                     "workspace":  "~/.openclaw/agents/software-it-post-investment-management-manager/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-post-investment-management-manager/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-post-investment-management-manager.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-post-investment-management-manager.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-trending-topics-operations-manager",
+  "version": "0.1.0",
+  "title": "Trending Topics Operations Manager",
+  "summary": "Runs trending topics operations so marketplace content reacts quickly to live moments without losing quality or commercial relevance.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "content-distribution-strategy"
+  },
+  "discovery": {
+    "tags": [
+      "trending",
+      "topics",
+      "operations",
+      "content",
+      "distribution",
+      "strategy"
+    ],
+    "domains": [
+      "content",
+      "distribution"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "trending",
+      "topics",
+      "operations",
+      "content"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "trending-topics",
+      "distribution-strategy"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/content-distribution-strategy/marketplace-ecommerce-trending-topics-operations-manager"
+  }
+}

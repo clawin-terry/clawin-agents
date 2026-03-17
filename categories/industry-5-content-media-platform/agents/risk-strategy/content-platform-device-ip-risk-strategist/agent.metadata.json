@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-device-ip-risk-strategist",
+  "version": "0.1.0",
+  "title": "Device and IP Risk Strategist",
+  "summary": "Defines device and IP risk strategy so suspicious infrastructure, shared-fraud fingerprints, and evasive network behavior can be handled with tighter controls.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "risk-strategy"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "device",
+      "ip",
+      "risk",
+      "strategist",
+      "and",
+      "strategy"
+    ],
+    "domains": [
+      "risk",
+      "strategy"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "device",
+      "ip"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "content-platform",
+      "strategist-strategy"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/risk-strategy/content-platform-device-ip-risk-strategist"
+  }
+}

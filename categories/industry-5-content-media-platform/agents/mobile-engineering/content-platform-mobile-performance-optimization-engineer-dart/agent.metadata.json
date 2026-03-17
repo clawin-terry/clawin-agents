@@ -1,0 +1,68 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-mobile-performance-optimization-engineer-dart",
+  "version": "0.1.0",
+  "title": "Mobile Performance Optimization Engineer (Dart)",
+  "summary": "Drives client-side performance optimization in Dart so rendering, startup, interaction smoothness, and runtime efficiency improve across cross-platform mobile experiences.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "mobile-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "mobile",
+      "performance",
+      "optimization",
+      "dart",
+      "engineering"
+    ],
+    "domains": [
+      "mobile",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "mobile",
+      "performance"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "dart-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "clawin-mobile-engineering",
+      "ui-ux-pro-max",
+      "clawin-native-client-engineering"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/mobile-engineering/content-platform-mobile-performance-optimization-engineer-dart"
+  }
+}

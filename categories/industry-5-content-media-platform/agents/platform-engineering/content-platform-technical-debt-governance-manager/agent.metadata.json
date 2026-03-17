@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-technical-debt-governance-manager",
+  "version": "0.1.0",
+  "title": "Technical Debt Governance Manager",
+  "summary": "Leads technical debt governance so architecture erosion, maintenance risks, and long-term delivery friction are surfaced, prioritized, and reduced across the platform.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "platform-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "technical",
+      "debt",
+      "governance",
+      "engineering"
+    ],
+    "domains": [
+      "platform",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "technical",
+      "debt"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "governance-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "healthcheck"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/platform-engineering/content-platform-technical-debt-governance-manager"
+  }
+}

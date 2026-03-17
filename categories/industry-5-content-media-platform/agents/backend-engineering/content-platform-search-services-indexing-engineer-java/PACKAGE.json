@@ -16,7 +16,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-search-services-indexing-engineer-java",
                     "workspace":  "~/.openclaw/agents/content-platform-search-services-indexing-engineer-java/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-search-services-indexing-engineer-java/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-search-services-indexing-engineer-java.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-search-services-indexing-engineer-java.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

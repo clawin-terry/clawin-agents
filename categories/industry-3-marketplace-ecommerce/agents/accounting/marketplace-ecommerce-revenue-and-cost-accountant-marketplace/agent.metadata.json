@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-revenue-and-cost-accountant-marketplace",
+  "version": "0.1.0",
+  "title": "Revenue and Cost Accountant (Marketplace)",
+  "summary": "Manages marketplace revenue and cost accounting so transaction economics, cost attribution, and reporting remain supportable and accurate.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "accounting"
+  },
+  "discovery": {
+    "tags": [
+      "revenue",
+      "and",
+      "cost",
+      "accountant",
+      "accounting"
+    ],
+    "domains": [
+      "accounting"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "revenue",
+      "and",
+      "cost",
+      "accountant"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "revenue-and",
+      "accountant-accounting"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/accounting/marketplace-ecommerce-revenue-and-cost-accountant-marketplace"
+  }
+}

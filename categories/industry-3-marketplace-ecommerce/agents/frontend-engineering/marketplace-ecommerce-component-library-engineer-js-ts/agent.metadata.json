@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-component-library-engineer-js-ts",
+  "version": "0.1.0",
+  "title": "Component Library Engineer (JS/TS)",
+  "summary": "Builds and maintains shared component libraries with JavaScript and TypeScript so marketplace product teams can ship consistent and reusable interfaces faster.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "frontend-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "component",
+      "library",
+      "js",
+      "ts",
+      "frontend",
+      "engineering"
+    ],
+    "domains": [
+      "frontend",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "component",
+      "library",
+      "js",
+      "ts"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "component-library",
+      "frontend-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "browser"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/frontend-engineering/marketplace-ecommerce-component-library-engineer-js-ts"
+  }
+}

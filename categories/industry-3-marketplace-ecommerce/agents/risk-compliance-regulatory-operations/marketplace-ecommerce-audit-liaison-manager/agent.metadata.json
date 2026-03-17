@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-audit-liaison-manager",
+  "version": "0.1.0",
+  "title": "Audit Liaison Manager",
+  "summary": "Acts as the business-side audit liaison so reviews, evidence requests, and remediation follow-up are coordinated with clear accountability.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "risk-compliance-regulatory-operations"
+  },
+  "discovery": {
+    "tags": [
+      "audit",
+      "liaison",
+      "risk",
+      "compliance",
+      "regulatory",
+      "operations"
+    ],
+    "domains": [
+      "risk",
+      "compliance"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "audit",
+      "liaison",
+      "risk",
+      "compliance"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "audit-liaison",
+      "regulatory-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/risk-compliance-regulatory-operations/marketplace-ecommerce-audit-liaison-manager"
+  }
+}

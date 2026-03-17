@@ -16,7 +16,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-security-risk-manager",
                     "workspace":  "~/.openclaw/agents/software-it-security-risk-manager/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-security-risk-manager/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-security-risk-manager.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-security-risk-manager.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

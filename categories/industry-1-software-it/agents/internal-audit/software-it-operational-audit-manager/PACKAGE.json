@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-operational-audit-manager",
                     "workspace":  "~/.openclaw/agents/software-it-operational-audit-manager/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-operational-audit-manager/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-operational-audit-manager.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-operational-audit-manager.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

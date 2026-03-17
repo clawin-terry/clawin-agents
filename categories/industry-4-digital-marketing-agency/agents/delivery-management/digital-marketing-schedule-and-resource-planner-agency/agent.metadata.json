@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-schedule-and-resource-planner-agency",
+  "version": "0.1.0",
+  "title": "Schedule and Resource Planner (Agency)",
+  "summary": "Plans schedules and staffing so agency teams can balance timelines, workload, and campaign delivery capacity with fewer bottlenecks.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "delivery-management"
+  },
+  "discovery": {
+    "tags": [
+      "schedule",
+      "and",
+      "resource",
+      "planner",
+      "delivery",
+      "management"
+    ],
+    "domains": [
+      "delivery",
+      "management"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "schedule",
+      "and",
+      "resource",
+      "planner"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "schedule-and",
+      "delivery-management"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/delivery-management/digital-marketing-schedule-and-resource-planner-agency"
+  }
+}

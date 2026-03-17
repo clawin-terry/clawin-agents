@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-conversion-improvement-manager",
+  "version": "0.1.0",
+  "title": "Conversion Improvement Manager",
+  "summary": "Leads conversion improvement work so merchant traffic turns into more orders through clearer offers, stronger pages, and better operating discipline.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "merchant-performance-operations"
+  },
+  "discovery": {
+    "tags": [
+      "conversion",
+      "improvement",
+      "merchant",
+      "performance",
+      "operations"
+    ],
+    "domains": [
+      "merchant",
+      "performance"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "conversion",
+      "improvement",
+      "merchant",
+      "performance"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "conversion-improvement",
+      "performance-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/merchant-performance-operations/marketplace-ecommerce-conversion-improvement-manager"
+  }
+}

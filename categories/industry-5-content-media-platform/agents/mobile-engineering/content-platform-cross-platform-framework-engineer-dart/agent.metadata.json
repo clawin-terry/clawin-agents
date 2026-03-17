@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-cross-platform-framework-engineer-dart",
+  "version": "0.1.0",
+  "title": "Cross-Platform Framework Engineer (Dart)",
+  "summary": "Builds shared Dart frameworks and UI components so cross-platform client development becomes faster, more consistent, and easier to scale across app surfaces.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "mobile-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "cross",
+      "framework",
+      "dart",
+      "mobile",
+      "engineering"
+    ],
+    "domains": [
+      "mobile",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "cross",
+      "framework"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "mobile-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "clawin-mobile-engineering"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/mobile-engineering/content-platform-cross-platform-framework-engineer-dart"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-shipment-exception-governance-manager",
+  "version": "0.1.0",
+  "title": "Shipment Exception Governance Manager",
+  "summary": "Governs shipment exceptions so abnormal logistics cases are resolved consistently and downstream service impact is minimized.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "logistics-carrier-operations"
+  },
+  "discovery": {
+    "tags": [
+      "shipment",
+      "exception",
+      "governance",
+      "logistics",
+      "carrier",
+      "operations"
+    ],
+    "domains": [
+      "logistics",
+      "carrier"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "shipment",
+      "exception",
+      "governance",
+      "logistics"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "shipment-exception",
+      "carrier-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/logistics-carrier-operations/marketplace-ecommerce-shipment-exception-governance-manager"
+  }
+}

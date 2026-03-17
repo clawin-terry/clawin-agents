@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-channel-acquisition-optimization-specialist",
+  "version": "0.1.0",
+  "title": "Channel Acquisition Optimization Specialist",
+  "summary": "Optimizes paid and partner acquisition channels through budget discipline, conversion analysis, and continuous channel performance tuning.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "growth-operations"
+  },
+  "discovery": {
+    "tags": [
+      "channel",
+      "acquisition",
+      "optimization",
+      "growth",
+      "operations"
+    ],
+    "domains": [
+      "growth",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "channel",
+      "acquisition",
+      "optimization",
+      "growth"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "channel-acquisition",
+      "growth-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/growth-operations/software-it-channel-acquisition-optimization-specialist"
+  }
+}

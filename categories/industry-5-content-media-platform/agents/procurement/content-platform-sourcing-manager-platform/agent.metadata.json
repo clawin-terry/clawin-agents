@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-sourcing-manager-platform",
+  "version": "0.1.0",
+  "title": "Sourcing Manager (Platform)",
+  "summary": "Leads sourcing workflows so platform teams can identify qualified vendors, compare options, and secure needed goods and services with better speed and control.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "procurement"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "sourcing",
+      "procurement"
+    ],
+    "domains": [
+      "procurement"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "sourcing",
+      "procurement"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "sourcing-procurement"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/procurement/content-platform-sourcing-manager-platform"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-content-quality-governance-coordination-manager",
+  "version": "0.1.0",
+  "title": "Content Quality Governance Coordination Manager",
+  "summary": "Coordinates content quality governance so marketplace content standards, review partners, and improvement actions stay aligned across teams.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "content-creator-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "quality",
+      "governance",
+      "coordination",
+      "creator",
+      "operations"
+    ],
+    "domains": [
+      "content",
+      "creator"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "quality",
+      "governance",
+      "coordination"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-quality",
+      "creator-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/content-creator-operations/marketplace-ecommerce-content-quality-governance-coordination-manager"
+  }
+}

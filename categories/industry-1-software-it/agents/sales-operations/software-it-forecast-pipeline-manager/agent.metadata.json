@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-forecast-pipeline-manager",
+  "version": "0.1.0",
+  "title": "Forecast and Pipeline Manager",
+  "summary": "Owns forecast and pipeline management so sales leaders can track coverage, deal movement, and commit quality with confidence.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "sales-operations"
+  },
+  "discovery": {
+    "tags": [
+      "forecast",
+      "pipeline",
+      "and",
+      "sales",
+      "operations"
+    ],
+    "domains": [
+      "sales",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "forecast",
+      "pipeline",
+      "sales",
+      "operations"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "forecast-pipeline",
+      "sales-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/sales-operations/software-it-forecast-pipeline-manager"
+  }
+}

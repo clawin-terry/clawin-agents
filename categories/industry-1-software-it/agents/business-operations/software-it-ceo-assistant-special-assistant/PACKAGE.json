@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-ceo-assistant-special-assistant",
                     "workspace":  "~/.openclaw/agents/software-it-ceo-assistant-special-assistant/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-ceo-assistant-special-assistant/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-ceo-assistant-special-assistant.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-ceo-assistant-special-assistant.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

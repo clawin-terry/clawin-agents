@@ -22,9 +22,9 @@ The final installed layout should look like:
 
 ## Steps
 1. Copy this entire folder to `~/.openclaw/agents/marketplace-ecommerce-anti-fraud-product-manager`.
-2. Open `config/openclaw.agent.marketplace-ecommerce-anti-fraud-product-manager.entry.json`.
+2. Open `config/entry.json`.
 3. Append that JSON object to `agents.list` in the target machine's `~/.openclaw/openclaw.json`.
-4. If you prefer a wrapper snippet, merge `config/openclaw.agent.marketplace-ecommerce-anti-fraud-product-manager.snippet.json` into the target config instead.
+4. If you prefer a wrapper snippet, merge `config/snippet.json` into the target config instead.
 5. Review `config/SECRETS.md` and fill in the target machine's provider credentials or channel tokens.
 6. Restart OpenClaw Gateway.
 

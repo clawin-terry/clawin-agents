@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-training-manager-platform",
+  "version": "0.1.0",
+  "title": "Training Manager (Platform)",
+  "summary": "Leads training and development programs so managers, creators support teams, and platform operators can ramp capability faster and more consistently.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "learning-development"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "training",
+      "learning",
+      "development"
+    ],
+    "domains": [
+      "learning",
+      "development"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "training",
+      "learning"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "learning-development"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/learning-development/content-platform-training-manager-platform"
+  }
+}

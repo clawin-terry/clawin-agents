@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-pmo-lead",
                     "workspace":  "~/.openclaw/agents/software-it-pmo-lead/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-pmo-lead/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-pmo-lead.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-pmo-lead.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

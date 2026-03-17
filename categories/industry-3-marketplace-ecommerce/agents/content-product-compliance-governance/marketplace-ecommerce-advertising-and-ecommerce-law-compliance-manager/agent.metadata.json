@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-advertising-and-ecommerce-law-compliance-manager",
+  "version": "0.1.0",
+  "title": "Advertising and Ecommerce Law Compliance Manager",
+  "summary": "Coordinates advertising and ecommerce law compliance so marketplace policies, campaigns, and seller practices remain aligned with legal obligations.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "content-product-compliance-governance"
+  },
+  "discovery": {
+    "tags": [
+      "advertising",
+      "and",
+      "law",
+      "compliance",
+      "content",
+      "product",
+      "governance"
+    ],
+    "domains": [
+      "content",
+      "product"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "advertising",
+      "and",
+      "law",
+      "compliance"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "advertising-and",
+      "product-governance"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/content-product-compliance-governance/marketplace-ecommerce-advertising-and-ecommerce-law-compliance-manager"
+  }
+}

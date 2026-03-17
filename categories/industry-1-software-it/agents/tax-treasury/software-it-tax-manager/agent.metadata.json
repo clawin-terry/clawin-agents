@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-tax-manager",
+  "version": "0.1.0",
+  "title": "Tax Manager",
+  "summary": "Leads tax operations and compliance so filings, tax positions, and cross-functional support remain accurate, timely, and well-documented.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "tax-treasury"
+  },
+  "discovery": {
+    "tags": [
+      "tax",
+      "treasury"
+    ],
+    "domains": [
+      "tax",
+      "treasury"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "tax",
+      "treasury"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "tax-treasury"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/tax-treasury/software-it-tax-manager"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-live-room-operations-manager",
+  "version": "0.1.0",
+  "title": "Live Room Operations Manager",
+  "summary": "Runs live room operations so marketplace stream setups, merchandising flows, and in-session execution stay reliable and engaging.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "live-commerce-operations"
+  },
+  "discovery": {
+    "tags": [
+      "live",
+      "room",
+      "operations",
+      "commerce"
+    ],
+    "domains": [
+      "live",
+      "commerce"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "live",
+      "room",
+      "operations",
+      "commerce"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "live-room",
+      "operations-commerce"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/live-commerce-operations/marketplace-ecommerce-live-room-operations-manager"
+  }
+}

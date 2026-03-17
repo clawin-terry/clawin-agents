@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-multilingual-content-strategy-manager-platform",
+  "version": "0.1.0",
+  "title": "Multilingual Content Strategy Manager (Platform)",
+  "summary": "Shapes multilingual content strategy so editorial and community content can scale across language markets with stronger consistency and local relevance.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "localization-and-regional-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "multilingual",
+      "strategy",
+      "localization",
+      "and",
+      "regional",
+      "operations"
+    ],
+    "domains": [
+      "localization",
+      "and"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "multilingual",
+      "strategy"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "content-platform",
+      "regional-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/localization-and-regional-operations/content-platform-multilingual-content-strategy-manager-platform"
+  }
+}

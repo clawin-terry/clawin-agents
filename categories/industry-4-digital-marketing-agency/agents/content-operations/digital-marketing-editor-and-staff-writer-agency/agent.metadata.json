@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-editor-and-staff-writer-agency",
+  "version": "0.1.0",
+  "title": "Editor and Staff Writer (Agency)",
+  "summary": "Edits and writes campaign content so agency deliverables maintain clarity, consistency, and audience-appropriate structure across channels.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "content-operations"
+  },
+  "discovery": {
+    "tags": [
+      "editor",
+      "and",
+      "staff",
+      "writer",
+      "content",
+      "operations"
+    ],
+    "domains": [
+      "content",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "editor",
+      "and",
+      "staff",
+      "writer"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "editor-and",
+      "content-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/content-operations/digital-marketing-editor-and-staff-writer-agency"
+  }
+}

@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/digital-marketing-jinritoutiao-and-juliang-feed-specialist-agency",
                     "workspace":  "~/.openclaw/agents/digital-marketing-jinritoutiao-and-juliang-feed-specialist-agency/workspace",
                     "agentDir":  "~/.openclaw/agents/digital-marketing-jinritoutiao-and-juliang-feed-specialist-agency/agent",
-                    "configEntry":  "config/openclaw.agent.digital-marketing-jinritoutiao-and-juliang-feed-specialist-agency.entry.json",
-                    "configSnippet":  "config/openclaw.agent.digital-marketing-jinritoutiao-and-juliang-feed-specialist-agency.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

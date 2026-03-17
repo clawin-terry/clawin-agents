@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-application-architect",
+  "version": "0.1.0",
+  "title": "Application Architect",
+  "summary": "Designs application structures and integration patterns so systems remain maintainable, extensible, and fit for evolving product and delivery needs.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "architecture-governance"
+  },
+  "discovery": {
+    "tags": [
+      "application",
+      "architect",
+      "architecture",
+      "governance"
+    ],
+    "domains": [
+      "architecture",
+      "governance"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "application",
+      "architect",
+      "architecture",
+      "governance"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "application-architect",
+      "architecture-governance"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/architecture-governance/software-it-application-architect"
+  }
+}

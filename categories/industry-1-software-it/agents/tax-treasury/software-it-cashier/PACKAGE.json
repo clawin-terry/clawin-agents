@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-cashier",
                     "workspace":  "~/.openclaw/agents/software-it-cashier/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-cashier/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-cashier.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-cashier.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

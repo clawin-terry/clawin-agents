@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-compliance-training-specialist",
                     "workspace":  "~/.openclaw/agents/software-it-compliance-training-specialist/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-compliance-training-specialist/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-compliance-training-specialist.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-compliance-training-specialist.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

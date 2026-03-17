@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-pricing-and-inventory-strategy-manager",
+  "version": "0.1.0",
+  "title": "Pricing and Inventory Strategy Manager",
+  "summary": "Owns pricing and inventory strategy so ad supply, demand balancing, and monetization efficiency improve without losing delivery quality.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "commercial-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "pricing",
+      "and",
+      "inventory",
+      "strategy",
+      "commercial",
+      "operations"
+    ],
+    "domains": [
+      "commercial",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "pricing",
+      "and"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "content-platform",
+      "commercial-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/commercial-operations/content-platform-pricing-and-inventory-strategy-manager"
+  }
+}

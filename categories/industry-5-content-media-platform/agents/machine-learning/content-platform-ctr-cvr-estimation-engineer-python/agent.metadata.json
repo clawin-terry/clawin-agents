@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-ctr-cvr-estimation-engineer-python",
+  "version": "0.1.0",
+  "title": "CTR/CVR Estimation Engineer (Python)",
+  "summary": "Builds Python estimation models so ad ranking and delivery systems can predict click-through and conversion outcomes with stronger precision.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "machine-learning"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "ctr",
+      "cvr",
+      "estimation",
+      "python",
+      "machine",
+      "learning"
+    ],
+    "domains": [
+      "machine",
+      "learning"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "ctr",
+      "cvr"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "machine-learning"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/machine-learning/content-platform-ctr-cvr-estimation-engineer-python"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-campaign-strategy-operations-manager",
+  "version": "0.1.0",
+  "title": "Campaign Strategy Operations Manager",
+  "summary": "Leads campaign strategy operations so targeting, delivery planning, and optimization programs improve advertiser outcomes across the platform.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "advertising-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "campaign",
+      "strategy",
+      "operations",
+      "advertising"
+    ],
+    "domains": [
+      "advertising",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "campaign",
+      "strategy"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "content-platform",
+      "operations-advertising"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/advertising-operations/content-platform-campaign-strategy-operations-manager"
+  }
+}

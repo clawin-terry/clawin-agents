@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-event-instrumentation-governance-engineer",
+  "version": "0.1.0",
+  "title": "Event Instrumentation Governance Engineer",
+  "summary": "Builds instrumentation governance workflows so event tracking standards, data quality, and analytics trust remain consistent across product surfaces.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "data-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "event",
+      "instrumentation",
+      "governance",
+      "data",
+      "engineering"
+    ],
+    "domains": [
+      "data",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "event",
+      "instrumentation"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "data-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/data-engineering/content-platform-event-instrumentation-governance-engineer"
+  }
+}

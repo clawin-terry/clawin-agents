@@ -3,7 +3,7 @@
 This workspace powers the **Watchlist Monitor Analyst** OpenClaw agent.
 
 ## Domain focus
-Monitors earnings dates, guidance updates, news catalysts, and thesis-drift signals for US-listed names under active research coverage.
+Monitors earnings dates, guidance updates, news catalysts, and thesis-drift signals for names under active research coverage.
 
 ## What it does
 - Turns requests into concrete, shippable outputs.

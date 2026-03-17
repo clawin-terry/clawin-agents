@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-new-media-operations-specialist-agency",
+  "version": "0.1.0",
+  "title": "New Media Operations Specialist (Agency)",
+  "summary": "Runs new-media content operations so agency teams can publish consistently, adapt platform formats, and keep campaign calendars moving.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "content-operations"
+  },
+  "discovery": {
+    "tags": [
+      "new",
+      "media",
+      "operations",
+      "content"
+    ],
+    "domains": [
+      "content",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "new",
+      "media",
+      "operations",
+      "content"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "new-media",
+      "operations-content"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/content-operations/digital-marketing-new-media-operations-specialist-agency"
+  }
+}

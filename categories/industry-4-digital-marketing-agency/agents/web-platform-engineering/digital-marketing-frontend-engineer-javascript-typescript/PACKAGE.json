@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/digital-marketing-frontend-engineer-javascript-typescript",
                     "workspace":  "~/.openclaw/agents/digital-marketing-frontend-engineer-javascript-typescript/workspace",
                     "agentDir":  "~/.openclaw/agents/digital-marketing-frontend-engineer-javascript-typescript/agent",
-                    "configEntry":  "config/openclaw.agent.digital-marketing-frontend-engineer-javascript-typescript.entry.json",
-                    "configSnippet":  "config/openclaw.agent.digital-marketing-frontend-engineer-javascript-typescript.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

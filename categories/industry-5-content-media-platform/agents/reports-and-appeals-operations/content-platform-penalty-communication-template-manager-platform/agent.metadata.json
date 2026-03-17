@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-penalty-communication-template-manager-platform",
+  "version": "0.1.0",
+  "title": "Penalty Communication Template Manager (Platform)",
+  "summary": "Owns penalty communication templates so enforcement notices are clearer, more consistent, and easier for users and support teams to interpret.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "reports-and-appeals-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "penalty",
+      "communication",
+      "template",
+      "reports",
+      "and",
+      "appeals"
+    ],
+    "domains": [
+      "reports",
+      "and"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "penalty",
+      "communication"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "appeals-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/reports-and-appeals-operations/content-platform-penalty-communication-template-manager-platform"
+  }
+}

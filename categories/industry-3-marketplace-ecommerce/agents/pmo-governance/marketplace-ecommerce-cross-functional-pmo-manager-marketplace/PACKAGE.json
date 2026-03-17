@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-cross-functional-pmo-manager-marketplace",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-cross-functional-pmo-manager-marketplace/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-cross-functional-pmo-manager-marketplace/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-cross-functional-pmo-manager-marketplace.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-cross-functional-pmo-manager-marketplace.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

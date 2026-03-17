@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-security-engineer-python-agency",
+  "version": "0.1.0",
+  "title": "Security Engineer (Python, Agency)",
+  "summary": "Builds and automates security controls so agency monitoring, validation, and operational safeguards become more reliable and easier to sustain.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "security-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "security",
+      "python",
+      "engineering"
+    ],
+    "domains": [
+      "security",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "security",
+      "python",
+      "engineering"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "security-python",
+      "python-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "healthcheck"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/security-engineering/digital-marketing-security-engineer-python-agency"
+  }
+}

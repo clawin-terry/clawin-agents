@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-brand-strategy-manager-agency",
+  "version": "0.1.0",
+  "title": "Brand Strategy Manager (Agency)",
+  "summary": "Shapes brand strategy so agency clients can align positioning, audience understanding, and campaign choices with clearer brand intent.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "strategy-planning"
+  },
+  "discovery": {
+    "tags": [
+      "brand",
+      "strategy",
+      "planning"
+    ],
+    "domains": [
+      "strategy",
+      "planning"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "brand",
+      "strategy",
+      "planning"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "brand-strategy",
+      "strategy-planning"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/strategy-planning/digital-marketing-brand-strategy-manager-agency"
+  }
+}

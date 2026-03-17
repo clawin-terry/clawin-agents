@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-head-of-growth-strategy-agency",
+  "version": "0.1.0",
+  "title": "Head of Growth Strategy (Agency)",
+  "summary": "Leads agency growth strategy so acquisition priorities, funnel goals, and experimentation agendas stay aligned with measurable growth outcomes.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "growth-strategy"
+  },
+  "discovery": {
+    "tags": [
+      "head",
+      "of",
+      "growth",
+      "strategy"
+    ],
+    "domains": [
+      "growth",
+      "strategy"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "head",
+      "of",
+      "growth",
+      "strategy"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "head-of",
+      "growth-strategy"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/growth-strategy/digital-marketing-head-of-growth-strategy-agency"
+  }
+}

@@ -16,7 +16,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-platform-data-security-engineer-go",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-platform-data-security-engineer-go/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-platform-data-security-engineer-go/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-platform-data-security-engineer-go.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-platform-data-security-engineer-go.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

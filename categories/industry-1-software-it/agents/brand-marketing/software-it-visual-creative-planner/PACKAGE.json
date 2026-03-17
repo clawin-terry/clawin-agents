@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-visual-creative-planner",
                     "workspace":  "~/.openclaw/agents/software-it-visual-creative-planner/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-visual-creative-planner/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-visual-creative-planner.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-visual-creative-planner.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

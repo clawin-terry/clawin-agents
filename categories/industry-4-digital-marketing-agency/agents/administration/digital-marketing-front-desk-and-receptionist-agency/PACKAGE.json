@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/digital-marketing-front-desk-and-receptionist-agency",
                     "workspace":  "~/.openclaw/agents/digital-marketing-front-desk-and-receptionist-agency/workspace",
                     "agentDir":  "~/.openclaw/agents/digital-marketing-front-desk-and-receptionist-agency/agent",
-                    "configEntry":  "config/openclaw.agent.digital-marketing-front-desk-and-receptionist-agency.entry.json",
-                    "configSnippet":  "config/openclaw.agent.digital-marketing-front-desk-and-receptionist-agency.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

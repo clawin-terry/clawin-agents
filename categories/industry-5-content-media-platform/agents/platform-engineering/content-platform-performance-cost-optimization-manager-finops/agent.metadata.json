@@ -1,0 +1,66 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-performance-cost-optimization-manager-finops",
+  "version": "0.1.0",
+  "title": "Performance and Cost Optimization Manager (FinOps)",
+  "summary": "Leads performance and cost optimization with FinOps collaboration so platform efficiency, cloud spend, and service-level performance improve together instead of trading off blindly.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "platform-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "performance",
+      "cost",
+      "optimization",
+      "finops",
+      "and",
+      "engineering"
+    ],
+    "domains": [
+      "platform",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "performance",
+      "cost"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "finops-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "healthcheck"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/platform-engineering/content-platform-performance-cost-optimization-manager-finops"
+  }
+}

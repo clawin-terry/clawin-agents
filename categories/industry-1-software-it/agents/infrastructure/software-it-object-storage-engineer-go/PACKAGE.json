@@ -16,7 +16,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-object-storage-engineer-go",
                     "workspace":  "~/.openclaw/agents/software-it-object-storage-engineer-go/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-object-storage-engineer-go/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-object-storage-engineer-go.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-object-storage-engineer-go.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

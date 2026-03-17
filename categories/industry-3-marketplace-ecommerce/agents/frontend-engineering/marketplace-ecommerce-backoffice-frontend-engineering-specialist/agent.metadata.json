@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-backoffice-frontend-engineering-specialist",
+  "version": "0.1.0",
+  "title": "Backoffice Frontend Engineering Specialist",
+  "summary": "Improves internal frontend engineering foundations for marketplace backoffice systems, including maintainable architecture, tooling consistency, and delivery efficiency.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "frontend-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "backoffice",
+      "frontend",
+      "engineering"
+    ],
+    "domains": [
+      "frontend",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "backoffice",
+      "frontend",
+      "engineering"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "backoffice-frontend",
+      "frontend-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "browser"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/frontend-engineering/marketplace-ecommerce-backoffice-frontend-engineering-specialist"
+  }
+}

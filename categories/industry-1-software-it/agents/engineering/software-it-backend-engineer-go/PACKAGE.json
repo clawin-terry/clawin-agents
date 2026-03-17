@@ -16,7 +16,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-backend-engineer-go",
                     "workspace":  "~/.openclaw/agents/software-it-backend-engineer-go/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-backend-engineer-go/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-backend-engineer-go.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-backend-engineer-go.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

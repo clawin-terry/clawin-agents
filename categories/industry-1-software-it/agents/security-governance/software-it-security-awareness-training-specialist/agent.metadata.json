@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-security-awareness-training-specialist",
+  "version": "0.1.0",
+  "title": "Security Awareness Training Specialist",
+  "summary": "Runs security awareness programs so employees understand core risks, policy expectations, and safe operating behaviors through practical training and reinforcement.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "security-governance"
+  },
+  "discovery": {
+    "tags": [
+      "security",
+      "awareness",
+      "training",
+      "governance"
+    ],
+    "domains": [
+      "security",
+      "governance"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "security",
+      "awareness",
+      "training",
+      "governance"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "security-awareness",
+      "training-governance"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "healthcheck"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/security-governance/software-it-security-awareness-training-specialist"
+  }
+}

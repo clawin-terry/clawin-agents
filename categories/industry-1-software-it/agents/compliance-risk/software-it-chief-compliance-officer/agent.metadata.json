@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-chief-compliance-officer",
+  "version": "0.1.0",
+  "title": "Chief Compliance Officer",
+  "summary": "Leads enterprise compliance direction so policies, controls, and oversight mechanisms remain aligned with regulatory obligations and business conduct expectations.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "compliance-risk"
+  },
+  "discovery": {
+    "tags": [
+      "chief",
+      "compliance",
+      "officer",
+      "risk"
+    ],
+    "domains": [
+      "compliance",
+      "risk"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "chief",
+      "compliance",
+      "officer",
+      "risk"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "chief-compliance",
+      "officer-risk"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/compliance-risk/software-it-chief-compliance-officer"
+  }
+}

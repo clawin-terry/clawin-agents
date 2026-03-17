@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-public-sentiment-risk-analyst-platform",
+  "version": "0.1.0",
+  "title": "Public Sentiment Risk Analyst (Platform)",
+  "summary": "Assesses public-sentiment risk so policy, content, and platform incidents can be interpreted with clearer escalation context and response priorities.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "risk-and-incident-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "public",
+      "sentiment",
+      "risk",
+      "and",
+      "incident",
+      "operations"
+    ],
+    "domains": [
+      "risk",
+      "and"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "public",
+      "sentiment"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "incident-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/risk-and-incident-operations/content-platform-public-sentiment-risk-analyst-platform"
+  }
+}

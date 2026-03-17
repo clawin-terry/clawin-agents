@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-mta-and-incrementality-testing-specialist",
+  "version": "0.1.0",
+  "title": "MTA and Incrementality Testing Specialist",
+  "summary": "Runs multi-touch attribution and incrementality testing so media teams can evaluate causal lift, channel contribution, and optimization tradeoffs with stronger evidence.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "attribution-measurement"
+  },
+  "discovery": {
+    "tags": [
+      "mta",
+      "and",
+      "incrementality",
+      "testing",
+      "attribution",
+      "measurement"
+    ],
+    "domains": [
+      "attribution",
+      "measurement"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "mta",
+      "and",
+      "incrementality",
+      "testing"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "mta-and",
+      "attribution-measurement"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/attribution-measurement/digital-marketing-mta-and-incrementality-testing-specialist"
+  }
+}

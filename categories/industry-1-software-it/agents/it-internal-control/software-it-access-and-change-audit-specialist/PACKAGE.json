@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-access-and-change-audit-specialist",
                     "workspace":  "~/.openclaw/agents/software-it-access-and-change-audit-specialist/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-access-and-change-audit-specialist/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-access-and-change-audit-specialist.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-access-and-change-audit-specialist.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

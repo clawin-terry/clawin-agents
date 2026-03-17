@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-general-ledger-accountant",
                     "workspace":  "~/.openclaw/agents/software-it-general-ledger-accountant/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-general-ledger-accountant/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-general-ledger-accountant.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-general-ledger-accountant.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

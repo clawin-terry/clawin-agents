@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-anti-money-laundering-coordination-manager",
+  "version": "0.1.0",
+  "title": "Anti-Money Laundering Coordination Manager",
+  "summary": "Coordinates business-side anti-money laundering work so risk signals, review workflows, and escalation paths stay aligned with compliance expectations.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "risk-compliance-regulatory-operations"
+  },
+  "discovery": {
+    "tags": [
+      "anti",
+      "money",
+      "laundering",
+      "coordination",
+      "risk",
+      "compliance",
+      "regulatory",
+      "operations"
+    ],
+    "domains": [
+      "risk",
+      "compliance"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "anti",
+      "money",
+      "laundering",
+      "coordination"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "anti-money",
+      "regulatory-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/risk-compliance-regulatory-operations/marketplace-ecommerce-anti-money-laundering-coordination-manager"
+  }
+}

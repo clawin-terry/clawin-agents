@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/digital-marketing-experiment-design-specialist",
                     "workspace":  "~/.openclaw/agents/digital-marketing-experiment-design-specialist/workspace",
                     "agentDir":  "~/.openclaw/agents/digital-marketing-experiment-design-specialist/agent",
-                    "configEntry":  "config/openclaw.agent.digital-marketing-experiment-design-specialist.entry.json",
-                    "configSnippet":  "config/openclaw.agent.digital-marketing-experiment-design-specialist.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

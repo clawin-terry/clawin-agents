@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-carrier-management-manager",
+  "version": "0.1.0",
+  "title": "Carrier Management Manager",
+  "summary": "Manages carrier relationships so marketplace logistics capacity, service reliability, and partner execution stay under control.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "logistics-carrier-operations"
+  },
+  "discovery": {
+    "tags": [
+      "carrier",
+      "management",
+      "logistics",
+      "operations"
+    ],
+    "domains": [
+      "logistics",
+      "carrier"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "carrier",
+      "management",
+      "logistics",
+      "operations"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "carrier-management",
+      "logistics-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/logistics-carrier-operations/marketplace-ecommerce-carrier-management-manager"
+  }
+}

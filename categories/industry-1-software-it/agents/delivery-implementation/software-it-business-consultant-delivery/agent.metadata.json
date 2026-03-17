@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-business-consultant-delivery",
+  "version": "0.1.0",
+  "title": "Business Consultant",
+  "summary": "Advises delivery engagements with business process insight so implementation plans connect solution behavior to customer operating needs.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "delivery-implementation"
+  },
+  "discovery": {
+    "tags": [
+      "business",
+      "delivery",
+      "implementation"
+    ],
+    "domains": [
+      "delivery",
+      "implementation"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "business",
+      "delivery",
+      "implementation"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "business-delivery",
+      "delivery-implementation"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/delivery-implementation/software-it-business-consultant-delivery"
+  }
+}

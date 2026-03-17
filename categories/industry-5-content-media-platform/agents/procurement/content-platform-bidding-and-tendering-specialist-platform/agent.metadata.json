@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-bidding-and-tendering-specialist-platform",
+  "version": "0.1.0",
+  "title": "Bidding and Tendering Specialist (Platform)",
+  "summary": "Runs bidding and tendering processes so competitive procurement events are documented clearly, executed fairly, and aligned with internal governance standards.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "procurement"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "bidding",
+      "and",
+      "tendering",
+      "procurement"
+    ],
+    "domains": [
+      "procurement"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "bidding",
+      "and"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "tendering-procurement"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/procurement/content-platform-bidding-and-tendering-specialist-platform"
+  }
+}

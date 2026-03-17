@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-lighting-technician-agency",
+  "version": "0.1.0",
+  "title": "Lighting Technician (Agency)",
+  "summary": "Manages lighting execution so agency shoots can maintain visual quality, consistency, and efficient on-set setup across production conditions.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "production-services"
+  },
+  "discovery": {
+    "tags": [
+      "lighting",
+      "technician",
+      "production",
+      "services"
+    ],
+    "domains": [
+      "production",
+      "services"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "lighting",
+      "technician",
+      "production",
+      "services"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "lighting-technician",
+      "production-services"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/production-services/digital-marketing-lighting-technician-agency"
+  }
+}

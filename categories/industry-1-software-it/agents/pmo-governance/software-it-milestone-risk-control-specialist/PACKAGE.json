@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-milestone-risk-control-specialist",
                     "workspace":  "~/.openclaw/agents/software-it-milestone-risk-control-specialist/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-milestone-risk-control-specialist/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-milestone-risk-control-specialist.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-milestone-risk-control-specialist.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

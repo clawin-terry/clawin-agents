@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-creator-messaging-and-push-operations-manager-platform",
+  "version": "0.1.0",
+  "title": "Creator Messaging and Push Operations Manager (Platform)",
+  "summary": "Runs in-platform messaging and push operations so creators receive the right prompts, updates, and campaign calls to action at the right moments.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "long-tail-creator-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "creator",
+      "messaging",
+      "and",
+      "push",
+      "operations",
+      "long"
+    ],
+    "domains": [
+      "long",
+      "tail"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "creator",
+      "messaging"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "long-tail"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/long-tail-creator-operations/content-platform-creator-messaging-and-push-operations-manager-platform"
+  }
+}

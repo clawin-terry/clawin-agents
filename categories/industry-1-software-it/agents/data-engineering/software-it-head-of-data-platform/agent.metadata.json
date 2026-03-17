@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-head-of-data-platform",
+  "version": "0.1.0",
+  "title": "Head of Data Platform",
+  "summary": "Leads the data platform function, aligning data infrastructure, delivery standards, and operating priorities with broader product and business needs.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "data-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "head",
+      "of",
+      "data",
+      "platform",
+      "engineering"
+    ],
+    "domains": [
+      "data",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "head",
+      "of",
+      "data",
+      "platform"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "head-of",
+      "platform-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/data-engineering/software-it-head-of-data-platform"
+  }
+}

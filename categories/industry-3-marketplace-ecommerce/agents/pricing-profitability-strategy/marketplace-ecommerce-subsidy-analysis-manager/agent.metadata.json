@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-subsidy-analysis-manager",
+  "version": "0.1.0",
+  "title": "Subsidy Analysis Manager",
+  "summary": "Evaluates subsidy scenarios so marketplace incentives improve growth outcomes without losing control of efficiency and economics.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "pricing-profitability-strategy"
+  },
+  "discovery": {
+    "tags": [
+      "subsidy",
+      "analysis",
+      "pricing",
+      "profitability",
+      "strategy"
+    ],
+    "domains": [
+      "pricing",
+      "profitability"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "subsidy",
+      "analysis",
+      "pricing",
+      "profitability"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "subsidy-analysis",
+      "profitability-strategy"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/pricing-profitability-strategy/marketplace-ecommerce-subsidy-analysis-manager"
+  }
+}

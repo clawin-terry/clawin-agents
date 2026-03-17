@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-renewals-manager",
+  "version": "0.1.0",
+  "title": "Renewals Manager",
+  "summary": "Leads renewal workflows so contract timing, value communication, and cross-functional readiness support strong retention outcomes.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "customer-success"
+  },
+  "discovery": {
+    "tags": [
+      "renewals",
+      "customer",
+      "success"
+    ],
+    "domains": [
+      "customer",
+      "success"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "renewals",
+      "customer",
+      "success"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "renewals-customer",
+      "customer-success"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/customer-success/software-it-renewals-manager"
+  }
+}

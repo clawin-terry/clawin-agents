@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-post-investment-management-manager",
+  "version": "0.1.0",
+  "title": "Post-Investment Management Manager",
+  "summary": "Manages post-investment follow-through so portfolio companies, internal stakeholders, and value-creation plans remain aligned after closing.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "investment-ma"
+  },
+  "discovery": {
+    "tags": [
+      "post",
+      "investment",
+      "management",
+      "ma"
+    ],
+    "domains": [
+      "investment",
+      "ma"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "post",
+      "investment",
+      "management",
+      "ma"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "post-investment",
+      "management-ma"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/investment-ma/software-it-post-investment-management-manager"
+  }
+}

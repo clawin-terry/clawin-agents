@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/digital-marketing-livestream-retrospective-optimizer-agency",
                     "workspace":  "~/.openclaw/agents/digital-marketing-livestream-retrospective-optimizer-agency/workspace",
                     "agentDir":  "~/.openclaw/agents/digital-marketing-livestream-retrospective-optimizer-agency/agent",
-                    "configEntry":  "config/openclaw.agent.digital-marketing-livestream-retrospective-optimizer-agency.entry.json",
-                    "configSnippet":  "config/openclaw.agent.digital-marketing-livestream-retrospective-optimizer-agency.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

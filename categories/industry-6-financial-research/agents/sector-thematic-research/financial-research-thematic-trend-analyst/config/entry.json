@@ -1,0 +1,13 @@
+{
+    "id":  "financial-research-thematic-trend-analyst",
+    "default":  false,
+    "name":  "Thematic Trend Analyst",
+    "workspace":  "~/.openclaw/agents/financial-research-thematic-trend-analyst/workspace",
+    "agentDir":  "~/.openclaw/agents/financial-research-thematic-trend-analyst/agent",
+    "model":  {
+                  "primary":  "openai-codex/gpt-5.4"
+              },
+    "subagents":  {
+                      "thinking":  "low"
+                  }
+}

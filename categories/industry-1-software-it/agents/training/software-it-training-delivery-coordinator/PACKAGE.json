@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-training-delivery-coordinator",
                     "workspace":  "~/.openclaw/agents/software-it-training-delivery-coordinator/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-training-delivery-coordinator/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-training-delivery-coordinator.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-training-delivery-coordinator.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

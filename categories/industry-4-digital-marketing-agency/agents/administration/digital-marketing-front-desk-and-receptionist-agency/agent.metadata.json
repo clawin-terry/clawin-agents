@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-front-desk-and-receptionist-agency",
+  "version": "0.1.0",
+  "title": "Front Desk and Receptionist (Agency)",
+  "summary": "Handles agency front-desk and visitor reception so guests, calls, and routine office requests are managed professionally and efficiently.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "administration"
+  },
+  "discovery": {
+    "tags": [
+      "front",
+      "desk",
+      "and",
+      "receptionist",
+      "administration"
+    ],
+    "domains": [
+      "administration"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "front",
+      "desk",
+      "and",
+      "receptionist"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "front-desk",
+      "receptionist-administration"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/administration/digital-marketing-front-desk-and-receptionist-agency"
+  }
+}

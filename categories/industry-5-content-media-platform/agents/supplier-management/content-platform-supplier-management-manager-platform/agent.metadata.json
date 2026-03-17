@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-supplier-management-manager-platform",
+  "version": "0.1.0",
+  "title": "Supplier Management Manager (Platform)",
+  "summary": "Leads supplier governance so platform vendor relationships, performance expectations, and operating reviews remain structured, transparent, and business-aligned.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "supplier-management"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "supplier",
+      "management"
+    ],
+    "domains": [
+      "supplier",
+      "management"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "supplier",
+      "management"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "supplier-management"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/supplier-management/content-platform-supplier-management-manager-platform"
+  }
+}

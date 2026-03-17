@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-channel-editor-platform",
+  "version": "0.1.0",
+  "title": "Channel Editor (Platform)",
+  "summary": "Edits and curates one or more channels so operated content surfaces maintain stronger quality, clearer voice, and more consistent publishing focus.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "editorial-content-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "channel",
+      "editor",
+      "editorial",
+      "operations"
+    ],
+    "domains": [
+      "editorial",
+      "content"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "channel",
+      "editor"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "editorial-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/editorial-content-operations/content-platform-channel-editor-platform"
+  }
+}

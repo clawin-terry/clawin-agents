@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-docs-ux-editor",
+  "version": "0.1.0",
+  "title": "Docs UX Editor",
+  "summary": "Improves documentation experience so technical content is easier to navigate, understand, and apply in real product workflows.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "content-experience"
+  },
+  "discovery": {
+    "tags": [
+      "docs",
+      "ux",
+      "editor",
+      "content",
+      "experience"
+    ],
+    "domains": [
+      "content",
+      "experience"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "docs",
+      "ux",
+      "editor",
+      "content"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "docs-ux",
+      "content-experience"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "ui-ux-pro-max"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/content-experience/software-it-docs-ux-editor"
+  }
+}

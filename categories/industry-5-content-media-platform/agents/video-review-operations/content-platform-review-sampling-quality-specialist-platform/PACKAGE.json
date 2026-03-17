@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-review-sampling-quality-specialist-platform",
                     "workspace":  "~/.openclaw/agents/content-platform-review-sampling-quality-specialist-platform/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-review-sampling-quality-specialist-platform/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-review-sampling-quality-specialist-platform.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-review-sampling-quality-specialist-platform.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

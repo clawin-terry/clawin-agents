@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-experiment-design-and-guardrail-metrics-manager",
+  "version": "0.1.0",
+  "title": "Experiment Design and Guardrail Metrics Manager",
+  "summary": "Designs experiment frameworks and guardrail metrics so product and growth teams can evaluate change impact without losing quality and risk visibility.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "business-intelligence"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "experiment",
+      "design",
+      "and",
+      "guardrail",
+      "metrics",
+      "business"
+    ],
+    "domains": [
+      "business",
+      "intelligence"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "experiment",
+      "design"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "business-intelligence"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/business-intelligence/content-platform-experiment-design-and-guardrail-metrics-manager"
+  }
+}

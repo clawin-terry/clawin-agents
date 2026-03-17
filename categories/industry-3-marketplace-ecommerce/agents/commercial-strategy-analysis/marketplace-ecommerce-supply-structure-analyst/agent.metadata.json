@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-supply-structure-analyst",
+  "version": "0.1.0",
+  "title": "Supply Structure Analyst",
+  "summary": "Analyzes marketplace supply structure to reveal assortment gaps, concentration risks, and practical opportunities for supply-side improvement.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "commercial-strategy-analysis"
+  },
+  "discovery": {
+    "tags": [
+      "supply",
+      "structure",
+      "commercial",
+      "strategy",
+      "analysis"
+    ],
+    "domains": [
+      "commercial",
+      "strategy"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "supply",
+      "structure",
+      "commercial",
+      "strategy"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "supply-structure",
+      "strategy-analysis"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/commercial-strategy-analysis/marketplace-ecommerce-supply-structure-analyst"
+  }
+}

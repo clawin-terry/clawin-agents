@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-sales-data-analyst",
+  "version": "0.1.0",
+  "title": "Sales Data Analyst",
+  "summary": "Analyzes sales data to improve forecast visibility, funnel discipline, and commercial decision-making across the revenue organization.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "sales-operations"
+  },
+  "discovery": {
+    "tags": [
+      "sales",
+      "data",
+      "operations"
+    ],
+    "domains": [
+      "sales",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "sales",
+      "data",
+      "operations"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "sales-data",
+      "data-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/sales-operations/software-it-sales-data-analyst"
+  }
+}

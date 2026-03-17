@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-recruiting-manager-experienced-campus",
                     "workspace":  "~/.openclaw/agents/software-it-recruiting-manager-experienced-campus/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-recruiting-manager-experienced-campus/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-recruiting-manager-experienced-campus.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-recruiting-manager-experienced-campus.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-live-campaign-retrospective-manager",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-live-campaign-retrospective-manager/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-live-campaign-retrospective-manager/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-live-campaign-retrospective-manager.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-live-campaign-retrospective-manager.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-bid-and-tender-manager",
+  "version": "0.1.0",
+  "title": "Bid and Tender Manager",
+  "summary": "Leads bid and tender workflows so submissions, compliance materials, and response quality stay on schedule and competitive.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "pre-sales"
+  },
+  "discovery": {
+    "tags": [
+      "bid",
+      "and",
+      "tender",
+      "pre",
+      "sales"
+    ],
+    "domains": [
+      "pre",
+      "sales"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "bid",
+      "and",
+      "tender",
+      "pre"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "bid-and",
+      "pre-sales"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/pre-sales/software-it-bid-and-tender-manager"
+  }
+}

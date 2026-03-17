@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-strategy-execution-pm",
                     "workspace":  "~/.openclaw/agents/software-it-strategy-execution-pm/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-strategy-execution-pm/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-strategy-execution-pm.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-strategy-execution-pm.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

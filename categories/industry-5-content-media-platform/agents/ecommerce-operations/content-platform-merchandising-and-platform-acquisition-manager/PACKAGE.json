@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-merchandising-and-platform-acquisition-manager",
                     "workspace":  "~/.openclaw/agents/content-platform-merchandising-and-platform-acquisition-manager/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-merchandising-and-platform-acquisition-manager/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-merchandising-and-platform-acquisition-manager.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-merchandising-and-platform-acquisition-manager.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

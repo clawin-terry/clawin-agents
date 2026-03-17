@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-usability-testing-specialist",
+  "version": "0.1.0",
+  "title": "Usability Testing Specialist",
+  "summary": "Plans and runs usability tests so design and product teams can improve task flow, interaction clarity, and end-user confidence.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "user-research-experience"
+  },
+  "discovery": {
+    "tags": [
+      "usability",
+      "testing",
+      "user",
+      "research",
+      "experience"
+    ],
+    "domains": [
+      "user",
+      "research"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "usability",
+      "testing",
+      "user",
+      "research"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "usability-testing",
+      "research-experience"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "ui-ux-pro-max"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/user-research-experience/software-it-usability-testing-specialist"
+  }
+}

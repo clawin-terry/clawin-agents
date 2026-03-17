@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-illicit-network-disruption-coordination-manager",
+  "version": "0.1.0",
+  "title": "Illicit Network Disruption Coordination Manager",
+  "summary": "Coordinates illicit network disruption work so black-market and abuse-ring activity is countered with cross-team execution discipline.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "transaction-risk-operations"
+  },
+  "discovery": {
+    "tags": [
+      "illicit",
+      "network",
+      "disruption",
+      "coordination",
+      "transaction",
+      "risk",
+      "operations"
+    ],
+    "domains": [
+      "transaction",
+      "risk"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "illicit",
+      "network",
+      "disruption",
+      "coordination"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "illicit-network",
+      "risk-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/transaction-risk-operations/marketplace-ecommerce-illicit-network-disruption-coordination-manager"
+  }
+}

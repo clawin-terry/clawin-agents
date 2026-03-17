@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-regulatory-communications-support-specialist-marketplace",
+  "version": "0.1.0",
+  "title": "Regulatory Communications Support Specialist (Marketplace)",
+  "summary": "Supports regulatory communications so marketplace submissions, meeting preparation, and external follow-up stay timely, accurate, and traceable.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "government-relations"
+  },
+  "discovery": {
+    "tags": [
+      "regulatory",
+      "communications",
+      "support",
+      "government",
+      "relations"
+    ],
+    "domains": [
+      "government",
+      "relations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "regulatory",
+      "communications",
+      "support",
+      "government"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "regulatory-communications",
+      "government-relations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/government-relations/marketplace-ecommerce-regulatory-communications-support-specialist-marketplace"
+  }
+}

@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-litigation-arbitration-counsel",
                     "workspace":  "~/.openclaw/agents/software-it-litigation-arbitration-counsel/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-litigation-arbitration-counsel/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-litigation-arbitration-counsel.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-litigation-arbitration-counsel.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

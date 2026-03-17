@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-platform-architect",
+  "version": "0.1.0",
+  "title": "Platform Architect",
+  "summary": "Designs platform architecture so shared systems, service boundaries, and technical roadmaps remain scalable, coherent, and easier for product teams to build upon.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "platform-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "architect",
+      "engineering"
+    ],
+    "domains": [
+      "platform",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "architect",
+      "engineering"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "architect-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "healthcheck"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/platform-engineering/content-platform-platform-architect"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-cross-cultural-rules-localization-manager-platform",
+  "version": "0.1.0",
+  "title": "Cross-Cultural Rules Localization Manager (Platform)",
+  "summary": "Adapts community rules across markets so platform standards remain enforceable, culturally legible, and better suited to regional user contexts.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "localization-and-regional-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "cross",
+      "cultural",
+      "rules",
+      "localization",
+      "and",
+      "regional"
+    ],
+    "domains": [
+      "localization",
+      "and"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "cross",
+      "cultural"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "regional-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/localization-and-regional-operations/content-platform-cross-cultural-rules-localization-manager-platform"
+  }
+}

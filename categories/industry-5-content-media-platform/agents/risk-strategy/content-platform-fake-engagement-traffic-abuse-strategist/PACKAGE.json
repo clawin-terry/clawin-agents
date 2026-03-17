@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-fake-engagement-traffic-abuse-strategist",
                     "workspace":  "~/.openclaw/agents/content-platform-fake-engagement-traffic-abuse-strategist/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-fake-engagement-traffic-abuse-strategist/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-fake-engagement-traffic-abuse-strategist.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-fake-engagement-traffic-abuse-strategist.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

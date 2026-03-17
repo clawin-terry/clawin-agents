@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-real-time-features-and-profile-pipeline-engineer",
                     "workspace":  "~/.openclaw/agents/content-platform-real-time-features-and-profile-pipeline-engineer/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-real-time-features-and-profile-pipeline-engineer/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-real-time-features-and-profile-pipeline-engineer.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-real-time-features-and-profile-pipeline-engineer.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

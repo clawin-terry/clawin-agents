@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-adx-ssp-resource-coordinator-agency",
+  "version": "0.1.0",
+  "title": "ADX and SSP Resource Coordinator (Agency)",
+  "summary": "Coordinates ADX and SSP resources so agency programmatic teams can align inventory access, partner handoffs, and supply-side execution more effectively.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "programmatic-ad-operations"
+  },
+  "discovery": {
+    "tags": [
+      "adx",
+      "ssp",
+      "resource",
+      "and",
+      "programmatic",
+      "ad",
+      "operations"
+    ],
+    "domains": [
+      "programmatic",
+      "ad"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "adx",
+      "ssp",
+      "resource",
+      "programmatic"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "adx-ssp",
+      "ad-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/programmatic-ad-operations/digital-marketing-adx-ssp-resource-coordinator-agency"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-foreign-exchange-cross-border-settlement-specialist",
+  "version": "0.1.0",
+  "title": "Foreign Exchange and Cross-Border Settlement Specialist",
+  "summary": "Manages foreign-exchange and cross-border settlement workflows so international payments, currency exposure, and banking execution stay controlled and timely.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "tax-treasury"
+  },
+  "discovery": {
+    "tags": [
+      "foreign",
+      "exchange",
+      "cross",
+      "border",
+      "settlement",
+      "and",
+      "tax",
+      "treasury"
+    ],
+    "domains": [
+      "tax",
+      "treasury"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "foreign",
+      "exchange",
+      "cross",
+      "border"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "foreign-exchange",
+      "tax-treasury"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/tax-treasury/software-it-foreign-exchange-cross-border-settlement-specialist"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-advertising-law-and-platform-policy-compliance-specialist-agency",
+  "version": "0.1.0",
+  "title": "Advertising Law and Platform Policy Compliance Specialist",
+  "summary": "Maintains advertising-law and platform-policy compliance so agency campaigns, claims, and review workflows stay launch-ready and defensible.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "compliance-risk"
+  },
+  "discovery": {
+    "tags": [
+      "advertising",
+      "law",
+      "and",
+      "platform",
+      "policy",
+      "compliance",
+      "risk"
+    ],
+    "domains": [
+      "compliance",
+      "risk"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "advertising",
+      "law",
+      "and",
+      "platform"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "advertising-law",
+      "compliance-risk"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/compliance-risk/digital-marketing-advertising-law-and-platform-policy-compliance-specialist-agency"
+  }
+}

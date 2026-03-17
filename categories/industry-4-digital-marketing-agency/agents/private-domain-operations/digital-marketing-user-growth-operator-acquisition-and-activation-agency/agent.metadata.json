@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-user-growth-operator-acquisition-and-activation-agency",
+  "version": "0.1.0",
+  "title": "User Growth Operator, Acquisition and Activation (Agency)",
+  "summary": "Operates acquisition and activation workflows so agency private-domain programs can grow audiences and improve early-stage participation.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "private-domain-operations"
+  },
+  "discovery": {
+    "tags": [
+      "user",
+      "growth",
+      "operator",
+      "acquisition",
+      "and",
+      "activation",
+      "private",
+      "domain"
+    ],
+    "domains": [
+      "private",
+      "domain"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "user",
+      "growth",
+      "operator",
+      "acquisition"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "user-growth",
+      "domain-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/private-domain-operations/digital-marketing-user-growth-operator-acquisition-and-activation-agency"
+  }
+}

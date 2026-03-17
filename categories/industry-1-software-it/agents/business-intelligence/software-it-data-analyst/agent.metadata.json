@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-data-analyst",
+  "version": "0.1.0",
+  "title": "Data Analyst",
+  "summary": "Analyzes business and product data to produce actionable insight, clear reporting, and decision support for cross-functional stakeholders.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "business-intelligence"
+  },
+  "discovery": {
+    "tags": [
+      "data",
+      "business",
+      "intelligence"
+    ],
+    "domains": [
+      "business",
+      "intelligence"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "data",
+      "business",
+      "intelligence"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "data-business",
+      "business-intelligence"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/business-intelligence/software-it-data-analyst"
+  }
+}

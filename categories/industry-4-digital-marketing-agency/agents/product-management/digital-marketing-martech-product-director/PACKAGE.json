@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/digital-marketing-martech-product-director",
                     "workspace":  "~/.openclaw/agents/digital-marketing-martech-product-director/workspace",
                     "agentDir":  "~/.openclaw/agents/digital-marketing-martech-product-director/agent",
-                    "configEntry":  "config/openclaw.agent.digital-marketing-martech-product-director.entry.json",
-                    "configSnippet":  "config/openclaw.agent.digital-marketing-martech-product-director.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

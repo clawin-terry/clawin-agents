@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-appeals-product-manager",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-appeals-product-manager/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-appeals-product-manager/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-appeals-product-manager.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-appeals-product-manager.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

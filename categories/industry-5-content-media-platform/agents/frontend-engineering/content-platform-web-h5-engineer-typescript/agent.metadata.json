@@ -1,0 +1,68 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-web-h5-engineer-typescript",
+  "version": "0.1.0",
+  "title": "Web and H5 Engineer (TypeScript)",
+  "summary": "Builds web and H5 product surfaces in TypeScript so browser-based experiences, campaign pages, and lightweight client journeys stay fast and easier to iterate.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "frontend-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "web",
+      "h5",
+      "typescript",
+      "and",
+      "frontend",
+      "engineering"
+    ],
+    "domains": [
+      "frontend",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "web",
+      "h5"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "frontend-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design",
+      "browser"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "ui-ux-pro-max"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/frontend-engineering/content-platform-web-h5-engineer-typescript"
+  }
+}

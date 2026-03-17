@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "financial-research-alt-data-analyst",
+    "roleTitle":  "Alternative Data Signal Analyst",
+    "personaSummary":  "Summarizes alternative-data inputs such as web traffic, app trends, card data, satellite indicators, or hiring signals while highlighting methodological limits.",
+    "industryId":  "industry-6-financial-research",
+    "roleFamilyKey":  "research-ops-data-monitoring",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/financial-research-alt-data-analyst",
+                    "workspace":  "~/.openclaw/agents/financial-research-alt-data-analyst/workspace",
+                    "agentDir":  "~/.openclaw/agents/financial-research-alt-data-analyst/agent",
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
+                }
+}

@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-certification-and-program-application-manager",
+  "version": "0.1.0",
+  "title": "Certification and Program Application Manager",
+  "summary": "Owns certification and program application workflows so qualification materials, evidence packages, and submission timing stay on track.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "government-relations"
+  },
+  "discovery": {
+    "tags": [
+      "certification",
+      "and",
+      "program",
+      "application",
+      "government",
+      "relations"
+    ],
+    "domains": [
+      "government",
+      "relations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "certification",
+      "and",
+      "program",
+      "application"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "certification-and",
+      "government-relations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/government-relations/software-it-certification-and-program-application-manager"
+  }
+}

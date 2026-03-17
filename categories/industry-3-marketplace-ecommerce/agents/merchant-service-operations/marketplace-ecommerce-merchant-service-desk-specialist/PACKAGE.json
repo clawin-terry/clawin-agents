@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-merchant-service-desk-specialist",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-merchant-service-desk-specialist/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-merchant-service-desk-specialist/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-merchant-service-desk-specialist.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-merchant-service-desk-specialist.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

@@ -3,7 +3,7 @@
 This document defines the expected shape of a release-ready Clawin agent folder package.
 
 ## Goal
-Each fine-grained role package in the repository should be directly shareable as a folder without an extra export step.
+Each fine-grained role package in the repository should be directly shareable as a folder and also package cleanly into a release zip without changing package internals.
 
 ## Canonical Repository Location
 ```text
@@ -27,8 +27,8 @@ categories/<industry-id>/agents/<role-family-key>/<agentId>/
     HEARTBEAT.md
     skills/
   config/
-    openclaw.agent.<agentId>.entry.json
-    openclaw.agent.<agentId>.snippet.json
+    entry.json
+    snippet.json
     SECRETS.md
 ```
 
@@ -42,6 +42,14 @@ categories/<industry-id>/agents/<role-family-key>/<agentId>/
 - Keep secrets out of the package.
 
 ## Config Rules
+Preferred layout for new and regenerated packages:
+- `config/entry.json`
+- `config/snippet.json`
+
+During the legacy transition window, repository tooling may also accept:
+- `config/openclaw.agent.<agentId>.entry.json`
+- `config/openclaw.agent.<agentId>.snippet.json`
+
 A release-ready package should provide:
 - a single-agent entry JSON object for `agents.list`
 - a wrapper snippet JSON for users who prefer full-structure merge fragments
@@ -54,20 +62,17 @@ A release-ready package should not include:
 - recipient-specific bindings
 
 ## Install Rule
-The package must remain installable through the published Clawin catalog flow, with only local secrets, provider choices, and environment-specific bindings left to fill after install.
+The package must be installable by copying the folder and merging the config entry, with only recipient-specific secrets left to fill.
 
-The canonical public flow is:
-- `npm install -g agents.clawin`
-- `clawin init`
-- `clawin catalog refresh --catalog https://agents.clawin.club/releases/<release>/catalogs/published/catalog.json`
-- `clawin install <agentId>`
-- `clawin status <agentId>`
+The same package must also remain installable after zip packaging for release output generation.
 
 ## Validation Checklist
 A package passes the shareable-folder contract only if:
 - package-level docs exist
 - workspace files exist
 - bundled skills live under `workspace/skills/`
-- config entry and wrapper snippet both exist
+- config entry (`config/entry.json`) and wrapper snippet (`config/snippet.json`) both exist
+- generator preflight must fail before overwrite when generated paths would exceed the conservative 240-char Windows safety budget
+- forced overwrite may remove only the exact target package directory after confirming it stays within the allowed package root
 - config paths point to the target install path, not the repository path
 - no secrets are stored in the package

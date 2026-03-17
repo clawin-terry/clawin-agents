@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-configuration-baseline-audit-specialist",
                     "workspace":  "~/.openclaw/agents/software-it-configuration-baseline-audit-specialist/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-configuration-baseline-audit-specialist/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-configuration-baseline-audit-specialist.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-configuration-baseline-audit-specialist.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-policy-research-analyst",
                     "workspace":  "~/.openclaw/agents/software-it-policy-research-analyst/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-policy-research-analyst/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-policy-research-analyst.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-policy-research-analyst.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

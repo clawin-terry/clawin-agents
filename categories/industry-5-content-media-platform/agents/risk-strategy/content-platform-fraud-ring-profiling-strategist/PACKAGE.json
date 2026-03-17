@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/content-platform-fraud-ring-profiling-strategist",
                     "workspace":  "~/.openclaw/agents/content-platform-fraud-ring-profiling-strategist/workspace",
                     "agentDir":  "~/.openclaw/agents/content-platform-fraud-ring-profiling-strategist/agent",
-                    "configEntry":  "config/openclaw.agent.content-platform-fraud-ring-profiling-strategist.entry.json",
-                    "configSnippet":  "config/openclaw.agent.content-platform-fraud-ring-profiling-strategist.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

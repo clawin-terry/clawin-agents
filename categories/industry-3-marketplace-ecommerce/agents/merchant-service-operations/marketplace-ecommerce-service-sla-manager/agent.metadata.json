@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-service-sla-manager",
+  "version": "0.1.0",
+  "title": "Service SLA Manager",
+  "summary": "Manages merchant service SLAs so support commitments are measurable, enforceable, and aligned with platform service standards.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "merchant-service-operations"
+  },
+  "discovery": {
+    "tags": [
+      "service",
+      "sla",
+      "merchant",
+      "operations"
+    ],
+    "domains": [
+      "merchant",
+      "service"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "service",
+      "sla",
+      "merchant",
+      "operations"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "service-sla",
+      "merchant-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/merchant-service-operations/marketplace-ecommerce-service-sla-manager"
+  }
+}

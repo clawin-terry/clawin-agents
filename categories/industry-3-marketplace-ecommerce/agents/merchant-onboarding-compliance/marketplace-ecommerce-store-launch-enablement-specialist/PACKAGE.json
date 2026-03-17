@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-store-launch-enablement-specialist",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-store-launch-enablement-specialist/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-store-launch-enablement-specialist/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-store-launch-enablement-specialist.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-store-launch-enablement-specialist.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

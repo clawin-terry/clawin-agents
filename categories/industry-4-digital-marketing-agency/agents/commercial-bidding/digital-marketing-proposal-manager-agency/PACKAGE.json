@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/digital-marketing-proposal-manager-agency",
                     "workspace":  "~/.openclaw/agents/digital-marketing-proposal-manager-agency/workspace",
                     "agentDir":  "~/.openclaw/agents/digital-marketing-proposal-manager-agency/agent",
-                    "configEntry":  "config/openclaw.agent.digital-marketing-proposal-manager-agency.entry.json",
-                    "configSnippet":  "config/openclaw.agent.digital-marketing-proposal-manager-agency.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

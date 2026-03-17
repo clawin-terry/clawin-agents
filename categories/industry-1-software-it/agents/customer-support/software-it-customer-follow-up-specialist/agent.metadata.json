@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-customer-follow-up-specialist",
+  "version": "0.1.0",
+  "title": "Customer Follow-Up Specialist",
+  "summary": "Runs post-case customer follow-up so feedback, satisfaction signals, and service recovery actions are captured consistently.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "customer-support"
+  },
+  "discovery": {
+    "tags": [
+      "customer",
+      "follow",
+      "up",
+      "support"
+    ],
+    "domains": [
+      "customer",
+      "support"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "customer",
+      "follow",
+      "up",
+      "support"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "customer-follow",
+      "up-support"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/customer-support/software-it-customer-follow-up-specialist"
+  }
+}

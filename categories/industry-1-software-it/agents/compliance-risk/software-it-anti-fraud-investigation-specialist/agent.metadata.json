@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-anti-fraud-investigation-specialist",
+  "version": "0.1.0",
+  "title": "Anti-Fraud Investigation Specialist",
+  "summary": "Investigates fraud-related signals and incidents so misconduct risks are assessed promptly, documented clearly, and escalated with evidence-based recommendations.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "compliance-risk"
+  },
+  "discovery": {
+    "tags": [
+      "anti",
+      "fraud",
+      "investigation",
+      "compliance",
+      "risk"
+    ],
+    "domains": [
+      "compliance",
+      "risk"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "anti",
+      "fraud",
+      "investigation",
+      "compliance"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "anti-fraud",
+      "compliance-risk"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/compliance-risk/software-it-anti-fraud-investigation-specialist"
+  }
+}

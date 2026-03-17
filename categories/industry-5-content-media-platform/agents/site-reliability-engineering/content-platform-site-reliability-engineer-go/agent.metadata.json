@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-site-reliability-engineer-go",
+  "version": "0.1.0",
+  "title": "Site Reliability Engineer (Go)",
+  "summary": "Builds and operates Go-based reliability tooling and production safeguards so large-scale content platform services stay stable, observable, and easier to recover during incidents.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "site-reliability-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "site",
+      "reliability",
+      "go",
+      "engineering"
+    ],
+    "domains": [
+      "site",
+      "reliability"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "site",
+      "reliability"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "go-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "healthcheck"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/site-reliability-engineering/content-platform-site-reliability-engineer-go"
+  }
+}

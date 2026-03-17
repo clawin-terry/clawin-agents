@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-etl-engineer-python",
+  "version": "0.1.0",
+  "title": "ETL Engineer (Python)",
+  "summary": "Builds Python ETL pipelines so content and product data can move through the platform with stronger reliability, observability, and downstream usability.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "data-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "etl",
+      "python",
+      "data",
+      "engineering"
+    ],
+    "domains": [
+      "data",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "etl",
+      "python"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "data-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/data-engineering/content-platform-etl-engineer-python"
+  }
+}

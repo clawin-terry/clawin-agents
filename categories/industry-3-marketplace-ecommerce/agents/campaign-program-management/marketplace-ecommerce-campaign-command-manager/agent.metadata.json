@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-campaign-command-manager",
+  "version": "0.1.0",
+  "title": "Campaign Command Manager",
+  "summary": "Directs campaign command workflows so live marketplace battle-room decisions, escalations, and execution adjustments stay coordinated under pressure.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "campaign-program-management"
+  },
+  "discovery": {
+    "tags": [
+      "campaign",
+      "command",
+      "program",
+      "management"
+    ],
+    "domains": [
+      "campaign",
+      "program"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "campaign",
+      "command",
+      "program",
+      "management"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "campaign-command",
+      "program-management"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/campaign-program-management/marketplace-ecommerce-campaign-command-manager"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-feed-and-ecommerce-key-visual-designer-agency",
+  "version": "0.1.0",
+  "title": "Feed and Ecommerce Key Visual Designer (Agency)",
+  "summary": "Designs feed and ecommerce key visuals so agency teams can produce performance-ready assets that still respect platform constraints and brand standards.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "design-production"
+  },
+  "discovery": {
+    "tags": [
+      "feed",
+      "and",
+      "key",
+      "visual",
+      "designer",
+      "design",
+      "production"
+    ],
+    "domains": [
+      "design",
+      "production"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "feed",
+      "and",
+      "key",
+      "visual"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "feed-and",
+      "design-production"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/design-production/digital-marketing-feed-and-ecommerce-key-visual-designer-agency"
+  }
+}

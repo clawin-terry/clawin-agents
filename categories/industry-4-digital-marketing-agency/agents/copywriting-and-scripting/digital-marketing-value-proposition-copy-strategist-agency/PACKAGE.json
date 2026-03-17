@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/digital-marketing-value-proposition-copy-strategist-agency",
                     "workspace":  "~/.openclaw/agents/digital-marketing-value-proposition-copy-strategist-agency/workspace",
                     "agentDir":  "~/.openclaw/agents/digital-marketing-value-proposition-copy-strategist-agency/agent",
-                    "configEntry":  "config/openclaw.agent.digital-marketing-value-proposition-copy-strategist-agency.entry.json",
-                    "configSnippet":  "config/openclaw.agent.digital-marketing-value-proposition-copy-strategist-agency.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

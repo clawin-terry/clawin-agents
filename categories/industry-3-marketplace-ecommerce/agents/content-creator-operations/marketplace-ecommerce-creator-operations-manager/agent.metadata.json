@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-creator-operations-manager",
+  "version": "0.1.0",
+  "title": "Creator Operations Manager",
+  "summary": "Runs creator operations so marketplace authors and influencers receive structured support, guidance, and operating rhythms that improve content output.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "content-creator-operations"
+  },
+  "discovery": {
+    "tags": [
+      "creator",
+      "operations",
+      "content"
+    ],
+    "domains": [
+      "content",
+      "creator"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "creator",
+      "operations",
+      "content"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "creator-operations",
+      "operations-content"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/content-creator-operations/marketplace-ecommerce-creator-operations-manager"
+  }
+}

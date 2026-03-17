@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-premium-content-program-manager-platform",
+  "version": "0.1.0",
+  "title": "Premium Content Program Manager (Platform)",
+  "summary": "Builds premium-content programs so standout content receives stronger packaging, operational support, and repeatable quality standards across the platform.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "short-video-content-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "premium",
+      "program",
+      "short",
+      "video",
+      "operations"
+    ],
+    "domains": [
+      "short",
+      "video"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "premium",
+      "program"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "video-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/short-video-content-operations/content-platform-premium-content-program-manager-platform"
+  }
+}

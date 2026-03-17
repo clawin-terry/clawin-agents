@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-recruiting-manager-platform",
+  "version": "0.1.0",
+  "title": "Recruiting Manager (Platform)",
+  "summary": "Leads recruiting execution so the platform can hire priority talent across product, operations, and business functions with stronger throughput and quality.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "talent-acquisition"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "recruiting",
+      "talent",
+      "acquisition"
+    ],
+    "domains": [
+      "talent",
+      "acquisition"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "recruiting",
+      "talent"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "talent-acquisition"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/talent-acquisition/content-platform-recruiting-manager-platform"
+  }
+}

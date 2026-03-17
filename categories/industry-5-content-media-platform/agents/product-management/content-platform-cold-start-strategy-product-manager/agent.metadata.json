@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-cold-start-strategy-product-manager",
+  "version": "0.1.0",
+  "title": "Cold Start Strategy Product Manager",
+  "summary": "Owns cold-start strategy so new users, new creators, and new content can enter recommendation systems with stronger initial exposure and healthier quality signals.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "product-management"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "cold",
+      "start",
+      "strategy",
+      "product",
+      "management"
+    ],
+    "domains": [
+      "product",
+      "management"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "cold",
+      "start"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "content-platform",
+      "product-management"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/product-management/content-platform-cold-start-strategy-product-manager"
+  }
+}

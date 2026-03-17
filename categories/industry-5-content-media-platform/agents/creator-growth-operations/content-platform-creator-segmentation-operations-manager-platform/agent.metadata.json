@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-creator-segmentation-operations-manager-platform",
+  "version": "0.1.0",
+  "title": "Creator Segmentation Operations Manager (Platform)",
+  "summary": "Designs segmented creator operations so new, growth, and mature creator cohorts each receive the right incentives, communications, and support model.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "creator-growth-operations"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "creator",
+      "segmentation",
+      "operations",
+      "growth"
+    ],
+    "domains": [
+      "creator",
+      "growth"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "creator",
+      "segmentation"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "content-platform",
+      "operations-growth"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/creator-growth-operations/content-platform-creator-segmentation-operations-manager-platform"
+  }
+}

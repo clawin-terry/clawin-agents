@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-head-of-user-research",
+  "version": "0.1.0",
+  "title": "Head of User Research",
+  "summary": "Leads user research strategy, methods, and team execution so product and design decisions stay grounded in reliable user evidence.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "user-research-experience"
+  },
+  "discovery": {
+    "tags": [
+      "head",
+      "of",
+      "user",
+      "research",
+      "experience"
+    ],
+    "domains": [
+      "user",
+      "research"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "head",
+      "of",
+      "user",
+      "research"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "head-of",
+      "research-experience"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "ui-ux-pro-max"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/user-research-experience/software-it-head-of-user-research"
+  }
+}

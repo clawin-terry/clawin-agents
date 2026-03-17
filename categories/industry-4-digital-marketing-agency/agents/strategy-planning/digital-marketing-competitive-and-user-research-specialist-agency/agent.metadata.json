@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-competitive-and-user-research-specialist-agency",
+  "version": "0.1.0",
+  "title": "Competitive and User Research Specialist (Agency)",
+  "summary": "Researches competitors and user signals so agency teams can ground strategy choices in clearer market context, audience behavior, and decision evidence.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "strategy-planning"
+  },
+  "discovery": {
+    "tags": [
+      "competitive",
+      "and",
+      "user",
+      "research",
+      "strategy",
+      "planning"
+    ],
+    "domains": [
+      "strategy",
+      "planning"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "competitive",
+      "and",
+      "user",
+      "research"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "competitive-and",
+      "strategy-planning"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/strategy-planning/digital-marketing-competitive-and-user-research-specialist-agency"
+  }
+}

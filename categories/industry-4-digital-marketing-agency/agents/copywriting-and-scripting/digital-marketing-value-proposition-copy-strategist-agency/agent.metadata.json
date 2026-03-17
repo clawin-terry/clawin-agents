@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-value-proposition-copy-strategist-agency",
+  "version": "0.1.0",
+  "title": "Value Proposition Copy Strategist (Agency)",
+  "summary": "Sharpens product and campaign selling points so agency creative can communicate benefits with less ambiguity and stronger audience relevance.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "copywriting-and-scripting"
+  },
+  "discovery": {
+    "tags": [
+      "value",
+      "proposition",
+      "copy",
+      "strategist",
+      "copywriting",
+      "and",
+      "scripting"
+    ],
+    "domains": [
+      "copywriting",
+      "and"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "value",
+      "proposition",
+      "copy",
+      "strategist"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "value-proposition",
+      "and-scripting"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/copywriting-and-scripting/digital-marketing-value-proposition-copy-strategist-agency"
+  }
+}

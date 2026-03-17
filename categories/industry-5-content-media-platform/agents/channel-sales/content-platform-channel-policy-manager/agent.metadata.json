@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-channel-policy-manager",
+  "version": "0.1.0",
+  "title": "Channel Policy Manager",
+  "summary": "Owns channel policy design so partner incentives, operating rules, and governance expectations remain clear and scalable.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "channel-sales"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "channel",
+      "policy",
+      "sales"
+    ],
+    "domains": [
+      "channel",
+      "sales"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "channel",
+      "policy"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "policy-sales"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/channel-sales/content-platform-channel-policy-manager"
+  }
+}

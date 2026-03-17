@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-cashier",
+  "version": "0.1.0",
+  "title": "Cashier",
+  "summary": "Handles cashiering workflows so cash movements, payment processing, and supporting records remain accurate, controlled, and traceable.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "tax-treasury"
+  },
+  "discovery": {
+    "tags": [
+      "cashier",
+      "tax",
+      "treasury"
+    ],
+    "domains": [
+      "tax",
+      "treasury"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "cashier",
+      "tax",
+      "treasury"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "cashier-tax",
+      "tax-treasury"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/tax-treasury/software-it-cashier"
+  }
+}

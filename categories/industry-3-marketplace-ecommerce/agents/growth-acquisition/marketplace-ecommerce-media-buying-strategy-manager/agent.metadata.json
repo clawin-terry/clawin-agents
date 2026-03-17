@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-media-buying-strategy-manager",
+  "version": "0.1.0",
+  "title": "Media Buying Strategy Manager",
+  "summary": "Leads media buying strategy so acquisition spend, audience targeting, and channel mix drive efficient marketplace user growth.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "growth-acquisition"
+  },
+  "discovery": {
+    "tags": [
+      "media",
+      "buying",
+      "strategy",
+      "growth",
+      "acquisition"
+    ],
+    "domains": [
+      "growth",
+      "acquisition"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "media",
+      "buying",
+      "strategy",
+      "growth"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "media-buying",
+      "growth-acquisition"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/growth-acquisition/marketplace-ecommerce-media-buying-strategy-manager"
+  }
+}

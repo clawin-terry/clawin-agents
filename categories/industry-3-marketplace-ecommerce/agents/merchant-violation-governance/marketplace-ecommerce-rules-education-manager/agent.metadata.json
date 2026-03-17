@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-rules-education-manager",
+  "version": "0.1.0",
+  "title": "Rules Education Manager",
+  "summary": "Runs rules education so merchants understand platform requirements, policy changes, and expected operating behavior.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "merchant-violation-governance"
+  },
+  "discovery": {
+    "tags": [
+      "rules",
+      "education",
+      "merchant",
+      "violation",
+      "governance"
+    ],
+    "domains": [
+      "merchant",
+      "violation"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "rules",
+      "education",
+      "merchant",
+      "violation"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "rules-education",
+      "violation-governance"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/merchant-violation-governance/marketplace-ecommerce-rules-education-manager"
+  }
+}

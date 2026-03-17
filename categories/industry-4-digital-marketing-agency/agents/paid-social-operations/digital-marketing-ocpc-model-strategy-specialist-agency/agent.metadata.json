@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-ocpc-model-strategy-specialist-agency",
+  "version": "0.1.0",
+  "title": "OCPC and Model Strategy Specialist (Agency)",
+  "summary": "Manages OCPC and model strategies so agency teams can tune automated bidding and conversion-oriented delivery with clearer guardrails.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "paid-social-operations"
+  },
+  "discovery": {
+    "tags": [
+      "ocpc",
+      "model",
+      "strategy",
+      "and",
+      "paid",
+      "social",
+      "operations"
+    ],
+    "domains": [
+      "paid",
+      "social"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "ocpc",
+      "model",
+      "strategy",
+      "paid"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "ocpc-model",
+      "social-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/paid-social-operations/digital-marketing-ocpc-model-strategy-specialist-agency"
+  }
+}

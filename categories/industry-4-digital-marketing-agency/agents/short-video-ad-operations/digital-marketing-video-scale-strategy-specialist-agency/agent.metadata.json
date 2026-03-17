@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "digital-marketing-video-scale-strategy-specialist-agency",
+  "version": "0.1.0",
+  "title": "Video Scale Strategy Specialist (Agency)",
+  "summary": "Designs video scaling strategies so agency teams can decide when and how to increase spend while protecting learning quality and efficiency.",
+  "classification": {
+    "industryId": "industry-4-digital-marketing-agency",
+    "familyKey": "short-video-ad-operations"
+  },
+  "discovery": {
+    "tags": [
+      "video",
+      "scale",
+      "strategy",
+      "short",
+      "ad",
+      "operations"
+    ],
+    "domains": [
+      "short",
+      "video"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "video",
+      "scale",
+      "strategy",
+      "short"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "video-scale",
+      "ad-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/short-video-ad-operations/digital-marketing-video-scale-strategy-specialist-agency"
+  }
+}

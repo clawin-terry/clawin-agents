@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-gifts-hospitality-conflict-of-interest-specialist",
+  "version": "0.1.0",
+  "title": "Gifts, Hospitality, and Conflict of Interest Specialist",
+  "summary": "Administers gifts, hospitality, and conflict-of-interest controls so sensitive interactions are declared, reviewed, and handled with stronger compliance discipline.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "compliance-risk"
+  },
+  "discovery": {
+    "tags": [
+      "gifts",
+      "hospitality",
+      "conflict",
+      "of",
+      "interest",
+      "and",
+      "compliance",
+      "risk"
+    ],
+    "domains": [
+      "compliance",
+      "risk"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "gifts",
+      "hospitality",
+      "conflict",
+      "of"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "gifts-hospitality",
+      "compliance-risk"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/compliance-risk/software-it-gifts-hospitality-conflict-of-interest-specialist"
+  }
+}

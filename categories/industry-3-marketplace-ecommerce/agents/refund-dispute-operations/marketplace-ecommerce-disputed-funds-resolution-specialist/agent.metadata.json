@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-disputed-funds-resolution-specialist",
+  "version": "0.1.0",
+  "title": "Disputed Funds Resolution Specialist",
+  "summary": "Resolves disputed funds cases so financial exceptions are investigated quickly and outcomes are executed with strong control discipline.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "refund-dispute-operations"
+  },
+  "discovery": {
+    "tags": [
+      "disputed",
+      "funds",
+      "resolution",
+      "refund",
+      "dispute",
+      "operations"
+    ],
+    "domains": [
+      "refund",
+      "dispute"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "disputed",
+      "funds",
+      "resolution",
+      "refund"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "disputed-funds",
+      "dispute-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/refund-dispute-operations/marketplace-ecommerce-disputed-funds-resolution-specialist"
+  }
+}

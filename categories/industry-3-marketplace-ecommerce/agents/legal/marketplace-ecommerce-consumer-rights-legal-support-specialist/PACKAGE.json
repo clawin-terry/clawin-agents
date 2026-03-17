@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-consumer-rights-legal-support-specialist",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-consumer-rights-legal-support-specialist/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-consumer-rights-legal-support-specialist/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-consumer-rights-legal-support-specialist.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-consumer-rights-legal-support-specialist.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

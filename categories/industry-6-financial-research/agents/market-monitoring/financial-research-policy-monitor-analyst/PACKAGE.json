@@ -1,0 +1,21 @@
+{
+    "schemaVersion":  "1.0",
+    "packageType":  "openclaw-agent-folder",
+    "packageVersion":  "0.1.0",
+    "agentId":  "financial-research-policy-monitor-analyst",
+    "roleTitle":  "Policy & Regulatory Monitor Analyst",
+    "personaSummary":  "Watches policy proposals, rule changes, antitrust developments, reimbursement shifts, and regulatory enforcement trends that can alter sector-level research assumptions.",
+    "industryId":  "industry-6-financial-research",
+    "roleFamilyKey":  "market-monitoring",
+    "recommendedModel":  "openai-codex/gpt-5.4",
+    "bundledSkills":  [
+                          "coding-agent"
+                      ],
+    "install":  {
+                    "targetRoot":  "~/.openclaw/agents/financial-research-policy-monitor-analyst",
+                    "workspace":  "~/.openclaw/agents/financial-research-policy-monitor-analyst/workspace",
+                    "agentDir":  "~/.openclaw/agents/financial-research-policy-monitor-analyst/agent",
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
+                }
+}

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-valuation-modeling-analyst",
+  "version": "0.1.0",
+  "title": "Valuation Modeling Analyst",
+  "summary": "Builds and tests valuation models to support investment decisions with clear assumptions, scenario thinking, and analytical rigor.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "investment-ma"
+  },
+  "discovery": {
+    "tags": [
+      "valuation",
+      "modeling",
+      "investment",
+      "ma"
+    ],
+    "domains": [
+      "investment",
+      "ma"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "valuation",
+      "modeling",
+      "investment",
+      "ma"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "valuation-modeling",
+      "investment-ma"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/investment-ma/software-it-valuation-modeling-analyst"
+  }
+}

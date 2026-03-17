@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-warehouse-network-planning-manager",
+  "version": "0.1.0",
+  "title": "Warehouse Network Planning Manager",
+  "summary": "Plans the warehouse network so fulfillment capacity, coverage, and cost efficiency support marketplace growth and service goals.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "fulfillment-network-planning"
+  },
+  "discovery": {
+    "tags": [
+      "warehouse",
+      "network",
+      "planning",
+      "fulfillment"
+    ],
+    "domains": [
+      "fulfillment",
+      "network"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "warehouse",
+      "network",
+      "planning",
+      "fulfillment"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "warehouse-network",
+      "planning-fulfillment"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/fulfillment-network-planning/marketplace-ecommerce-warehouse-network-planning-manager"
+  }
+}

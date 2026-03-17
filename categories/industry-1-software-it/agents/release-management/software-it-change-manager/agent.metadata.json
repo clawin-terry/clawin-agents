@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-change-manager",
+  "version": "0.1.0",
+  "title": "Change Manager",
+  "summary": "Leads production change governance, balancing delivery speed with risk controls, approval quality, and operational accountability.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "release-management"
+  },
+  "discovery": {
+    "tags": [
+      "change",
+      "release",
+      "management"
+    ],
+    "domains": [
+      "release",
+      "management"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "change",
+      "release",
+      "management"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "change-release",
+      "release-management"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "healthcheck"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/release-management/software-it-change-manager"
+  }
+}

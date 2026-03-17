@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-chargeback-coordination-manager",
+  "version": "0.1.0",
+  "title": "Chargeback Coordination Manager",
+  "summary": "Coordinates chargeback response workflows so disputes are handled consistently across payment partners, risk teams, and merchants.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "refund-dispute-operations"
+  },
+  "discovery": {
+    "tags": [
+      "chargeback",
+      "coordination",
+      "refund",
+      "dispute",
+      "operations"
+    ],
+    "domains": [
+      "refund",
+      "dispute"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "chargeback",
+      "coordination",
+      "refund",
+      "dispute"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "chargeback-coordination",
+      "dispute-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/refund-dispute-operations/marketplace-ecommerce-chargeback-coordination-manager"
+  }
+}

@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/digital-marketing-customer-success-manager-renewals-expansion-agency",
                     "workspace":  "~/.openclaw/agents/digital-marketing-customer-success-manager-renewals-expansion-agency/workspace",
                     "agentDir":  "~/.openclaw/agents/digital-marketing-customer-success-manager-renewals-expansion-agency/agent",
-                    "configEntry":  "config/openclaw.agent.digital-marketing-customer-success-manager-renewals-expansion-agency.entry.json",
-                    "configSnippet":  "config/openclaw.agent.digital-marketing-customer-success-manager-renewals-expansion-agency.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

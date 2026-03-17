@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-brand-portfolio-operations-manager",
+  "version": "0.1.0",
+  "title": "Brand Portfolio Operations Manager",
+  "summary": "Operates the marketplace brand portfolio so brand onboarding, coverage, and ongoing lifecycle management remain organized and scalable.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "brand-partnership-authorization"
+  },
+  "discovery": {
+    "tags": [
+      "brand",
+      "portfolio",
+      "operations",
+      "partnership",
+      "authorization"
+    ],
+    "domains": [
+      "brand",
+      "partnership"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "brand",
+      "portfolio",
+      "operations",
+      "partnership"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "brand-portfolio",
+      "partnership-authorization"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/brand-partnership-authorization/marketplace-ecommerce-brand-portfolio-operations-manager"
+  }
+}

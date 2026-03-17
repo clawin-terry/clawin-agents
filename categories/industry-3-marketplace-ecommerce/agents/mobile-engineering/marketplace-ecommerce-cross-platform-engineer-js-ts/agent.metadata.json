@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-cross-platform-engineer-js-ts",
+  "version": "0.1.0",
+  "title": "Cross-Platform Engineer (JS/TS)",
+  "summary": "Builds cross-platform marketplace client experiences with a JavaScript and TypeScript stack, balancing shared velocity with product quality and maintainability.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "mobile-engineering"
+  },
+  "discovery": {
+    "tags": [
+      "cross",
+      "platform",
+      "js",
+      "ts",
+      "mobile",
+      "engineering"
+    ],
+    "domains": [
+      "mobile",
+      "engineering"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "cross",
+      "platform",
+      "js",
+      "ts"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "cross-platform",
+      "mobile-engineering"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent",
+      "clawin-mobile-engineering",
+      "clawin-native-client-engineering"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/mobile-engineering/marketplace-ecommerce-cross-platform-engineer-js-ts"
+  }
+}

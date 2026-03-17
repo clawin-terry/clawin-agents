@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "1.0",
+  "id": "content-platform-violative-content-recognition-model-engineer-python",
+  "version": "0.1.0",
+  "title": "Violative Content Recognition Model Engineer (Python)",
+  "summary": "Builds Python moderation models for high-risk violative content so policy-breaking political, sexual, violent, and abusive material can be detected with stronger precision and operational coverage.",
+  "classification": {
+    "industryId": "industry-5-content-media-platform",
+    "familyKey": "machine-learning"
+  },
+  "discovery": {
+    "tags": [
+      "content",
+      "platform",
+      "violative",
+      "recognition",
+      "model",
+      "python",
+      "machine",
+      "learning"
+    ],
+    "domains": [
+      "machine",
+      "learning"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "content",
+      "platform",
+      "violative",
+      "recognition"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "content-platform",
+      "machine-learning"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "mycodex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-5-content-media-platform/agents/machine-learning/content-platform-violative-content-recognition-model-engineer-python"
+  }
+}

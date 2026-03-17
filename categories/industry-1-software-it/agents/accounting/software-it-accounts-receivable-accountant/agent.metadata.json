@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-accounts-receivable-accountant",
+  "version": "0.1.0",
+  "title": "Accounts Receivable Accountant",
+  "summary": "Manages receivables accounting so billing records, customer balances, and cash-application follow-through stay accurate and current.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "accounting"
+  },
+  "discovery": {
+    "tags": [
+      "accounts",
+      "receivable",
+      "accountant",
+      "accounting"
+    ],
+    "domains": [
+      "accounting"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "accounts",
+      "receivable",
+      "accountant",
+      "accounting"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "accounts-receivable",
+      "accountant-accounting"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/accounting/software-it-accounts-receivable-accountant"
+  }
+}

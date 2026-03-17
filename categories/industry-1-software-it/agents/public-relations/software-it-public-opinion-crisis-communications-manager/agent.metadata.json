@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-public-opinion-crisis-communications-manager",
+  "version": "0.1.0",
+  "title": "Public Opinion and Crisis Communications Manager",
+  "summary": "Monitors public sentiment and leads crisis communications response so reputational risk is contained with speed, clarity, and discipline.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "public-relations"
+  },
+  "discovery": {
+    "tags": [
+      "public",
+      "opinion",
+      "crisis",
+      "communications",
+      "and",
+      "relations"
+    ],
+    "domains": [
+      "public",
+      "relations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "public",
+      "opinion",
+      "crisis",
+      "communications"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "public-opinion",
+      "communications-relations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/public-relations/software-it-public-opinion-crisis-communications-manager"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-lead-routing-rules-operations-specialist",
+  "version": "0.1.0",
+  "title": "Lead Routing and Rules Operations Specialist",
+  "summary": "Runs lead routing and rules operations so handoffs, ownership logic, and response speed stay aligned with commercial process design.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "sales-operations"
+  },
+  "discovery": {
+    "tags": [
+      "routing",
+      "rules",
+      "operations",
+      "and",
+      "sales"
+    ],
+    "domains": [
+      "sales",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "routing",
+      "rules",
+      "operations",
+      "sales"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "routing-rules",
+      "operations-sales"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/sales-operations/software-it-lead-routing-rules-operations-specialist"
+  }
+}

@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-reporting-platform-engineer-java",
                     "workspace":  "~/.openclaw/agents/software-it-reporting-platform-engineer-java/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-reporting-platform-engineer-java/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-reporting-platform-engineer-java.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-reporting-platform-engineer-java.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/software-it-finance-systems-administrator",
                     "workspace":  "~/.openclaw/agents/software-it-finance-systems-administrator/workspace",
                     "agentDir":  "~/.openclaw/agents/software-it-finance-systems-administrator/agent",
-                    "configEntry":  "config/openclaw.agent.software-it-finance-systems-administrator.entry.json",
-                    "configSnippet":  "config/openclaw.agent.software-it-finance-systems-administrator.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

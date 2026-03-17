@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-data-quality-engineer-python-sql",
+  "version": "0.1.0",
+  "title": "Data Quality Engineer (Python/SQL)",
+  "summary": "Builds data quality checks and remediation workflows with Python and SQL to improve trust, completeness, and fitness for use across core datasets.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "data-governance"
+  },
+  "discovery": {
+    "tags": [
+      "data",
+      "quality",
+      "python",
+      "sql",
+      "governance"
+    ],
+    "domains": [
+      "data",
+      "governance"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "data",
+      "quality",
+      "python",
+      "sql"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "data-quality",
+      "sql-governance"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/data-governance/software-it-data-quality-engineer-python-sql"
+  }
+}

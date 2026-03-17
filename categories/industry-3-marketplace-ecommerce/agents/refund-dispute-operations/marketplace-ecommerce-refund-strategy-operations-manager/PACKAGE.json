@@ -15,7 +15,7 @@
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-refund-strategy-operations-manager",
                     "workspace":  "~/.openclaw/agents/marketplace-ecommerce-refund-strategy-operations-manager/workspace",
                     "agentDir":  "~/.openclaw/agents/marketplace-ecommerce-refund-strategy-operations-manager/agent",
-                    "configEntry":  "config/openclaw.agent.marketplace-ecommerce-refund-strategy-operations-manager.entry.json",
-                    "configSnippet":  "config/openclaw.agent.marketplace-ecommerce-refund-strategy-operations-manager.snippet.json"
+                    "configEntry":  "config/entry.json",
+                    "configSnippet":  "config/snippet.json"
                 }
 }

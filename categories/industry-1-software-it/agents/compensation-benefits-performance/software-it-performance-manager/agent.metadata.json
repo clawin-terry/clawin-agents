@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-performance-manager",
+  "version": "0.1.0",
+  "title": "Performance Manager",
+  "summary": "Runs performance-management programs so goals, review cycles, and manager practices support clearer accountability and talent development.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "compensation-benefits-performance"
+  },
+  "discovery": {
+    "tags": [
+      "performance",
+      "compensation",
+      "benefits"
+    ],
+    "domains": [
+      "compensation",
+      "benefits"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "performance",
+      "compensation",
+      "benefits"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "performance-compensation",
+      "compensation-benefits"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/compensation-benefits-performance/software-it-performance-manager"
+  }
+}

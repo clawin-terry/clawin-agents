@@ -1,0 +1,56 @@
+{
+  "schemaVersion": "1.0",
+  "id": "software-it-marketing-automation-operations-manager",
+  "version": "0.1.0",
+  "title": "Marketing Automation Operations Manager",
+  "summary": "Operates marketing automation systems so journeys, nurture logic, and campaign orchestration remain scalable, measurable, and reliable.",
+  "classification": {
+    "industryId": "industry-1-software-it",
+    "familyKey": "digital-marketing"
+  },
+  "discovery": {
+    "tags": [
+      "automation",
+      "operations"
+    ],
+    "domains": [
+      "automation",
+      "operations"
+    ],
+    "taskTypes": [
+      "analysis",
+      "implementation",
+      "planning"
+    ],
+    "stacks": [
+      "automation",
+      "operations"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "automation-operations"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-1-software-it/agents/digital-marketing/software-it-marketing-automation-operations-manager"
+  }
+}

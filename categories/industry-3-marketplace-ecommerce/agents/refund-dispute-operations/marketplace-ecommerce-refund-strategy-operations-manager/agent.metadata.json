@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "marketplace-ecommerce-refund-strategy-operations-manager",
+  "version": "0.1.0",
+  "title": "Refund Strategy Operations Manager",
+  "summary": "Runs refund strategy operations so refund policies balance buyer experience, merchant fairness, and controllable platform risk.",
+  "classification": {
+    "industryId": "industry-3-marketplace-ecommerce",
+    "familyKey": "refund-dispute-operations"
+  },
+  "discovery": {
+    "tags": [
+      "refund",
+      "strategy",
+      "operations",
+      "dispute"
+    ],
+    "domains": [
+      "refund",
+      "dispute"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "refund",
+      "strategy",
+      "operations",
+      "dispute"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "refund-strategy",
+      "operations-dispute"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/refund-dispute-operations/marketplace-ecommerce-refund-strategy-operations-manager"
+  }
+}
