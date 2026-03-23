@@ -1,0 +1,107 @@
+<svg width="1280" height="640" viewBox="0 0 1280 640" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Clawin Agents README Banner</title>
+  <desc id="desc">A professional gradient banner for the Clawin Agents catalog, showing title, subtitle, and key catalog metrics.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="640" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1020"/>
+      <stop offset="0.55" stop-color="#141B38"/>
+      <stop offset="1" stop-color="#1F2A58"/>
+    </linearGradient>
+    <linearGradient id="accent1" x1="195" y1="88" x2="430" y2="297" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#60A5FA" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#2563EB" stop-opacity="0.08"/>
+    </linearGradient>
+    <linearGradient id="accent2" x1="899" y1="347" x2="1156" y2="552" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A78BFA" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0.1"/>
+    </linearGradient>
+    <linearGradient id="pill" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#1D4ED8"/>
+      <stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+    <filter id="blurA" x="97" y="-10" width="431" height="405" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="36"/>
+    </filter>
+    <filter id="blurB" x="810" y="258" width="435" height="385" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="34"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="640" rx="28" fill="url(#bg)"/>
+
+  <g opacity="0.24">
+    <path d="M0 111.5H1280" stroke="white" stroke-opacity="0.12"/>
+    <path d="M0 221.5H1280" stroke="white" stroke-opacity="0.12"/>
+    <path d="M0 331.5H1280" stroke="white" stroke-opacity="0.12"/>
+    <path d="M0 441.5H1280" stroke="white" stroke-opacity="0.12"/>
+    <path d="M0 551.5H1280" stroke="white" stroke-opacity="0.12"/>
+    <path d="M142.5 0V640" stroke="white" stroke-opacity="0.08"/>
+    <path d="M284.5 0V640" stroke="white" stroke-opacity="0.08"/>
+    <path d="M426.5 0V640" stroke="white" stroke-opacity="0.08"/>
+    <path d="M568.5 0V640" stroke="white" stroke-opacity="0.08"/>
+    <path d="M710.5 0V640" stroke="white" stroke-opacity="0.08"/>
+    <path d="M852.5 0V640" stroke="white" stroke-opacity="0.08"/>
+    <path d="M994.5 0V640" stroke="white" stroke-opacity="0.08"/>
+    <path d="M1136.5 0V640" stroke="white" stroke-opacity="0.08"/>
+  </g>
+
+  <g filter="url(#blurA)">
+    <circle cx="312" cy="192" r="134" fill="url(#accent1)"/>
+  </g>
+  <g filter="url(#blurB)">
+    <circle cx="1027" cy="450" r="128" fill="url(#accent2)"/>
+  </g>
+
+  <rect x="70" y="64" width="210" height="42" rx="21" fill="white" fill-opacity="0.09" stroke="white" stroke-opacity="0.16"/>
+  <circle cx="99" cy="85" r="7" fill="#60A5FA"/>
+  <text x="119" y="91" fill="#D7E6FF" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="18" font-weight="700">Clawin public catalog</text>
+
+  <text x="70" y="228" fill="white" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="74" font-weight="800">Clawin Agents</text>
+  <text x="70" y="286" fill="#D8E2FF" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="28" font-weight="600">Install-ready OpenClaw agents organized by industry, role, and workflow.</text>
+  <text x="70" y="332" fill="#B7C6EA" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="24" font-weight="400">Browse a structured public catalog, inspect each package, and start from a faster</text>
+  <text x="70" y="366" fill="#B7C6EA" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="24" font-weight="400">starting point instead of building every agent from scratch.</text>
+
+  <g>
+    <rect x="70" y="424" width="154" height="58" rx="18" fill="url(#pill)"/>
+    <text x="117" y="460" fill="white" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="26" font-weight="800">5</text>
+    <text x="142" y="460" fill="#E6EEFF" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="18" font-weight="600">industries</text>
+
+    <rect x="240" y="424" width="188" height="58" rx="18" fill="white" fill-opacity="0.08" stroke="white" stroke-opacity="0.12"/>
+    <text x="286" y="460" fill="white" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="26" font-weight="800">198</text>
+    <text x="334" y="460" fill="#E6EEFF" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="18" font-weight="600">role families</text>
+
+    <rect x="444" y="424" width="223" height="58" rx="18" fill="white" fill-opacity="0.08" stroke="white" stroke-opacity="0.12"/>
+    <text x="488" y="460" fill="white" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="26" font-weight="800">1395</text>
+    <text x="547" y="460" fill="#E6EEFF" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="18" font-weight="600">install-ready agents</text>
+  </g>
+
+  <g>
+    <rect x="847" y="110" width="362" height="412" rx="28" fill="white" fill-opacity="0.06" stroke="white" stroke-opacity="0.12"/>
+    <text x="889" y="170" fill="white" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="24" font-weight="800">What makes Clawin useful</text>
+
+    <g>
+      <circle cx="893" cy="221" r="6" fill="#60A5FA"/>
+      <text x="915" y="228" fill="#EAF1FF" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20" font-weight="700">Install-ready packages</text>
+      <text x="915" y="257" fill="#B7C6EA" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="17">More than prompts or unstructured templates.</text>
+    </g>
+
+    <g>
+      <circle cx="893" cy="308" r="6" fill="#A78BFA"/>
+      <text x="915" y="315" fill="#EAF1FF" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20" font-weight="700">Discovery-first organization</text>
+      <text x="915" y="344" fill="#B7C6EA" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="17">Browse by industry, role family, and workflow.</text>
+    </g>
+
+    <g>
+      <circle cx="893" cy="395" r="6" fill="#34D399"/>
+      <text x="915" y="402" fill="#EAF1FF" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20" font-weight="700">Website + GitHub + CLI</text>
+      <text x="915" y="431" fill="#B7C6EA" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="17">One connected browse-to-install flow.</text>
+    </g>
+
+    <g>
+      <rect x="889" y="462" width="278" height="32" rx="16" fill="white" fill-opacity="0.08"/>
+      <text x="913" y="483" fill="#EAF1FF" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="15" font-weight="700">Start from a structured package, not a blank workspace</text>
+    </g>
+  </g>
+
+  <text x="70" y="588" fill="#94A9D8" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="18">Public website + public catalog + CLI install flow</text>
+</svg>
