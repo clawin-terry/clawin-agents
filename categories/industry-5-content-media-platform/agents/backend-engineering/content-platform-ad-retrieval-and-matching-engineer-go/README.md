@@ -1,4 +1,4 @@
-# Ad Retrieval and Matching Engineer (Go)
+﻿# Ad Retrieval and Matching Engineer (Go)
 
 A shareable OpenClaw agent folder package for **Ad Retrieval and Matching Engineer (Go)**.
 
@@ -18,7 +18,6 @@ A shareable OpenClaw agent folder package for **Ad Retrieval and Matching Engine
 
 ## Bundled skills
 - coding-agent
-- clawin-backend-service-engineering
 
 ## Install
 See `INSTALL.md`.

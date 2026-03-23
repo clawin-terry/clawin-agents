@@ -1,4 +1,4 @@
-# Release Manager
+﻿# Release Manager
 
 A shareable OpenClaw agent folder package for **Release Manager**.
 
@@ -18,7 +18,6 @@ A shareable OpenClaw agent folder package for **Release Manager**.
 
 ## Bundled skills
 - coding-agent
-- healthcheck
 
 ## Install
 See `INSTALL.md`.

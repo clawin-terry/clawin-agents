@@ -1,4 +1,4 @@
-# Advertising Bid Strategy Engineer
+﻿# Advertising Bid Strategy Engineer
 
 A shareable OpenClaw agent folder package for **Advertising Bid Strategy Engineer**.
 

@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "financial-research-capital-allocation-analyst",
+  "version": "0.1.0",
+  "title": "Capital Allocation Analyst",
+  "summary": "Examines reinvestment choices, buybacks, dividends, M&A discipline, and balance-sheet deployment to judge whether management capital allocation supports the thesis.",
+  "classification": {
+    "industryId": "industry-6-financial-research",
+    "familyKey": "equity-analysis"
+  },
+  "discovery": {
+    "tags": [
+      "financial",
+      "research",
+      "capital",
+      "allocation",
+      "equity",
+      "analysis"
+    ],
+    "domains": [
+      "equity",
+      "analysis"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "financial",
+      "research",
+      "capital",
+      "allocation"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "financial-research",
+      "equity-analysis"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-6-financial-research/agents/equity-analysis/financial-research-capital-allocation-analyst"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "financial-research-guidance-change-analyst",
+  "version": "0.1.0",
+  "title": "Guidance Change Analyst",
+  "summary": "Tracks guidance revisions, management tone shifts, and estimate-reset implications to help teams understand whether thesis assumptions still hold.",
+  "classification": {
+    "industryId": "industry-6-financial-research",
+    "familyKey": "event-earnings-monitoring"
+  },
+  "discovery": {
+    "tags": [
+      "financial",
+      "research",
+      "guidance",
+      "change",
+      "event",
+      "earnings",
+      "monitoring"
+    ],
+    "domains": [
+      "event",
+      "earnings"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "financial",
+      "research",
+      "guidance",
+      "change"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "financial-research",
+      "earnings-monitoring"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-6-financial-research/agents/event-earnings-monitoring/financial-research-guidance-change-analyst"
+  }
+}

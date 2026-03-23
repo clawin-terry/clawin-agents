@@ -1,4 +1,4 @@
-# Security Policy and Standards Specialist
+﻿# Security Policy and Standards Specialist
 
 A shareable OpenClaw agent folder package for **Security Policy and Standards Specialist**.
 
@@ -17,7 +17,6 @@ A shareable OpenClaw agent folder package for **Security Policy and Standards Sp
 - `PACKAGE.json` — package metadata for GitHub/library use
 
 ## Bundled skills
-- coding-agent
 - healthcheck
 
 ## Install

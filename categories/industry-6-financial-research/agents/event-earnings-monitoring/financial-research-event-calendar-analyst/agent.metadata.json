@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "financial-research-event-calendar-analyst",
+  "version": "0.1.0",
+  "title": "Event Calendar Analyst",
+  "summary": "Maintains a forward-looking calendar of earnings dates, investor events, product launches, data releases, lockups, and other thesis-relevant milestones.",
+  "classification": {
+    "industryId": "industry-6-financial-research",
+    "familyKey": "event-earnings-monitoring"
+  },
+  "discovery": {
+    "tags": [
+      "financial",
+      "research",
+      "event",
+      "calendar",
+      "earnings",
+      "monitoring"
+    ],
+    "domains": [
+      "event",
+      "earnings"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "financial",
+      "research",
+      "event",
+      "calendar"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "financial-research",
+      "earnings-monitoring"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-6-financial-research/agents/event-earnings-monitoring/financial-research-event-calendar-analyst"
+  }
+}

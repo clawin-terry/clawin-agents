@@ -9,7 +9,8 @@
     "roleFamilyKey":  "content-operations",
     "recommendedModel":  "openai-codex/gpt-5.4",
     "bundledSkills":  [
-                          "coding-agent"
+                          "clawin-content-communication",
+                          "clawin-media-performance-systems"
                       ],
     "install":  {
                     "targetRoot":  "~/.openclaw/agents/digital-marketing-new-media-operations-specialist-agency",

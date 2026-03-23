@@ -19,7 +19,6 @@ A shareable OpenClaw agent folder package for **Desktop Client Engineer (C++/C#)
 ## Bundled skills
 - coding-agent
 - clawin-native-client-engineering
-
 ## Install
 See `INSTALL.md`.
 

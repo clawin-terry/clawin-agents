@@ -9,7 +9,7 @@
     "roleFamilyKey":  "policy-and-safety-standards",
     "recommendedModel":  "openai-codex/gpt-5.4",
     "bundledSkills":  [
-                          "coding-agent"
+                          "clawin-finance-risk-governance"
                       ],
     "install":  {
                     "targetRoot":  "~/.openclaw/agents/content-platform-enforcement-calibration-manager-platform",

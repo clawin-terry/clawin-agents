@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "financial-research-risk-review-analyst",
+  "version": "0.1.0",
+  "title": "Risk Review Analyst",
+  "summary": "Stress-tests an equity thesis for business, financial, market, liquidity, governance, and regulatory downside before any recommendation is formed.",
+  "classification": {
+    "industryId": "industry-6-financial-research",
+    "familyKey": "equity-analysis"
+  },
+  "discovery": {
+    "tags": [
+      "financial",
+      "research",
+      "risk",
+      "review",
+      "equity",
+      "analysis"
+    ],
+    "domains": [
+      "equity",
+      "analysis"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "financial",
+      "research",
+      "risk",
+      "review"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "financial-research",
+      "equity-analysis"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-6-financial-research/agents/equity-analysis/financial-research-risk-review-analyst"
+  }
+}

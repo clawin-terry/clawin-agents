@@ -1,4 +1,4 @@
-# Security Risk Manager
+﻿# Security Risk Manager
 
 A shareable OpenClaw agent folder package for **Security Risk Manager**.
 
@@ -17,7 +17,6 @@ A shareable OpenClaw agent folder package for **Security Risk Manager**.
 - `PACKAGE.json` — package metadata for GitHub/library use
 
 ## Bundled skills
-- coding-agent
 - healthcheck
 
 ## Install

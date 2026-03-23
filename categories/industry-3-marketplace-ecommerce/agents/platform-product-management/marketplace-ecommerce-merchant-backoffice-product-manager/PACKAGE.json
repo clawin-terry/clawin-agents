@@ -9,7 +9,7 @@
     "roleFamilyKey":  "platform-product-management",
     "recommendedModel":  "openai-codex/gpt-5.4",
     "bundledSkills":  [
-                          "coding-agent"
+                          "clawin-research-analysis"
                       ],
     "install":  {
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-merchant-backoffice-product-manager",

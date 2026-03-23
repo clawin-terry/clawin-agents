@@ -17,9 +17,7 @@ A shareable OpenClaw agent folder package for **Privacy and Sensitive Informatio
 - `PACKAGE.json` — package metadata for GitHub/library use
 
 ## Bundled skills
-- coding-agent
-
-## Install
+- clawin-finance-risk-governance## Install
 See `INSTALL.md`.
 
 ## Important note

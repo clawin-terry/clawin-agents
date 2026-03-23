@@ -9,8 +9,7 @@
     "roleFamilyKey":  "engineering",
     "recommendedModel":  "openai-codex/gpt-5.4",
     "bundledSkills":  [
-                          "coding-agent",
-                          "clawin-mobile-engineering"
+                          "coding-agent"
                       ],
     "install":  {
                     "targetRoot":  "~/.openclaw/agents/software-it-cross-platform-engineer-flutter-dart",

@@ -1,4 +1,4 @@
-# Canary and Rollback Platform Engineer (Go/Python)
+﻿# Canary and Rollback Platform Engineer (Go/Python)
 
 A shareable OpenClaw agent folder package for **Canary and Rollback Platform Engineer (Go/Python)**.
 
@@ -18,7 +18,6 @@ A shareable OpenClaw agent folder package for **Canary and Rollback Platform Eng
 
 ## Bundled skills
 - coding-agent
-- healthcheck
 
 ## Install
 See `INSTALL.md`.

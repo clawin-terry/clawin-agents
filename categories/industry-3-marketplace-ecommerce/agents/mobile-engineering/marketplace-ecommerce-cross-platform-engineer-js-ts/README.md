@@ -1,4 +1,4 @@
-# Cross-Platform Engineer (JS/TS)
+﻿# Cross-Platform Engineer (JS/TS)
 
 A shareable OpenClaw agent folder package for **Cross-Platform Engineer (JS/TS)**.
 
@@ -18,8 +18,6 @@ A shareable OpenClaw agent folder package for **Cross-Platform Engineer (JS/TS)*
 
 ## Bundled skills
 - coding-agent
-- clawin-mobile-engineering
-- clawin-native-client-engineering
 
 ## Install
 See `INSTALL.md`.

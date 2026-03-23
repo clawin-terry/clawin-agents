@@ -9,7 +9,7 @@
     "roleFamilyKey":  "production-services",
     "recommendedModel":  "openai-codex/gpt-5.4",
     "bundledSkills":  [
-                          "coding-agent"
+                          "clawin-ops-planning-coordination"
                       ],
     "install":  {
                     "targetRoot":  "~/.openclaw/agents/digital-marketing-lighting-technician-agency",

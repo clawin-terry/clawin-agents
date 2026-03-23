@@ -1,4 +1,4 @@
-# Data Center and IDC Operations Engineer
+﻿# Data Center and IDC Operations Engineer
 
 A shareable OpenClaw agent folder package for **Data Center and IDC Operations Engineer**.
 
@@ -18,7 +18,6 @@ A shareable OpenClaw agent folder package for **Data Center and IDC Operations E
 
 ## Bundled skills
 - coding-agent
-- healthcheck
 
 ## Install
 See `INSTALL.md`.

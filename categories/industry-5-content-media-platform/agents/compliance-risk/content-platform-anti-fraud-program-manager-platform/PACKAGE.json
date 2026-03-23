@@ -9,7 +9,7 @@
     "roleFamilyKey":  "compliance-risk",
     "recommendedModel":  "mycodex/gpt-5.4",
     "bundledSkills":  [
-                          "coding-agent"
+                          "clawin-finance-risk-governance"
                       ],
     "install":  {
                     "targetRoot":  "~/.openclaw/agents/content-platform-anti-fraud-program-manager-platform",

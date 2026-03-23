@@ -9,7 +9,7 @@
     "roleFamilyKey":  "content-product-compliance-governance",
     "recommendedModel":  "openai-codex/gpt-5.4",
     "bundledSkills":  [
-                          "coding-agent"
+                          "clawin-finance-risk-governance"
                       ],
     "install":  {
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-prohibited-goods-governance-specialist",

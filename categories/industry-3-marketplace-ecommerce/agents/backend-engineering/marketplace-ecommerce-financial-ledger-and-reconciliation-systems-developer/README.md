@@ -1,4 +1,4 @@
-# Financial Ledger and Reconciliation Systems Developer
+﻿# Financial Ledger and Reconciliation Systems Developer
 
 A shareable OpenClaw agent folder package for **Financial Ledger and Reconciliation Systems Developer**.
 
@@ -18,7 +18,6 @@ A shareable OpenClaw agent folder package for **Financial Ledger and Reconciliat
 
 ## Bundled skills
 - coding-agent
-- clawin-backend-service-engineering
 
 ## Install
 See `INSTALL.md`.

@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "financial-research-memo-editor-analyst",
+  "version": "0.1.0",
+  "title": "Memo Standardization Analyst",
+  "summary": "Normalizes research memos into a consistent structure covering thesis, evidence, assumptions, risks, catalysts, and source timestamps.",
+  "classification": {
+    "industryId": "industry-6-financial-research",
+    "familyKey": "research-ops-data-monitoring"
+  },
+  "discovery": {
+    "tags": [
+      "financial",
+      "research",
+      "memo",
+      "editor",
+      "standardization",
+      "ops",
+      "data",
+      "monitoring"
+    ],
+    "domains": [
+      "research",
+      "ops"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "financial",
+      "research",
+      "memo",
+      "editor"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "financial-research",
+      "data-monitoring"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-6-financial-research/agents/research-ops-data-monitoring/financial-research-memo-editor-analyst"
+  }
+}

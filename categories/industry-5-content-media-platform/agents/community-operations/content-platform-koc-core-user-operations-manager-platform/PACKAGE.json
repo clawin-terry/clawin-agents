@@ -9,7 +9,7 @@
     "roleFamilyKey":  "community-operations",
     "recommendedModel":  "openai-codex/gpt-5.4",
     "bundledSkills":  [
-                          "coding-agent"
+                          "clawin-content-communication"
                       ],
     "install":  {
                     "targetRoot":  "~/.openclaw/agents/content-platform-koc-core-user-operations-manager-platform",

@@ -1,4 +1,4 @@
-# Technical Standards and Review Manager
+﻿# Technical Standards and Review Manager
 
 A shareable OpenClaw agent folder package for **Technical Standards and Review Manager**.
 

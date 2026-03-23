@@ -1,4 +1,4 @@
-# QA Operations Manager
+﻿# QA Operations Manager
 
 A shareable OpenClaw agent folder package for **QA Operations Manager**.
 

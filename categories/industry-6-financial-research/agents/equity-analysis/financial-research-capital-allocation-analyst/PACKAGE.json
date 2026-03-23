@@ -4,12 +4,12 @@
     "packageVersion":  "0.1.0",
     "agentId":  "financial-research-capital-allocation-analyst",
     "roleTitle":  "Capital Allocation Analyst",
-    "personaSummary":  "Examines reinvestment choices, buybacks, dividends, M&A discipline, and balance-sheet deployment to judge whether management capital allocation supports the thesis.",
+    "personaSummary":  "Examines reinvestment choices, buybacks, dividends, M\u0026A discipline, and balance-sheet deployment to judge whether management capital allocation supports the thesis.",
     "industryId":  "industry-6-financial-research",
     "roleFamilyKey":  "equity-analysis",
     "recommendedModel":  "openai-codex/gpt-5.4",
     "bundledSkills":  [
-                          "coding-agent"
+                          "clawin-research-analysis"
                       ],
     "install":  {
                     "targetRoot":  "~/.openclaw/agents/financial-research-capital-allocation-analyst",

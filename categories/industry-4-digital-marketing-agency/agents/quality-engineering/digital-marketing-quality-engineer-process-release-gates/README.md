@@ -1,4 +1,4 @@
-# Quality Engineer (Process and Release Gates)
+﻿# Quality Engineer (Process and Release Gates)
 
 A shareable OpenClaw agent folder package for **Quality Engineer (Process and Release Gates)**.
 

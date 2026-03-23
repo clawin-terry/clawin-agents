@@ -9,7 +9,7 @@
     "roleFamilyKey":  "sales",
     "recommendedModel":  "mycodex/gpt-5.4",
     "bundledSkills":  [
-                          "coding-agent"
+                          "clawin-sales-marketing-growth"
                       ],
     "install":  {
                     "targetRoot":  "~/.openclaw/agents/content-platform-key-account-sales-manager",

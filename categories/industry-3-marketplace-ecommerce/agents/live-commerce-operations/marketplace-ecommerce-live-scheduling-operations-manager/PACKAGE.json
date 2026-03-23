@@ -9,7 +9,7 @@
     "roleFamilyKey":  "live-commerce-operations",
     "recommendedModel":  "openai-codex/gpt-5.4",
     "bundledSkills":  [
-                          "coding-agent"
+                          "clawin-content-communication"
                       ],
     "install":  {
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-live-scheduling-operations-manager",

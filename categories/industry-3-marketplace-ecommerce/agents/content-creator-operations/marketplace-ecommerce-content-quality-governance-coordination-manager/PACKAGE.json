@@ -9,7 +9,7 @@
     "roleFamilyKey":  "content-creator-operations",
     "recommendedModel":  "openai-codex/gpt-5.4",
     "bundledSkills":  [
-                          "coding-agent"
+                          "clawin-content-communication"
                       ],
     "install":  {
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-content-quality-governance-coordination-manager",

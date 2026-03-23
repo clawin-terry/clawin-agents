@@ -18,7 +18,7 @@ A shareable OpenClaw agent folder package for **Backoffice Frontend Engineering 
 
 ## Bundled skills
 - coding-agent
-
+- ui-ux-pro-max
 ## Install
 See `INSTALL.md`.
 

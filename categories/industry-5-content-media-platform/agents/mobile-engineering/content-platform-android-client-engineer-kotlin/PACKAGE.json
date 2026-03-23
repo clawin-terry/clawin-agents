@@ -10,7 +10,6 @@
     "recommendedModel":  "mycodex/gpt-5.4",
     "bundledSkills":  [
                           "coding-agent",
-                          "clawin-mobile-engineering",
                           "clawin-native-client-engineering"
                       ],
     "install":  {

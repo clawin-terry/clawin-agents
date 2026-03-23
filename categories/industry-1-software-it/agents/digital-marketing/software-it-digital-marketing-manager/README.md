@@ -17,9 +17,7 @@ A shareable OpenClaw agent folder package for **Digital Marketing Manager**.
 - `PACKAGE.json` — package metadata for GitHub/library use
 
 ## Bundled skills
-- coding-agent
-
-## Install
+- clawin-sales-marketing-growth## Install
 See `INSTALL.md`.
 
 ## Important note

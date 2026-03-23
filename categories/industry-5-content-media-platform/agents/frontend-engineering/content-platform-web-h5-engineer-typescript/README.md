@@ -19,7 +19,6 @@ A shareable OpenClaw agent folder package for **Web and H5 Engineer (TypeScript)
 ## Bundled skills
 - coding-agent
 - ui-ux-pro-max
-
 ## Install
 See `INSTALL.md`.
 

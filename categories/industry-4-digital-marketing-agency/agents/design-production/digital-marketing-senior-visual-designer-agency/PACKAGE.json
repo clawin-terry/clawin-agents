@@ -9,7 +9,7 @@
     "roleFamilyKey":  "design-production",
     "recommendedModel":  "openai-codex/gpt-5.4",
     "bundledSkills":  [
-                          "coding-agent"
+                          "clawin-content-communication"
                       ],
     "install":  {
                     "targetRoot":  "~/.openclaw/agents/digital-marketing-senior-visual-designer-agency",

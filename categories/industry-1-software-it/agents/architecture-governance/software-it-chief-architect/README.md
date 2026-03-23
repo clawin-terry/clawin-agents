@@ -1,4 +1,4 @@
-# Chief Architect
+﻿# Chief Architect
 
 A shareable OpenClaw agent folder package for **Chief Architect**.
 

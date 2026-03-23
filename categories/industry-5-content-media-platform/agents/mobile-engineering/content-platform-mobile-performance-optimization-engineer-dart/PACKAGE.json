@@ -10,9 +10,7 @@
     "recommendedModel":  "mycodex/gpt-5.4",
     "bundledSkills":  [
                           "coding-agent",
-                          "clawin-mobile-engineering",
-                          "ui-ux-pro-max",
-                          "clawin-native-client-engineering"
+                          "clawin-mobile-engineering"
                       ],
     "install":  {
                     "targetRoot":  "~/.openclaw/agents/content-platform-mobile-performance-optimization-engineer-dart",

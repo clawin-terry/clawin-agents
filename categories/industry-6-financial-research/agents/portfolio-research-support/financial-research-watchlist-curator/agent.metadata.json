@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "financial-research-watchlist-curator",
+  "version": "0.1.0",
+  "title": "Watchlist Curator",
+  "summary": "Maintains structured watchlists by theme, catalyst window, diligence stage, and thesis status so research teams can review coverage systematically.",
+  "classification": {
+    "industryId": "industry-6-financial-research",
+    "familyKey": "portfolio-research-support"
+  },
+  "discovery": {
+    "tags": [
+      "financial",
+      "research",
+      "watchlist",
+      "curator",
+      "portfolio",
+      "support"
+    ],
+    "domains": [
+      "portfolio",
+      "research"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "financial",
+      "research",
+      "watchlist",
+      "curator"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "financial-research",
+      "portfolio-support"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-6-financial-research/agents/portfolio-research-support/financial-research-watchlist-curator"
+  }
+}

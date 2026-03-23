@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "financial-research-market-map-analyst",
+  "version": "0.1.0",
+  "title": "Market Map Analyst",
+  "summary": "Creates structured market maps that cluster candidate names by subsector, business model, maturity, and key operating drivers before deeper diligence begins.",
+  "classification": {
+    "industryId": "industry-6-financial-research",
+    "familyKey": "screening-comparison"
+  },
+  "discovery": {
+    "tags": [
+      "financial",
+      "research",
+      "market",
+      "map",
+      "screening",
+      "comparison"
+    ],
+    "domains": [
+      "screening",
+      "comparison"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "financial",
+      "research",
+      "market",
+      "map"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "financial-research",
+      "screening-comparison"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-6-financial-research/agents/screening-comparison/financial-research-market-map-analyst"
+  }
+}

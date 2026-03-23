@@ -9,8 +9,7 @@
     "roleFamilyKey":  "privacy-data-governance",
     "recommendedModel":  "openai-codex/gpt-5.4",
     "bundledSkills":  [
-                          "coding-agent",
-                          "healthcheck"
+                          "clawin-finance-risk-governance"
                       ],
     "install":  {
                     "targetRoot":  "~/.openclaw/agents/software-it-privacy-compliance-manager-pipl-gdpr",

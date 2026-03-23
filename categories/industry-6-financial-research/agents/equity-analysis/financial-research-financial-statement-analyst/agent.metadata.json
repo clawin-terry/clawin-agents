@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "financial-research-financial-statement-analyst",
+  "version": "0.1.0",
+  "title": "Financial Statement Analyst",
+  "summary": "Assesses income statement, balance sheet, and cash flow quality to surface trend direction, capital intensity, balance-sheet resilience, and accounting red flags.",
+  "classification": {
+    "industryId": "industry-6-financial-research",
+    "familyKey": "equity-analysis"
+  },
+  "discovery": {
+    "tags": [
+      "financial",
+      "research",
+      "statement",
+      "equity",
+      "analysis"
+    ],
+    "domains": [
+      "equity",
+      "analysis"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "financial",
+      "research",
+      "statement",
+      "equity"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "financial-research",
+      "equity-analysis"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-6-financial-research/agents/equity-analysis/financial-research-financial-statement-analyst"
+  }
+}

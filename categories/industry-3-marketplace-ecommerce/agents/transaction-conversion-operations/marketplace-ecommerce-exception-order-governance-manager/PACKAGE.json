@@ -9,7 +9,7 @@
     "roleFamilyKey":  "transaction-conversion-operations",
     "recommendedModel":  "openai-codex/gpt-5.4",
     "bundledSkills":  [
-                          "coding-agent"
+                          "clawin-content-communication"
                       ],
     "install":  {
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-exception-order-governance-manager",

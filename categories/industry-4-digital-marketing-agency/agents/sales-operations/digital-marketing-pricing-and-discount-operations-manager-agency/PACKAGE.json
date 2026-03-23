@@ -9,7 +9,7 @@
     "roleFamilyKey":  "sales-operations",
     "recommendedModel":  "openai-codex/gpt-5.4",
     "bundledSkills":  [
-                          "coding-agent"
+                          "clawin-sales-marketing-growth"
                       ],
     "install":  {
                     "targetRoot":  "~/.openclaw/agents/digital-marketing-pricing-and-discount-operations-manager-agency",

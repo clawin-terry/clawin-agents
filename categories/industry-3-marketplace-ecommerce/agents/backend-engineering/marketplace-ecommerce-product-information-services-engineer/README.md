@@ -1,4 +1,4 @@
-# Product Information Services Engineer
+﻿# Product Information Services Engineer
 
 A shareable OpenClaw agent folder package for **Product Information Services Engineer**.
 
@@ -18,7 +18,6 @@ A shareable OpenClaw agent folder package for **Product Information Services Eng
 
 ## Bundled skills
 - coding-agent
-- clawin-backend-service-engineering
 
 ## Install
 See `INSTALL.md`.

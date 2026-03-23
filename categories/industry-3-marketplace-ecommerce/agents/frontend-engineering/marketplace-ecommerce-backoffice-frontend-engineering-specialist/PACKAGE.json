@@ -9,7 +9,8 @@
     "roleFamilyKey":  "frontend-engineering",
     "recommendedModel":  "openai-codex/gpt-5.4",
     "bundledSkills":  [
-                          "coding-agent"
+                          "coding-agent",
+                          "ui-ux-pro-max"
                       ],
     "install":  {
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-backoffice-frontend-engineering-specialist",

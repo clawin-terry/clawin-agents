@@ -10,7 +10,6 @@
     "recommendedModel":  "openai-codex/gpt-5.4",
     "bundledSkills":  [
                           "coding-agent",
-                          "clawin-native-client-engineering",
                           "ui-ux-pro-max"
                       ],
     "install":  {

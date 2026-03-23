@@ -1,4 +1,4 @@
-# Database Administrator (SQL)
+﻿# Database Administrator (SQL)
 
 A shareable OpenClaw agent folder package for **Database Administrator (SQL)**.
 

@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "financial-research-exposure-review-analyst",
+  "version": "0.1.0",
+  "title": "Portfolio Exposure Review Analyst",
+  "summary": "Reviews a research watchlist or draft portfolio for concentration, overlap, factor clustering, and common thesis dependencies without making suitability or allocation decisions.",
+  "classification": {
+    "industryId": "industry-6-financial-research",
+    "familyKey": "portfolio-research-support"
+  },
+  "discovery": {
+    "tags": [
+      "financial",
+      "research",
+      "exposure",
+      "review",
+      "portfolio",
+      "support"
+    ],
+    "domains": [
+      "portfolio",
+      "research"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "financial",
+      "research",
+      "exposure",
+      "review"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "financial-research",
+      "portfolio-support"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-6-financial-research/agents/portfolio-research-support/financial-research-exposure-review-analyst"
+  }
+}

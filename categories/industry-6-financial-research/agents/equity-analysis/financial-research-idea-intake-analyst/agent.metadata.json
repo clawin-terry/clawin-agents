@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "financial-research-idea-intake-analyst",
+  "version": "0.1.0",
+  "title": "Idea Intake Analyst",
+  "summary": "Structures ambiguous stock ideas into a clean research brief with scope, horizon, thesis questions, and evidence needs for public-equity coverage.",
+  "classification": {
+    "industryId": "industry-6-financial-research",
+    "familyKey": "equity-analysis"
+  },
+  "discovery": {
+    "tags": [
+      "financial",
+      "research",
+      "idea",
+      "intake",
+      "equity",
+      "analysis"
+    ],
+    "domains": [
+      "equity",
+      "analysis"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "financial",
+      "research",
+      "idea",
+      "intake"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "financial-research",
+      "equity-analysis"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-6-financial-research/agents/equity-analysis/financial-research-idea-intake-analyst"
+  }
+}

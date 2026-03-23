@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "financial-research-company-research-analyst",
+  "version": "0.1.0",
+  "title": "Company Research Analyst",
+  "summary": "Builds a fundamentals-first company view covering business model, management quality, competitive position, operating drivers, and catalyst context for listed companies.",
+  "classification": {
+    "industryId": "industry-6-financial-research",
+    "familyKey": "equity-analysis"
+  },
+  "discovery": {
+    "tags": [
+      "financial",
+      "research",
+      "company",
+      "equity",
+      "analysis"
+    ],
+    "domains": [
+      "equity",
+      "analysis"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "financial",
+      "research",
+      "company",
+      "equity"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "financial-research",
+      "equity-analysis"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-6-financial-research/agents/equity-analysis/financial-research-company-research-analyst"
+  }
+}

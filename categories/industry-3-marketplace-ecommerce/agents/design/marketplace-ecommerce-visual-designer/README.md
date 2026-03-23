@@ -17,10 +17,7 @@ A shareable OpenClaw agent folder package for **Visual Designer**.
 - `PACKAGE.json` — package metadata for GitHub/library use
 
 ## Bundled skills
-- coding-agent
-- frontend-design
-
-## Install
+- clawin-content-communication## Install
 See `INSTALL.md`.
 
 ## Important note

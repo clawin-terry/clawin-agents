@@ -9,7 +9,7 @@
     "roleFamilyKey":  "community-governance-risk",
     "recommendedModel":  "openai-codex/gpt-5.4",
     "bundledSkills":  [
-                          "coding-agent"
+                          "clawin-finance-risk-governance"
                       ],
     "install":  {
                     "targetRoot":  "~/.openclaw/agents/content-platform-community-rules-operations-manager-platform",

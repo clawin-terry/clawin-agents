@@ -9,8 +9,7 @@
     "roleFamilyKey":  "frontend-engineering",
     "recommendedModel":  "mycodex/gpt-5.4",
     "bundledSkills":  [
-                          "coding-agent",
-                          "ui-ux-pro-max"
+                          "coding-agent"
                       ],
     "install":  {
                     "targetRoot":  "~/.openclaw/agents/content-platform-growth-tools-engineer-typescript",

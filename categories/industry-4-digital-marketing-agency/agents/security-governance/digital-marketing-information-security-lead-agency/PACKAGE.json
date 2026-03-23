@@ -9,7 +9,6 @@
     "roleFamilyKey":  "security-governance",
     "recommendedModel":  "openai-codex/gpt-5.4",
     "bundledSkills":  [
-                          "coding-agent",
                           "healthcheck"
                       ],
     "install":  {

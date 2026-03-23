@@ -1,4 +1,4 @@
-# Transaction Services Engineer (Java)
+﻿# Transaction Services Engineer (Java)
 
 A shareable OpenClaw agent folder package for **Transaction Services Engineer (Java)**.
 
@@ -18,7 +18,6 @@ A shareable OpenClaw agent folder package for **Transaction Services Engineer (J
 
 ## Bundled skills
 - coding-agent
-- clawin-backend-service-engineering
 
 ## Install
 See `INSTALL.md`.

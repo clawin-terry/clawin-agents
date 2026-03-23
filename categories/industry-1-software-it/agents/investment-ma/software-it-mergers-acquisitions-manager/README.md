@@ -17,9 +17,7 @@ A shareable OpenClaw agent folder package for **Mergers and Acquisitions Manager
 - `PACKAGE.json` — package metadata for GitHub/library use
 
 ## Bundled skills
-- coding-agent
-
-## Install
+- clawin-finance-risk-governance## Install
 See `INSTALL.md`.
 
 ## Important note

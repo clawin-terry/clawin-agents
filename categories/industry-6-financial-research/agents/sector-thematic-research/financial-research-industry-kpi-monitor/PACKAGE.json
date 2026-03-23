@@ -9,7 +9,7 @@
     "roleFamilyKey":  "sector-thematic-research",
     "recommendedModel":  "openai-codex/gpt-5.4",
     "bundledSkills":  [
-                          "coding-agent"
+                          "clawin-research-analysis"
                       ],
     "install":  {
                     "targetRoot":  "~/.openclaw/agents/financial-research-industry-kpi-monitor",

@@ -9,7 +9,7 @@
     "roleFamilyKey":  "compensation-benefits-performance",
     "recommendedModel":  "mycodex/gpt-5.4",
     "bundledSkills":  [
-                          "coding-agent"
+                          "clawin-people-admin-enablement"
                       ],
     "install":  {
                     "targetRoot":  "~/.openclaw/agents/content-platform-compensation-manager-platform",

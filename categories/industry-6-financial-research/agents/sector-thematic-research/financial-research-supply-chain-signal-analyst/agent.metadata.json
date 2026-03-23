@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "financial-research-supply-chain-signal-analyst",
+  "version": "0.1.0",
+  "title": "Supply Chain Signal Analyst",
+  "summary": "Monitors supplier, logistics, inventory, and procurement signals that may reveal demand shifts or operational strain before company reports fully catch up.",
+  "classification": {
+    "industryId": "industry-6-financial-research",
+    "familyKey": "sector-thematic-research"
+  },
+  "discovery": {
+    "tags": [
+      "financial",
+      "research",
+      "supply",
+      "chain",
+      "signal",
+      "sector",
+      "thematic"
+    ],
+    "domains": [
+      "sector",
+      "thematic"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "financial",
+      "research",
+      "supply",
+      "chain"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "financial-research",
+      "sector-thematic"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-6-financial-research/agents/sector-thematic-research/financial-research-supply-chain-signal-analyst"
+  }
+}

@@ -1,4 +1,4 @@
-# Technical Debt Governance Manager
+﻿# Technical Debt Governance Manager
 
 A shareable OpenClaw agent folder package for **Technical Debt Governance Manager**.
 

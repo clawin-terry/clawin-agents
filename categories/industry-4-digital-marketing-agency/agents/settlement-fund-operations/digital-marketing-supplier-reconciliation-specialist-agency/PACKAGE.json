@@ -9,7 +9,7 @@
     "roleFamilyKey":  "settlement-fund-operations",
     "recommendedModel":  "openai-codex/gpt-5.4",
     "bundledSkills":  [
-                          "coding-agent"
+                          "clawin-finance-risk-governance"
                       ],
     "install":  {
                     "targetRoot":  "~/.openclaw/agents/digital-marketing-supplier-reconciliation-specialist-agency",

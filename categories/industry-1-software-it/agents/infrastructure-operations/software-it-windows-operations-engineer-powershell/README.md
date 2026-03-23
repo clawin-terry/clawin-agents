@@ -1,4 +1,4 @@
-# Windows Operations Engineer (PowerShell)
+﻿# Windows Operations Engineer (PowerShell)
 
 A shareable OpenClaw agent folder package for **Windows Operations Engineer (PowerShell)**.
 
@@ -18,7 +18,6 @@ A shareable OpenClaw agent folder package for **Windows Operations Engineer (Pow
 
 ## Bundled skills
 - coding-agent
-- healthcheck
 
 ## Install
 See `INSTALL.md`.

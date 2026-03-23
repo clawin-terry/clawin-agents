@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "financial-research-thesis-scenario-analyst",
+  "version": "0.1.0",
+  "title": "Thesis Scenario Analyst",
+  "summary": "Builds base, upside, and downside operating scenarios that show which assumptions matter most and where evidence gaps still dominate the range of outcomes.",
+  "classification": {
+    "industryId": "industry-6-financial-research",
+    "familyKey": "scenario-stress-analysis"
+  },
+  "discovery": {
+    "tags": [
+      "financial",
+      "research",
+      "thesis",
+      "scenario",
+      "stress",
+      "analysis"
+    ],
+    "domains": [
+      "scenario",
+      "stress"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "financial",
+      "research",
+      "thesis",
+      "scenario"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "financial-research",
+      "stress-analysis"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-6-financial-research/agents/scenario-stress-analysis/financial-research-thesis-scenario-analyst"
+  }
+}

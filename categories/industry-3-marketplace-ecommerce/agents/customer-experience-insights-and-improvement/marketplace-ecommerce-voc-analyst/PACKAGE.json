@@ -9,7 +9,7 @@
     "roleFamilyKey":  "customer-experience-insights-and-improvement",
     "recommendedModel":  "openai-codex/gpt-5.4",
     "bundledSkills":  [
-                          "coding-agent"
+                          "clawin-research-analysis"
                       ],
     "install":  {
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-voc-analyst",

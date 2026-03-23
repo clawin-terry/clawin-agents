@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "financial-research-policy-monitor-analyst",
+  "version": "0.1.0",
+  "title": "Policy & Regulatory Monitor Analyst",
+  "summary": "Watches policy proposals, rule changes, antitrust developments, reimbursement shifts, and regulatory enforcement trends that can alter sector-level research assumptions.",
+  "classification": {
+    "industryId": "industry-6-financial-research",
+    "familyKey": "market-monitoring"
+  },
+  "discovery": {
+    "tags": [
+      "financial",
+      "research",
+      "policy",
+      "monitor",
+      "regulatory",
+      "market",
+      "monitoring"
+    ],
+    "domains": [
+      "market",
+      "monitoring"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "financial",
+      "research",
+      "policy",
+      "monitor"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "financial-research",
+      "market-monitoring"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-6-financial-research/agents/market-monitoring/financial-research-policy-monitor-analyst"
+  }
+}

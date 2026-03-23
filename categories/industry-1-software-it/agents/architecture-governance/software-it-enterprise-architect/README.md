@@ -1,4 +1,4 @@
-# Enterprise Architect
+﻿# Enterprise Architect
 
 A shareable OpenClaw agent folder package for **Enterprise Architect**.
 

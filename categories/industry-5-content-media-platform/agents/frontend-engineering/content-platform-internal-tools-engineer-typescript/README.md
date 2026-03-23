@@ -1,4 +1,4 @@
-# Internal Tools Engineer (TypeScript)
+﻿# Internal Tools Engineer (TypeScript)
 
 A shareable OpenClaw agent folder package for **Internal Tools Engineer (TypeScript)**.
 
@@ -18,7 +18,6 @@ A shareable OpenClaw agent folder package for **Internal Tools Engineer (TypeScr
 
 ## Bundled skills
 - coding-agent
-- ui-ux-pro-max
 
 ## Install
 See `INSTALL.md`.

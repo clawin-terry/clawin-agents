@@ -18,9 +18,7 @@ A shareable OpenClaw agent folder package for **Middleware Engineer (Java/Go)**.
 
 ## Bundled skills
 - coding-agent
-- clawin-backend-service-engineering
 - clawin-middleware-distributed-systems
-
 ## Install
 See `INSTALL.md`.
 

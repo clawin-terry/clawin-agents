@@ -9,7 +9,7 @@
     "roleFamilyKey":  "business-operations",
     "recommendedModel":  "openai-codex/gpt-5.4",
     "bundledSkills":  [
-                          "coding-agent"
+                          "clawin-ops-planning-coordination"
                       ],
     "install":  {
                     "targetRoot":  "~/.openclaw/agents/software-it-policy-meeting-management-specialist",

@@ -9,7 +9,7 @@
     "roleFamilyKey":  "content-rights-and-partnerships",
     "recommendedModel":  "mycodex/gpt-5.4",
     "bundledSkills":  [
-                          "coding-agent"
+                          "clawin-content-communication"
                       ],
     "install":  {
                     "targetRoot":  "~/.openclaw/agents/content-platform-copyright-whitelist-label-coordinator-platform",

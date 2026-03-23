@@ -1,4 +1,4 @@
-# Funds Security Integration Engineer
+﻿# Funds Security Integration Engineer
 
 A shareable OpenClaw agent folder package for **Funds Security Integration Engineer**.
 
@@ -18,7 +18,6 @@ A shareable OpenClaw agent folder package for **Funds Security Integration Engin
 
 ## Bundled skills
 - coding-agent
-- clawin-backend-service-engineering
 
 ## Install
 See `INSTALL.md`.

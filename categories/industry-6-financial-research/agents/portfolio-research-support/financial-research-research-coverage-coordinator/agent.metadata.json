@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "financial-research-research-coverage-coordinator",
+  "version": "0.1.0",
+  "title": "Research Coverage Coordinator",
+  "summary": "Organizes coverage queues, standardizes memo status, tracks follow-up gaps, and keeps a research team aligned on what is ready, stale, blocked, or awaiting human review.",
+  "classification": {
+    "industryId": "industry-6-financial-research",
+    "familyKey": "portfolio-research-support"
+  },
+  "discovery": {
+    "tags": [
+      "financial",
+      "research",
+      "coverage",
+      "portfolio",
+      "support"
+    ],
+    "domains": [
+      "portfolio",
+      "research"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "financial",
+      "research",
+      "coverage",
+      "portfolio"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "financial-research",
+      "portfolio-support"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-6-financial-research/agents/portfolio-research-support/financial-research-research-coverage-coordinator"
+  }
+}

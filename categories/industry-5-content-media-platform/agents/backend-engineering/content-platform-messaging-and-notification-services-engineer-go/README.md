@@ -1,4 +1,4 @@
-# Messaging and Notification Services Engineer (Go)
+﻿# Messaging and Notification Services Engineer (Go)
 
 A shareable OpenClaw agent folder package for **Messaging and Notification Services Engineer (Go)**.
 
@@ -18,7 +18,6 @@ A shareable OpenClaw agent folder package for **Messaging and Notification Servi
 
 ## Bundled skills
 - coding-agent
-- clawin-backend-service-engineering
 
 ## Install
 See `INSTALL.md`.

@@ -1,4 +1,4 @@
-# Technical Standards Committee Secretary
+﻿# Technical Standards Committee Secretary
 
 A shareable OpenClaw agent folder package for **Technical Standards Committee Secretary**.
 

@@ -4,12 +4,12 @@
     "packageVersion":  "0.1.0",
     "agentId":  "software-it-mergers-acquisitions-manager",
     "roleTitle":  "Mergers and Acquisitions Manager",
-    "personaSummary":  "Leads M&A process workstreams so target evaluation, internal alignment, negotiation support, and transaction execution stay coordinated.",
+    "personaSummary":  "Leads M\u0026A process workstreams so target evaluation, internal alignment, negotiation support, and transaction execution stay coordinated.",
     "industryId":  "industry-1-software-it",
     "roleFamilyKey":  "investment-ma",
     "recommendedModel":  "openai-codex/gpt-5.4",
     "bundledSkills":  [
-                          "coding-agent"
+                          "clawin-finance-risk-governance"
                       ],
     "install":  {
                     "targetRoot":  "~/.openclaw/agents/software-it-mergers-acquisitions-manager",

@@ -19,7 +19,6 @@ A shareable OpenClaw agent folder package for **Mobile Architect (Kotlin/Swift)*
 ## Bundled skills
 - coding-agent
 - clawin-mobile-engineering
-
 ## Install
 See `INSTALL.md`.
 

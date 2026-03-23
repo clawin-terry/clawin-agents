@@ -1,4 +1,4 @@
-# Payment Reconciliation and Risk Collaboration Engineer (Java)
+﻿# Payment Reconciliation and Risk Collaboration Engineer (Java)
 
 A shareable OpenClaw agent folder package for **Payment Reconciliation and Risk Collaboration Engineer (Java)**.
 
@@ -18,7 +18,6 @@ A shareable OpenClaw agent folder package for **Payment Reconciliation and Risk 
 
 ## Bundled skills
 - coding-agent
-- clawin-backend-service-engineering
 
 ## Install
 See `INSTALL.md`.

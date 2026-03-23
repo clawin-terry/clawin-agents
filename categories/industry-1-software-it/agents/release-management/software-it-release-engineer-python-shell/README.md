@@ -1,4 +1,4 @@
-# Release Engineer (Python/Shell)
+﻿# Release Engineer (Python/Shell)
 
 A shareable OpenClaw agent folder package for **Release Engineer (Python/Shell)**.
 
@@ -18,7 +18,6 @@ A shareable OpenClaw agent folder package for **Release Engineer (Python/Shell)*
 
 ## Bundled skills
 - coding-agent
-- healthcheck
 
 ## Install
 See `INSTALL.md`.

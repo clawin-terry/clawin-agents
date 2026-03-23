@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "financial-research-quality-screen-analyst",
+  "version": "0.1.0",
+  "title": "Quality Screen Analyst",
+  "summary": "Builds discovery screens around return quality, balance-sheet discipline, margin durability, and earnings consistency to surface higher-quality candidate names.",
+  "classification": {
+    "industryId": "industry-6-financial-research",
+    "familyKey": "screening-comparison"
+  },
+  "discovery": {
+    "tags": [
+      "financial",
+      "research",
+      "quality",
+      "screen",
+      "screening",
+      "comparison"
+    ],
+    "domains": [
+      "screening",
+      "comparison"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "financial",
+      "research",
+      "quality",
+      "screen"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "financial-research",
+      "screening-comparison"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-6-financial-research/agents/screening-comparison/financial-research-quality-screen-analyst"
+  }
+}

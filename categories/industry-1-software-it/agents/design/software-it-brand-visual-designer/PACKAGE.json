@@ -9,9 +9,7 @@
     "roleFamilyKey":  "design",
     "recommendedModel":  "openai-codex/gpt-5.4",
     "bundledSkills":  [
-                          "coding-agent",
-                          "ui-ux-pro-max",
-                          "frontend-design"
+                          "clawin-content-communication"
                       ],
     "install":  {
                     "targetRoot":  "~/.openclaw/agents/software-it-brand-visual-designer",

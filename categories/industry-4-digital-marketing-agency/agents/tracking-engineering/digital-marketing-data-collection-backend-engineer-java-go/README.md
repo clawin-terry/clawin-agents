@@ -18,7 +18,7 @@ A shareable OpenClaw agent folder package for **Data Collection Backend Engineer
 
 ## Bundled skills
 - coding-agent
-
+- clawin-backend-service-engineering
 ## Install
 See `INSTALL.md`.
 

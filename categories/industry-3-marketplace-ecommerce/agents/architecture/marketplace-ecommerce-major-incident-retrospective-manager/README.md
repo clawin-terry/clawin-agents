@@ -1,4 +1,4 @@
-# Major Incident Retrospective Manager
+﻿# Major Incident Retrospective Manager
 
 A shareable OpenClaw agent folder package for **Major Incident Retrospective Manager**.
 

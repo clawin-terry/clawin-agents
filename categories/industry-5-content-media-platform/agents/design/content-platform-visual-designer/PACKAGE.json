@@ -9,8 +9,7 @@
     "roleFamilyKey":  "design",
     "recommendedModel":  "mycodex/gpt-5.4",
     "bundledSkills":  [
-                          "coding-agent",
-                          "ui-ux-pro-max"
+                          "clawin-content-communication"
                       ],
     "install":  {
                     "targetRoot":  "~/.openclaw/agents/content-platform-visual-designer",

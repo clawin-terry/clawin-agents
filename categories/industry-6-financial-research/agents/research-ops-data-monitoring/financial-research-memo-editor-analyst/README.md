@@ -17,7 +17,7 @@ A shareable OpenClaw agent folder package for **Memo Standardization Analyst**.
 - `PACKAGE.json` — package metadata for GitHub/library use
 
 ## Bundled skills
-- coding-agent
+- clawin-research-analysis
 
 ## Install
 See `INSTALL.md`.
@@ -29,7 +29,3 @@ After copying this package to a target machine, the intended install path is:
 ```text
 ~/.openclaw/agents/financial-research-memo-editor-analyst
 ```
-## Boundary guidance
-- This package supports research preparation and evidence organization, not investment advice, trading instructions, suitability analysis, or fiduciary decisions.
-- Require explicit uncertainty, assumptions, source freshness, and missing-data notes in outputs that could influence capital allocation or security-selection decisions.
-- Escalate to a qualified human reviewer for final recommendations, client-facing advice, legal/compliance interpretation, or decisions requiring licensed judgment.

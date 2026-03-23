@@ -1,4 +1,4 @@
-# Linux Operations Engineer (Shell/Python)
+﻿# Linux Operations Engineer (Shell/Python)
 
 A shareable OpenClaw agent folder package for **Linux Operations Engineer (Shell/Python)**.
 
@@ -18,7 +18,6 @@ A shareable OpenClaw agent folder package for **Linux Operations Engineer (Shell
 
 ## Bundled skills
 - coding-agent
-- healthcheck
 
 ## Install
 See `INSTALL.md`.

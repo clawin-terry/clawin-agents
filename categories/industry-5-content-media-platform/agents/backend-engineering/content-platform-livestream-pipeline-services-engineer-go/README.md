@@ -1,4 +1,4 @@
-# Livestream Pipeline Services Engineer (Go)
+﻿# Livestream Pipeline Services Engineer (Go)
 
 A shareable OpenClaw agent folder package for **Livestream Pipeline Services Engineer (Go)**.
 
@@ -18,7 +18,6 @@ A shareable OpenClaw agent folder package for **Livestream Pipeline Services Eng
 
 ## Bundled skills
 - coding-agent
-- clawin-backend-service-engineering
 
 ## Install
 See `INSTALL.md`.

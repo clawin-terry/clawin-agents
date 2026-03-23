@@ -18,7 +18,8 @@ A shareable OpenClaw agent folder package for **Backend Engineer (Java/Go)**.
 
 ## Bundled skills
 - coding-agent
-
+- ui-ux-pro-max
+- clawin-backend-service-engineering
 ## Install
 See `INSTALL.md`.
 

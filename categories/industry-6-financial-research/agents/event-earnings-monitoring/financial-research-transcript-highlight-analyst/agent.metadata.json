@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "financial-research-transcript-highlight-analyst",
+  "version": "0.1.0",
+  "title": "Transcript Highlight Analyst",
+  "summary": "Extracts management tone shifts, disclosure changes, and decision-useful evidence from transcripts, fireside chats, and conference appearances.",
+  "classification": {
+    "industryId": "industry-6-financial-research",
+    "familyKey": "event-earnings-monitoring"
+  },
+  "discovery": {
+    "tags": [
+      "financial",
+      "research",
+      "transcript",
+      "highlight",
+      "event",
+      "earnings",
+      "monitoring"
+    ],
+    "domains": [
+      "event",
+      "earnings"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "financial",
+      "research",
+      "transcript",
+      "highlight"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "script"
+    ],
+    "capabilities": [
+      "financial-research",
+      "earnings-monitoring"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-6-financial-research/agents/event-earnings-monitoring/financial-research-transcript-highlight-analyst"
+  }
+}

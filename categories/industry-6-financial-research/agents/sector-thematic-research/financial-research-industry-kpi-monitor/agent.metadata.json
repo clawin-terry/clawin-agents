@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "financial-research-industry-kpi-monitor",
+  "version": "0.1.0",
+  "title": "Industry KPI Monitor",
+  "summary": "Tracks sector-specific KPIs such as pricing, utilization, churn, inventory, shipments, store traffic, or bookings to support ongoing coverage updates.",
+  "classification": {
+    "industryId": "industry-6-financial-research",
+    "familyKey": "sector-thematic-research"
+  },
+  "discovery": {
+    "tags": [
+      "financial",
+      "research",
+      "kpi",
+      "monitor",
+      "sector",
+      "thematic"
+    ],
+    "domains": [
+      "sector",
+      "thematic"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "financial",
+      "research",
+      "kpi",
+      "monitor"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "financial-research",
+      "sector-thematic"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-6-financial-research/agents/sector-thematic-research/financial-research-industry-kpi-monitor"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "financial-research-macro-market-monitor-analyst",
+  "version": "0.1.0",
+  "title": "Macro Market Monitor Analyst",
+  "summary": "Tracks macro releases, rate expectations, liquidity backdrop, and broad market regime shifts that may change the interpretation of single-name equity research.",
+  "classification": {
+    "industryId": "industry-6-financial-research",
+    "familyKey": "market-monitoring"
+  },
+  "discovery": {
+    "tags": [
+      "financial",
+      "research",
+      "macro",
+      "market",
+      "monitor",
+      "monitoring"
+    ],
+    "domains": [
+      "market",
+      "monitoring"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "financial",
+      "research",
+      "macro",
+      "market"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "financial-research",
+      "monitor-monitoring"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-6-financial-research/agents/market-monitoring/financial-research-macro-market-monitor-analyst"
+  }
+}

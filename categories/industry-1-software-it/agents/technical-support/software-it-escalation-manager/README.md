@@ -1,4 +1,4 @@
-# Escalation Manager
+﻿# Escalation Manager
 
 A shareable OpenClaw agent folder package for **Escalation Manager**.
 

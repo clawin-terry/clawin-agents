@@ -20,7 +20,6 @@ A shareable OpenClaw agent folder package for **Frontend Engineer (JS/TS)**.
 - coding-agent
 - ui-ux-pro-max
 - frontend-design
-
 ## Install
 See `INSTALL.md`.
 

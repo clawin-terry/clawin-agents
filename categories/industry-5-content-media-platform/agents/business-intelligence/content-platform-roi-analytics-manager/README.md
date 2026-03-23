@@ -1,4 +1,4 @@
-# ROI Analytics Manager
+﻿# ROI Analytics Manager
 
 A shareable OpenClaw agent folder package for **ROI Analytics Manager**.
 

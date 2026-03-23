@@ -1,4 +1,4 @@
-# Change Manager
+﻿# Change Manager
 
 A shareable OpenClaw agent folder package for **Change Manager**.
 
@@ -18,7 +18,6 @@ A shareable OpenClaw agent folder package for **Change Manager**.
 
 ## Bundled skills
 - coding-agent
-- healthcheck
 
 ## Install
 See `INSTALL.md`.

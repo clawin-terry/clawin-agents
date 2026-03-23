@@ -1,4 +1,4 @@
-# Data Classification Specialist (Agency)
+﻿# Data Classification Specialist (Agency)
 
 A shareable OpenClaw agent folder package for **Data Classification Specialist (Agency)**.
 
@@ -17,7 +17,6 @@ A shareable OpenClaw agent folder package for **Data Classification Specialist (
 - `PACKAGE.json` — package metadata for GitHub/library use
 
 ## Bundled skills
-- coding-agent
 - healthcheck
 
 ## Install

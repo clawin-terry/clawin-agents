@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "financial-research-idea-prioritization-analyst",
+  "version": "0.1.0",
+  "title": "Idea Prioritization Analyst",
+  "summary": "Ranks candidate research ideas by evidence strength, novelty, catalyst timing, downside ambiguity, and expected follow-up effort without implying execution advice.",
+  "classification": {
+    "industryId": "industry-6-financial-research",
+    "familyKey": "screening-comparison"
+  },
+  "discovery": {
+    "tags": [
+      "financial",
+      "research",
+      "idea",
+      "prioritization",
+      "screening",
+      "comparison"
+    ],
+    "domains": [
+      "screening",
+      "comparison"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "financial",
+      "research",
+      "idea",
+      "prioritization"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "financial-research",
+      "screening-comparison"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-6-financial-research/agents/screening-comparison/financial-research-idea-prioritization-analyst"
+  }
+}

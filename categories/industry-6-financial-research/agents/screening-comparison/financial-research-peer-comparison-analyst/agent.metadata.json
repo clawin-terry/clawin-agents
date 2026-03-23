@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "financial-research-peer-comparison-analyst",
+  "version": "0.1.0",
+  "title": "Peer Comparison Analyst",
+  "summary": "Builds clean peer sets and compares operating model, growth quality, margins, capital efficiency, and valuation context across comparable public companies.",
+  "classification": {
+    "industryId": "industry-6-financial-research",
+    "familyKey": "screening-comparison"
+  },
+  "discovery": {
+    "tags": [
+      "financial",
+      "research",
+      "peer",
+      "comparison",
+      "screening"
+    ],
+    "domains": [
+      "screening",
+      "comparison"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "financial",
+      "research",
+      "peer",
+      "comparison"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "financial-research",
+      "comparison-screening"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-6-financial-research/agents/screening-comparison/financial-research-peer-comparison-analyst"
+  }
+}

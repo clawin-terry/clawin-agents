@@ -1,4 +1,4 @@
-# OCR Moderation Engineer (Python)
+﻿# OCR Moderation Engineer (Python)
 
 A shareable OpenClaw agent folder package for **OCR Moderation Engineer (Python)**.
 

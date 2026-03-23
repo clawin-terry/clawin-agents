@@ -1,4 +1,4 @@
-# Attribution and Anti-Fraud Analytics Manager
+﻿# Attribution and Anti-Fraud Analytics Manager
 
 A shareable OpenClaw agent folder package for **Attribution and Anti-Fraud Analytics Manager**.
 

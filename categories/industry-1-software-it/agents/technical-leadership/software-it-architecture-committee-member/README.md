@@ -1,4 +1,4 @@
-# Architecture Committee Member
+﻿# Architecture Committee Member
 
 A shareable OpenClaw agent folder package for **Architecture Committee Member**.
 

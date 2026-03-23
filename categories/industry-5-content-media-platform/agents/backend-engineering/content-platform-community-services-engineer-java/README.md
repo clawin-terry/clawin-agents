@@ -1,4 +1,4 @@
-# Community Services Engineer (Java)
+﻿# Community Services Engineer (Java)
 
 A shareable OpenClaw agent folder package for **Community Services Engineer (Java)**.
 
@@ -18,7 +18,6 @@ A shareable OpenClaw agent folder package for **Community Services Engineer (Jav
 
 ## Bundled skills
 - coding-agent
-- clawin-backend-service-engineering
 
 ## Install
 See `INSTALL.md`.

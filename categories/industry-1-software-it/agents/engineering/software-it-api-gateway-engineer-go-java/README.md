@@ -18,9 +18,7 @@ A shareable OpenClaw agent folder package for **API Gateway Engineer (Go/Java)**
 
 ## Bundled skills
 - coding-agent
-- clawin-backend-service-engineering
 - clawin-middleware-distributed-systems
-
 ## Install
 See `INSTALL.md`.
 

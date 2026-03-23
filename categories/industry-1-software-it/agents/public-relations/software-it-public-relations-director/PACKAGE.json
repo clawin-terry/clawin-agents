@@ -9,8 +9,7 @@
     "roleFamilyKey":  "public-relations",
     "recommendedModel":  "openai-codex/gpt-5.4",
     "bundledSkills":  [
-                          "coding-agent",
-                          "clawin-media-performance-systems"
+                          "clawin-sales-marketing-growth"
                       ],
     "install":  {
                     "targetRoot":  "~/.openclaw/agents/software-it-public-relations-director",

@@ -18,9 +18,7 @@ A shareable OpenClaw agent folder package for **Audio and Video Services Enginee
 
 ## Bundled skills
 - coding-agent
-- clawin-backend-service-engineering
 - clawin-media-performance-systems
-
 ## Install
 See `INSTALL.md`.
 

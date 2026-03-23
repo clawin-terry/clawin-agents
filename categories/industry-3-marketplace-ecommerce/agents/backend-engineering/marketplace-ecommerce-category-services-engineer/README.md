@@ -1,4 +1,4 @@
-# Category Services Engineer
+﻿# Category Services Engineer
 
 A shareable OpenClaw agent folder package for **Category Services Engineer**.
 
@@ -18,7 +18,6 @@ A shareable OpenClaw agent folder package for **Category Services Engineer**.
 
 ## Bundled skills
 - coding-agent
-- clawin-backend-service-engineering
 
 ## Install
 See `INSTALL.md`.

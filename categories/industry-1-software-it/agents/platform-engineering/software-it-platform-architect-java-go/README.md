@@ -1,4 +1,4 @@
-# Platform Architect (Java/Go)
+﻿# Platform Architect (Java/Go)
 
 A shareable OpenClaw agent folder package for **Platform Architect (Java/Go)**.
 

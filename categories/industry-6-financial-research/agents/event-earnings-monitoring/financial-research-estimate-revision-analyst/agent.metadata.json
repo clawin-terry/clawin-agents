@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "financial-research-estimate-revision-analyst",
+  "version": "0.1.0",
+  "title": "Estimate Revision Analyst",
+  "summary": "Monitors sell-side estimate changes, target-reset patterns, and assumption revisions after major developments to show how the expectation set is moving.",
+  "classification": {
+    "industryId": "industry-6-financial-research",
+    "familyKey": "event-earnings-monitoring"
+  },
+  "discovery": {
+    "tags": [
+      "financial",
+      "research",
+      "estimate",
+      "revision",
+      "event",
+      "earnings",
+      "monitoring"
+    ],
+    "domains": [
+      "event",
+      "earnings"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "financial",
+      "research",
+      "estimate",
+      "revision"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "financial-research",
+      "earnings-monitoring"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-6-financial-research/agents/event-earnings-monitoring/financial-research-estimate-revision-analyst"
+  }
+}

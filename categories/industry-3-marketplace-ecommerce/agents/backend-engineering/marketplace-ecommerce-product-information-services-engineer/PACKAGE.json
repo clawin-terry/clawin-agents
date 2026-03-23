@@ -9,8 +9,7 @@
     "roleFamilyKey":  "backend-engineering",
     "recommendedModel":  "openai-codex/gpt-5.4",
     "bundledSkills":  [
-                          "coding-agent",
-                          "clawin-backend-service-engineering"
+                          "coding-agent"
                       ],
     "install":  {
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-product-information-services-engineer",

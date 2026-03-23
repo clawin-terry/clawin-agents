@@ -17,9 +17,7 @@ A shareable OpenClaw agent folder package for **Template and Asset Library Admin
 - `PACKAGE.json` — package metadata for GitHub/library use
 
 ## Bundled skills
-- coding-agent
-
-## Install
+- clawin-ops-planning-coordination## Install
 See `INSTALL.md`.
 
 ## Important note

@@ -17,10 +17,8 @@ A shareable OpenClaw agent folder package for **Usability Testing Specialist**.
 - `PACKAGE.json` — package metadata for GitHub/library use
 
 ## Bundled skills
-- coding-agent
-- ui-ux-pro-max
-
-## Install
+- clawin-research-analysis
+- ui-ux-pro-max## Install
 See `INSTALL.md`.
 
 ## Important note

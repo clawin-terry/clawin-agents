@@ -1,4 +1,4 @@
-# Content Services Engineer (Go)
+﻿# Content Services Engineer (Go)
 
 A shareable OpenClaw agent folder package for **Content Services Engineer (Go)**.
 
@@ -18,7 +18,6 @@ A shareable OpenClaw agent folder package for **Content Services Engineer (Go)**
 
 ## Bundled skills
 - coding-agent
-- clawin-backend-service-engineering
 
 ## Install
 See `INSTALL.md`.

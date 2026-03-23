@@ -1,4 +1,4 @@
-# iOS Engineer (Swift/Objective-C)
+﻿# iOS Engineer (Swift/Objective-C)
 
 A shareable OpenClaw agent folder package for **iOS Engineer (Swift/Objective-C)**.
 
@@ -18,7 +18,6 @@ A shareable OpenClaw agent folder package for **iOS Engineer (Swift/Objective-C)
 
 ## Bundled skills
 - coding-agent
-- clawin-mobile-engineering
 
 ## Install
 See `INSTALL.md`.

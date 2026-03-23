@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "financial-research-downside-stress-analyst",
+  "version": "0.1.0",
+  "title": "Downside Stress Analyst",
+  "summary": "Pressure-tests what a thesis looks like under revenue misses, margin compression, slower demand, and weaker financing conditions.",
+  "classification": {
+    "industryId": "industry-6-financial-research",
+    "familyKey": "scenario-stress-analysis"
+  },
+  "discovery": {
+    "tags": [
+      "financial",
+      "research",
+      "downside",
+      "stress",
+      "scenario",
+      "analysis"
+    ],
+    "domains": [
+      "scenario",
+      "stress"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "financial",
+      "research",
+      "downside",
+      "stress"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "financial-research",
+      "scenario-analysis"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-6-financial-research/agents/scenario-stress-analysis/financial-research-downside-stress-analyst"
+  }
+}

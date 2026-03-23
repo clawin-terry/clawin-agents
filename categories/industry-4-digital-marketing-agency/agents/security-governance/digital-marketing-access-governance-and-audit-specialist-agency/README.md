@@ -1,4 +1,4 @@
-# Access Governance and Audit Specialist (Agency)
+﻿# Access Governance and Audit Specialist (Agency)
 
 A shareable OpenClaw agent folder package for **Access Governance and Audit Specialist (Agency)**.
 
@@ -17,7 +17,6 @@ A shareable OpenClaw agent folder package for **Access Governance and Audit Spec
 - `PACKAGE.json` — package metadata for GitHub/library use
 
 ## Bundled skills
-- coding-agent
 - healthcheck
 
 ## Install

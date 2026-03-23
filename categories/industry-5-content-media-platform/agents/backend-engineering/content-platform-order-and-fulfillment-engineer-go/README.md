@@ -1,4 +1,4 @@
-# Order and Fulfillment Engineer (Go)
+﻿# Order and Fulfillment Engineer (Go)
 
 A shareable OpenClaw agent folder package for **Order and Fulfillment Engineer (Go)**.
 
@@ -18,7 +18,6 @@ A shareable OpenClaw agent folder package for **Order and Fulfillment Engineer (
 
 ## Bundled skills
 - coding-agent
-- clawin-backend-service-engineering
 
 ## Install
 See `INSTALL.md`.

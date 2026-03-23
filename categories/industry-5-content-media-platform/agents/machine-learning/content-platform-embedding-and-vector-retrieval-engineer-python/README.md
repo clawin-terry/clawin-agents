@@ -1,4 +1,4 @@
-# Embedding and Vector Retrieval Engineer (Python)
+﻿# Embedding and Vector Retrieval Engineer (Python)
 
 A shareable OpenClaw agent folder package for **Embedding and Vector Retrieval Engineer (Python)**.
 

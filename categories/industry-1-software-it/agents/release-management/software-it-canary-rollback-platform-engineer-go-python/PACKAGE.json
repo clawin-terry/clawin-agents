@@ -9,8 +9,7 @@
     "roleFamilyKey":  "release-management",
     "recommendedModel":  "openai-codex/gpt-5.4",
     "bundledSkills":  [
-                          "coding-agent",
-                          "healthcheck"
+                          "coding-agent"
                       ],
     "install":  {
                     "targetRoot":  "~/.openclaw/agents/software-it-canary-rollback-platform-engineer-go-python",

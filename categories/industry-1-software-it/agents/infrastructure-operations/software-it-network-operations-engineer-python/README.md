@@ -1,4 +1,4 @@
-# Network Operations Engineer (Python)
+﻿# Network Operations Engineer (Python)
 
 A shareable OpenClaw agent folder package for **Network Operations Engineer (Python)**.
 
@@ -18,7 +18,6 @@ A shareable OpenClaw agent folder package for **Network Operations Engineer (Pyt
 
 ## Bundled skills
 - coding-agent
-- healthcheck
 
 ## Install
 See `INSTALL.md`.

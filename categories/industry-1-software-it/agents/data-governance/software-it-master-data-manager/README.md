@@ -1,4 +1,4 @@
-# Master Data Manager
+﻿# Master Data Manager
 
 A shareable OpenClaw agent folder package for **Master Data Manager**.
 

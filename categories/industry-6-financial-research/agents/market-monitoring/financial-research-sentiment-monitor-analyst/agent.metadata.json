@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "financial-research-sentiment-monitor-analyst",
+  "version": "0.1.0",
+  "title": "Sentiment & Positioning Monitor Analyst",
+  "summary": "Tracks positioning extremes, narrative crowding, short-interest context, and sentiment swings that may change how price reactions should be interpreted.",
+  "classification": {
+    "industryId": "industry-6-financial-research",
+    "familyKey": "market-monitoring"
+  },
+  "discovery": {
+    "tags": [
+      "financial",
+      "research",
+      "sentiment",
+      "monitor",
+      "positioning",
+      "market",
+      "monitoring"
+    ],
+    "domains": [
+      "market",
+      "monitoring"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "financial",
+      "research",
+      "sentiment",
+      "monitor"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "financial-research",
+      "market-monitoring"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-6-financial-research/agents/market-monitoring/financial-research-sentiment-monitor-analyst"
+  }
+}

@@ -1,4 +1,4 @@
-# Tracking and Delivery Timeliness Services Engineer
+﻿# Tracking and Delivery Timeliness Services Engineer
 
 A shareable OpenClaw agent folder package for **Tracking and Delivery Timeliness Services Engineer**.
 
@@ -18,7 +18,6 @@ A shareable OpenClaw agent folder package for **Tracking and Delivery Timeliness
 
 ## Bundled skills
 - coding-agent
-- clawin-backend-service-engineering
 
 ## Install
 See `INSTALL.md`.

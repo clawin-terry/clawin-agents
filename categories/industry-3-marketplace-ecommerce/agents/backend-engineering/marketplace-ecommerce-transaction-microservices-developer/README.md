@@ -1,4 +1,4 @@
-# Transaction Microservices Developer
+﻿# Transaction Microservices Developer
 
 A shareable OpenClaw agent folder package for **Transaction Microservices Developer**.
 
@@ -18,7 +18,6 @@ A shareable OpenClaw agent folder package for **Transaction Microservices Develo
 
 ## Bundled skills
 - coding-agent
-- clawin-backend-service-engineering
 
 ## Install
 See `INSTALL.md`.

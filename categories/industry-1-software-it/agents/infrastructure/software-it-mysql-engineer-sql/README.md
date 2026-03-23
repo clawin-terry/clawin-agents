@@ -1,4 +1,4 @@
-# MySQL Engineer (SQL)
+﻿# MySQL Engineer (SQL)
 
 A shareable OpenClaw agent folder package for **MySQL Engineer (SQL)**.
 

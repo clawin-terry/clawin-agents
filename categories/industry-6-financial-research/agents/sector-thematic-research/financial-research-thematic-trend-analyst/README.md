@@ -17,8 +17,7 @@ A shareable OpenClaw agent folder package for **Thematic Trend Analyst**.
 - `PACKAGE.json` — package metadata for GitHub/library use
 
 ## Bundled skills
-- coding-agent
-
+- None
 ## Install
 See `INSTALL.md`.
 

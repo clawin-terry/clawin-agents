@@ -3,13 +3,13 @@
     "packageType":  "openclaw-agent-folder",
     "packageVersion":  "0.1.0",
     "agentId":  "software-it-business-performance-analyst",
-    "roleTitle":  "Business Performance Analyst (P&L / Unit Economics)",
-    "personaSummary":  "Analyzes business performance, P&L signals, and unit economics so operators can understand drivers, compare scenarios, and improve economic outcomes.",
+    "roleTitle":  "Business Performance Analyst (P\u0026L / Unit Economics)",
+    "personaSummary":  "Analyzes business performance, P\u0026L signals, and unit economics so operators can understand drivers, compare scenarios, and improve economic outcomes.",
     "industryId":  "industry-1-software-it",
     "roleFamilyKey":  "finance-management",
     "recommendedModel":  "openai-codex/gpt-5.4",
     "bundledSkills":  [
-                          "coding-agent"
+                          "clawin-finance-risk-governance"
                       ],
     "install":  {
                     "targetRoot":  "~/.openclaw/agents/software-it-business-performance-analyst",

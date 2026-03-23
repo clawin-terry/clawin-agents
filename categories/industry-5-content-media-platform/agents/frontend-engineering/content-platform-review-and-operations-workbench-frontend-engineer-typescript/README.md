@@ -19,7 +19,6 @@ A shareable OpenClaw agent folder package for **Review and Operations Workbench 
 ## Bundled skills
 - coding-agent
 - ui-ux-pro-max
-
 ## Install
 See `INSTALL.md`.
 

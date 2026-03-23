@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "financial-research-relative-value-analyst",
+  "version": "0.1.0",
+  "title": "Relative Value Analyst",
+  "summary": "Compares valuation spreads, implied expectations, and business-quality differences across peer sets to identify where market pricing appears comparatively stretched or discounted.",
+  "classification": {
+    "industryId": "industry-6-financial-research",
+    "familyKey": "screening-comparison"
+  },
+  "discovery": {
+    "tags": [
+      "financial",
+      "research",
+      "relative",
+      "value",
+      "screening",
+      "comparison"
+    ],
+    "domains": [
+      "screening",
+      "comparison"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "financial",
+      "research",
+      "relative",
+      "value"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "financial-research",
+      "screening-comparison"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-6-financial-research/agents/screening-comparison/financial-research-relative-value-analyst"
+  }
+}

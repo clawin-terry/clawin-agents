@@ -17,9 +17,7 @@ A shareable OpenClaw agent folder package for **Contract and Collections Coordin
 - `PACKAGE.json` — package metadata for GitHub/library use
 
 ## Bundled skills
-- coding-agent
-
-## Install
+- clawin-sales-marketing-growth## Install
 See `INSTALL.md`.
 
 ## Important note

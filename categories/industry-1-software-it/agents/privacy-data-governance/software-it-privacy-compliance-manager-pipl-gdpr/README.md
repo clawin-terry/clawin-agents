@@ -17,10 +17,7 @@ A shareable OpenClaw agent folder package for **Privacy Compliance Manager (PIPL
 - `PACKAGE.json` — package metadata for GitHub/library use
 
 ## Bundled skills
-- coding-agent
-- healthcheck
-
-## Install
+- clawin-finance-risk-governance## Install
 See `INSTALL.md`.
 
 ## Important note

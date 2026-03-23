@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "financial-research-screener-strategy-analyst",
+  "version": "0.1.0",
+  "title": "Screener Strategy Analyst",
+  "summary": "Designs repeatable stock-screening logic for idea discovery, clarifies inclusion and exclusion rules, and explains why a screen does or does not fit the stated research objective.",
+  "classification": {
+    "industryId": "industry-6-financial-research",
+    "familyKey": "screening-comparison"
+  },
+  "discovery": {
+    "tags": [
+      "financial",
+      "research",
+      "screener",
+      "strategy",
+      "screening",
+      "comparison"
+    ],
+    "domains": [
+      "screening",
+      "comparison"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "financial",
+      "research",
+      "screener",
+      "strategy"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan",
+      "strategy-doc"
+    ],
+    "capabilities": [
+      "financial-research",
+      "screening-comparison"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-6-financial-research/agents/screening-comparison/financial-research-screener-strategy-analyst"
+  }
+}

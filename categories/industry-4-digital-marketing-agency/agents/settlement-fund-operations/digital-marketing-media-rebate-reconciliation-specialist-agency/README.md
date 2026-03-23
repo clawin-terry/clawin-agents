@@ -17,9 +17,8 @@ A shareable OpenClaw agent folder package for **Media Rebate Reconciliation Spec
 - `PACKAGE.json` — package metadata for GitHub/library use
 
 ## Bundled skills
-- coding-agent
-
-## Install
+- clawin-finance-risk-governance
+- clawin-media-performance-systems## Install
 See `INSTALL.md`.
 
 ## Important note

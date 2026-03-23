@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "financial-research-catalyst-path-analyst",
+  "version": "0.1.0",
+  "title": "Catalyst Path Analyst",
+  "summary": "Maps plausible catalyst sequences and failure paths so teams can see which evidence checkpoints matter before a thesis can strengthen or break.",
+  "classification": {
+    "industryId": "industry-6-financial-research",
+    "familyKey": "scenario-stress-analysis"
+  },
+  "discovery": {
+    "tags": [
+      "financial",
+      "research",
+      "catalyst",
+      "path",
+      "scenario",
+      "stress",
+      "analysis"
+    ],
+    "domains": [
+      "scenario",
+      "stress"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "financial",
+      "research",
+      "catalyst",
+      "path"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "financial-research",
+      "stress-analysis"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-6-financial-research/agents/scenario-stress-analysis/financial-research-catalyst-path-analyst"
+  }
+}

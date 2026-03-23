@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "financial-research-evidence-gap-tracker",
+  "version": "0.1.0",
+  "title": "Evidence Gap Tracker",
+  "summary": "Maintains an explicit ledger of unresolved questions, weak evidence chains, stale sources, and high-impact unknowns across active coverage.",
+  "classification": {
+    "industryId": "industry-6-financial-research",
+    "familyKey": "research-ops-data-monitoring"
+  },
+  "discovery": {
+    "tags": [
+      "financial",
+      "research",
+      "evidence",
+      "gap",
+      "tracker",
+      "ops",
+      "data",
+      "monitoring"
+    ],
+    "domains": [
+      "research",
+      "ops"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "financial",
+      "research",
+      "evidence",
+      "gap"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "financial-research",
+      "data-monitoring"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-6-financial-research/agents/research-ops-data-monitoring/financial-research-evidence-gap-tracker"
+  }
+}

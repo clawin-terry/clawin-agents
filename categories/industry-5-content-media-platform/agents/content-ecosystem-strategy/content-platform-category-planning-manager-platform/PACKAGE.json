@@ -9,7 +9,7 @@
     "roleFamilyKey":  "content-ecosystem-strategy",
     "recommendedModel":  "openai-codex/gpt-5.4",
     "bundledSkills":  [
-                          "coding-agent"
+                          "clawin-content-communication"
                       ],
     "install":  {
                     "targetRoot":  "~/.openclaw/agents/content-platform-category-planning-manager-platform",

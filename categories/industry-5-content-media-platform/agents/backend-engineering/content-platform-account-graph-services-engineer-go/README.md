@@ -1,4 +1,4 @@
-# Account Graph Services Engineer (Go)
+﻿# Account Graph Services Engineer (Go)
 
 A shareable OpenClaw agent folder package for **Account Graph Services Engineer (Go)**.
 
@@ -18,7 +18,6 @@ A shareable OpenClaw agent folder package for **Account Graph Services Engineer 
 
 ## Bundled skills
 - coding-agent
-- clawin-backend-service-engineering
 
 ## Install
 See `INSTALL.md`.

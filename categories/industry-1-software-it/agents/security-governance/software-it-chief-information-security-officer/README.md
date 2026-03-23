@@ -1,4 +1,4 @@
-# Chief Information Security Officer (CISO)
+﻿# Chief Information Security Officer (CISO)
 
 A shareable OpenClaw agent folder package for **Chief Information Security Officer (CISO)**.
 
@@ -17,7 +17,6 @@ A shareable OpenClaw agent folder package for **Chief Information Security Offic
 - `PACKAGE.json` — package metadata for GitHub/library use
 
 ## Bundled skills
-- coding-agent
 - healthcheck
 
 ## Install

@@ -18,9 +18,7 @@ A shareable OpenClaw agent folder package for **Android Client Engineer (Kotlin)
 
 ## Bundled skills
 - coding-agent
-- clawin-mobile-engineering
 - clawin-native-client-engineering
-
 ## Install
 See `INSTALL.md`.
 

@@ -1,4 +1,4 @@
-# Performance and Cost Optimization Manager (FinOps)
+﻿# Performance and Cost Optimization Manager (FinOps)
 
 A shareable OpenClaw agent folder package for **Performance and Cost Optimization Manager (FinOps)**.
 

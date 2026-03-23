@@ -9,7 +9,7 @@
     "roleFamilyKey":  "short-video-content-operations",
     "recommendedModel":  "openai-codex/gpt-5.4",
     "bundledSkills":  [
-                          "coding-agent"
+                          "clawin-content-communication"
                       ],
     "install":  {
                     "targetRoot":  "~/.openclaw/agents/content-platform-topic-planning-manager-platform",

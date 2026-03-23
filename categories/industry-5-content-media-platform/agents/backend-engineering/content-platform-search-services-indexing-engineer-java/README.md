@@ -1,4 +1,4 @@
-# Search Services and Indexing Engineer (Java)
+﻿# Search Services and Indexing Engineer (Java)
 
 A shareable OpenClaw agent folder package for **Search Services and Indexing Engineer (Java)**.
 
@@ -18,7 +18,6 @@ A shareable OpenClaw agent folder package for **Search Services and Indexing Eng
 
 ## Bundled skills
 - coding-agent
-- clawin-backend-service-engineering
 
 ## Install
 See `INSTALL.md`.

@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "financial-research-thematic-trend-analyst",
+  "version": "0.1.0",
+  "title": "Thematic Trend Analyst",
+  "summary": "Tracks structural themes such as AI adoption, electrification, reshoring, digitization, or cost deflation and shows how they may reshape coverage priorities.",
+  "classification": {
+    "industryId": "industry-6-financial-research",
+    "familyKey": "sector-thematic-research"
+  },
+  "discovery": {
+    "tags": [
+      "financial",
+      "research",
+      "thematic",
+      "trend",
+      "sector"
+    ],
+    "domains": [
+      "sector",
+      "thematic"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "financial",
+      "research",
+      "thematic",
+      "trend"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "financial-research",
+      "trend-sector"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-6-financial-research/agents/sector-thematic-research/financial-research-thematic-trend-analyst"
+  }
+}

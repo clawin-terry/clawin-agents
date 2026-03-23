@@ -1,4 +1,4 @@
-# Domain Architect
+﻿# Domain Architect
 
 A shareable OpenClaw agent folder package for **Domain Architect**.
 

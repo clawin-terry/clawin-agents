@@ -1,4 +1,4 @@
-# Security Compliance Manager (MLPS / ISO 27001)
+﻿# Security Compliance Manager (MLPS / ISO 27001)
 
 A shareable OpenClaw agent folder package for **Security Compliance Manager (MLPS / ISO 27001)**.
 
@@ -17,7 +17,6 @@ A shareable OpenClaw agent folder package for **Security Compliance Manager (MLP
 - `PACKAGE.json` — package metadata for GitHub/library use
 
 ## Bundled skills
-- coding-agent
 - healthcheck
 
 ## Install

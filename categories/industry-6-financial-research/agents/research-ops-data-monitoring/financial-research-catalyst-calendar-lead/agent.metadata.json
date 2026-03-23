@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "financial-research-catalyst-calendar-lead",
+  "version": "0.1.0",
+  "title": "Catalyst Calendar Coordinator",
+  "summary": "Maintains a team-level catalyst calendar that consolidates company events, macro releases, industry checkpoints, and internal memo deadlines.",
+  "classification": {
+    "industryId": "industry-6-financial-research",
+    "familyKey": "research-ops-data-monitoring"
+  },
+  "discovery": {
+    "tags": [
+      "financial",
+      "research",
+      "catalyst",
+      "calendar",
+      "ops",
+      "data",
+      "monitoring"
+    ],
+    "domains": [
+      "research",
+      "ops"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "financial",
+      "research",
+      "catalyst",
+      "calendar"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "financial-research",
+      "data-monitoring"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-6-financial-research/agents/research-ops-data-monitoring/financial-research-catalyst-calendar-lead"
+  }
+}

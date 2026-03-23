@@ -17,9 +17,7 @@ A shareable OpenClaw agent folder package for **Trending Topics Operations Manag
 - `PACKAGE.json` — package metadata for GitHub/library use
 
 ## Bundled skills
-- coding-agent
-
-## Install
+- clawin-content-communication## Install
 See `INSTALL.md`.
 
 ## Important note

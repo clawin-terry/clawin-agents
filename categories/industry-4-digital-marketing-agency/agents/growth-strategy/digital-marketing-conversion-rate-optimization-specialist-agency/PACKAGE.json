@@ -9,7 +9,7 @@
     "roleFamilyKey":  "growth-strategy",
     "recommendedModel":  "openai-codex/gpt-5.4",
     "bundledSkills":  [
-                          "coding-agent"
+                          "clawin-sales-marketing-growth"
                       ],
     "install":  {
                     "targetRoot":  "~/.openclaw/agents/digital-marketing-conversion-rate-optimization-specialist-agency",

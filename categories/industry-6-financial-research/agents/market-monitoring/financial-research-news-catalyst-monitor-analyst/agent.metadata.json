@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "financial-research-news-catalyst-monitor-analyst",
+  "version": "0.1.0",
+  "title": "News Catalyst Monitor Analyst",
+  "summary": "Maintains an event-driven watch across company news, policy headlines, litigation developments, financing moves, and sentiment inflections relevant to covered names.",
+  "classification": {
+    "industryId": "industry-6-financial-research",
+    "familyKey": "market-monitoring"
+  },
+  "discovery": {
+    "tags": [
+      "financial",
+      "research",
+      "news",
+      "catalyst",
+      "monitor",
+      "market",
+      "monitoring"
+    ],
+    "domains": [
+      "market",
+      "monitoring"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "financial",
+      "research",
+      "news",
+      "catalyst"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "financial-research",
+      "market-monitoring"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-6-financial-research/agents/market-monitoring/financial-research-news-catalyst-monitor-analyst"
+  }
+}

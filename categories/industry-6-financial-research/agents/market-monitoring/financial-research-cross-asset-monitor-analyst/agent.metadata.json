@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "financial-research-cross-asset-monitor-analyst",
+  "version": "0.1.0",
+  "title": "Cross-Asset Signal Monitor Analyst",
+  "summary": "Tracks rates, credit spreads, commodities, FX, and volatility signals that may explain or challenge single-name equity moves and sector narratives.",
+  "classification": {
+    "industryId": "industry-6-financial-research",
+    "familyKey": "market-monitoring"
+  },
+  "discovery": {
+    "tags": [
+      "financial",
+      "research",
+      "cross",
+      "asset",
+      "monitor",
+      "signal",
+      "market",
+      "monitoring"
+    ],
+    "domains": [
+      "market",
+      "monitoring"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "financial",
+      "research",
+      "cross",
+      "asset"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "financial-research",
+      "market-monitoring"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-6-financial-research/agents/market-monitoring/financial-research-cross-asset-monitor-analyst"
+  }
+}

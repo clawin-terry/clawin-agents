@@ -1,4 +1,4 @@
-# Insights Researcher
+﻿# Insights Researcher
 
 A shareable OpenClaw agent folder package for **Insights Researcher**.
 

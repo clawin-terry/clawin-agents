@@ -1,4 +1,4 @@
-# Incident Response and Game Day Manager
+﻿# Incident Response and Game Day Manager
 
 A shareable OpenClaw agent folder package for **Incident Response and Game Day Manager**.
 

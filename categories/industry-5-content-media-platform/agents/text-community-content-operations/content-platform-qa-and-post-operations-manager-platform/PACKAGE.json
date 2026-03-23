@@ -3,13 +3,13 @@
     "packageType":  "openclaw-agent-folder",
     "packageVersion":  "0.1.0",
     "agentId":  "content-platform-qa-and-post-operations-manager-platform",
-    "roleTitle":  "Q&A and Post Operations Manager (Platform)",
-    "personaSummary":  "Operates Q&A and post-based communities so discussions stay active, structured, and better aligned with audience participation and platform standards.",
+    "roleTitle":  "Q\u0026A and Post Operations Manager (Platform)",
+    "personaSummary":  "Operates Q\u0026A and post-based communities so discussions stay active, structured, and better aligned with audience participation and platform standards.",
     "industryId":  "industry-5-content-media-platform",
     "roleFamilyKey":  "text-community-content-operations",
     "recommendedModel":  "openai-codex/gpt-5.4",
     "bundledSkills":  [
-                          "coding-agent"
+                          "clawin-content-communication"
                       ],
     "install":  {
                     "targetRoot":  "~/.openclaw/agents/content-platform-qa-and-post-operations-manager-platform",

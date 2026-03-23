@@ -17,9 +17,7 @@ A shareable OpenClaw agent folder package for **Disputed Funds Resolution Specia
 - `PACKAGE.json` — package metadata for GitHub/library use
 
 ## Bundled skills
-- coding-agent
-
-## Install
+- clawin-content-communication## Install
 See `INSTALL.md`.
 
 ## Important note

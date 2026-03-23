@@ -1,4 +1,4 @@
-# CMDB Engineer (Java/Python)
+﻿# CMDB Engineer (Java/Python)
 
 A shareable OpenClaw agent folder package for **CMDB Engineer (Java/Python)**.
 
@@ -18,7 +18,6 @@ A shareable OpenClaw agent folder package for **CMDB Engineer (Java/Python)**.
 
 ## Bundled skills
 - coding-agent
-- healthcheck
 
 ## Install
 See `INSTALL.md`.

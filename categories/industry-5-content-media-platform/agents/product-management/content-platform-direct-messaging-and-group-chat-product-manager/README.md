@@ -17,9 +17,7 @@ A shareable OpenClaw agent folder package for **Direct Messaging and Group Chat 
 - `PACKAGE.json` — package metadata for GitHub/library use
 
 ## Bundled skills
-- coding-agent
-
-## Install
+- clawin-research-analysis## Install
 See `INSTALL.md`.
 
 ## Important note

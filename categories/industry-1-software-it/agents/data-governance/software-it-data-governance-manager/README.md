@@ -1,4 +1,4 @@
-# Data Governance Manager
+﻿# Data Governance Manager
 
 A shareable OpenClaw agent folder package for **Data Governance Manager**.
 

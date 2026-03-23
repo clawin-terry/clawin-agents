@@ -1,4 +1,4 @@
-# Code Quality Platform Engineer (Java/Go)
+﻿# Code Quality Platform Engineer (Java/Go)
 
 A shareable OpenClaw agent folder package for **Code Quality Platform Engineer (Java/Go)**.
 

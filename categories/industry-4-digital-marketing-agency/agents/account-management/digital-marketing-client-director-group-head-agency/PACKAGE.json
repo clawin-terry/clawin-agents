@@ -9,7 +9,8 @@
     "roleFamilyKey":  "account-management",
     "recommendedModel":  "openai-codex/gpt-5.4",
     "bundledSkills":  [
-                          "coding-agent"
+                          "clawin-sales-marketing-growth",
+                          "clawin-native-client-engineering"
                       ],
     "install":  {
                     "targetRoot":  "~/.openclaw/agents/digital-marketing-client-director-group-head-agency",

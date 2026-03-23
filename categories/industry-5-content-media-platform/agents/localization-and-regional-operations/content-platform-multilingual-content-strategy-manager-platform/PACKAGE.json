@@ -9,7 +9,7 @@
     "roleFamilyKey":  "localization-and-regional-operations",
     "recommendedModel":  "openai-codex/gpt-5.4",
     "bundledSkills":  [
-                          "coding-agent"
+                          "clawin-ops-planning-coordination"
                       ],
     "install":  {
                     "targetRoot":  "~/.openclaw/agents/content-platform-multilingual-content-strategy-manager-platform",

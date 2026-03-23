@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "financial-research-data-quality-steward",
+  "version": "0.1.0",
+  "title": "Data Quality Steward",
+  "summary": "Checks research datasets for stale points, inconsistent definitions, broken links, unit mismatches, and unsupported assumptions before they enter downstream memos.",
+  "classification": {
+    "industryId": "industry-6-financial-research",
+    "familyKey": "research-ops-data-monitoring"
+  },
+  "discovery": {
+    "tags": [
+      "financial",
+      "research",
+      "data",
+      "quality",
+      "steward",
+      "ops",
+      "monitoring"
+    ],
+    "domains": [
+      "research",
+      "ops"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "financial",
+      "research",
+      "data",
+      "quality"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "financial-research",
+      "ops-monitoring"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "data-analysis"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-6-financial-research/agents/research-ops-data-monitoring/financial-research-data-quality-steward"
+  }
+}

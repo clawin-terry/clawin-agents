@@ -9,7 +9,7 @@
     "roleFamilyKey":  "training",
     "recommendedModel":  "openai-codex/gpt-5.4",
     "bundledSkills":  [
-                          "coding-agent"
+                          "clawin-people-admin-enablement"
                       ],
     "install":  {
                     "targetRoot":  "~/.openclaw/agents/software-it-certification-exam-operations-manager",

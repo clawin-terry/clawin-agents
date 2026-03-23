@@ -9,8 +9,7 @@
     "roleFamilyKey":  "backend-engineering",
     "recommendedModel":  "mycodex/gpt-5.4",
     "bundledSkills":  [
-                          "coding-agent",
-                          "clawin-backend-service-engineering"
+                          "coding-agent"
                       ],
     "install":  {
                     "targetRoot":  "~/.openclaw/agents/content-platform-order-and-fulfillment-engineer-go",

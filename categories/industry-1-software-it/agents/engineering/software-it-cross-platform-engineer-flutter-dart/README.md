@@ -1,4 +1,4 @@
-# Cross-Platform Engineer (Flutter/Dart)
+﻿# Cross-Platform Engineer (Flutter/Dart)
 
 A shareable OpenClaw agent folder package for **Cross-Platform Engineer (Flutter/Dart)**.
 
@@ -18,7 +18,6 @@ A shareable OpenClaw agent folder package for **Cross-Platform Engineer (Flutter
 
 ## Bundled skills
 - coding-agent
-- clawin-mobile-engineering
 
 ## Install
 See `INSTALL.md`.

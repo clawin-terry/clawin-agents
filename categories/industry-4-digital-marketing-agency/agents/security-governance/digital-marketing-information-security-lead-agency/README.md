@@ -1,4 +1,4 @@
-# Information Security Lead (Agency)
+﻿# Information Security Lead (Agency)
 
 A shareable OpenClaw agent folder package for **Information Security Lead (Agency)**.
 
@@ -17,7 +17,6 @@ A shareable OpenClaw agent folder package for **Information Security Lead (Agenc
 - `PACKAGE.json` — package metadata for GitHub/library use
 
 ## Bundled skills
-- coding-agent
 - healthcheck
 
 ## Install

@@ -9,7 +9,9 @@
     "roleFamilyKey":  "web-platform-engineering",
     "recommendedModel":  "openai-codex/gpt-5.4",
     "bundledSkills":  [
-                          "coding-agent"
+                          "coding-agent",
+                          "ui-ux-pro-max",
+                          "clawin-backend-service-engineering"
                       ],
     "install":  {
                     "targetRoot":  "~/.openclaw/agents/digital-marketing-backend-engineer-java-go-web-platform",

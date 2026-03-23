@@ -9,7 +9,7 @@
     "roleFamilyKey":  "crm-private-domain-operations",
     "recommendedModel":  "openai-codex/gpt-5.4",
     "bundledSkills":  [
-                          "coding-agent"
+                          "clawin-sales-marketing-growth"
                       ],
     "install":  {
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-lifecycle-operations-manager",

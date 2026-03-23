@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "financial-research-competitive-landscape-analyst",
+  "version": "0.1.0",
+  "title": "Competitive Landscape Analyst",
+  "summary": "Maps competitor positioning, strategic moves, pricing behavior, product differentiation, and share-shift drivers within a target market.",
+  "classification": {
+    "industryId": "industry-6-financial-research",
+    "familyKey": "sector-thematic-research"
+  },
+  "discovery": {
+    "tags": [
+      "financial",
+      "research",
+      "competitive",
+      "landscape",
+      "sector",
+      "thematic"
+    ],
+    "domains": [
+      "sector",
+      "thematic"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "financial",
+      "research",
+      "competitive",
+      "landscape"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "financial-research",
+      "sector-thematic"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-6-financial-research/agents/sector-thematic-research/financial-research-competitive-landscape-analyst"
+  }
+}

@@ -1,4 +1,4 @@
-# Billing and Settlement Engineer (Java)
+﻿# Billing and Settlement Engineer (Java)
 
 A shareable OpenClaw agent folder package for **Billing and Settlement Engineer (Java)**.
 
@@ -18,7 +18,6 @@ A shareable OpenClaw agent folder package for **Billing and Settlement Engineer 
 
 ## Bundled skills
 - coding-agent
-- clawin-backend-service-engineering
 
 ## Install
 See `INSTALL.md`.

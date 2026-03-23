@@ -9,7 +9,7 @@
     "roleFamilyKey":  "talent-acquisition",
     "recommendedModel":  "openai-codex/gpt-5.4",
     "bundledSkills":  [
-                          "coding-agent"
+                          "clawin-people-admin-enablement"
                       ],
     "install":  {
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-recruiting-manager-marketplace",

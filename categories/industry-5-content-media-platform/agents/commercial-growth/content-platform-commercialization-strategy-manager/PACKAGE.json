@@ -9,7 +9,7 @@
     "roleFamilyKey":  "commercial-growth",
     "recommendedModel":  "mycodex/gpt-5.4",
     "bundledSkills":  [
-                          "coding-agent"
+                          "clawin-sales-marketing-growth"
                       ],
     "install":  {
                     "targetRoot":  "~/.openclaw/agents/content-platform-commercialization-strategy-manager",

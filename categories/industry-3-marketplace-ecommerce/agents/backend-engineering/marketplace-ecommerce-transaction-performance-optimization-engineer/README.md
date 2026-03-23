@@ -1,4 +1,4 @@
-# Transaction Performance Optimization Engineer
+﻿# Transaction Performance Optimization Engineer
 
 A shareable OpenClaw agent folder package for **Transaction Performance Optimization Engineer**.
 
@@ -18,7 +18,6 @@ A shareable OpenClaw agent folder package for **Transaction Performance Optimiza
 
 ## Bundled skills
 - coding-agent
-- clawin-backend-service-engineering
 
 ## Install
 See `INSTALL.md`.

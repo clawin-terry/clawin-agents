@@ -1,4 +1,4 @@
-# Warehouse and Fulfillment Systems Engineer
+﻿# Warehouse and Fulfillment Systems Engineer
 
 A shareable OpenClaw agent folder package for **Warehouse and Fulfillment Systems Engineer**.
 
@@ -18,7 +18,6 @@ A shareable OpenClaw agent folder package for **Warehouse and Fulfillment System
 
 ## Bundled skills
 - coding-agent
-- clawin-backend-service-engineering
 
 ## Install
 See `INSTALL.md`.

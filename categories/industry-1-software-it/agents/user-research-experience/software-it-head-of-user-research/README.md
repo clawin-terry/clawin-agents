@@ -17,10 +17,7 @@ A shareable OpenClaw agent folder package for **Head of User Research**.
 - `PACKAGE.json` — package metadata for GitHub/library use
 
 ## Bundled skills
-- coding-agent
-- ui-ux-pro-max
-
-## Install
+- clawin-research-analysis## Install
 See `INSTALL.md`.
 
 ## Important note

@@ -19,9 +19,6 @@ A shareable OpenClaw agent folder package for **Mobile Performance Optimization 
 ## Bundled skills
 - coding-agent
 - clawin-mobile-engineering
-- ui-ux-pro-max
-- clawin-native-client-engineering
-
 ## Install
 See `INSTALL.md`.
 

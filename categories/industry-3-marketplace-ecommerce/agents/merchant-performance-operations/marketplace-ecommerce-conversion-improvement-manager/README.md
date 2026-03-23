@@ -17,9 +17,7 @@ A shareable OpenClaw agent folder package for **Conversion Improvement Manager**
 - `PACKAGE.json` — package metadata for GitHub/library use
 
 ## Bundled skills
-- coding-agent
-
-## Install
+- clawin-ops-planning-coordination## Install
 See `INSTALL.md`.
 
 ## Important note

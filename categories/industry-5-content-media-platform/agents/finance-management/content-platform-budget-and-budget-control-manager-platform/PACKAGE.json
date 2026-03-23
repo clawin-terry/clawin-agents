@@ -9,7 +9,7 @@
     "roleFamilyKey":  "finance-management",
     "recommendedModel":  "mycodex/gpt-5.4",
     "bundledSkills":  [
-                          "coding-agent"
+                          "clawin-finance-risk-governance"
                       ],
     "install":  {
                     "targetRoot":  "~/.openclaw/agents/content-platform-budget-and-budget-control-manager-platform",

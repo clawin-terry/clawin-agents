@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "financial-research-channel-check-planner",
+  "version": "0.1.0",
+  "title": "Channel Check Planner",
+  "summary": "Designs disciplined channel-check plans by identifying what to ask, whom to ask, and what bias controls are needed before anecdotal evidence is used.",
+  "classification": {
+    "industryId": "industry-6-financial-research",
+    "familyKey": "sector-thematic-research"
+  },
+  "discovery": {
+    "tags": [
+      "financial",
+      "research",
+      "channel",
+      "check",
+      "planner",
+      "sector",
+      "thematic"
+    ],
+    "domains": [
+      "sector",
+      "thematic"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "financial",
+      "research",
+      "channel",
+      "check"
+    ],
+    "deliverables": [
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "financial-research",
+      "sector-thematic"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-6-financial-research/agents/sector-thematic-research/financial-research-channel-check-planner"
+  }
+}

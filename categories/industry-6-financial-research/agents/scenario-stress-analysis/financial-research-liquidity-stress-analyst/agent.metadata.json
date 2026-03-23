@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "1.0",
+  "id": "financial-research-liquidity-stress-analyst",
+  "version": "0.1.0",
+  "title": "Liquidity & Balance Sheet Stress Analyst",
+  "summary": "Evaluates refinancing needs, covenant headroom, liquidity runway, and balance-sheet flexibility under adverse operating and market conditions.",
+  "classification": {
+    "industryId": "industry-6-financial-research",
+    "familyKey": "scenario-stress-analysis"
+  },
+  "discovery": {
+    "tags": [
+      "financial",
+      "research",
+      "liquidity",
+      "stress",
+      "balance",
+      "sheet",
+      "scenario",
+      "analysis"
+    ],
+    "domains": [
+      "scenario",
+      "stress"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning"
+    ],
+    "stacks": [
+      "financial",
+      "research",
+      "liquidity",
+      "stress"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "financial-research",
+      "scenario-analysis"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding",
+      "design"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-6-financial-research/agents/scenario-stress-analysis/financial-research-liquidity-stress-analyst"
+  }
+}

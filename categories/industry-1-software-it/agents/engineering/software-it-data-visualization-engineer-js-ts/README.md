@@ -19,7 +19,6 @@ A shareable OpenClaw agent folder package for **Data Visualization Engineer (JS/
 ## Bundled skills
 - coding-agent
 - ui-ux-pro-max
-
 ## Install
 See `INSTALL.md`.
 

@@ -1,4 +1,4 @@
-# Software Asset Management Specialist (Agency)
+﻿# Software Asset Management Specialist (Agency)
 
 A shareable OpenClaw agent folder package for **Software Asset Management Specialist (Agency)**.
 

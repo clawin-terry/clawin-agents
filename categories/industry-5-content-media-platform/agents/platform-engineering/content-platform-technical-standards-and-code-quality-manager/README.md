@@ -1,4 +1,4 @@
-# Technical Standards and Code Quality Manager
+﻿# Technical Standards and Code Quality Manager
 
 A shareable OpenClaw agent folder package for **Technical Standards and Code Quality Manager**.
 

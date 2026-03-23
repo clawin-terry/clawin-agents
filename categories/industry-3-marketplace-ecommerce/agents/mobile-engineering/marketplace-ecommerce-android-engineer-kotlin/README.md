@@ -1,4 +1,4 @@
-# Android Engineer (Kotlin)
+﻿# Android Engineer (Kotlin)
 
 A shareable OpenClaw agent folder package for **Android Engineer (Kotlin)**.
 
@@ -18,7 +18,6 @@ A shareable OpenClaw agent folder package for **Android Engineer (Kotlin)**.
 
 ## Bundled skills
 - coding-agent
-- clawin-mobile-engineering
 
 ## Install
 See `INSTALL.md`.

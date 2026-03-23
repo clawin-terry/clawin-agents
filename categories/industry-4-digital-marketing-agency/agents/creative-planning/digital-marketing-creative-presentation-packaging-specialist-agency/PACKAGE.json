@@ -9,7 +9,7 @@
     "roleFamilyKey":  "creative-planning",
     "recommendedModel":  "openai-codex/gpt-5.4",
     "bundledSkills":  [
-                          "coding-agent"
+                          "clawin-content-communication"
                       ],
     "install":  {
                     "targetRoot":  "~/.openclaw/agents/digital-marketing-creative-presentation-packaging-specialist-agency",

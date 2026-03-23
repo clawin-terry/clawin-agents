@@ -9,7 +9,7 @@
     "roleFamilyKey":  "learning-development",
     "recommendedModel":  "mycodex/gpt-5.4",
     "bundledSkills":  [
-                          "coding-agent"
+                          "clawin-people-admin-enablement"
                       ],
     "install":  {
                     "targetRoot":  "~/.openclaw/agents/content-platform-training-manager-platform",

@@ -9,7 +9,7 @@
     "roleFamilyKey":  "product-management",
     "recommendedModel":  "mycodex/gpt-5.4",
     "bundledSkills":  [
-                          "coding-agent"
+                          "clawin-research-analysis"
                       ],
     "install":  {
                     "targetRoot":  "~/.openclaw/agents/content-platform-membership-subscription-product-manager",

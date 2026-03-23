@@ -9,7 +9,7 @@
     "roleFamilyKey":  "process-internal-control",
     "recommendedModel":  "openai-codex/gpt-5.4",
     "bundledSkills":  [
-                          "coding-agent"
+                          "clawin-finance-risk-governance"
                       ],
     "install":  {
                     "targetRoot":  "~/.openclaw/agents/software-it-compliance-process-specialist",

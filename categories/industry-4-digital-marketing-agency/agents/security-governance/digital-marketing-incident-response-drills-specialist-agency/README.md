@@ -1,4 +1,4 @@
-# Incident Response Drills Specialist (Agency)
+﻿# Incident Response Drills Specialist (Agency)
 
 A shareable OpenClaw agent folder package for **Incident Response Drills Specialist (Agency)**.
 
@@ -17,7 +17,6 @@ A shareable OpenClaw agent folder package for **Incident Response Drills Special
 - `PACKAGE.json` — package metadata for GitHub/library use
 
 ## Bundled skills
-- coding-agent
 - healthcheck
 
 ## Install

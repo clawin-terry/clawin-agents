@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "financial-research-earnings-preview-analyst",
+  "version": "0.1.0",
+  "title": "Earnings Preview Analyst",
+  "summary": "Prepares earnings preview briefs with setup, key questions, consensus framing, scenario sensitivities, and what evidence would confirm or weaken the current thesis.",
+  "classification": {
+    "industryId": "industry-6-financial-research",
+    "familyKey": "event-earnings-monitoring"
+  },
+  "discovery": {
+    "tags": [
+      "financial",
+      "research",
+      "earnings",
+      "preview",
+      "event",
+      "monitoring"
+    ],
+    "domains": [
+      "event",
+      "earnings"
+    ],
+    "taskTypes": [
+      "analysis",
+      "planning",
+      "review"
+    ],
+    "stacks": [
+      "financial",
+      "research",
+      "earnings",
+      "preview"
+    ],
+    "deliverables": [
+      "audit-report",
+      "checklist",
+      "implementation-plan"
+    ],
+    "capabilities": [
+      "financial-research",
+      "event-monitoring"
+    ]
+  },
+  "runtime": {
+    "tools": [
+      "docs",
+      "shell",
+      "coding"
+    ],
+    "bundledSkills": [
+      "coding-agent"
+    ],
+    "recommendedModel": "openai-codex/gpt-5.4",
+    "requiresSecrets": false,
+    "setupCost": "low",
+    "readyAfterInstall": true
+  },
+  "install": {
+    "format": "zip",
+    "packagePath": "../../../categories/industry-6-financial-research/agents/event-earnings-monitoring/financial-research-earnings-preview-analyst"
+  }
+}

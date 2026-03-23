@@ -1,4 +1,4 @@
-# workspace skills
+﻿# workspace skills
 
 These bundled skills are loaded from `workspace/skills/` for this agent:
 - coding-agent

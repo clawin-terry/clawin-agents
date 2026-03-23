@@ -1,4 +1,4 @@
-# Head of Business Intelligence
+﻿# Head of Business Intelligence
 
 A shareable OpenClaw agent folder package for **Head of Business Intelligence**.
 

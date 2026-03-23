@@ -9,9 +9,7 @@
     "roleFamilyKey":  "mobile-engineering",
     "recommendedModel":  "openai-codex/gpt-5.4",
     "bundledSkills":  [
-                          "coding-agent",
-                          "clawin-mobile-engineering",
-                          "clawin-native-client-engineering"
+                          "coding-agent"
                       ],
     "install":  {
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-cross-platform-engineer-js-ts",

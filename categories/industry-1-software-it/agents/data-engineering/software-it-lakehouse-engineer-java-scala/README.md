@@ -1,4 +1,4 @@
-# Lakehouse Engineer (Java/Scala)
+﻿# Lakehouse Engineer (Java/Scala)
 
 A shareable OpenClaw agent folder package for **Lakehouse Engineer (Java/Scala)**.
 

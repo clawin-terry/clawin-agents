@@ -18,9 +18,7 @@ A shareable OpenClaw agent folder package for **iOS Client Engineer (Swift)**.
 
 ## Bundled skills
 - coding-agent
-- clawin-mobile-engineering
 - clawin-native-client-engineering
-
 ## Install
 See `INSTALL.md`.
 

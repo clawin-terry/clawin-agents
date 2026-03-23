@@ -1,4 +1,4 @@
-# Growth Tools Engineer (TypeScript)
+﻿# Growth Tools Engineer (TypeScript)
 
 A shareable OpenClaw agent folder package for **Growth Tools Engineer (TypeScript)**.
 
@@ -18,7 +18,6 @@ A shareable OpenClaw agent folder package for **Growth Tools Engineer (TypeScrip
 
 ## Bundled skills
 - coding-agent
-- ui-ux-pro-max
 
 ## Install
 See `INSTALL.md`.

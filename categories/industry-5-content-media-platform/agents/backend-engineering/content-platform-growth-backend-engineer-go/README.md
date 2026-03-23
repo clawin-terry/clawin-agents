@@ -19,7 +19,6 @@ A shareable OpenClaw agent folder package for **Growth Backend Engineer (Go)**.
 ## Bundled skills
 - coding-agent
 - clawin-backend-service-engineering
-
 ## Install
 See `INSTALL.md`.
 

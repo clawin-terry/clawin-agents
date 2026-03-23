@@ -9,7 +9,7 @@
     "roleFamilyKey":  "pre-sales",
     "recommendedModel":  "openai-codex/gpt-5.4",
     "bundledSkills":  [
-                          "coding-agent"
+                          "clawin-sales-marketing-growth"
                       ],
     "install":  {
                     "targetRoot":  "~/.openclaw/agents/software-it-pre-sales-director",

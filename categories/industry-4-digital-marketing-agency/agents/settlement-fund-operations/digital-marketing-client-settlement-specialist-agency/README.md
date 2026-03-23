@@ -17,9 +17,8 @@ A shareable OpenClaw agent folder package for **Client Settlement Specialist**.
 - `PACKAGE.json` — package metadata for GitHub/library use
 
 ## Bundled skills
-- coding-agent
-
-## Install
+- clawin-finance-risk-governance
+- clawin-native-client-engineering## Install
 See `INSTALL.md`.
 
 ## Important note

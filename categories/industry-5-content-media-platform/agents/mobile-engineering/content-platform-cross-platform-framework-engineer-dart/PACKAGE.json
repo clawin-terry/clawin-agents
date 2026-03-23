@@ -9,8 +9,7 @@
     "roleFamilyKey":  "mobile-engineering",
     "recommendedModel":  "mycodex/gpt-5.4",
     "bundledSkills":  [
-                          "coding-agent",
-                          "clawin-mobile-engineering"
+                          "coding-agent"
                       ],
     "install":  {
                     "targetRoot":  "~/.openclaw/agents/content-platform-cross-platform-framework-engineer-dart",

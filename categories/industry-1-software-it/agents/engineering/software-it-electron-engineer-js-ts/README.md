@@ -18,9 +18,7 @@ A shareable OpenClaw agent folder package for **Electron Engineer (JS/TS)**.
 
 ## Bundled skills
 - coding-agent
-- clawin-native-client-engineering
 - ui-ux-pro-max
-
 ## Install
 See `INSTALL.md`.
 

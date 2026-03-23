@@ -17,10 +17,7 @@ A shareable OpenClaw agent folder package for **Public Relations Manager (Agency
 - `PACKAGE.json` — package metadata for GitHub/library use
 
 ## Bundled skills
-- coding-agent
-- clawin-media-performance-systems
-
-## Install
+- clawin-sales-marketing-growth## Install
 See `INSTALL.md`.
 
 ## Important note

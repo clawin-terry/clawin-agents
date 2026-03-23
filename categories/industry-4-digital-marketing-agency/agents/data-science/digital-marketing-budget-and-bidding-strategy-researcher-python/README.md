@@ -1,4 +1,4 @@
-# Budget and Bidding Strategy Researcher (Python)
+﻿# Budget and Bidding Strategy Researcher (Python)
 
 A shareable OpenClaw agent folder package for **Budget and Bidding Strategy Researcher (Python)**.
 

@@ -9,7 +9,7 @@
     "roleFamilyKey":  "creator-incentives-rights",
     "recommendedModel":  "openai-codex/gpt-5.4",
     "bundledSkills":  [
-                          "coding-agent"
+                          "clawin-content-communication"
                       ],
     "install":  {
                     "targetRoot":  "~/.openclaw/agents/content-platform-traffic-benefits-design-manager-platform",

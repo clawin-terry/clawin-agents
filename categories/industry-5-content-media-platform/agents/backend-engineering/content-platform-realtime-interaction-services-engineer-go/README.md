@@ -1,4 +1,4 @@
-# Real-Time Interaction Services Engineer (Go)
+﻿# Real-Time Interaction Services Engineer (Go)
 
 A shareable OpenClaw agent folder package for **Real-Time Interaction Services Engineer (Go)**.
 
@@ -18,7 +18,6 @@ A shareable OpenClaw agent folder package for **Real-Time Interaction Services E
 
 ## Bundled skills
 - coding-agent
-- clawin-backend-service-engineering
 
 ## Install
 See `INSTALL.md`.

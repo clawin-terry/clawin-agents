@@ -1,4 +1,4 @@
-# Data Architect
+﻿# Data Architect
 
 A shareable OpenClaw agent folder package for **Data Architect**.
 

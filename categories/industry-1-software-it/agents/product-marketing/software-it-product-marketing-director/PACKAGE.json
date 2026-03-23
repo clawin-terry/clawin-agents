@@ -9,7 +9,7 @@
     "roleFamilyKey":  "product-marketing",
     "recommendedModel":  "openai-codex/gpt-5.4",
     "bundledSkills":  [
-                          "coding-agent"
+                          "clawin-sales-marketing-growth"
                       ],
     "install":  {
                     "targetRoot":  "~/.openclaw/agents/software-it-product-marketing-director",

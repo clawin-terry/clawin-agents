@@ -1,4 +1,4 @@
-# Platform Architect
+﻿# Platform Architect
 
 A shareable OpenClaw agent folder package for **Platform Architect**.
 

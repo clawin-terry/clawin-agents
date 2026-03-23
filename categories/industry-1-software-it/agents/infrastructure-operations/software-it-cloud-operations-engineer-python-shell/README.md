@@ -1,4 +1,4 @@
-# Cloud Operations Engineer (Python/Shell)
+﻿# Cloud Operations Engineer (Python/Shell)
 
 A shareable OpenClaw agent folder package for **Cloud Operations Engineer (Python/Shell)**.
 
@@ -18,7 +18,6 @@ A shareable OpenClaw agent folder package for **Cloud Operations Engineer (Pytho
 
 ## Bundled skills
 - coding-agent
-- healthcheck
 
 ## Install
 See `INSTALL.md`.

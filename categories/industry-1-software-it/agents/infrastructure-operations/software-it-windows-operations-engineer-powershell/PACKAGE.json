@@ -9,8 +9,7 @@
     "roleFamilyKey":  "infrastructure-operations",
     "recommendedModel":  "openai-codex/gpt-5.4",
     "bundledSkills":  [
-                          "coding-agent",
-                          "healthcheck"
+                          "coding-agent"
                       ],
     "install":  {
                     "targetRoot":  "~/.openclaw/agents/software-it-windows-operations-engineer-powershell",

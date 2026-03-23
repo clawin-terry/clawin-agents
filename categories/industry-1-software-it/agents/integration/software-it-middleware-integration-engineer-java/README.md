@@ -19,7 +19,6 @@ A shareable OpenClaw agent folder package for **Middleware Integration Engineer 
 ## Bundled skills
 - coding-agent
 - clawin-middleware-distributed-systems
-
 ## Install
 See `INSTALL.md`.
 

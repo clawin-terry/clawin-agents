@@ -9,8 +9,7 @@
     "roleFamilyKey":  "market-growth",
     "recommendedModel":  "openai-codex/gpt-5.4",
     "bundledSkills":  [
-                          "coding-agent",
-                          "clawin-media-performance-systems"
+                          "clawin-sales-marketing-growth"
                       ],
     "install":  {
                     "targetRoot":  "~/.openclaw/agents/digital-marketing-public-relations-manager-agency",

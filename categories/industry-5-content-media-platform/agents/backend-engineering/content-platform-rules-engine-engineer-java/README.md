@@ -1,4 +1,4 @@
-# Rules Engine Engineer (Java)
+﻿# Rules Engine Engineer (Java)
 
 A shareable OpenClaw agent folder package for **Rules Engine Engineer (Java)**.
 
@@ -18,7 +18,6 @@ A shareable OpenClaw agent folder package for **Rules Engine Engineer (Java)**.
 
 ## Bundled skills
 - coding-agent
-- clawin-backend-service-engineering
 
 ## Install
 See `INSTALL.md`.

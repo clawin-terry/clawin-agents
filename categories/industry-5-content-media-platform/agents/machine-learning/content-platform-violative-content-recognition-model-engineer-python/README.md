@@ -1,4 +1,4 @@
-# Violative Content Recognition Model Engineer (Python)
+﻿# Violative Content Recognition Model Engineer (Python)
 
 A shareable OpenClaw agent folder package for **Violative Content Recognition Model Engineer (Python)**.
 

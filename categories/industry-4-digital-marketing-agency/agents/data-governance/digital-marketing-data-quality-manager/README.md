@@ -1,4 +1,4 @@
-# Data Quality Manager
+﻿# Data Quality Manager
 
 A shareable OpenClaw agent folder package for **Data Quality Manager**.
 

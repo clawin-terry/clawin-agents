@@ -1,4 +1,4 @@
-# Cross-Platform Framework Engineer (Dart)
+﻿# Cross-Platform Framework Engineer (Dart)
 
 A shareable OpenClaw agent folder package for **Cross-Platform Framework Engineer (Dart)**.
 
@@ -18,7 +18,6 @@ A shareable OpenClaw agent folder package for **Cross-Platform Framework Enginee
 
 ## Bundled skills
 - coding-agent
-- clawin-mobile-engineering
 
 ## Install
 See `INSTALL.md`.

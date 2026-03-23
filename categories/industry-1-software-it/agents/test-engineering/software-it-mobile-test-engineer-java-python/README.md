@@ -18,7 +18,7 @@ A shareable OpenClaw agent folder package for **Mobile Test Engineer (Java/Pytho
 
 ## Bundled skills
 - coding-agent
-
+- clawin-mobile-engineering
 ## Install
 See `INSTALL.md`.
 
