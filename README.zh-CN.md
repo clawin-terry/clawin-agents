@@ -28,6 +28,10 @@
 </p>
 
 <p align="center">
+  <strong>新路径：</strong> 如果你还不知道该装哪个 agent，现在可以先通过聊天让 Clawin 帮你匹配，再进入安装。
+</p>
+
+<p align="center">
   <a href="https://agents.clawin.club/catalog"><img src="https://img.shields.io/badge/浏览目录-打开-2563eb?style=for-the-badge" alt="浏览目录"></a>
   <a href="./INSTALL.md"><img src="https://img.shields.io/badge/安装指南-开始-4f46e5?style=for-the-badge" alt="安装指南"></a>
   <a href="https://agents.clawin.club/"><img src="https://img.shields.io/badge/官网-访问-0f766e?style=for-the-badge" alt="官网"></a>
@@ -52,6 +56,7 @@
 
 > **一句话总结**
 > - 按行业、角色族和工作流发现 OpenClaw agents
+> - 如果你不知道该装谁，可以先通过聊天让 Clawin 帮你选
 > - 安装前先检查 package 里到底包含什么
 > - 不从 raw prompt 或空白 workspace 起步，而从结构化 package 起步
 > - 通过官网 + GitHub catalog + CLI 构成完整的 discover-to-install 流程
@@ -64,6 +69,7 @@
 - [👥 Clawin 适合谁](#-clawin-适合谁)
 - [⭐ 为什么这个仓库值得 Star](#-为什么这个仓库值得-star)
 - [🚀 从哪里开始](#-从哪里开始)
+- [💬 先通过聊天开始](#-先通过聊天开始)
 - [🧭 核心亮点](#-核心亮点)
 - [💡 你可以用 Clawin 做什么](#-你可以用-clawin-做什么)
 - [⚡ 快速开始](#-快速开始)
@@ -140,6 +146,34 @@ Clawin **不是**通用的零配置 AI App。它面向的是希望安装 OpenCla
 
 ---
 
+## 💬 先通过聊天开始
+
+如果你**还不知道准确的 agent ID**，现在最好的起步方式已经变成了：**先用聊天发现，再进入安装**。
+
+### 为什么这条路更值得先用
+不用让用户先在大目录里自己猜。Clawin 现在可以先帮你缩小候选范围，再进入安装。
+
+### 起步方法
+1. 先安装匹配 skill
+   - `clawhub install clawin-agent-match-install`
+2. 确保本地已有 public CLI
+   - `npm install -g agents.clawin`
+   - `clawin init`
+3. 刷新当前 public catalog
+   - `clawin catalog refresh --catalog https://agents.clawin.club/releases/2026-03-18-p6-full-catalog-1395-agent/catalogs/published/catalog.json`
+4. 在聊天里描述你的需求
+   - `帮我找一个适合前端性能优化的 Clawin agent`
+   - `我需要一个适合金融研究公司分析的 Clawin agent`
+   - `给我推荐一个适合增长和归因分析的 Clawin agent`
+5. 确认推荐结果，再安装对应 package
+
+### 最适合谁
+- 第一次使用、还不知道从哪开始的人
+- 想先比较多个 agent 再决定的人
+- 希望第一次安装体验更顺滑的团队
+
+---
+
 ## 🧭 核心亮点
 
 | 亮点 | 为什么重要 |
@@ -184,14 +218,27 @@ Clawin **不是**通用的零配置 AI App。它面向的是希望安装 OpenCla
 
 ## ⚡ 快速开始
 
-Clawin 的核心流程是 **browse -> inspect -> install**。
+Clawin 现在有两种更实用的起步方式：
+
+### 方式 A — 先通过聊天发现
+
+```bash
+clawhub install clawin-agent-match-install
+npm install -g agents.clawin
+clawin init
+clawin catalog refresh --catalog https://agents.clawin.club/releases/2026-03-18-p6-full-catalog-1395-agent/catalogs/published/catalog.json
+```
+
+然后在聊天里直接描述你想要的 agent，让 Clawin 先帮你推荐，再确认安装。
+
+### 方式 B — 已知 ID 时直接安装
 
 ```bash
 npm install -g agents.clawin
 clawin init
 clawin catalog refresh --catalog https://agents.clawin.club/releases/2026-03-18-p6-full-catalog-1395-agent/catalogs/published/catalog.json
 clawin info software-it-web-performance-engineer-js-ts
-clawin install software-it-web-performance-engineer-js-ts
+clawin install software-it-web-performance-engineer-js-ts --allow-main
 clawin status software-it-web-performance-engineer-js-ts
 ```
 
@@ -199,7 +246,7 @@ clawin status software-it-web-performance-engineer-js-ts
 1. **安装 CLI**
 2. **在本地初始化 Clawin**
 3. **刷新当前 public catalog release**
-4. **先检查一个 package**
+4. **要么让 Clawin 帮你先选，要么先检查一个已知 package**
 5. **把它安装到你的 OpenClaw 环境里**
 6. **检查本地结果并继续完成本地配置**
 

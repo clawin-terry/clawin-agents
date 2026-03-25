@@ -28,6 +28,10 @@
 </p>
 
 <p align="center">
+  <strong>New:</strong> Start by chat when you do not know the right agent yet — let Clawin help you find the best match before you install.
+</p>
+
+<p align="center">
   <a href="https://agents.clawin.club/catalog"><img src="https://img.shields.io/badge/Browse%20Catalog-Open-2563eb?style=for-the-badge" alt="Browse catalog"></a>
   <a href="./INSTALL.md"><img src="https://img.shields.io/badge/Install%20Guide-Start-4f46e5?style=for-the-badge" alt="Install guide"></a>
   <a href="https://agents.clawin.club/"><img src="https://img.shields.io/badge/Website-Visit-0f766e?style=for-the-badge" alt="Website"></a>
@@ -52,6 +56,7 @@
 
 > **TL;DR**
 > - Discover OpenClaw agents by industry, role family, and workflow
+> - Start by chat if you need help choosing the right package
 > - Inspect what a package includes before you install it
 > - Start from a structured package instead of raw prompts or a blank workspace
 > - Use the Clawin website + catalog + CLI as one connected discovery-to-install flow
@@ -64,6 +69,7 @@
 - [👥 Who Clawin is for](#-who-clawin-is-for)
 - [⭐ Why this repo is worth starring](#-why-this-repo-is-worth-starring)
 - [🚀 Start here](#-start-here)
+- [💬 Start by chat](#-start-by-chat)
 - [🧭 Highlights](#-highlights)
 - [💡 What you can do with Clawin](#-what-you-can-do-with-clawin)
 - [⚡ Quickstart](#-quickstart)
@@ -140,6 +146,34 @@ If you are not sure where to begin, use one of these routes.
 
 ---
 
+## 💬 Start by chat
+
+If you do **not** know the right agent ID yet, the best first path is now chat-first discovery.
+
+### Why this path matters
+Instead of asking users to guess from a large catalog, Clawin can now help narrow the options before installation.
+
+### Start here
+1. Install the matching skill
+   - `clawhub install clawin-agent-match-install`
+2. Make sure the public CLI is available
+   - `npm install -g agents.clawin`
+   - `clawin init`
+3. Refresh the current public catalog
+   - `clawin catalog refresh --catalog https://agents.clawin.club/releases/2026-03-18-p6-full-catalog-1395-agent/catalogs/published/catalog.json`
+4. Ask in chat for what you need
+   - `Find me a Clawin agent for frontend performance work.`
+   - `I need a Clawin agent for financial research company analysis.`
+   - `Recommend a Clawin agent for growth and attribution work.`
+5. Confirm the recommended package, then install it
+
+### Best for
+- first-time users who do not know where to start
+- users comparing several agents before committing
+- teams that want a more guided first install experience
+
+---
+
 ## 🧭 Highlights
 
 | Highlight | Why it matters |
@@ -184,14 +218,27 @@ Use Clawin when you want to:
 
 ## ⚡ Quickstart
 
-Clawin is designed as a connected **browse -> inspect -> install** flow.
+Clawin now supports two practical install starts:
+
+### Option A — Discover by chat
+
+```bash
+clawhub install clawin-agent-match-install
+npm install -g agents.clawin
+clawin init
+clawin catalog refresh --catalog https://agents.clawin.club/releases/2026-03-18-p6-full-catalog-1395-agent/catalogs/published/catalog.json
+```
+
+Then ask in chat for the kind of agent you need, confirm the best match, and install it.
+
+### Option B — Install directly by known ID
 
 ```bash
 npm install -g agents.clawin
 clawin init
 clawin catalog refresh --catalog https://agents.clawin.club/releases/2026-03-18-p6-full-catalog-1395-agent/catalogs/published/catalog.json
 clawin info software-it-web-performance-engineer-js-ts
-clawin install software-it-web-performance-engineer-js-ts
+clawin install software-it-web-performance-engineer-js-ts --allow-main
 clawin status software-it-web-performance-engineer-js-ts
 ```
 
@@ -199,7 +246,7 @@ clawin status software-it-web-performance-engineer-js-ts
 1. **Install the CLI**
 2. **Initialize Clawin locally**
 3. **Refresh from the current public catalog release**
-4. **Inspect a first package**
+4. **Either ask Clawin to help you choose, or inspect a known package**
 5. **Install that package into your OpenClaw environment**
 6. **Review the local result and continue local configuration**
 
