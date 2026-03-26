@@ -161,10 +161,8 @@ Instead of asking users to guess from a large catalog, Clawin can now help narro
    - `clawin init`
 3. Refresh the current public catalog
    - `clawin catalog refresh --catalog https://agents.clawin.club/releases/2026-03-18-p6-full-catalog-1395-agent/catalogs/published/catalog.json`
-4. Ask in chat for what you need
-   - `Find me a Clawin agent for frontend performance work.`
-   - `I need a Clawin agent for financial research company analysis.`
-   - `Recommend a Clawin agent for growth and attribution work.`
+4. Paste one prompt in chat
+   - `Find me a Clawin agent for frontend performance work and install the best match.`
 5. Confirm the recommended package, then install it
 
 ### Best for
@@ -397,5 +395,8 @@ If a bundled component ships with its own license file or origin metadata, treat
 
 - Secrets are intentionally excluded.
 - Users must provide their own local provider configuration.
+- These packages are designed for catalog-driven OpenClaw installs, not as standalone apps.
+- Future releases should continue expanding this catalog with curated agent outputs from the private source repository.
+s must provide their own local provider configuration.
 - These packages are designed for catalog-driven OpenClaw installs, not as standalone apps.
 - Future releases should continue expanding this catalog with curated agent outputs from the private source repository.

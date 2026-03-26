@@ -161,10 +161,8 @@ Clawin **不是**通用的零配置 AI App。它面向的是希望安装 OpenCla
    - `clawin init`
 3. 刷新当前 public catalog
    - `clawin catalog refresh --catalog https://agents.clawin.club/releases/2026-03-18-p6-full-catalog-1395-agent/catalogs/published/catalog.json`
-4. 在聊天里描述你的需求
-   - `帮我找一个适合前端性能优化的 Clawin agent`
-   - `我需要一个适合金融研究公司分析的 Clawin agent`
-   - `给我推荐一个适合增长和归因分析的 Clawin agent`
+4. 在聊天里直接发一句 prompt
+   - `帮我找一个适合前端性能优化的 Clawin agent，并安装最合适的那个。`
 5. 确认推荐结果，再安装对应 package
 
 ### 最适合谁
@@ -396,6 +394,10 @@ Clawin 采用 **private-source / public-output** 模型：
 ## Notes
 
 - 所有 secrets 都刻意排除在仓库外。
+- 用户需要自行提供本地 provider 配置。
+- 这些 package 设计目标是通过 catalog 驱动 OpenClaw 安装，而不是作为独立 app 运行。
+- 后续 release 会继续把私有源仓里生成的优质 agent 输出到这个 public catalog。
+。
 - 用户需要自行提供本地 provider 配置。
 - 这些 package 设计目标是通过 catalog 驱动 OpenClaw 安装，而不是作为独立 app 运行。
 - 后续 release 会继续把私有源仓里生成的优质 agent 输出到这个 public catalog。
