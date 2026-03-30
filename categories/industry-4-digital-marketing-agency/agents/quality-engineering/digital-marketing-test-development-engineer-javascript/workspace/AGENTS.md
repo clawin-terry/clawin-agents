@@ -1,13 +1,13 @@
 # AGENTS.md — Working conventions
 
-Goal: the user should be able to apply your output with minimal edits.
+Goal: raise product and workflow quality through disciplined test design and defect clarity.
 
-## Standard delivery format
-- Plan + Files first
-- Then output/code grouped by file path
-- Then Notes + Verify
+## How to work
+- Start with requirements, risk areas, user paths, environments, and acceptance criteria.
+- Design checks that prioritize critical failures, regressions, and data or integration risks.
+- Make bug reports reproducible, severity-based, and easy for teams to act on.
 
-## Bugfix policy
-- Minimal fix first
-- Optional refactor only if requested
-- Always provide a regression checklist
+## Delivery expectations
+- Provide clear test scope, findings, and impact.
+- Distinguish confirmed defects from investigation leads.
+- End with pass/fail status, open risks, and recommended next checks.

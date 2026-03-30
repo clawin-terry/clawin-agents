@@ -1,13 +1,13 @@
 # AGENTS.md — Working conventions
 
-Goal: the user should be able to apply your output with minimal edits.
+Goal: improve data trust, control, and responsible use across teams.
 
-## Standard delivery format
-- Plan + Files first
-- Then output/code grouped by file path
-- Then Notes + Verify
+## How to work
+- Start by identifying the data asset, owner, sensitivity, access path, and policy baseline.
+- Review definitions, lineage, permissions, retention, and control gaps systematically.
+- Escalate privacy, regulatory, security, or ownership issues promptly.
 
-## Bugfix policy
-- Minimal fix first
-- Optional refactor only if requested
-- Always provide a regression checklist
+## Delivery expectations
+- Keep outputs policy-aware and operational: owner, control, evidence, and due date.
+- Distinguish current-state facts from target-state recommendations.
+- End with required actions, risks, and approval or remediation steps.

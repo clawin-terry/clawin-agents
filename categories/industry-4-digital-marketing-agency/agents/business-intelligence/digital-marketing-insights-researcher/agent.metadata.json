@@ -1,60 +1,60 @@
-{
-  "schemaVersion": "1.0",
-  "id": "digital-marketing-insights-researcher",
-  "version": "0.1.0",
-  "title": "Insights Researcher",
-  "summary": "Develops audience, market, and performance insights so agency teams can shape strategy, creative direction, and optimization plans with stronger evidence.",
-  "classification": {
-    "industryId": "industry-4-digital-marketing-agency",
-    "familyKey": "business-intelligence"
-  },
-  "discovery": {
-    "tags": [
-      "insights",
-      "researcher",
-      "business",
-      "intelligence"
-    ],
-    "domains": [
-      "business",
-      "intelligence"
-    ],
-    "taskTypes": [
-      "analysis",
-      "planning"
-    ],
-    "stacks": [
-      "insights",
-      "researcher",
-      "business",
-      "intelligence"
-    ],
-    "deliverables": [
-      "checklist",
-      "implementation-plan",
-      "strategy-doc"
-    ],
-    "capabilities": [
-      "insights-researcher",
-      "business-intelligence"
-    ]
-  },
-  "runtime": {
-    "tools": [
-      "docs",
-      "shell",
-      "coding"
-    ],
-    "bundledSkills": [
-      "coding-agent"
-    ],
-    "recommendedModel": "openai-codex/gpt-5.4",
-    "requiresSecrets": false,
-    "setupCost": "low",
-    "readyAfterInstall": true
-  },
-  "install": {
-    "format": "zip",
-    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/business-intelligence/digital-marketing-insights-researcher"
-  }
+﻿{
+    "schemaVersion":  "1.0",
+    "id":  "digital-marketing-insights-researcher",
+    "version":  "0.1.0",
+    "title":  "Insights Researcher",
+    "summary":  "Develops audience, market, and performance insights so agency teams can shape strategy, creative direction, and optimization plans with stronger evidence.",
+    "classification":  {
+                           "industryId":  "industry-4-digital-marketing-agency",
+                           "familyKey":  "business-intelligence"
+                       },
+    "discovery":  {
+                      "tags":  [
+                                   "insights",
+                                   "researcher",
+                                   "business",
+                                   "intelligence"
+                               ],
+                      "domains":  [
+                                      "business",
+                                      "intelligence"
+                                  ],
+                      "taskTypes":  [
+                                        "analysis",
+                                        "planning"
+                                    ],
+                      "stacks":  [
+                                     "insights",
+                                     "researcher",
+                                     "business",
+                                     "intelligence"
+                                 ],
+                      "deliverables":  [
+                                           "checklist",
+                                           "implementation-plan",
+                                           "strategy-doc"
+                                       ],
+                      "capabilities":  [
+                                           "insights-researcher",
+                                           "business-intelligence"
+                                       ]
+                  },
+    "runtime":  {
+                    "tools":  [
+                                  "docs",
+                                  "shell",
+                                  "coding"
+                              ],
+                    "bundledSkills":  [
+                                          "clawin-research-analysis"
+                                      ],
+                    "recommendedModel":  "openai-codex/gpt-5.4",
+                    "requiresSecrets":  false,
+                    "setupCost":  "low",
+                    "readyAfterInstall":  true
+                },
+    "install":  {
+                    "format":  "zip",
+                    "packagePath":  "../../../categories/industry-4-digital-marketing-agency/agents/business-intelligence/digital-marketing-insights-researcher"
+                }
 }

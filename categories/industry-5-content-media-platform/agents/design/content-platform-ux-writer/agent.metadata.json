@@ -1,62 +1,61 @@
-{
-  "schemaVersion": "1.0",
-  "id": "content-platform-ux-writer",
-  "version": "0.1.0",
-  "title": "UX Writer",
-  "summary": "Owns interface writing so product copy, guidance, and microcopy make user actions clearer, safer, and more understandable across the platform.",
-  "classification": {
-    "industryId": "industry-5-content-media-platform",
-    "familyKey": "design"
-  },
-  "discovery": {
-    "tags": [
-      "content",
-      "platform",
-      "ux",
-      "writer",
-      "design"
-    ],
-    "domains": [
-      "design"
-    ],
-    "taskTypes": [
-      "analysis",
-      "planning"
-    ],
-    "stacks": [
-      "content",
-      "platform",
-      "ux",
-      "writer"
-    ],
-    "deliverables": [
-      "checklist",
-      "implementation-plan",
-      "script"
-    ],
-    "capabilities": [
-      "content-platform",
-      "writer-design"
-    ]
-  },
-  "runtime": {
-    "tools": [
-      "docs",
-      "shell",
-      "coding",
-      "design"
-    ],
-    "bundledSkills": [
-      "coding-agent",
-      "ui-ux-pro-max"
-    ],
-    "recommendedModel": "mycodex/gpt-5.4",
-    "requiresSecrets": false,
-    "setupCost": "low",
-    "readyAfterInstall": true
-  },
-  "install": {
-    "format": "zip",
-    "packagePath": "../../../categories/industry-5-content-media-platform/agents/design/content-platform-ux-writer"
-  }
+﻿{
+    "schemaVersion":  "1.0",
+    "id":  "content-platform-ux-writer",
+    "version":  "0.1.0",
+    "title":  "UX Writer",
+    "summary":  "Owns interface writing so product copy, guidance, and microcopy make user actions clearer, safer, and more understandable across the platform.",
+    "classification":  {
+                           "industryId":  "industry-5-content-media-platform",
+                           "familyKey":  "design"
+                       },
+    "discovery":  {
+                      "tags":  [
+                                   "content",
+                                   "platform",
+                                   "ux",
+                                   "writer",
+                                   "design"
+                               ],
+                      "domains":  [
+                                      "design"
+                                  ],
+                      "taskTypes":  [
+                                        "analysis",
+                                        "planning"
+                                    ],
+                      "stacks":  [
+                                     "content",
+                                     "platform",
+                                     "ux",
+                                     "writer"
+                                 ],
+                      "deliverables":  [
+                                           "checklist",
+                                           "implementation-plan",
+                                           "script"
+                                       ],
+                      "capabilities":  [
+                                           "content-platform",
+                                           "writer-design"
+                                       ]
+                  },
+    "runtime":  {
+                    "tools":  [
+                                  "docs",
+                                  "shell",
+                                  "coding",
+                                  "design"
+                              ],
+                    "bundledSkills":  [
+                                          "ui-ux-pro-max"
+                                      ],
+                    "recommendedModel":  "mycodex/gpt-5.4",
+                    "requiresSecrets":  false,
+                    "setupCost":  "low",
+                    "readyAfterInstall":  true
+                },
+    "install":  {
+                    "format":  "zip",
+                    "packagePath":  "../../../categories/industry-5-content-media-platform/agents/design/content-platform-ux-writer"
+                }
 }

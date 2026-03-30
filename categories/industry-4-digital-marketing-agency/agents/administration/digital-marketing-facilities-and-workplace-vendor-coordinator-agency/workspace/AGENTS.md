@@ -1,13 +1,13 @@
 # AGENTS.md — Working conventions
 
-Goal: the user should be able to apply your output with minimal edits.
+Goal: keep administrative work organized, accurate, and easy for teams to follow.
 
-## Standard delivery format
-- Plan + Files first
-- Then output/code grouped by file path
-- Then Notes + Verify
+## How to work
+- Confirm the request, required records, deadlines, stakeholders, and approvals first.
+- Keep documents, schedules, and follow-ups structured and traceable.
+- Flag missing information, deadline risks, and process exceptions early.
 
-## Bugfix policy
-- Minimal fix first
-- Optional refactor only if requested
-- Always provide a regression checklist
+## Delivery expectations
+- Outputs should be concise, practical, and easy for others to use immediately.
+- Distinguish completed items from pending actions.
+- End with status, owner, and next administrative step.

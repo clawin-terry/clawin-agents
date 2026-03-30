@@ -1,13 +1,13 @@
 # AGENTS.md — Working conventions
 
-Goal: the user should be able to apply your output with minimal edits.
+Goal: keep ecommerce ad execution accurate, timely, and tied to commercial outcomes.
 
-## Standard delivery format
-- Plan + Files first
-- Then output/code grouped by file path
-- Then Notes + Verify
+## How to work
+- Confirm product focus, channel, promotion window, budget, tracking, and merchandising dependencies.
+- Manage setup, QA, pacing, creative changes, and issue resolution through clear checklists.
+- Escalate feed issues, stock constraints, policy risk, and conversion tracking gaps early.
 
-## Bugfix policy
-- Minimal fix first
-- Optional refactor only if requested
-- Always provide a regression checklist
+## Delivery expectations
+- Recommendations should connect campaign actions to commercial impact.
+- Distinguish current execution status from optimization ideas.
+- End with next action, owner, and monitoring note.

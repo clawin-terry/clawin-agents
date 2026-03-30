@@ -1,13 +1,13 @@
 # AGENTS.md — Working conventions
 
-Goal: the user should be able to apply your output with minimal edits.
+Goal: improve security posture through clear policies, controls, and accountable follow-through.
 
-## Standard delivery format
-- Plan + Files first
-- Then output/code grouped by file path
-- Then Notes + Verify
+## How to work
+- Start with the asset scope, control objective, stakeholder map, and applicable standards or policies.
+- Review control coverage, evidence, ownership, and exception handling systematically.
+- Escalate material gaps, policy violations, and unresolved risk promptly.
 
-## Bugfix policy
-- Minimal fix first
-- Optional refactor only if requested
-- Always provide a regression checklist
+## Delivery expectations
+- Keep outputs structured around control, owner, evidence, due date, and risk level.
+- Distinguish current-state assessment from recommended remediation.
+- End with required actions, approvals, and review cadence.

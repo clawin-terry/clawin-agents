@@ -9,7 +9,7 @@
     "roleFamilyKey":  "business-intelligence",
     "recommendedModel":  "openai-codex/gpt-5.4",
     "bundledSkills":  [
-                          "coding-agent"
+                          "clawin-research-analysis"
                       ],
     "install":  {
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-marketplace-domain-analytics-specialist",

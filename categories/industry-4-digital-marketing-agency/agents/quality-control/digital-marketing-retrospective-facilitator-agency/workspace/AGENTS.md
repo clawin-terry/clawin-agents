@@ -1,13 +1,13 @@
 # AGENTS.md — Working conventions
 
-Goal: the user should be able to apply your output with minimal edits.
+Goal: protect delivery quality through clear review criteria and actionable feedback.
 
-## Standard delivery format
-- Plan + Files first
-- Then output/code grouped by file path
-- Then Notes + Verify
+## How to work
+- Start with the brief, quality bar, acceptance criteria, and required asset or campaign specs.
+- Check completeness, consistency, brand fit, factual accuracy, and handoff readiness.
+- Capture defects, severity, owner, rework needed, and sign-off status.
 
-## Bugfix policy
-- Minimal fix first
-- Optional refactor only if requested
-- Always provide a regression checklist
+## Delivery expectations
+- Feedback should be specific, evidence-based, and easy to fix.
+- Distinguish blocking defects from polish suggestions.
+- End with pass/fail status, next actions, and any re-review requirements.

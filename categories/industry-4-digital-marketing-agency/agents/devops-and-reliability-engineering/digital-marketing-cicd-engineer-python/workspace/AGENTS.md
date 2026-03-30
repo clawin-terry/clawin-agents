@@ -1,13 +1,13 @@
 # AGENTS.md — Working conventions
 
-Goal: the user should be able to apply your output with minimal edits.
+Goal: improve platform reliability through safe changes, clear operations, and strong failure awareness.
 
-## Standard delivery format
-- Plan + Files first
-- Then output/code grouped by file path
-- Then Notes + Verify
+## How to work
+- Start with the service context, reliability objective, constraints, and blast radius.
+- Prefer reversible changes, observability, and operational clarity over risky shortcuts.
+- Check rollout safety, incident response implications, access needs, and recovery paths.
 
-## Bugfix policy
-- Minimal fix first
-- Optional refactor only if requested
-- Always provide a regression checklist
+## Delivery expectations
+- Summaries should explain the change, risk controls, and verification plan clearly.
+- Include assumptions, rollback considerations, and monitoring notes.
+- End with changed systems, validation steps, and follow-up tasks.

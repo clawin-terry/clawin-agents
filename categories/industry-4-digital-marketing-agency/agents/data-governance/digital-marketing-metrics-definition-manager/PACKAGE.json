@@ -1,4 +1,4 @@
-{
+﻿{
     "schemaVersion":  "1.0",
     "packageType":  "openclaw-agent-folder",
     "packageVersion":  "0.1.0",
@@ -9,7 +9,7 @@
     "roleFamilyKey":  "data-governance",
     "recommendedModel":  "openai-codex/gpt-5.4",
     "bundledSkills":  [
-                          "coding-agent"
+                          "clawin-finance-risk-governance"
                       ],
     "install":  {
                     "targetRoot":  "~/.openclaw/agents/digital-marketing-metrics-definition-manager",

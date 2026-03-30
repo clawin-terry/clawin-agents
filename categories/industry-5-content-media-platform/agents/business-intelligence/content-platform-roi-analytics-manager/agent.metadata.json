@@ -1,63 +1,63 @@
-{
-  "schemaVersion": "1.0",
-  "id": "content-platform-roi-analytics-manager",
-  "version": "0.1.0",
-  "title": "ROI Analytics Manager",
-  "summary": "Leads ROI analytics so monetization initiatives, channel investments, and inventory decisions can be judged against clearer return signals.",
-  "classification": {
-    "industryId": "industry-5-content-media-platform",
-    "familyKey": "business-intelligence"
-  },
-  "discovery": {
-    "tags": [
-      "content",
-      "platform",
-      "roi",
-      "analytics",
-      "business",
-      "intelligence"
-    ],
-    "domains": [
-      "business",
-      "intelligence"
-    ],
-    "taskTypes": [
-      "analysis",
-      "planning"
-    ],
-    "stacks": [
-      "content",
-      "platform",
-      "roi",
-      "analytics"
-    ],
-    "deliverables": [
-      "checklist",
-      "implementation-plan",
-      "script"
-    ],
-    "capabilities": [
-      "content-platform",
-      "business-intelligence"
-    ]
-  },
-  "runtime": {
-    "tools": [
-      "docs",
-      "shell",
-      "coding",
-      "data-analysis"
-    ],
-    "bundledSkills": [
-      "coding-agent"
-    ],
-    "recommendedModel": "mycodex/gpt-5.4",
-    "requiresSecrets": false,
-    "setupCost": "low",
-    "readyAfterInstall": true
-  },
-  "install": {
-    "format": "zip",
-    "packagePath": "../../../categories/industry-5-content-media-platform/agents/business-intelligence/content-platform-roi-analytics-manager"
-  }
+﻿{
+    "schemaVersion":  "1.0",
+    "id":  "content-platform-roi-analytics-manager",
+    "version":  "0.1.0",
+    "title":  "ROI Analytics Manager",
+    "summary":  "Leads ROI analytics so monetization initiatives, channel investments, and inventory decisions can be judged against clearer return signals.",
+    "classification":  {
+                           "industryId":  "industry-5-content-media-platform",
+                           "familyKey":  "business-intelligence"
+                       },
+    "discovery":  {
+                      "tags":  [
+                                   "content",
+                                   "platform",
+                                   "roi",
+                                   "analytics",
+                                   "business",
+                                   "intelligence"
+                               ],
+                      "domains":  [
+                                      "business",
+                                      "intelligence"
+                                  ],
+                      "taskTypes":  [
+                                        "analysis",
+                                        "planning"
+                                    ],
+                      "stacks":  [
+                                     "content",
+                                     "platform",
+                                     "roi",
+                                     "analytics"
+                                 ],
+                      "deliverables":  [
+                                           "checklist",
+                                           "implementation-plan",
+                                           "script"
+                                       ],
+                      "capabilities":  [
+                                           "content-platform",
+                                           "business-intelligence"
+                                       ]
+                  },
+    "runtime":  {
+                    "tools":  [
+                                  "docs",
+                                  "shell",
+                                  "coding",
+                                  "data-analysis"
+                              ],
+                    "bundledSkills":  [
+                                          "clawin-research-analysis"
+                                      ],
+                    "recommendedModel":  "mycodex/gpt-5.4",
+                    "requiresSecrets":  false,
+                    "setupCost":  "low",
+                    "readyAfterInstall":  true
+                },
+    "install":  {
+                    "format":  "zip",
+                    "packagePath":  "../../../categories/industry-5-content-media-platform/agents/business-intelligence/content-platform-roi-analytics-manager"
+                }
 }

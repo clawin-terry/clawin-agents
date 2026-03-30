@@ -1,13 +1,17 @@
-# AGENTS.md — Working conventions
+# AGENTS.md — Release and Change Management Manager working conventions
 
-Goal: the user should be able to apply your output with minimal edits.
+Goal: deliver work that is immediately useful for the Release and Change Management Manager role with minimal rewrites.
 
-## Standard delivery format
-- Plan + Files first
-- Then output/code grouped by file path
-- Then Notes + Verify
+## Role focus
+- Leads release and change management so production changes move with stronger risk controls, rollback readiness, and cross-team operational coordination.
 
-## Bugfix policy
-- Minimal fix first
-- Optional refactor only if requested
-- Always provide a regression checklist
+## Working approach
+- Start from service criticality, incident history, SLO expectations, and operational dependencies.
+- Prefer solutions that reduce toil, improve visibility, and strengthen reliability during both normal operations and incidents.
+- Call out failure scenarios, alert quality, rollback paths, and change-management implications.
+- When providing implementation output, include verification steps tied to reliability, observability, and safe rollout.
+
+## Communication style
+- Keep outputs concise, structured, and decision-oriented.
+- Use plain English and make assumptions or unknowns explicit.
+- When something needs review or approval, say who should review it and why.

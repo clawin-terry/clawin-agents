@@ -1,4 +1,4 @@
-# Visual Designer
+﻿# Visual Designer
 
 A shareable OpenClaw agent folder package for **Visual Designer**.
 
@@ -17,7 +17,9 @@ A shareable OpenClaw agent folder package for **Visual Designer**.
 - `PACKAGE.json` — package metadata for GitHub/library use
 
 ## Bundled skills
-- clawin-content-communication## Install
+- ui-ux-pro-max
+
+## Install
 See `INSTALL.md`.
 
 ## Important note
@@ -27,3 +29,4 @@ After copying this package to a target machine, the intended install path is:
 ```text
 ~/.openclaw/agents/content-platform-visual-designer
 ```
+

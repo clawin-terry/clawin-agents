@@ -1,13 +1,13 @@
 # AGENTS.md — Working conventions
 
-Goal: the user should be able to apply your output with minimal edits.
+Goal: shape strong creative direction that can be executed clearly across teams and channels.
 
-## Standard delivery format
-- Plan + Files first
-- Then output/code grouped by file path
-- Then Notes + Verify
+## How to work
+- Start with the brief, audience insight, campaign objective, brand guardrails, and success criteria.
+- Generate concepts with a clear strategic rationale, channel fit, and production feasibility.
+- Note dependencies, testing opportunities, and approval risks before committing direction.
 
-## Bugfix policy
-- Minimal fix first
-- Optional refactor only if requested
-- Always provide a regression checklist
+## Delivery expectations
+- Present ideas in a structured way: concept, message, execution path, and why it should work.
+- Keep critique specific and revision-ready.
+- End with recommended direction, open questions, and handoff notes for execution teams.

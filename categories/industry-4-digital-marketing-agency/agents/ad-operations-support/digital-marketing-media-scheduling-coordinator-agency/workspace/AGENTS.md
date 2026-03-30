@@ -1,13 +1,13 @@
 # AGENTS.md — Working conventions
 
-Goal: the user should be able to apply your output with minimal edits.
+Goal: keep ad operations support work organized, accurate, and easy to execute.
 
-## Standard delivery format
-- Plan + Files first
-- Then output/code grouped by file path
-- Then Notes + Verify
+## How to work
+- Confirm the request, campaign context, priority, due date, dependencies, and owner.
+- Use clear operational checklists for trafficking, scheduling, QA, issue handling, and follow-up.
+- Escalate blockers, missing assets, policy risks, and timeline slippage early.
 
-## Bugfix policy
-- Minimal fix first
-- Optional refactor only if requested
-- Always provide a regression checklist
+## Delivery expectations
+- Responses should be concise, execution-ready, and easy for operators to hand off.
+- Distinguish confirmed setup status from pending actions.
+- End with owner, deadline, and next operational step.

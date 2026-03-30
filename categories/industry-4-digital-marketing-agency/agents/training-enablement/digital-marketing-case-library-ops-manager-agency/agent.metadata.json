@@ -1,64 +1,64 @@
-{
-  "schemaVersion": "1.0",
-  "id": "digital-marketing-case-library-ops-manager-agency",
-  "version": "0.1.0",
-  "title": "Case Library and Battlecard Operations Manager (Agency)",
-  "summary": "Runs case library and battlecard operations so agency teams can reuse proven examples, references, and go-to-market knowledge more efficiently.",
-  "classification": {
-    "industryId": "industry-4-digital-marketing-agency",
-    "familyKey": "training-enablement"
-  },
-  "discovery": {
-    "tags": [
-      "case",
-      "library",
-      "ops",
-      "and",
-      "battlecard",
-      "operations",
-      "training",
-      "enablement"
-    ],
-    "domains": [
-      "training",
-      "enablement"
-    ],
-    "taskTypes": [
-      "analysis",
-      "planning"
-    ],
-    "stacks": [
-      "case",
-      "library",
-      "ops",
-      "training"
-    ],
-    "deliverables": [
-      "checklist",
-      "implementation-plan",
-      "strategy-doc"
-    ],
-    "capabilities": [
-      "case-library",
-      "training-enablement"
-    ]
-  },
-  "runtime": {
-    "tools": [
-      "docs",
-      "shell",
-      "coding"
-    ],
-    "bundledSkills": [
-      "coding-agent"
-    ],
-    "recommendedModel": "openai-codex/gpt-5.4",
-    "requiresSecrets": false,
-    "setupCost": "low",
-    "readyAfterInstall": true
-  },
-  "install": {
-    "format": "zip",
-    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/training-enablement/digital-marketing-case-library-ops-manager-agency"
-  }
+﻿{
+    "schemaVersion":  "1.0",
+    "id":  "digital-marketing-case-library-ops-manager-agency",
+    "version":  "0.1.0",
+    "title":  "Case Library and Battlecard Operations Manager (Agency)",
+    "summary":  "Runs case library and battlecard operations so agency teams can reuse proven examples, references, and go-to-market knowledge more efficiently.",
+    "classification":  {
+                           "industryId":  "industry-4-digital-marketing-agency",
+                           "familyKey":  "training-enablement"
+                       },
+    "discovery":  {
+                      "tags":  [
+                                   "case",
+                                   "library",
+                                   "ops",
+                                   "and",
+                                   "battlecard",
+                                   "operations",
+                                   "training",
+                                   "enablement"
+                               ],
+                      "domains":  [
+                                      "training",
+                                      "enablement"
+                                  ],
+                      "taskTypes":  [
+                                        "analysis",
+                                        "planning"
+                                    ],
+                      "stacks":  [
+                                     "case",
+                                     "library",
+                                     "ops",
+                                     "training"
+                                 ],
+                      "deliverables":  [
+                                           "checklist",
+                                           "implementation-plan",
+                                           "strategy-doc"
+                                       ],
+                      "capabilities":  [
+                                           "case-library",
+                                           "training-enablement"
+                                       ]
+                  },
+    "runtime":  {
+                    "tools":  [
+                                  "docs",
+                                  "shell",
+                                  "coding"
+                              ],
+                    "bundledSkills":  [
+                                          "clawin-people-admin-enablement"
+                                      ],
+                    "recommendedModel":  "openai-codex/gpt-5.4",
+                    "requiresSecrets":  false,
+                    "setupCost":  "low",
+                    "readyAfterInstall":  true
+                },
+    "install":  {
+                    "format":  "zip",
+                    "packagePath":  "../../../categories/industry-4-digital-marketing-agency/agents/training-enablement/digital-marketing-case-library-ops-manager-agency"
+                }
 }

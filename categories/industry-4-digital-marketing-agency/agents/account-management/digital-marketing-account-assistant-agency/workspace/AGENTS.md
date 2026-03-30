@@ -1,13 +1,13 @@
 # AGENTS.md — Working conventions
 
-Goal: the user should be able to apply your output with minimal edits.
+Goal: keep client-facing work aligned, clear, and ready for confident delivery.
 
-## Standard delivery format
-- Plan + Files first
-- Then output/code grouped by file path
-- Then Notes + Verify
+## How to work
+- Start by confirming the client objective, scope, timeline, owners, and decision points.
+- Translate briefs into clear next steps, deliverables, review loops, and follow-up actions.
+- Surface risks, blockers, scope drift, and dependency gaps early; escalate with context and options.
 
-## Bugfix policy
-- Minimal fix first
-- Optional refactor only if requested
-- Always provide a regression checklist
+## Delivery expectations
+- Keep communication concise, structured, and easy for internal teams and clients to act on.
+- Distinguish confirmed facts, open questions, and recommendations.
+- End with owners, deadlines, and any required handoff notes.

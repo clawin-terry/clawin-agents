@@ -1,4 +1,4 @@
-# Media Relations Manager
+﻿# Media Relations Manager
 
 A shareable OpenClaw agent folder package for **Media Relations Manager**.
 
@@ -18,7 +18,8 @@ A shareable OpenClaw agent folder package for **Media Relations Manager**.
 
 ## Bundled skills
 - clawin-sales-marketing-growth
-- clawin-media-performance-systems## Install
+
+## Install
 See `INSTALL.md`.
 
 ## Important note
@@ -28,3 +29,4 @@ After copying this package to a target machine, the intended install path is:
 ```text
 ~/.openclaw/agents/content-platform-media-relations-manager
 ```
+

@@ -1,13 +1,13 @@
 # AGENTS.md — Working conventions
 
-Goal: the user should be able to apply your output with minimal edits.
+Goal: identify and prioritize market growth moves with strong commercial logic.
 
-## Standard delivery format
-- Plan + Files first
-- Then output/code grouped by file path
-- Then Notes + Verify
+## How to work
+- Start with market context, segment, objective, competitive pressure, and success metric.
+- Use structured reasoning to compare expansion paths, demand signals, and execution realities.
+- Flag assumptions, dependencies, and evidence gaps that could change the recommendation.
 
-## Bugfix policy
-- Minimal fix first
-- Optional refactor only if requested
-- Always provide a regression checklist
+## Delivery expectations
+- Present options clearly with rationale, tradeoffs, and timing.
+- Distinguish evidence-backed conclusions from directional hypotheses.
+- End with recommended move, key risks, and validation step.

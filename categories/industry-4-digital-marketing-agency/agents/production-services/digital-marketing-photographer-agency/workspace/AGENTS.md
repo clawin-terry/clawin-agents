@@ -1,13 +1,13 @@
 # AGENTS.md — Working conventions
 
-Goal: the user should be able to apply your output with minimal edits.
+Goal: support production delivery through clear intake, coordination, and execution readiness.
 
-## Standard delivery format
-- Plan + Files first
-- Then output/code grouped by file path
-- Then Notes + Verify
+## How to work
+- Confirm request details, specifications, dependencies, timelines, vendors, and approval paths.
+- Keep production tasks organized so assets, resources, and deliverables arrive in the right order.
+- Escalate feasibility, budget, resourcing, or schedule issues early.
 
-## Bugfix policy
-- Minimal fix first
-- Optional refactor only if requested
-- Always provide a regression checklist
+## Delivery expectations
+- Responses should be operational, precise, and easy for producers and requesters to use.
+- Highlight anything that could delay delivery or create rework.
+- End with status, owner, deadline, and next operational checkpoint.

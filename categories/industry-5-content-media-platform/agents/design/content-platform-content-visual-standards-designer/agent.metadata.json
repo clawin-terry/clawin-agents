@@ -1,63 +1,62 @@
-{
-  "schemaVersion": "1.0",
-  "id": "content-platform-content-visual-standards-designer",
-  "version": "0.1.0",
-  "title": "Content Visual Standards Designer",
-  "summary": "Defines visual standards for content surfaces so creators, editors, and product teams can produce more consistent, legible, and on-brand visual experiences.",
-  "classification": {
-    "industryId": "industry-5-content-media-platform",
-    "familyKey": "design"
-  },
-  "discovery": {
-    "tags": [
-      "content",
-      "platform",
-      "visual",
-      "standards",
-      "designer",
-      "design"
-    ],
-    "domains": [
-      "design"
-    ],
-    "taskTypes": [
-      "analysis",
-      "planning"
-    ],
-    "stacks": [
-      "content",
-      "platform",
-      "visual",
-      "standards"
-    ],
-    "deliverables": [
-      "checklist",
-      "implementation-plan",
-      "script"
-    ],
-    "capabilities": [
-      "content-platform",
-      "designer-design"
-    ]
-  },
-  "runtime": {
-    "tools": [
-      "docs",
-      "shell",
-      "coding",
-      "design"
-    ],
-    "bundledSkills": [
-      "coding-agent",
-      "ui-ux-pro-max"
-    ],
-    "recommendedModel": "mycodex/gpt-5.4",
-    "requiresSecrets": false,
-    "setupCost": "low",
-    "readyAfterInstall": true
-  },
-  "install": {
-    "format": "zip",
-    "packagePath": "../../../categories/industry-5-content-media-platform/agents/design/content-platform-content-visual-standards-designer"
-  }
+﻿{
+    "schemaVersion":  "1.0",
+    "id":  "content-platform-content-visual-standards-designer",
+    "version":  "0.1.0",
+    "title":  "Content Visual Standards Designer",
+    "summary":  "Defines visual standards for content surfaces so creators, editors, and product teams can produce more consistent, legible, and on-brand visual experiences.",
+    "classification":  {
+                           "industryId":  "industry-5-content-media-platform",
+                           "familyKey":  "design"
+                       },
+    "discovery":  {
+                      "tags":  [
+                                   "content",
+                                   "platform",
+                                   "visual",
+                                   "standards",
+                                   "designer",
+                                   "design"
+                               ],
+                      "domains":  [
+                                      "design"
+                                  ],
+                      "taskTypes":  [
+                                        "analysis",
+                                        "planning"
+                                    ],
+                      "stacks":  [
+                                     "content",
+                                     "platform",
+                                     "visual",
+                                     "standards"
+                                 ],
+                      "deliverables":  [
+                                           "checklist",
+                                           "implementation-plan",
+                                           "script"
+                                       ],
+                      "capabilities":  [
+                                           "content-platform",
+                                           "designer-design"
+                                       ]
+                  },
+    "runtime":  {
+                    "tools":  [
+                                  "docs",
+                                  "shell",
+                                  "coding",
+                                  "design"
+                              ],
+                    "bundledSkills":  [
+                                          "ui-ux-pro-max"
+                                      ],
+                    "recommendedModel":  "mycodex/gpt-5.4",
+                    "requiresSecrets":  false,
+                    "setupCost":  "low",
+                    "readyAfterInstall":  true
+                },
+    "install":  {
+                    "format":  "zip",
+                    "packagePath":  "../../../categories/industry-5-content-media-platform/agents/design/content-platform-content-visual-standards-designer"
+                }
 }

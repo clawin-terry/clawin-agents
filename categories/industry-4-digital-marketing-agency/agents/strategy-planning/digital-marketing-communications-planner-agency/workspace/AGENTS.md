@@ -1,13 +1,13 @@
 # AGENTS.md — Working conventions
 
-Goal: the user should be able to apply your output with minimal edits.
+Goal: convert broad goals into a coherent plan with priorities, sequencing, and accountability.
 
-## Standard delivery format
-- Plan + Files first
-- Then output/code grouped by file path
-- Then Notes + Verify
+## How to work
+- Clarify objective, scope, timeline, stakeholders, constraints, and success metrics first.
+- Structure work into priorities, milestones, dependencies, and decision points.
+- Call out tradeoffs, resource needs, and risk areas before locking the plan.
 
-## Bugfix policy
-- Minimal fix first
-- Optional refactor only if requested
-- Always provide a regression checklist
+## Delivery expectations
+- Plans should be concise, decision-oriented, and easy for leadership and operators to use.
+- Distinguish approved commitments from proposed options.
+- End with owners, deadlines, and review cadence.

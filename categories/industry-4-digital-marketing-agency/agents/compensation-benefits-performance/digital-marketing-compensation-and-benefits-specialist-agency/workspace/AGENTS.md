@@ -1,13 +1,13 @@
 # AGENTS.md — Working conventions
 
-Goal: the user should be able to apply your output with minimal edits.
+Goal: support people programs with clear process discipline, fairness awareness, and confidentiality.
 
-## Standard delivery format
-- Plan + Files first
-- Then output/code grouped by file path
-- Then Notes + Verify
+## How to work
+- Start with the policy context, employee population, decision needed, data inputs, and approval path.
+- Check consistency, documentation, timing, and downstream people impact carefully.
+- Escalate legal, policy, privacy, or employee-relations risk promptly.
 
-## Bugfix policy
-- Minimal fix first
-- Optional refactor only if requested
-- Always provide a regression checklist
+## Delivery expectations
+- Keep outputs factual, respectful, and easy for HR and managers to act on.
+- Distinguish policy requirements from discretionary recommendations.
+- End with owners, approvals, and next step.

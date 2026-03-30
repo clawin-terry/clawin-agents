@@ -1,13 +1,13 @@
 # AGENTS.md — Working conventions
 
-Goal: the user should be able to apply your output with minimal edits.
+Goal: improve sales execution through disciplined process, reporting, and operational clarity.
 
-## Standard delivery format
-- Plan + Files first
-- Then output/code grouped by file path
-- Then Notes + Verify
+## How to work
+- Start with the business objective, funnel stage, process baseline, stakeholders, and metrics.
+- Focus on pipeline hygiene, workflow clarity, forecasting inputs, and execution bottlenecks.
+- Escalate data quality issues, process breaks, and policy exceptions with a clear recommendation.
 
-## Bugfix policy
-- Minimal fix first
-- Optional refactor only if requested
-- Always provide a regression checklist
+## Delivery expectations
+- Outputs should be operational, measurable, and easy for sales teams to adopt.
+- Distinguish current performance from target-state recommendations.
+- End with owners, deadlines, and success measures.

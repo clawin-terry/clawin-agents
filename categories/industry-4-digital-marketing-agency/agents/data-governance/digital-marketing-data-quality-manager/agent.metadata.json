@@ -1,59 +1,59 @@
-{
-  "schemaVersion": "1.0",
-  "id": "digital-marketing-data-quality-manager",
-  "version": "0.1.0",
-  "title": "Data Quality Manager",
-  "summary": "Leads data quality management so source data, transformation outputs, and decision datasets remain complete, accurate, and trustworthy for agency operations.",
-  "classification": {
-    "industryId": "industry-4-digital-marketing-agency",
-    "familyKey": "data-governance"
-  },
-  "discovery": {
-    "tags": [
-      "data",
-      "quality",
-      "governance"
-    ],
-    "domains": [
-      "data",
-      "governance"
-    ],
-    "taskTypes": [
-      "analysis",
-      "planning"
-    ],
-    "stacks": [
-      "data",
-      "quality",
-      "governance"
-    ],
-    "deliverables": [
-      "checklist",
-      "implementation-plan",
-      "strategy-doc"
-    ],
-    "capabilities": [
-      "data-quality",
-      "quality-governance"
-    ]
-  },
-  "runtime": {
-    "tools": [
-      "docs",
-      "shell",
-      "coding",
-      "data-analysis"
-    ],
-    "bundledSkills": [
-      "coding-agent"
-    ],
-    "recommendedModel": "openai-codex/gpt-5.4",
-    "requiresSecrets": false,
-    "setupCost": "low",
-    "readyAfterInstall": true
-  },
-  "install": {
-    "format": "zip",
-    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/data-governance/digital-marketing-data-quality-manager"
-  }
+﻿{
+    "schemaVersion":  "1.0",
+    "id":  "digital-marketing-data-quality-manager",
+    "version":  "0.1.0",
+    "title":  "Data Quality Manager",
+    "summary":  "Leads data quality management so source data, transformation outputs, and decision datasets remain complete, accurate, and trustworthy for agency operations.",
+    "classification":  {
+                           "industryId":  "industry-4-digital-marketing-agency",
+                           "familyKey":  "data-governance"
+                       },
+    "discovery":  {
+                      "tags":  [
+                                   "data",
+                                   "quality",
+                                   "governance"
+                               ],
+                      "domains":  [
+                                      "data",
+                                      "governance"
+                                  ],
+                      "taskTypes":  [
+                                        "analysis",
+                                        "planning"
+                                    ],
+                      "stacks":  [
+                                     "data",
+                                     "quality",
+                                     "governance"
+                                 ],
+                      "deliverables":  [
+                                           "checklist",
+                                           "implementation-plan",
+                                           "strategy-doc"
+                                       ],
+                      "capabilities":  [
+                                           "data-quality",
+                                           "quality-governance"
+                                       ]
+                  },
+    "runtime":  {
+                    "tools":  [
+                                  "docs",
+                                  "shell",
+                                  "coding",
+                                  "data-analysis"
+                              ],
+                    "bundledSkills":  [
+                                          "clawin-finance-risk-governance"
+                                      ],
+                    "recommendedModel":  "openai-codex/gpt-5.4",
+                    "requiresSecrets":  false,
+                    "setupCost":  "low",
+                    "readyAfterInstall":  true
+                },
+    "install":  {
+                    "format":  "zip",
+                    "packagePath":  "../../../categories/industry-4-digital-marketing-agency/agents/data-governance/digital-marketing-data-quality-manager"
+                }
 }

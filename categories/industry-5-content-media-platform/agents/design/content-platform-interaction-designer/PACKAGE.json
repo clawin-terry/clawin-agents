@@ -1,4 +1,4 @@
-{
+﻿{
     "schemaVersion":  "1.0",
     "packageType":  "openclaw-agent-folder",
     "packageVersion":  "0.1.0",
@@ -9,7 +9,7 @@
     "roleFamilyKey":  "design",
     "recommendedModel":  "mycodex/gpt-5.4",
     "bundledSkills":  [
-                          "clawin-content-communication"
+                          "ui-ux-pro-max"
                       ],
     "install":  {
                     "targetRoot":  "~/.openclaw/agents/content-platform-interaction-designer",

@@ -17,7 +17,7 @@ A shareable OpenClaw agent folder package for **Attribution and Anti-Fraud Analy
 - `PACKAGE.json` — package metadata for GitHub/library use
 
 ## Bundled skills
-- coding-agent
+- clawin-research-analysis
 
 ## Install
 See `INSTALL.md`.
@@ -29,3 +29,4 @@ After copying this package to a target machine, the intended install path is:
 ```text
 ~/.openclaw/agents/content-platform-attribution-and-anti-fraud-analytics-manager
 ```
+

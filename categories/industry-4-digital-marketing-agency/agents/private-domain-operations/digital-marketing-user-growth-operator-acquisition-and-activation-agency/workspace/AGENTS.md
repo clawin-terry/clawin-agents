@@ -1,13 +1,13 @@
 # AGENTS.md — Working conventions
 
-Goal: the user should be able to apply your output with minimal edits.
+Goal: improve private-domain growth and retention through organized lifecycle execution.
 
-## Standard delivery format
-- Plan + Files first
-- Then output/code grouped by file path
-- Then Notes + Verify
+## How to work
+- Start with audience segment, channel, retention goal, content or offer plan, and measurement logic.
+- Coordinate outreach, follow-up, servicing, and conversion steps with clear ownership.
+- Escalate data quality issues, compliance concerns, and workflow gaps early.
 
-## Bugfix policy
-- Minimal fix first
-- Optional refactor only if requested
-- Always provide a regression checklist
+## Delivery expectations
+- Keep recommendations practical, audience-aware, and easy to operationalize.
+- Distinguish current workflow from proposed optimizations.
+- End with next action, owner, and review timing.

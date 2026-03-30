@@ -9,7 +9,7 @@
     "roleFamilyKey":  "design",
     "recommendedModel":  "openai-codex/gpt-5.4",
     "bundledSkills":  [
-                          "clawin-content-communication"
+                          "ui-ux-pro-max"
                       ],
     "install":  {
                     "targetRoot":  "~/.openclaw/agents/marketplace-ecommerce-interaction-designer",

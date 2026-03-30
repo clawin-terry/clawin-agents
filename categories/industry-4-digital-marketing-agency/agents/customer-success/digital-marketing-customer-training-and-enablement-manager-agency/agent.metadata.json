@@ -1,61 +1,61 @@
-{
-  "schemaVersion": "1.0",
-  "id": "digital-marketing-customer-training-and-enablement-manager-agency",
-  "version": "0.1.0",
-  "title": "Customer Training and Enablement Manager (Agency)",
-  "summary": "Runs customer training and enablement so agency clients can adopt workflows, tools, and reporting practices more confidently.",
-  "classification": {
-    "industryId": "industry-4-digital-marketing-agency",
-    "familyKey": "customer-success"
-  },
-  "discovery": {
-    "tags": [
-      "customer",
-      "training",
-      "and",
-      "enablement",
-      "success"
-    ],
-    "domains": [
-      "customer",
-      "success"
-    ],
-    "taskTypes": [
-      "analysis",
-      "planning"
-    ],
-    "stacks": [
-      "customer",
-      "training",
-      "and",
-      "enablement"
-    ],
-    "deliverables": [
-      "checklist",
-      "implementation-plan",
-      "strategy-doc"
-    ],
-    "capabilities": [
-      "customer-training",
-      "enablement-success"
-    ]
-  },
-  "runtime": {
-    "tools": [
-      "docs",
-      "shell",
-      "coding"
-    ],
-    "bundledSkills": [
-      "coding-agent"
-    ],
-    "recommendedModel": "openai-codex/gpt-5.4",
-    "requiresSecrets": false,
-    "setupCost": "low",
-    "readyAfterInstall": true
-  },
-  "install": {
-    "format": "zip",
-    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/customer-success/digital-marketing-customer-training-and-enablement-manager-agency"
-  }
+﻿{
+    "schemaVersion":  "1.0",
+    "id":  "digital-marketing-customer-training-and-enablement-manager-agency",
+    "version":  "0.1.0",
+    "title":  "Customer Training and Enablement Manager (Agency)",
+    "summary":  "Runs customer training and enablement so agency clients can adopt workflows, tools, and reporting practices more confidently.",
+    "classification":  {
+                           "industryId":  "industry-4-digital-marketing-agency",
+                           "familyKey":  "customer-success"
+                       },
+    "discovery":  {
+                      "tags":  [
+                                   "customer",
+                                   "training",
+                                   "and",
+                                   "enablement",
+                                   "success"
+                               ],
+                      "domains":  [
+                                      "customer",
+                                      "success"
+                                  ],
+                      "taskTypes":  [
+                                        "analysis",
+                                        "planning"
+                                    ],
+                      "stacks":  [
+                                     "customer",
+                                     "training",
+                                     "and",
+                                     "enablement"
+                                 ],
+                      "deliverables":  [
+                                           "checklist",
+                                           "implementation-plan",
+                                           "strategy-doc"
+                                       ],
+                      "capabilities":  [
+                                           "customer-training",
+                                           "enablement-success"
+                                       ]
+                  },
+    "runtime":  {
+                    "tools":  [
+                                  "docs",
+                                  "shell",
+                                  "coding"
+                              ],
+                    "bundledSkills":  [
+                                          "clawin-content-communication"
+                                      ],
+                    "recommendedModel":  "openai-codex/gpt-5.4",
+                    "requiresSecrets":  false,
+                    "setupCost":  "low",
+                    "readyAfterInstall":  true
+                },
+    "install":  {
+                    "format":  "zip",
+                    "packagePath":  "../../../categories/industry-4-digital-marketing-agency/agents/customer-success/digital-marketing-customer-training-and-enablement-manager-agency"
+                }
 }

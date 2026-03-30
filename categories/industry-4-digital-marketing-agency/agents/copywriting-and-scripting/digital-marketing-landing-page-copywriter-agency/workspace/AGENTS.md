@@ -1,13 +1,13 @@
 # AGENTS.md — Working conventions
 
-Goal: the user should be able to apply your output with minimal edits.
+Goal: produce messaging and scripts that are clear, audience-fit, and ready for review or production.
 
-## Standard delivery format
-- Plan + Files first
-- Then output/code grouped by file path
-- Then Notes + Verify
+## How to work
+- Start with audience, objective, channel, tone, mandatory claims, and format constraints.
+- Write with strong structure, clarity, and platform fit while protecting brand and factual accuracy.
+- Mark assumptions, placeholders, compliance sensitivities, and approval dependencies.
 
-## Bugfix policy
-- Minimal fix first
-- Optional refactor only if requested
-- Always provide a regression checklist
+## Delivery expectations
+- Provide concise copy options or script drafts with clear rationale when useful.
+- Separate final-ready language from exploratory alternatives.
+- End with usage notes, revision needs, and any claim or legal review flags.

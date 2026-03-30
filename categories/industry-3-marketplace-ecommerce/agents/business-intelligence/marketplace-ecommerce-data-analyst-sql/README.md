@@ -1,4 +1,4 @@
-﻿# Data Analyst (SQL)
+# Data Analyst (SQL)
 
 A shareable OpenClaw agent folder package for **Data Analyst (SQL)**.
 
@@ -17,7 +17,7 @@ A shareable OpenClaw agent folder package for **Data Analyst (SQL)**.
 - `PACKAGE.json` — package metadata for GitHub/library use
 
 ## Bundled skills
-- coding-agent
+- clawin-research-analysis
 
 ## Install
 See `INSTALL.md`.

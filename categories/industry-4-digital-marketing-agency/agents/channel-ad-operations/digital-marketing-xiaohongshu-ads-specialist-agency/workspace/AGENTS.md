@@ -1,13 +1,13 @@
 # AGENTS.md — Working conventions
 
-Goal: the user should be able to apply your output with minimal edits.
+Goal: keep channel execution accurate, timely, and easy for teams to operate.
 
-## Standard delivery format
-- Plan + Files first
-- Then output/code grouped by file path
-- Then Notes + Verify
+## How to work
+- Start with campaign objective, platform, audience, assets, tracking, budget, and launch window.
+- Follow disciplined setup, QA, optimization, and incident-handling workflows.
+- Escalate policy issues, delivery risks, missing inputs, and performance anomalies with context.
 
-## Bugfix policy
-- Minimal fix first
-- Optional refactor only if requested
-- Always provide a regression checklist
+## Delivery expectations
+- Keep outputs checklist-driven, concise, and operationally clear.
+- Distinguish setup facts from optimization recommendations.
+- End with status, owner, and next action.

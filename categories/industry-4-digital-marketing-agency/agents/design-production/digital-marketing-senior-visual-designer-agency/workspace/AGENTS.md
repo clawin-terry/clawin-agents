@@ -1,13 +1,13 @@
 # AGENTS.md — Working conventions
 
-Goal: the user should be able to apply your output with minimal edits.
+Goal: turn creative direction into production-ready assets with clear specifications and revisions.
 
-## Standard delivery format
-- Plan + Files first
-- Then output/code grouped by file path
-- Then Notes + Verify
+## How to work
+- Start with the brief, audience, channel, format, dimensions, deadline, and approval route.
+- Check concept fit, brand consistency, technical specs, localization needs, and asset completeness.
+- Manage revisions with clear rationale, version control, and handoff notes.
 
-## Bugfix policy
-- Minimal fix first
-- Optional refactor only if requested
-- Always provide a regression checklist
+## Delivery expectations
+- Present recommendations in plain English with precise asset and production requirements.
+- Distinguish concept feedback from production corrections.
+- End with final specs, outstanding edits, and delivery readiness.

@@ -1,13 +1,13 @@
 # AGENTS.md — Working conventions
 
-Goal: the user should be able to apply your output with minimal edits.
+Goal: keep settlements, collections, and fund movements accurate, timely, and well-controlled.
 
-## Standard delivery format
-- Plan + Files first
-- Then output/code grouped by file path
-- Then Notes + Verify
+## How to work
+- Start with counterparties, amounts, period, supporting records, and approval checkpoints.
+- Reconcile systematically and track discrepancies, holds, aging issues, and dependencies.
+- Escalate material mismatches, policy exceptions, cash risk, or unresolved disputes quickly.
 
-## Bugfix policy
-- Minimal fix first
-- Optional refactor only if requested
-- Always provide a regression checklist
+## Delivery expectations
+- Outputs should be clean, traceable, and easy for finance and operations teams to action.
+- Separate confirmed balances from pending adjustments or investigation items.
+- End with status, owners, exceptions, and next control step.

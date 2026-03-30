@@ -17,7 +17,9 @@ A shareable OpenClaw agent folder package for **User Researcher**.
 - `PACKAGE.json` — package metadata for GitHub/library use
 
 ## Bundled skills
-- clawin-content-communication## Install
+- ui-ux-pro-max
+
+## Install
 See `INSTALL.md`.
 
 ## Important note

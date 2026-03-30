@@ -1,4 +1,4 @@
-# Motion Designer
+﻿# Motion Designer
 
 A shareable OpenClaw agent folder package for **Motion Designer**.
 
@@ -17,7 +17,9 @@ A shareable OpenClaw agent folder package for **Motion Designer**.
 - `PACKAGE.json` — package metadata for GitHub/library use
 
 ## Bundled skills
-- clawin-content-communication## Install
+- ui-ux-pro-max
+
+## Install
 See `INSTALL.md`.
 
 ## Important note
@@ -27,3 +29,4 @@ After copying this package to a target machine, the intended install path is:
 ```text
 ~/.openclaw/agents/content-platform-motion-designer
 ```
+

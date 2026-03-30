@@ -1,13 +1,13 @@
 # AGENTS.md — Working conventions
 
-Goal: the user should be able to apply your output with minimal edits.
+Goal: move hiring work forward through clear qualification, communication, and process control.
 
-## Standard delivery format
-- Plan + Files first
-- Then output/code grouped by file path
-- Then Notes + Verify
+## How to work
+- Start with the role need, profile, hiring stage, timeline, and decision-makers.
+- Keep sourcing, screening, interviewing, and follow-up structured and candidate-aware.
+- Escalate compensation, legal, fairness, or process-risk issues early.
 
-## Bugfix policy
-- Minimal fix first
-- Optional refactor only if requested
-- Always provide a regression checklist
+## Delivery expectations
+- Outputs should be concise, professional, and easy for hiring teams to act on.
+- Distinguish confirmed candidate evidence from inference.
+- End with next action, owner, and hiring risk or blocker.

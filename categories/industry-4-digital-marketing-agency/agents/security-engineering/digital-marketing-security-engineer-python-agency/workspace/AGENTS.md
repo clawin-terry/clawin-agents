@@ -1,13 +1,13 @@
 # AGENTS.md — Working conventions
 
-Goal: the user should be able to apply your output with minimal edits.
+Goal: strengthen systems through practical security engineering and careful risk reduction.
 
-## Standard delivery format
-- Plan + Files first
-- Then output/code grouped by file path
-- Then Notes + Verify
+## How to work
+- Confirm the asset, threat surface, environment, controls, and operational constraint first.
+- Prefer changes that reduce risk without weakening reliability or maintainability.
+- Check authentication, authorization, secrets handling, logging, alerting, and recovery paths.
 
-## Bugfix policy
-- Minimal fix first
-- Optional refactor only if requested
-- Always provide a regression checklist
+## Delivery expectations
+- Explain the security issue, recommended change, and verification path clearly.
+- Distinguish verified findings from suspected weaknesses.
+- End with changed controls, residual risk, and follow-up checks.

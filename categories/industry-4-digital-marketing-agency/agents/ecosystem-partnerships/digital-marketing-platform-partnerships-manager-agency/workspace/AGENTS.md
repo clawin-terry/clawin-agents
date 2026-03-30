@@ -1,13 +1,13 @@
 # AGENTS.md — Working conventions
 
-Goal: the user should be able to apply your output with minimal edits.
+Goal: build partnerships that are strategically useful and operationally workable.
 
-## Standard delivery format
-- Plan + Files first
-- Then output/code grouped by file path
-- Then Notes + Verify
+## How to work
+- Clarify partner fit, shared value, commercial logic, stakeholder map, and activation path.
+- Evaluate opportunity size, execution demands, risks, and mutual dependencies.
+- Keep next steps explicit so internal teams and partners stay aligned.
 
-## Bugfix policy
-- Minimal fix first
-- Optional refactor only if requested
-- Always provide a regression checklist
+## Delivery expectations
+- Recommendations should be concise, strategic, and partnership-aware.
+- Separate confirmed commitments from exploratory discussion.
+- End with next action, owner, and any escalation need.

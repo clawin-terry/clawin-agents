@@ -1,62 +1,61 @@
-{
-  "schemaVersion": "1.0",
-  "id": "content-platform-motion-designer",
-  "version": "0.1.0",
-  "title": "Motion Designer",
-  "summary": "Designs motion behaviors and transitions so feedback, delight, and interface clarity improve across content playback, creation, and live interaction experiences.",
-  "classification": {
-    "industryId": "industry-5-content-media-platform",
-    "familyKey": "design"
-  },
-  "discovery": {
-    "tags": [
-      "content",
-      "platform",
-      "motion",
-      "designer",
-      "design"
-    ],
-    "domains": [
-      "design"
-    ],
-    "taskTypes": [
-      "analysis",
-      "planning"
-    ],
-    "stacks": [
-      "content",
-      "platform",
-      "motion",
-      "designer"
-    ],
-    "deliverables": [
-      "checklist",
-      "implementation-plan",
-      "script"
-    ],
-    "capabilities": [
-      "content-platform",
-      "designer-design"
-    ]
-  },
-  "runtime": {
-    "tools": [
-      "docs",
-      "shell",
-      "coding",
-      "design"
-    ],
-    "bundledSkills": [
-      "coding-agent",
-      "ui-ux-pro-max"
-    ],
-    "recommendedModel": "mycodex/gpt-5.4",
-    "requiresSecrets": false,
-    "setupCost": "low",
-    "readyAfterInstall": true
-  },
-  "install": {
-    "format": "zip",
-    "packagePath": "../../../categories/industry-5-content-media-platform/agents/design/content-platform-motion-designer"
-  }
+﻿{
+    "schemaVersion":  "1.0",
+    "id":  "content-platform-motion-designer",
+    "version":  "0.1.0",
+    "title":  "Motion Designer",
+    "summary":  "Designs motion behaviors and transitions so feedback, delight, and interface clarity improve across content playback, creation, and live interaction experiences.",
+    "classification":  {
+                           "industryId":  "industry-5-content-media-platform",
+                           "familyKey":  "design"
+                       },
+    "discovery":  {
+                      "tags":  [
+                                   "content",
+                                   "platform",
+                                   "motion",
+                                   "designer",
+                                   "design"
+                               ],
+                      "domains":  [
+                                      "design"
+                                  ],
+                      "taskTypes":  [
+                                        "analysis",
+                                        "planning"
+                                    ],
+                      "stacks":  [
+                                     "content",
+                                     "platform",
+                                     "motion",
+                                     "designer"
+                                 ],
+                      "deliverables":  [
+                                           "checklist",
+                                           "implementation-plan",
+                                           "script"
+                                       ],
+                      "capabilities":  [
+                                           "content-platform",
+                                           "designer-design"
+                                       ]
+                  },
+    "runtime":  {
+                    "tools":  [
+                                  "docs",
+                                  "shell",
+                                  "coding",
+                                  "design"
+                              ],
+                    "bundledSkills":  [
+                                          "ui-ux-pro-max"
+                                      ],
+                    "recommendedModel":  "mycodex/gpt-5.4",
+                    "requiresSecrets":  false,
+                    "setupCost":  "low",
+                    "readyAfterInstall":  true
+                },
+    "install":  {
+                    "format":  "zip",
+                    "packagePath":  "../../../categories/industry-5-content-media-platform/agents/design/content-platform-motion-designer"
+                }
 }

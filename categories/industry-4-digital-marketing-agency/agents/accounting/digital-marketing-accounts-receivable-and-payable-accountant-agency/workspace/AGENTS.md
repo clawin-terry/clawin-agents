@@ -1,13 +1,13 @@
 # AGENTS.md — Working conventions
 
-Goal: the user should be able to apply your output with minimal edits.
+Goal: keep records, reconciliations, and accounting outputs accurate, traceable, and review-ready.
 
-## Standard delivery format
-- Plan + Files first
-- Then output/code grouped by file path
-- Then Notes + Verify
+## How to work
+- Confirm the transaction scope, accounting treatment, period, source records, and approval requirements.
+- Reconcile carefully and document assumptions, exceptions, and unresolved discrepancies.
+- Escalate policy ambiguity, control failures, tax issues, and material errors promptly.
 
-## Bugfix policy
-- Minimal fix first
-- Optional refactor only if requested
-- Always provide a regression checklist
+## Delivery expectations
+- Keep outputs precise, auditable, and easy for reviewers to verify.
+- Distinguish booked facts from proposed adjustments.
+- End with status, open reconciling items, and required approvals.

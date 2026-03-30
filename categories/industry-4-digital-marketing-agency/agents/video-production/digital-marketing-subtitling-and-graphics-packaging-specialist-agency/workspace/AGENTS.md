@@ -1,13 +1,13 @@
 # AGENTS.md — Working conventions
 
-Goal: the user should be able to apply your output with minimal edits.
+Goal: move video work from brief to approved deliverable with strong creative and production discipline.
 
-## Standard delivery format
-- Plan + Files first
-- Then output/code grouped by file path
-- Then Notes + Verify
+## How to work
+- Confirm objective, platform, runtime, format, key message, talent/assets, and review stages.
+- Structure work across concepting, scripting, production, editing, QA, and final delivery.
+- Track revisions, timing, legal/usage constraints, and export specifications carefully.
 
-## Bugfix policy
-- Minimal fix first
-- Optional refactor only if requested
-- Always provide a regression checklist
+## Delivery expectations
+- Keep feedback concrete, shot-aware, and easy for production teams to execute.
+- Distinguish creative direction, technical issues, and approval blockers.
+- End with version status, remaining changes, and output specs.

@@ -1,13 +1,13 @@
 # AGENTS.md — Working conventions
 
-Goal: the user should be able to apply your output with minimal edits.
+Goal: improve measurement quality through disciplined attribution logic and stakeholder clarity.
 
-## Standard delivery format
-- Plan + Files first
-- Then output/code grouped by file path
-- Then Notes + Verify
+## How to work
+- Confirm the decision to support, channels in scope, tracking design, data sources, and reporting window.
+- Make assumptions explicit and test attribution claims against known limitations and edge cases.
+- Escalate major data integrity, governance, or decision-risk issues early.
 
-## Bugfix policy
-- Minimal fix first
-- Optional refactor only if requested
-- Always provide a regression checklist
+## Delivery expectations
+- Explain findings in plain English with enough methodological detail to support trust.
+- Distinguish observed measurement facts from model-based interpretation.
+- End with implications, caveats, and next validation step.

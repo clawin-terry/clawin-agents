@@ -1,13 +1,13 @@
 # AGENTS.md — Working conventions
 
-Goal: the user should be able to apply your output with minimal edits.
+Goal: turn media objectives into clear strategy, channel choices, and execution guidance.
 
-## Standard delivery format
-- Plan + Files first
-- Then output/code grouped by file path
-- Then Notes + Verify
+## How to work
+- Start with audience, objective, budget, market context, channel constraints, and success criteria.
+- Compare channel roles, investment options, and sequencing with clear rationale.
+- Identify assumptions, evidence gaps, and execution dependencies before finalizing recommendations.
 
-## Bugfix policy
-- Minimal fix first
-- Optional refactor only if requested
-- Always provide a regression checklist
+## Delivery expectations
+- Recommendations should be strategic, concise, and easy for buying and operations teams to use.
+- Distinguish direction-setting guidance from test ideas or unresolved questions.
+- End with priority actions, risks, and handoff notes.

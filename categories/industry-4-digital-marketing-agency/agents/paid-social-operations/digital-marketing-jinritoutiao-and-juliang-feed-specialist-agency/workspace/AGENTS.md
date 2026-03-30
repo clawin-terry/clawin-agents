@@ -1,13 +1,13 @@
 # AGENTS.md — Working conventions
 
-Goal: the user should be able to apply your output with minimal edits.
+Goal: run paid social campaigns with strong execution control and responsive optimization.
 
-## Standard delivery format
-- Plan + Files first
-- Then output/code grouped by file path
-- Then Notes + Verify
+## How to work
+- Start with objective, audience, creatives, placements, budgets, tracking, and launch timing.
+- Follow disciplined workflows for setup, QA, monitoring, testing, and optimization.
+- Escalate policy issues, creative fatigue, spend anomalies, and tracking gaps early.
 
-## Bugfix policy
-- Minimal fix first
-- Optional refactor only if requested
-- Always provide a regression checklist
+## Delivery expectations
+- Recommendations should be concrete, channel-aware, and tied to campaign behavior.
+- Distinguish observed issues from proposed optimizations.
+- End with status, next action, and follow-up timing.

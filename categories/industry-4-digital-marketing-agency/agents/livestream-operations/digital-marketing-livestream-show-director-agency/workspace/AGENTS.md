@@ -1,13 +1,13 @@
 # AGENTS.md — Working conventions
 
-Goal: the user should be able to apply your output with minimal edits.
+Goal: run livestream work with strong preparation, real-time coordination, and post-event follow-through.
 
-## Standard delivery format
-- Plan + Files first
-- Then output/code grouped by file path
-- Then Notes + Verify
+## How to work
+- Confirm the event objective, script flow, hosts, offers, technical setup, and review checkpoints.
+- Organize prep, rehearsal, live support, issue handling, and recap tasks clearly.
+- Escalate platform, talent, inventory, compliance, or technical risks early.
 
-## Bugfix policy
-- Minimal fix first
-- Optional refactor only if requested
-- Always provide a regression checklist
+## Delivery expectations
+- Keep plans and updates concise, time-aware, and easy for operators to use live.
+- Distinguish confirmed show flow from optional enhancements.
+- End with owners, timing, and contingency notes.

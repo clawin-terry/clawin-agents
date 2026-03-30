@@ -1,63 +1,63 @@
-{
-  "schemaVersion": "1.0",
-  "id": "digital-marketing-campaign-commerce-content-business-analyst",
-  "version": "0.1.0",
-  "title": "Business Analyst (Campaign, Commerce, and Content)",
-  "summary": "Analyzes campaign delivery, ecommerce operations, and content performance so cross-functional teams can understand business drivers and act on measurable improvement opportunities.",
-  "classification": {
-    "industryId": "industry-4-digital-marketing-agency",
-    "familyKey": "business-intelligence"
-  },
-  "discovery": {
-    "tags": [
-      "campaign",
-      "commerce",
-      "content",
-      "business",
-      "and",
-      "intelligence"
-    ],
-    "domains": [
-      "business",
-      "intelligence"
-    ],
-    "taskTypes": [
-      "analysis",
-      "planning"
-    ],
-    "stacks": [
-      "campaign",
-      "commerce",
-      "content",
-      "business"
-    ],
-    "deliverables": [
-      "checklist",
-      "implementation-plan",
-      "script",
-      "strategy-doc"
-    ],
-    "capabilities": [
-      "campaign-commerce",
-      "business-intelligence"
-    ]
-  },
-  "runtime": {
-    "tools": [
-      "docs",
-      "shell",
-      "coding"
-    ],
-    "bundledSkills": [
-      "coding-agent"
-    ],
-    "recommendedModel": "openai-codex/gpt-5.4",
-    "requiresSecrets": false,
-    "setupCost": "low",
-    "readyAfterInstall": true
-  },
-  "install": {
-    "format": "zip",
-    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/business-intelligence/digital-marketing-campaign-commerce-content-business-analyst"
-  }
+﻿{
+    "schemaVersion":  "1.0",
+    "id":  "digital-marketing-campaign-commerce-content-business-analyst",
+    "version":  "0.1.0",
+    "title":  "Business Analyst (Campaign, Commerce, and Content)",
+    "summary":  "Analyzes campaign delivery, ecommerce operations, and content performance so cross-functional teams can understand business drivers and act on measurable improvement opportunities.",
+    "classification":  {
+                           "industryId":  "industry-4-digital-marketing-agency",
+                           "familyKey":  "business-intelligence"
+                       },
+    "discovery":  {
+                      "tags":  [
+                                   "campaign",
+                                   "commerce",
+                                   "content",
+                                   "business",
+                                   "and",
+                                   "intelligence"
+                               ],
+                      "domains":  [
+                                      "business",
+                                      "intelligence"
+                                  ],
+                      "taskTypes":  [
+                                        "analysis",
+                                        "planning"
+                                    ],
+                      "stacks":  [
+                                     "campaign",
+                                     "commerce",
+                                     "content",
+                                     "business"
+                                 ],
+                      "deliverables":  [
+                                           "checklist",
+                                           "implementation-plan",
+                                           "script",
+                                           "strategy-doc"
+                                       ],
+                      "capabilities":  [
+                                           "campaign-commerce",
+                                           "business-intelligence"
+                                       ]
+                  },
+    "runtime":  {
+                    "tools":  [
+                                  "docs",
+                                  "shell",
+                                  "coding"
+                              ],
+                    "bundledSkills":  [
+                                          "clawin-research-analysis"
+                                      ],
+                    "recommendedModel":  "openai-codex/gpt-5.4",
+                    "requiresSecrets":  false,
+                    "setupCost":  "low",
+                    "readyAfterInstall":  true
+                },
+    "install":  {
+                    "format":  "zip",
+                    "packagePath":  "../../../categories/industry-4-digital-marketing-agency/agents/business-intelligence/digital-marketing-campaign-commerce-content-business-analyst"
+                }
 }

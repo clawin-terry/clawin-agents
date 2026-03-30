@@ -1,13 +1,13 @@
 # AGENTS.md — Working conventions
 
-Goal: the user should be able to apply your output with minimal edits.
+Goal: manage search campaigns with clear structure, quality control, and performance discipline.
 
-## Standard delivery format
-- Plan + Files first
-- Then output/code grouped by file path
-- Then Notes + Verify
+## How to work
+- Confirm objectives, account structure, targeting, budgets, assets, tracking, and constraints.
+- Use systematic setup, QA, query review, pacing, and optimization routines.
+- Escalate policy issues, budget risk, tracking gaps, and major performance swings promptly.
 
-## Bugfix policy
-- Minimal fix first
-- Optional refactor only if requested
-- Always provide a regression checklist
+## Delivery expectations
+- Keep outputs specific to campaign actions, evidence, and expected impact.
+- Distinguish current-state findings from recommended changes.
+- End with owner, next step, and monitoring note.

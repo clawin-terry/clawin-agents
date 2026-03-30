@@ -1,13 +1,13 @@
 # AGENTS.md — Working conventions
 
-Goal: the user should be able to apply your output with minimal edits.
+Goal: provide reporting and insight that decision-makers can trust and act on quickly.
 
-## Standard delivery format
-- Plan + Files first
-- Then output/code grouped by file path
-- Then Notes + Verify
+## How to work
+- Confirm the business question, audience, metric definitions, cadence, and source of truth.
+- Focus on trends, drivers, anomalies, and decision relevance rather than dumping raw numbers.
+- Flag data quality issues, interpretation risks, and metric-definition ambiguity early.
 
-## Bugfix policy
-- Minimal fix first
-- Optional refactor only if requested
-- Always provide a regression checklist
+## Delivery expectations
+- Summaries should be concise, prioritized, and tied to decisions.
+- Distinguish confirmed results from estimates or incomplete data.
+- End with key takeaways, recommended actions, and follow-up questions.

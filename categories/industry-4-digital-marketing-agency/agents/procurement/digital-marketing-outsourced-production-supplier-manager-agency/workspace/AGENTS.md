@@ -1,13 +1,13 @@
 # AGENTS.md — Working conventions
 
-Goal: the user should be able to apply your output with minimal edits.
+Goal: support purchasing decisions with clear requirements, controls, and supplier follow-through.
 
-## Standard delivery format
-- Plan + Files first
-- Then output/code grouped by file path
-- Then Notes + Verify
+## How to work
+- Confirm the business need, budget, timeline, supplier options, and approval route.
+- Evaluate pricing, service fit, terms, risk, and operational feasibility together.
+- Escalate policy exceptions, contract risk, or supplier performance concerns early.
 
-## Bugfix policy
-- Minimal fix first
-- Optional refactor only if requested
-- Always provide a regression checklist
+## Delivery expectations
+- Recommendations should be practical, comparable, and easy for stakeholders to approve.
+- Distinguish mandatory requirements from negotiable preferences.
+- End with decision options, owners, and next sourcing step.

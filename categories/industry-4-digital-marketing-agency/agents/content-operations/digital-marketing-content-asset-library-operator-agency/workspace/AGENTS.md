@@ -1,13 +1,13 @@
 # AGENTS.md — Working conventions
 
-Goal: the user should be able to apply your output with minimal edits.
+Goal: keep content workflows organized, publishable, and aligned to schedule and standards.
 
-## Standard delivery format
-- Plan + Files first
-- Then output/code grouped by file path
-- Then Notes + Verify
+## How to work
+- Confirm the content plan, channels, owners, deadlines, and approval workflow first.
+- Track content status from intake through drafting, review, publishing, and post-launch follow-up.
+- Flag bottlenecks, quality issues, missing assets, and publishing risks early.
 
-## Bugfix policy
-- Minimal fix first
-- Optional refactor only if requested
-- Always provide a regression checklist
+## Delivery expectations
+- Keep outputs operational: calendars, checklists, statuses, and handoff notes should be easy to run.
+- Distinguish ready items from blocked or draft-stage items.
+- End with next actions, owners, and timing.

@@ -1,60 +1,60 @@
-{
-  "schemaVersion": "1.0",
-  "id": "digital-marketing-manager-training-program-lead-agency",
-  "version": "0.1.0",
-  "title": "Manager Training Program Lead (Agency)",
-  "summary": "Leads manager training programs so agency leaders build stronger coaching, planning, and team-management capability.",
-  "classification": {
-    "industryId": "industry-4-digital-marketing-agency",
-    "familyKey": "learning-development"
-  },
-  "discovery": {
-    "tags": [
-      "training",
-      "program",
-      "learning",
-      "development"
-    ],
-    "domains": [
-      "learning",
-      "development"
-    ],
-    "taskTypes": [
-      "analysis",
-      "planning"
-    ],
-    "stacks": [
-      "training",
-      "program",
-      "learning",
-      "development"
-    ],
-    "deliverables": [
-      "checklist",
-      "implementation-plan",
-      "strategy-doc"
-    ],
-    "capabilities": [
-      "training-program",
-      "learning-development"
-    ]
-  },
-  "runtime": {
-    "tools": [
-      "docs",
-      "shell",
-      "coding"
-    ],
-    "bundledSkills": [
-      "coding-agent"
-    ],
-    "recommendedModel": "openai-codex/gpt-5.4",
-    "requiresSecrets": false,
-    "setupCost": "low",
-    "readyAfterInstall": true
-  },
-  "install": {
-    "format": "zip",
-    "packagePath": "../../../categories/industry-4-digital-marketing-agency/agents/learning-development/digital-marketing-manager-training-program-lead-agency"
-  }
+﻿{
+    "schemaVersion":  "1.0",
+    "id":  "digital-marketing-manager-training-program-lead-agency",
+    "version":  "0.1.0",
+    "title":  "Manager Training Program Lead (Agency)",
+    "summary":  "Leads manager training programs so agency leaders build stronger coaching, planning, and team-management capability.",
+    "classification":  {
+                           "industryId":  "industry-4-digital-marketing-agency",
+                           "familyKey":  "learning-development"
+                       },
+    "discovery":  {
+                      "tags":  [
+                                   "training",
+                                   "program",
+                                   "learning",
+                                   "development"
+                               ],
+                      "domains":  [
+                                      "learning",
+                                      "development"
+                                  ],
+                      "taskTypes":  [
+                                        "analysis",
+                                        "planning"
+                                    ],
+                      "stacks":  [
+                                     "training",
+                                     "program",
+                                     "learning",
+                                     "development"
+                                 ],
+                      "deliverables":  [
+                                           "checklist",
+                                           "implementation-plan",
+                                           "strategy-doc"
+                                       ],
+                      "capabilities":  [
+                                           "training-program",
+                                           "learning-development"
+                                       ]
+                  },
+    "runtime":  {
+                    "tools":  [
+                                  "docs",
+                                  "shell",
+                                  "coding"
+                              ],
+                    "bundledSkills":  [
+                                          "clawin-people-admin-enablement"
+                                      ],
+                    "recommendedModel":  "openai-codex/gpt-5.4",
+                    "requiresSecrets":  false,
+                    "setupCost":  "low",
+                    "readyAfterInstall":  true
+                },
+    "install":  {
+                    "format":  "zip",
+                    "packagePath":  "../../../categories/industry-4-digital-marketing-agency/agents/learning-development/digital-marketing-manager-training-program-lead-agency"
+                }
 }

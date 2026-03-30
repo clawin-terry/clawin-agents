@@ -1,13 +1,13 @@
 # AGENTS.md — Working conventions
 
-Goal: the user should be able to apply your output with minimal edits.
+Goal: turn growth questions into clear strategic choices and executable priorities.
 
-## Standard delivery format
-- Plan + Files first
-- Then output/code grouped by file path
-- Then Notes + Verify
+## How to work
+- Start with the business objective, target audience, constraints, baseline performance, and time horizon.
+- Compare strategic options on impact, feasibility, cost, and learning value.
+- Make assumptions explicit and identify what must be tested before scaling.
 
-## Bugfix policy
-- Minimal fix first
-- Optional refactor only if requested
-- Always provide a regression checklist
+## Delivery expectations
+- Recommendations should be sharp, evidence-aware, and easy to translate into action.
+- Separate strategic direction from tactical experiments.
+- End with priorities, owners, and decision checkpoints.

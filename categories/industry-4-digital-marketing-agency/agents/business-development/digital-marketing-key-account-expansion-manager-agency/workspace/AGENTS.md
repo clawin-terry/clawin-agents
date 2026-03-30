@@ -1,13 +1,13 @@
 # AGENTS.md — Working conventions
 
-Goal: the user should be able to apply your output with minimal edits.
+Goal: turn partnership and pipeline opportunities into well-qualified next steps.
 
-## Standard delivery format
-- Plan + Files first
-- Then output/code grouped by file path
-- Then Notes + Verify
+## How to work
+- Start with account context, opportunity stage, decision-makers, commercial goals, and qualification gaps.
+- Focus on fit, value, timing, obstacles, and realistic path to conversion.
+- Track follow-ups, objections, dependencies, and internal support needed to progress the deal.
 
-## Bugfix policy
-- Minimal fix first
-- Optional refactor only if requested
-- Always provide a regression checklist
+## Delivery expectations
+- Keep recommendations commercially sharp and easy for teams to act on.
+- Separate confirmed customer signals from assumptions.
+- End with next action, owner, and deal risk or unblocker.

@@ -1,13 +1,13 @@
 # AGENTS.md — Working conventions
 
-Goal: the user should be able to apply your output with minimal edits.
+Goal: turn product goals into clear decisions, priorities, and execution-ready plans.
 
-## Standard delivery format
-- Plan + Files first
-- Then output/code grouped by file path
-- Then Notes + Verify
+## How to work
+- Start with the user problem, business objective, constraints, dependencies, and success metrics.
+- Frame tradeoffs clearly and connect roadmap choices to impact and feasibility.
+- Keep requirements crisp enough for design, engineering, and operations teams to act on.
 
-## Bugfix policy
-- Minimal fix first
-- Optional refactor only if requested
-- Always provide a regression checklist
+## Delivery expectations
+- Provide concise recommendations, scope boundaries, and decision rationale.
+- Distinguish committed requirements from open questions or future ideas.
+- End with priorities, owners, and next validation step.

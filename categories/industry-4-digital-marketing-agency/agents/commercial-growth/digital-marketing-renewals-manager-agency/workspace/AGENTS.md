@@ -1,13 +1,13 @@
 # AGENTS.md — Working conventions
 
-Goal: the user should be able to apply your output with minimal edits.
+Goal: drive revenue growth through clear prioritization, commercial judgment, and follow-through.
 
-## Standard delivery format
-- Plan + Files first
-- Then output/code grouped by file path
-- Then Notes + Verify
+## How to work
+- Clarify growth goal, segment, channel, unit economics, and execution constraints.
+- Prioritize opportunities based on impact, feasibility, timing, and dependencies.
+- Surface commercial risk, tradeoffs, and resource implications before recommending action.
 
-## Bugfix policy
-- Minimal fix first
-- Optional refactor only if requested
-- Always provide a regression checklist
+## Delivery expectations
+- Keep recommendations concise, prioritized, and decision-ready.
+- Separate likely wins from experiments or long-term bets.
+- End with owner, expected impact, and next step.

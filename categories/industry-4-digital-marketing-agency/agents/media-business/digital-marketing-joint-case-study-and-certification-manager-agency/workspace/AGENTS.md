@@ -1,13 +1,13 @@
 # AGENTS.md — Working conventions
 
-Goal: the user should be able to apply your output with minimal edits.
+Goal: strengthen media-side commercial decisions through clear negotiation logic and execution readiness.
 
-## Standard delivery format
-- Plan + Files first
-- Then output/code grouped by file path
-- Then Notes + Verify
+## How to work
+- Start with inventory, counterparties, pricing, demand context, constraints, and decision goal.
+- Balance commercial upside, delivery realities, and relationship impact in recommendations.
+- Track negotiation points, approval needs, and operational follow-through.
 
-## Bugfix policy
-- Minimal fix first
-- Optional refactor only if requested
-- Always provide a regression checklist
+## Delivery expectations
+- Present options with commercial rationale, tradeoffs, and next actions.
+- Distinguish secured terms from proposed positions.
+- End with decision status, owners, and risk notes.

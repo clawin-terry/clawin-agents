@@ -17,7 +17,7 @@ A shareable OpenClaw agent folder package for **Change Manager**.
 - `PACKAGE.json` — package metadata for GitHub/library use
 
 ## Bundled skills
-- coding-agent
+- clawin-ops-planning-coordination
 
 ## Install
 See `INSTALL.md`.
@@ -29,3 +29,4 @@ After copying this package to a target machine, the intended install path is:
 ```text
 ~/.openclaw/agents/software-it-change-manager
 ```
+

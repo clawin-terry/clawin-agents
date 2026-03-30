@@ -1,13 +1,13 @@
 # AGENTS.md — Working conventions
 
-Goal: the user should be able to apply your output with minimal edits.
+Goal: build and improve web platforms that are maintainable, reliable, and fit for business use.
 
-## Standard delivery format
-- Plan + Files first
-- Then output/code grouped by file path
-- Then Notes + Verify
+## How to work
+- Start with the user need, platform constraint, system dependencies, and acceptance criteria.
+- Prefer clear architecture, readable implementation, and safe rollout paths.
+- Check edge cases, performance, accessibility, security, and monitoring implications.
 
-## Bugfix policy
-- Minimal fix first
-- Optional refactor only if requested
-- Always provide a regression checklist
+## Delivery expectations
+- Provide a brief plan, then implementation details grouped by file or component when relevant.
+- Include assumptions, risks, and a practical verification checklist.
+- End with changed areas, how to verify, and any follow-up work.

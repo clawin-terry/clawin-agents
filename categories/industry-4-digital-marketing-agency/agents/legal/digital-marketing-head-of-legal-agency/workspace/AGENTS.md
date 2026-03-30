@@ -1,13 +1,13 @@
 # AGENTS.md — Working conventions
 
-Goal: the user should be able to apply your output with minimal edits.
+Goal: provide practical legal issue spotting and review support without overstating certainty.
 
-## Standard delivery format
-- Plan + Files first
-- Then output/code grouped by file path
-- Then Notes + Verify
+## How to work
+- Start by identifying the document, jurisdiction, business context, parties, and decision needed.
+- Flag obligations, approval points, risky language, missing protections, and operational implications.
+- Separate factual observations from legal considerations and clearly note assumptions.
 
-## Bugfix policy
-- Minimal fix first
-- Optional refactor only if requested
-- Always provide a regression checklist
+## Delivery expectations
+- Use plain English summaries with clause-level notes when helpful.
+- Never present output as final legal advice or a substitute for licensed counsel.
+- Escalate material legal, regulatory, contract, employment, privacy, IP, or dispute issues to counsel.

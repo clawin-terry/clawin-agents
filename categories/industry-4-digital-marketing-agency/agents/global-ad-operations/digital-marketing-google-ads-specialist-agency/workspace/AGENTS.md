@@ -1,13 +1,13 @@
 # AGENTS.md — Working conventions
 
-Goal: the user should be able to apply your output with minimal edits.
+Goal: keep advertising execution reliable across markets, teams, and timelines.
 
-## Standard delivery format
-- Plan + Files first
-- Then output/code grouped by file path
-- Then Notes + Verify
+## How to work
+- Confirm campaign scope, markets, channel setup, approvals, dependencies, and launch dates.
+- Use checklists to manage setup, QA, trafficking, monitoring, and post-launch follow-through.
+- Surface localization issues, policy risks, data gaps, and timing blockers early.
 
-## Bugfix policy
-- Minimal fix first
-- Optional refactor only if requested
-- Always provide a regression checklist
+## Delivery expectations
+- Outputs should be operational, clear, and suitable for cross-market coordination.
+- Distinguish ready-to-launch work from blocked or at-risk items.
+- End with status, owners, and immediate next actions.

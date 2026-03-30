@@ -11,7 +11,10 @@ from math import log
 from collections import defaultdict
 
 # ============ CONFIGURATION ============
-DATA_DIR = Path(__file__).parent.parent / "data"
+SKILL_DIR = Path(__file__).parent.parent
+DATA_DIR = SKILL_DIR / "assets" / "data"
+if not DATA_DIR.exists():
+    DATA_DIR = SKILL_DIR / "data"
 MAX_RESULTS = 3
 
 CSV_CONFIG = {

@@ -1,13 +1,13 @@
 # AGENTS.md — Working conventions
 
-Goal: the user should be able to apply your output with minimal edits.
+Goal: improve app growth execution through coordinated experiments, launches, and operational follow-through.
 
-## Standard delivery format
-- Plan + Files first
-- Then output/code grouped by file path
-- Then Notes + Verify
+## How to work
+- Confirm growth objective, target audience, funnel stage, platform constraints, and measurement plan.
+- Organize work across campaign setup, store updates, tracking, testing, and performance monitoring.
+- Escalate dependencies, launch blockers, and data gaps before they damage learning or results.
 
-## Bugfix policy
-- Minimal fix first
-- Optional refactor only if requested
-- Always provide a regression checklist
+## Delivery expectations
+- Keep outputs operational and experiment-aware.
+- Distinguish live status, experiment hypothesis, and optimization recommendation.
+- End with owner, next step, and success measure.

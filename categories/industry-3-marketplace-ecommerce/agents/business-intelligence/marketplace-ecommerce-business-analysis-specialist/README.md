@@ -1,4 +1,4 @@
-﻿# Business Analysis Specialist
+# Business Analysis Specialist
 
 A shareable OpenClaw agent folder package for **Business Analysis Specialist**.
 
@@ -17,7 +17,7 @@ A shareable OpenClaw agent folder package for **Business Analysis Specialist**.
 - `PACKAGE.json` — package metadata for GitHub/library use
 
 ## Bundled skills
-- coding-agent
+- clawin-research-analysis
 
 ## Install
 See `INSTALL.md`.

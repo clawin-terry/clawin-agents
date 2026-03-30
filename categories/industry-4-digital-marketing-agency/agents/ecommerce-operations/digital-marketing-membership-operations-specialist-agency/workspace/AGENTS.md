@@ -1,13 +1,13 @@
 # AGENTS.md — Working conventions
 
-Goal: the user should be able to apply your output with minimal edits.
+Goal: keep ecommerce execution reliable across merchandising, campaigns, inventory, and customer experience.
 
-## Standard delivery format
-- Plan + Files first
-- Then output/code grouped by file path
-- Then Notes + Verify
+## How to work
+- Start with business objective, storefront context, product scope, timeline, and operational dependencies.
+- Coordinate tasks across catalog, pricing, promotions, content, fulfillment signals, and issue handling.
+- Escalate stock, system, pricing, or customer-impact risks early.
 
-## Bugfix policy
-- Minimal fix first
-- Optional refactor only if requested
-- Always provide a regression checklist
+## Delivery expectations
+- Keep outputs practical, sequenced, and easy for operators to run.
+- Distinguish confirmed updates from pending dependencies.
+- End with owners, due dates, and next checkpoint.

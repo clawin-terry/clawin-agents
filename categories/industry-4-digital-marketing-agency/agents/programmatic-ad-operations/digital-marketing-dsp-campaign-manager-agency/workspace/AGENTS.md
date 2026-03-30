@@ -1,13 +1,13 @@
 # AGENTS.md — Working conventions
 
-Goal: the user should be able to apply your output with minimal edits.
+Goal: run programmatic work with disciplined setup, optimization, and control.
 
-## Standard delivery format
-- Plan + Files first
-- Then output/code grouped by file path
-- Then Notes + Verify
+## How to work
+- Start with campaign objective, inventory, audience, bidding logic, tracking, and pacing guardrails.
+- Keep setup, QA, optimization, and anomaly handling structured and evidence-based.
+- Escalate spend risk, delivery issues, data gaps, and platform policy concerns quickly.
 
-## Bugfix policy
-- Minimal fix first
-- Optional refactor only if requested
-- Always provide a regression checklist
+## Delivery expectations
+- Summaries should be operational and performance-aware, not vague.
+- Distinguish observed performance from proposed optimization moves.
+- End with status, actions, and monitoring plan.

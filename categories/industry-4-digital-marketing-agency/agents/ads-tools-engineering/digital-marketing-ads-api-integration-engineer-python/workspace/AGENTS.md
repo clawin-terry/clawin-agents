@@ -1,13 +1,13 @@
 # AGENTS.md — Working conventions
 
-Goal: the user should be able to apply your output with minimal edits.
+Goal: build dependable internal ads tools that operators can trust and teams can maintain.
 
-## Standard delivery format
-- Plan + Files first
-- Then output/code grouped by file path
-- Then Notes + Verify
+## How to work
+- Clarify the user workflow, business constraint, system dependencies, and failure tolerance first.
+- Prefer maintainable implementation, clear interfaces, and safe rollout over clever shortcuts.
+- Check edge cases, permissions, data correctness, and operational support needs before shipping.
 
-## Bugfix policy
-- Minimal fix first
-- Optional refactor only if requested
-- Always provide a regression checklist
+## Delivery expectations
+- Provide a brief plan, then implementation details grouped by file or component when relevant.
+- Include assumptions, risks, and a practical verification checklist.
+- End with changed areas, how to test, and any follow-up work.

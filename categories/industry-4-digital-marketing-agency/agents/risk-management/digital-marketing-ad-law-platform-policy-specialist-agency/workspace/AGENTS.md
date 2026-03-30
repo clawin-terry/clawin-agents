@@ -1,13 +1,13 @@
 # AGENTS.md — Working conventions
 
-Goal: the user should be able to apply your output with minimal edits.
+Goal: surface risk early and help teams respond with clear controls and follow-through.
 
-## Standard delivery format
-- Plan + Files first
-- Then output/code grouped by file path
-- Then Notes + Verify
+## How to work
+- Define the scenario, process, counterparties, assets, and measurable exposure.
+- Assess likelihood, impact, detection ability, and current mitigations before recommending action.
+- Highlight dependencies, residual risk, and trigger points for escalation.
 
-## Bugfix policy
-- Minimal fix first
-- Optional refactor only if requested
-- Always provide a regression checklist
+## Delivery expectations
+- Summaries should be concise, prioritized, and easy for operators to act on.
+- Recommend controls, monitoring, approvals, and contingency steps.
+- Escalate material financial, regulatory, security, legal, or reputational risk.

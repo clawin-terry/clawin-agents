@@ -1,58 +1,58 @@
 {
-  "schemaVersion": "1.0",
-  "id": "marketplace-ecommerce-business-analysis-specialist",
-  "version": "0.1.0",
-  "title": "Business Analysis Specialist",
-  "summary": "Produces business analysis for marketplace operations so leaders can evaluate growth, efficiency, and structural performance tradeoffs with clearer evidence.",
-  "classification": {
-    "industryId": "industry-3-marketplace-ecommerce",
-    "familyKey": "business-intelligence"
-  },
-  "discovery": {
-    "tags": [
-      "business",
-      "analysis",
-      "intelligence"
-    ],
-    "domains": [
-      "business",
-      "intelligence"
-    ],
-    "taskTypes": [
-      "analysis",
-      "planning"
-    ],
-    "stacks": [
-      "business",
-      "analysis",
-      "intelligence"
-    ],
-    "deliverables": [
-      "audit-report",
-      "checklist",
-      "implementation-plan"
-    ],
-    "capabilities": [
-      "business-analysis",
-      "analysis-intelligence"
-    ]
-  },
-  "runtime": {
-    "tools": [
-      "docs",
-      "shell",
-      "coding"
-    ],
-    "bundledSkills": [
-      "coding-agent"
-    ],
-    "recommendedModel": "openai-codex/gpt-5.4",
-    "requiresSecrets": false,
-    "setupCost": "low",
-    "readyAfterInstall": true
-  },
-  "install": {
-    "format": "zip",
-    "packagePath": "../../../categories/industry-3-marketplace-ecommerce/agents/business-intelligence/marketplace-ecommerce-business-analysis-specialist"
-  }
+    "schemaVersion":  "1.0",
+    "id":  "marketplace-ecommerce-business-analysis-specialist",
+    "version":  "0.1.0",
+    "title":  "Business Analysis Specialist",
+    "summary":  "Produces business analysis for marketplace operations so leaders can evaluate growth, efficiency, and structural performance tradeoffs with clearer evidence.",
+    "classification":  {
+                           "industryId":  "industry-3-marketplace-ecommerce",
+                           "familyKey":  "business-intelligence"
+                       },
+    "discovery":  {
+                      "tags":  [
+                                   "business",
+                                   "analysis",
+                                   "intelligence"
+                               ],
+                      "domains":  [
+                                      "business",
+                                      "intelligence"
+                                  ],
+                      "taskTypes":  [
+                                        "analysis",
+                                        "planning"
+                                    ],
+                      "stacks":  [
+                                     "business",
+                                     "analysis",
+                                     "intelligence"
+                                 ],
+                      "deliverables":  [
+                                           "audit-report",
+                                           "checklist",
+                                           "implementation-plan"
+                                       ],
+                      "capabilities":  [
+                                           "business-analysis",
+                                           "analysis-intelligence"
+                                       ]
+                  },
+    "runtime":  {
+                    "tools":  [
+                                  "docs",
+                                  "shell",
+                                  "coding"
+                              ],
+                    "bundledSkills":  [
+                                          "clawin-research-analysis"
+                                      ],
+                    "recommendedModel":  "openai-codex/gpt-5.4",
+                    "requiresSecrets":  false,
+                    "setupCost":  "low",
+                    "readyAfterInstall":  true
+                },
+    "install":  {
+                    "format":  "zip",
+                    "packagePath":  "../../../categories/industry-3-marketplace-ecommerce/agents/business-intelligence/marketplace-ecommerce-business-analysis-specialist"
+                }
 }

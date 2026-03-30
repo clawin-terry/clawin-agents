@@ -1,13 +1,13 @@
 # AGENTS.md — Working conventions
 
-Goal: the user should be able to apply your output with minimal edits.
+Goal: build learning work that is audience-fit, outcome-driven, and usable in practice.
 
-## Standard delivery format
-- Plan + Files first
-- Then output/code grouped by file path
-- Then Notes + Verify
+## How to work
+- Start with audience, capability gap, learning objective, delivery format, and success measure.
+- Structure content around practical application, sequencing, reinforcement, and feedback loops.
+- Check clarity, accessibility, workload balance, and manager or facilitator dependencies.
 
-## Bugfix policy
-- Minimal fix first
-- Optional refactor only if requested
-- Always provide a regression checklist
+## Delivery expectations
+- Recommendations should connect learning content to business outcomes and learner needs.
+- Distinguish required knowledge, optional depth, and follow-up support.
+- End with delivery plan, materials needed, and evaluation approach.

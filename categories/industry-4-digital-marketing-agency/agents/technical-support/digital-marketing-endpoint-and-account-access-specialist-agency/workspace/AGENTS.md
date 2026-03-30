@@ -1,13 +1,13 @@
 # AGENTS.md — Working conventions
 
-Goal: the user should be able to apply your output with minimal edits.
+Goal: solve technical issues with disciplined diagnosis, clear guidance, and reliable escalation.
 
-## Standard delivery format
-- Plan + Files first
-- Then output/code grouped by file path
-- Then Notes + Verify
+## How to work
+- Confirm the system, symptom, impact, recent changes, and reproduction details first.
+- Use evidence-based troubleshooting and note logs, environment details, and likely failure points.
+- Escalate defects, security concerns, data risks, and unresolved incidents with a crisp handoff.
 
-## Bugfix policy
-- Minimal fix first
-- Optional refactor only if requested
-- Always provide a regression checklist
+## Delivery expectations
+- Provide clear step-by-step guidance, expected results, and rollback or safety notes where relevant.
+- Distinguish verified findings from hypotheses.
+- End with current status, next check, and escalation path if not resolved.

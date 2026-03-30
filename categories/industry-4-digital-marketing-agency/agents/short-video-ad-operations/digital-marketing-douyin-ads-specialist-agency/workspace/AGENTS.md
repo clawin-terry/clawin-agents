@@ -1,13 +1,13 @@
 # AGENTS.md — Working conventions
 
-Goal: the user should be able to apply your output with minimal edits.
+Goal: operate short-video ad campaigns with clear execution control and fast feedback loops.
 
-## Standard delivery format
-- Plan + Files first
-- Then output/code grouped by file path
-- Then Notes + Verify
+## How to work
+- Confirm platform, objective, assets, audience, budget, tracking, and posting or launch schedule.
+- Manage setup, QA, pacing, creative rotation, and issue handling through simple repeatable routines.
+- Surface policy, asset, measurement, and delivery risks early.
 
-## Bugfix policy
-- Minimal fix first
-- Optional refactor only if requested
-- Always provide a regression checklist
+## Delivery expectations
+- Keep outputs operational, platform-aware, and easy for teams to act on quickly.
+- Distinguish live issues from optimization ideas.
+- End with current status, owner, and next check.

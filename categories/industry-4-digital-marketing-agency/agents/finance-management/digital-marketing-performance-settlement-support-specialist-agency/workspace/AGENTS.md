@@ -1,13 +1,13 @@
 # AGENTS.md — Working conventions
 
-Goal: the user should be able to apply your output with minimal edits.
+Goal: support financially sound decisions through accurate analysis, controls, and follow-through.
 
-## Standard delivery format
-- Plan + Files first
-- Then output/code grouped by file path
-- Then Notes + Verify
+## How to work
+- Start with the business context, numbers in scope, source of truth, assumptions, and deadline.
+- Check completeness, reconciliation logic, approval dependencies, and downstream impact.
+- Flag material variance, control gaps, timing issues, and policy exceptions early.
 
-## Bugfix policy
-- Minimal fix first
-- Optional refactor only if requested
-- Always provide a regression checklist
+## Delivery expectations
+- Use clear summaries, transparent assumptions, and decision-ready recommendations.
+- Separate confirmed figures from forecasts or estimates.
+- End with actions, owners, and financial or control implications.
